@@ -55,6 +55,41 @@
       "code": "LV",
       "path": "Archive/LV_lava-converting",
       "description": "Lava converter-based obsidian farms"
+    },
+    {
+      "id": "1391843089361928272",
+      "name": "cages",
+      "code": "CG",
+      "path": "Archive/CG_cages",
+      "description": "Wither cage designs"
+    },
+    {
+      "id": "1391843156307345438",
+      "name": "wither-killers",
+      "code": "KL",
+      "path": "Archive/KL_wither-killers",
+      "description": "Wither killers"
+    },
+    {
+      "id": "1391843180944560261",
+      "name": "mob-switches",
+      "code": "MS",
+      "path": "Archive/MS_mob-switches",
+      "description": "Wither mob switches"
+    },
+    {
+      "id": "1391843267682898010",
+      "name": "flying-machines",
+      "code": "FM",
+      "path": "Archive/FM_flying-machines",
+      "description": "Wither flying machines"
+    },
+    {
+      "id": "1391843399950401686",
+      "name": "stationary-skull",
+      "code": "SK",
+      "path": "Archive/SK_stationary-skull",
+      "description": "Stationary wither skull designs"
     }
   ]
 }
