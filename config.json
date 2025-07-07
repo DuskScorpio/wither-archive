@@ -1,0 +1,60 @@
+{
+  "archiveChannels": [
+    {
+      "id": "1391832229339988110",
+      "name": "stone-and-basalt",
+      "code": "ST",
+      "path": "Archive/ST_stone-and-basalt",
+      "description": "Cobblestone and basalt farms"
+    },
+    {
+      "id": "1391832288668680332",
+      "name": "block-converters",
+      "code": "CV",
+      "path": "Archive/CV_block-converters",
+      "description": "Block converters"
+    },
+    {
+      "id": "1391832537399038022",
+      "name": "wither-rose-farms",
+      "code": "WR",
+      "path": "Archive/WR_wither-rose-farms",
+      "description": "Wither rose farms"
+    },
+    {
+      "id": "1391832581481173134",
+      "name": "miscellaneous-farms",
+      "code": "MC",
+      "path": "Archive/MC_miscellaneous-farms",
+      "description": "Miscellaneous farms"
+    },
+    {
+      "id": "1391835780820762794",
+      "name": "end-platform",
+      "code": "EP",
+      "path": "Archive/EP_end-platform",
+      "description": "End platform-based obsidian farms"
+    },
+    {
+      "id": "1391837148445147257",
+      "name": "end-pillar",
+      "code": "PR",
+      "path": "Archive/PR_end-pillar",
+      "description": "End pillar-based obsidian farms"
+    },
+    {
+      "id": "1391837205319778367",
+      "name": "nether-portal",
+      "code": "NP",
+      "path": "Archive/NP_nether-portal",
+      "description": "Nether portal-based obsidian farms"
+    },
+    {
+      "id": "1391837246843260938",
+      "name": "lava-converting",
+      "code": "LV",
+      "path": "Archive/LV_lava-converting",
+      "description": "Lava converter-based obsidian farms"
+    }
+  ]
+}
