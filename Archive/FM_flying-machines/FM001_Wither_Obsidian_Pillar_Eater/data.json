@@ -1,0 +1,88 @@
+{
+  "id": "1391998368737136701",
+  "name": "Wither Obsidian Pillar Eater",
+  "code": "FM001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "465549389197344768",
+      "displayName": "Vitamin_C",
+      "username": "vitaminc603",
+      "iconURL": "https://cdn.discordapp.com/avatars/465549389197344768/21e9f8eb2517f88511eb34f4a597699e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846581489373199",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "950701497883181076",
+      "name": "2022-03-08_17.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/947018967166369793/950701497883181076/2022-03-08_17.png?ex=686d9b84&is=686c4a04&hm=ad4b2100aac3e88a4e74a9d3b412224b042cf1376868972ddcea6f97e82d855c&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:25:02 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 499,
+      "path": "images/2022-03-08_17.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "950737733616279622",
+      "name": "FM001_Pillar_Eaters.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/947018967166369793/950737733616279622/Pillar_Eaters.zip?ex=686dbd43&is=686c6bc3&hm=44698b11f416def34d4f372ed7433aa1a7d4482cd15ecc8a365815f3954c2d27&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:25:02 AM",
+      "canDownload": true,
+      "path": "attachments/FM001_Pillar_Eaters.zip"
+    }
+  ],
+  "description": "The world's very first pillar eater that uses Withers instead of players/bots to mine obsidian. Usable in any difficulty. The snow golem at the top is targeted by the Wither's main head, and the iron golem behind the wall is targeted by the side heads.\n### Credits\n- DF_M: For making the prototype and helping me with debugging\n- Youmiel: For dragging me back to a bigger hell just when I thought I escaped (1.18 sucks, man)\nAnd for providing a 1.18 testing server and helping with pathfinding debugging. \n- <@513900971219353600> : For helping with withers and stuff\n- Menggui233: For directionality testing and robustness testing (mostly still done by myself)\n- FAS server: For 1.17 CMP\n- Wither Archive, Nub Tech and OSTC lab: For helping with lots of technical details\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1FL4y1u7dy/)\n- [User Guide](https://www.bilibili.com/video/BV1FL4y1u7dy?p=2)\n### Files\n- [World Download and Schematics](https://wwd.lanzouf.com/b02ow52wd) (Password: 82j3)",
+  "features": [
+    "Uses Withers instead of players/bots",
+    "Usable in any difficulty",
+    "Snow golem targeted by main Wither head",
+    "Iron golem targeted by side Wither heads",
+    "TNT duper damages Withers",
+    "Withers destroy blocks once every 20 gt",
+    "Withers get angry if damaged twice in less than 12 gt",
+    "Wall descends safely while Withers are not firing",
+    "Withers get bored if not firing for 170 gt",
+    "Mojang changed Wither pathfinding in 1.18",
+    "Check versions before using",
+    "Survival use guidelines in video link",
+    "Small chance of machine breaking",
+    "Recommend making backups",
+    "Small chance of black skulls bypassing the wall"
+  ],
+  "considerations": [
+    "Requires a pathfinding solution due to subchunk border bug",
+    "Withers can get angry and fire blue skulls",
+    "1.18 Withers have changed pathfinding"
+  ],
+  "notes": "Check video link for user guide and more info. DM for questions. Recommended to make backups before starting the machine.",
+  "timestamp": 1751948973938,
+  "post": {
+    "threadId": "1391999632850157659",
+    "forumId": "1391843267682898010",
+    "continuingMessageIds": [
+      "1391999636260126783",
+      "1391999637199523880"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391999632850157659",
+    "uploadMessageId": "1391999631210053702"
+  }
+}
