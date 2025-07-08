@@ -35,7 +35,7 @@
       "description": "Sent by scorpio03 at 7/7/2025, 9:07:14 PM",
       "canDownload": true,
       "width": 800,
-      "height": 562,
+      "height": 440,
       "path": "images/2023-01-01_16.png"
     }
   ],
@@ -65,14 +65,14 @@
     "Doesn't work in the nether"
   ],
   "notes": "",
-  "timestamp": 1751937154978,
+  "timestamp": 1751939486704,
   "post": {
-    "threadId": "1391950060563988581",
+    "threadId": "1391959841349832744",
     "forumId": "1391843089361928272",
     "continuingMessageIds": [
-      "1391950075223081103"
+      "1391959844101165156"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391950060563988581",
-    "uploadMessageId": "1391950058697785375"
+    "threadURL": "https://discord.com/channels/913065809096638494/1391959841349832744",
+    "uploadMessageId": "1391959840074633327"
   }
 }
