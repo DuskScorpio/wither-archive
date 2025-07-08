@@ -24,7 +24,7 @@ A very simple obsidian farm that produces a stack of obsidian every 7 seconds. T
 - (1.21.1+) Make the blocking wall that stops black wither skulls 4 blocks taller.
 
 ## Resources
+- [EP001_IanXO4s_Obsidian_Farm_Overworld.litematic](attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic): MC 1.20.1, Size 12x6x7 blocks
 - [EP001_IanXO4s_Obsidian_Farm_End.litematic](attachments/EP001_IanXO4s_Obsidian_Farm_End.litematic): MC 1.20.1, Size 18x10x5 blocks
 - [EP001_IanXO4_Obsidian_Farm.url](https://www.mediafire.com/file/ljxsii81yaxh7ev/IanXO4_Obsidian_Farm.zip/file): Mediafire link
-- https://youtu.be/m7L_odfKJlc: YouTube video
-- [EP001_IanXO4s_Obsidian_Farm_Overworld.litematic](attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic): MC 1.20.1, Size 12x6x7 blocks
+- [Minecraft Elegance: Instant Obsidian Farm (32k/hr, Java 1.16.5, 1.17+)](https://youtu.be/m7L_odfKJlc): by [ianxofour](https://www.youtube.com/@ianxofour)

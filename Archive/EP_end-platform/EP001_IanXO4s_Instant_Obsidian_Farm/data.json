@@ -45,6 +45,19 @@
   ],
   "attachments": [
     {
+      "id": "1392008964740350054",
+      "name": "EP001_IanXO4s_Obsidian_Farm_Overworld.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392008193801981952/1392008964740350054/IanXO4s_Obsidian_Farm_Overworld.litematic?ex=686df8df&is=686ca75f&hm=3f351bb0d8fe5d77a76430cec32b26a0ece89046c2a222839e569ece3bfc8282&",
+      "description": "Sent by scorpio03 at 7/8/2025, 1:06:39 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "12x6x7",
+        "version": "1.20.1"
+      },
+      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic"
+    },
+    {
       "id": "1392008876098064394",
       "name": "EP001_IanXO4s_Obsidian_Farm_End.litematic",
       "contentType": "unknown",
@@ -73,27 +86,24 @@
       "url": "https://youtu.be/m7L_odfKJlc",
       "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 1:03:35 AM",
       "canDownload": false,
-      "path": "attachments/EP001_YouTube_Video_m7L_odfKJlc.url"
-    },
-    {
-      "id": "1392008964740350054",
-      "name": "EP001_IanXO4s_Obsidian_Farm_Overworld.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1392008193801981952/1392008964740350054/IanXO4s_Obsidian_Farm_Overworld.litematic?ex=686df8df&is=686ca75f&hm=3f351bb0d8fe5d77a76430cec32b26a0ece89046c2a222839e569ece3bfc8282&",
-      "description": "Sent by scorpio03 at 7/8/2025, 1:06:39 AM",
-      "canDownload": true,
-      "litematic": {
-        "size": "12x6x7",
-        "version": "1.20.1"
+      "youtube": {
+        "title": "Minecraft Elegance: Instant Obsidian Farm (32k/hr, Java 1.16.5, 1.17+)",
+        "author_name": "ianxofour",
+        "author_url": "https://www.youtube.com/@ianxofour",
+        "thumbnail_url": "https://i.ytimg.com/vi/m7L_odfKJlc/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
       },
-      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic"
+      "path": "attachments/EP001_YouTube_Video_m7L_odfKJlc.url"
     }
   ],
   "description": "A very simple obsidian farm that produces a stack of obsidian every 7 seconds. This farm may not work on modified servers, and changes to the design would be expected in order to make the farm work.\n### Versions\n- 1.16.5+\n### Rates\n- Obsidian: 32k/h\n### Video Links\n- [Explanation and Block by Block Tutorial](<https://www.youtube.com/watch?v=m7L_odfKJlc>)",
   "features": [],
   "considerations": [],
   "notes": "- Watch the video and read the description for further instructions.\n### Build\n- (1.20.2+) See Figure 1 for modifications for higher version compatibility.\n- (1.21.1+) Make the blocking wall that stops black wither skulls 4 blocks taller.",
-  "timestamp": 1751951312681,
+  "timestamp": 1751954289508,
   "post": {
     "threadId": "1392009168126218251",
     "forumId": "1391835780820762794",
