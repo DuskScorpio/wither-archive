@@ -30,4 +30,4 @@
 - [KL002_1.17_Wither_Killer_-_Markus__DatNerd_NON_Directional_But_Dusty.litematic](attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd_NON_Directional_But_Dusty.litematic): MC 1.18.2, Size 5x10x6 blocks
 - [KL002_1.17_Wither_Killer_-_Markus__DatNerd_Survival_Setup.litematic](attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd_Survival_Setup.litematic): MC 1.18.2, Size 18x10x9 blocks
 - [KL002_1.17_Wither_Killer_-_Markus__DatNerd_3GT_input.litematic](attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd_3GT_input.litematic): MC 1.18.2, Size 15x10x6 blocks
-- https://www.youtube.com/watch?v=ji4Vz4lVSiQ: YouTube video
+- [Afk wither killing chamber](https://www.youtube.com/watch?v=ji4Vz4lVSiQ): by [Nasm Nasmus](https://www.youtube.com/@nasmnasmus866)

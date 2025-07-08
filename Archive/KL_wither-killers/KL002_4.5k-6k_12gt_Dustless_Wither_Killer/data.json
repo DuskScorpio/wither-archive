@@ -119,6 +119,16 @@
       "url": "https://www.youtube.com/watch?v=ji4Vz4lVSiQ",
       "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:04:22 AM",
       "canDownload": false,
+      "youtube": {
+        "title": "Afk wither killing chamber",
+        "author_name": "Nasm Nasmus",
+        "author_url": "https://www.youtube.com/@nasmnasmus866",
+        "thumbnail_url": "https://i.ytimg.com/vi/ji4Vz4lVSiQ/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
       "path": "attachments/KL002_YouTube_Video_ji4Vz4lVSiQ.url"
     }
   ],
@@ -133,7 +143,7 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751948233158,
+  "timestamp": 1751954533258,
   "post": {
     "threadId": "1391996527257456751",
     "forumId": "1391843156307345438",
