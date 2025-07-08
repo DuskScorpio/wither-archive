@@ -1,0 +1,159 @@
+{
+  "id": "1392015750084038677",
+  "name": "36k TNT Nether Portal Obsidian Farm",
+  "code": "NP002",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "247478244960501760",
+      "username": "bigbooty17",
+      "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391839677165605024",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391839677165605025",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1380024315243659405",
+      "name": "image.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380024315243659405/image.png?ex=686de0cc&is=686c8f4c&hm=b04e7596bab87c66bb85862f0fb5a7851d3a515f9073b88fe29d49c020c56712&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "canDownload": true,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1380262575991685332",
+      "name": "image_1.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380262575991685332/image.png?ex=686d6d32&is=686c1bb2&hm=4234820840f53cdb084a48a5879d266a225526c6418a272e1039b58d9504bf33&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "canDownload": true,
+      "path": "images/image_1.png"
+    },
+    {
+      "id": "1380250163020431400",
+      "name": "image_2.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380250163020431400/image.png?ex=686d61a2&is=686c1022&hm=65f125be0c2ca3da89b17accc931597308d27e21c7955e26b0a47215cfc58c10&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:35:02 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 282,
+      "path": "images/image_2.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1380382064460828772",
+      "name": "NP002_Wither_Summoning.mp4",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380382064460828772/Wither_Summoning.mp4?ex=686ddc7a&is=686c8afa&hm=419b7f94bc68c0356379e34b7a51bf371ac161526bf635fc46ca837ee67452fb&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:35:02 AM",
+      "canDownload": true,
+      "path": "attachments/NP002_Wither_Summoning.mp4"
+    },
+    {
+      "id": "1380024314883215490",
+      "name": "NP002_Portal_Obsidian_Farm_WDL.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380024314883215490/Portal_Obsidian_Farm_WDL.zip?ex=686de0cc&is=686c8f4c&hm=652a72cfc0acb2582fab5c12b63038a8f98a1bb44a3af0322ba0d8cc2976a9b3&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.21.4"
+      },
+      "path": "attachments/NP002_Portal_Obsidian_Farm_WDL.zip"
+    },
+    {
+      "id": "1380262575580647494",
+      "name": "NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380262575580647494/Netherside_Portal_Obsidian_-_Scorpio.litematic?ex=686d6d32&is=686c1bb2&hm=d74308a2b5b19d8d7684979faf05d793bb59cd4718ba31546ddf637e8474c6f1&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x5x7",
+        "version": "1.21.4"
+      },
+      "path": "attachments/NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic"
+    },
+    {
+      "id": "Ho_aJ1Lw0Zw",
+      "name": "NP002_YouTube_Video_Ho_aJ1Lw0Zw.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/Ho_aJ1Lw0Zw",
+      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 1:33:37 AM",
+      "canDownload": false,
+      "youtube": {
+        "title": "Simple chunkloading detector",
+        "author_name": "Savva",
+        "author_url": "https://www.youtube.com/@savva4424",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ho_aJ1Lw0Zw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/NP002_YouTube_Video_Ho_aJ1Lw0Zw.url"
+    },
+    {
+      "id": "Cf1lBWqwzIo?si=9orbF832HY9-pzNC",
+      "name": "NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC",
+      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 1:44:19 AM",
+      "canDownload": false,
+      "youtube": {
+        "title": "SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft",
+        "author_name": "Scorpio",
+        "author_url": "https://www.youtube.com/@Scorpio03",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cf1lBWqwzIo/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url"
+    }
+  ],
+  "description": "Sends tnt through a portal to both generate obsidian and damage two withers.\n### Credits\n- <@247478244960501760> Overworld side cage dev\n- <@513900971219353600> Nether side, cage dev\n- <@523191268294262785> cage dev\n- @savva's Reload detector: https://youtu.be/Ho_aJ1Lw0Zw\n### Versions\n- 1.21+\n### Rates\n- 36k/h\n### Video Links\n- [Cage explanation video](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC)",
+  "features": [],
+  "considerations": [],
+  "notes": "### Build\n1. Find a location you want to build at and build like a 17x17 platform centered on where you would about want the portal to go as the highest blocks in that location\n  - This platform should be at subchunk level 15\n  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see image)\n2. Go to the equivalent in the nether by doing standard portal math scaling the center of the platform by 8 (y level is not considered for this case)\n3. Build the duper and portal setup, do not go through the portal yourself, there should be no lit portal within a 33x33 area for all y values in the overworld\n4. Light the portal and send one or two tnt through\n4. Go through and the portal should have generated in it's preferred location\n5. Build the overworld collection with that portal as the location where it'll generate but do not build the wither cages and summon the withers yet\n  - The boats and wither should be in the same chunk\n6. When you initially remove the portal you can use a setup with sand and rails as shown in place of the four blocks where the nether portal's base was. Break the rails and place signs on both sides\n7. Send tnt through the duper and verify that the sand is replaced and a portal is generated in that spot\n  - If this succeeds you should build the rest of the overworld side\n9. Summon all other mobs before the wither\n10. Follow the attached video for summoning\n11. Remove the water as shown in the video\n### How to use\n- You can start the duper by placing a cart on the rails in the nether side.\n- You either need to afk here or build a chunk loader to entity load the duper and tnt.",
+  "timestamp": 1751953489812,
+  "post": {
+    "threadId": "1392018576101216307",
+    "forumId": "1391837205319778367",
+    "continuingMessageIds": [
+      "1392018579746193539",
+      "1392018581025198131"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392018576101216307",
+    "uploadMessageId": "1392018574419427389"
+  }
+}
