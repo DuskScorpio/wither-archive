@@ -29,5 +29,5 @@ This is a very reliable Wither Cage for infinite amount of Withers that are kept
 - To unload the Withers safely, the system must be "turned off", not producing stationary Skulls.
 
 ## Resources
-- https://youtu.be/D5c90vIT1PQ: YouTube video
-- [SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip](attachments/SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip): discord
+- [SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip](attachments/SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip): MC 1.20.1
+- [Stationary Witherskull Generator](https://youtu.be/D5c90vIT1PQ): by [\_MethodZz\_](https://www.youtube.com/@MethodZzS)
