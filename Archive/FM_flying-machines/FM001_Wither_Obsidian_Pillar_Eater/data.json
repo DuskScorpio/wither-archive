@@ -41,6 +41,45 @@
   ],
   "attachments": [
     {
+      "id": "1392022426677674107",
+      "name": "FM001_5wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022426677674107/5wide1.16.litematic?ex=686e0569&is=686cb3e9&hm=9f4ea0c8ef7f2b7fd86c9a4c86f6287c85f3399c89fdbe480d9be542402a2d01&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x23x33",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_5wide1.16.litematic"
+    },
+    {
+      "id": "1392022426304647239",
+      "name": "FM001_5wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022426304647239/5wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=009e3a50de27687ded9ea831c6ef43e97cd4ef9d9e467b6b6d619d71b053e2e0&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x23x33",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_5wide1.18.litematic"
+    },
+    {
+      "id": "1392022425998327929",
+      "name": "FM001_7wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022425998327929/7wide1.16.litematic?ex=686e0568&is=686cb3e8&hm=3e06a598b6064f1c7fa9c8b4d4b410ec8add324640159ae5f8139d1833fa08ce&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x35",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_7wide1.16.litematic"
+    },
+    {
       "id": "950737733616279622",
       "name": "FM001_Pillar_Eaters.zip",
       "contentType": "discord",
@@ -48,6 +87,71 @@
       "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:25:02 AM",
       "canDownload": true,
       "path": "attachments/FM001_Pillar_Eaters.zip"
+    },
+    {
+      "id": "1392022425608261662",
+      "name": "FM001_9wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022425608261662/9wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=946d521843506f1ed4418bae5f70c5e0a15995d748125507f305ef31d0e94b02&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x37",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_9wide1.18.litematic"
+    },
+    {
+      "id": "1392022425193152572",
+      "name": "FM001_7wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022425193152572/7wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=3747652454bca6bc26d60521fd7541e4b211d63b49acdd7acf33dd21faa7f7dd&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x35",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_7wide1.18.litematic"
+    },
+    {
+      "id": "1392022424853151844",
+      "name": "FM001_9wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022424853151844/9wide1.16.litematic?ex=686e0568&is=686cb3e8&hm=b0e951ac4b65a6024d4637af9d42024cd4d3cac3ebc37e1d9c48c609fad557b9&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x37",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_9wide1.16.litematic"
+    },
+    {
+      "id": "1392022424584720424",
+      "name": "FM001_11wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022424584720424/11wide1.16.litematic?ex=686e0568&is=686cb3e8&hm=89f05d7c2175d514e580199a90f742ed7434e148d2b8569ab3527055f31f2a13&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "11x23x39",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_11wide1.16.litematic"
+    },
+    {
+      "id": "1392022424274469006",
+      "name": "FM001_11wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022424274469006/11wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=5d2dc04a4d53e00c44ed6be6005e5a5e1d0e84af46aa01818165436ae7fc8b95&",
+      "description": "Sent by andrews54757 at 7/8/2025, 2:00:09 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "11x23x39",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_11wide1.18.litematic"
     }
   ],
   "description": "The world's very first pillar eater that uses Withers instead of players/bots to mine obsidian. Usable in any difficulty. The snow golem at the top is targeted by the Wither's main head, and the iron golem behind the wall is targeted by the side heads.\n### Credits\n- DF_M: For making the prototype and helping me with debugging\n- Youmiel: For dragging me back to a bigger hell just when I thought I escaped (1.18 sucks, man)\nAnd for providing a 1.18 testing server and helping with pathfinding debugging. \n- <@513900971219353600> : For helping with withers and stuff\n- Menggui233: For directionality testing and robustness testing (mostly still done by myself)\n- FAS server: For 1.17 CMP\n- Wither Archive, Nub Tech and OSTC lab: For helping with lots of technical details\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1FL4y1u7dy/)\n- [User Guide](https://www.bilibili.com/video/BV1FL4y1u7dy?p=2)\n### Files\n- [World Download and Schematics](https://wwd.lanzouf.com/b02ow52wd) (Password: 82j3)",
@@ -74,15 +178,17 @@
     "1.18 Withers have changed pathfinding"
   ],
   "notes": "Check video link for user guide and more info. DM for questions. Recommended to make backups before starting the machine.",
-  "timestamp": 1751948973938,
+  "timestamp": 1751954433669,
   "post": {
     "threadId": "1391999632850157659",
     "forumId": "1391843267682898010",
     "continuingMessageIds": [
       "1391999636260126783",
-      "1391999637199523880"
+      "1391999637199523880",
+      "1392022544118186116",
+      "1392022544776695871"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1391999632850157659",
-    "uploadMessageId": "1391999631210053702"
+    "uploadMessageId": "1392022540167417961"
   }
 }
