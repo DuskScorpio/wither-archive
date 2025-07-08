@@ -63,3 +63,11 @@ How to summon withers:
 **Other attachments:**
 - [Wither_Summoning.mp4](comments_attachments/1392029846506311711-wither_summoning.mp4): video/mp4
 
+
+### Andrews54757 (7/8/2025)
+How to summon withers:
+https://cdn.discordapp.com/attachments/1377853076978794526/1380382064460828772/Wither_Summoning.mp4?ex=686ddc7a&is=686c8afa&hm=419b7f94bc68c0356379e34b7a51bf371ac161526bf635fc46ca837ee67452fb&
+
+**Other attachments:**
+- [Wither_Summoning.mp4](comments_attachments/1380382064460828772-wither_summoning.mp4): discord
+
