@@ -3,6 +3,14 @@
   "name": "mob-switches",
   "code": "MS",
   "description": "Wither mob switches",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1391977676616634438",
+      "name": "Wither Based Mob Switch",
+      "code": "MS001",
+      "timestamp": 1751943949634,
+      "path": "MS001_Wither_Based_Mob_Switch"
+    }
+  ]
 }
