@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392018576101216307)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392205292732940331)
 
 Sends tnt through a portal to both generate obsidian and damage two withers.
 ### Credits
