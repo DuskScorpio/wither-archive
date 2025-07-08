@@ -46,6 +46,16 @@
       "url": "https://www.youtube.com/watch?v=WpmBVGz2Qx8",
       "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 10:46:00 PM",
       "canDownload": false,
+      "youtube": {
+        "title": "1.17 Reliable & Simple Wither Cage",
+        "author_name": "Dark",
+        "author_url": "https://www.youtube.com/@_darkvictor_",
+        "thumbnail_url": "https://i.ytimg.com/vi/WpmBVGz2Qx8/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
       "path": "attachments/CG005_YouTube_Video_WpmBVGz2Qx8.url"
     }
   ],
@@ -60,7 +70,7 @@
     "When reloaded, there is a small chance that the wither can shoot a skull before the snow golem shoots the wither, which may break the cage"
   ],
   "notes": "",
-  "timestamp": 1751944044547,
+  "timestamp": 1751953979227,
   "post": {
     "threadId": "1391977025962770492",
     "forumId": "1391843089361928272",
