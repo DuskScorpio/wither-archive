@@ -11,6 +11,13 @@
       "code": "CG002",
       "timestamp": 1751937154978,
       "path": "CG002_Suffocation_Bedrockless_Wither_Cage"
+    },
+    {
+      "id": "1391847020557242509",
+      "name": "Bedrock Wither Cage",
+      "code": "CG001",
+      "timestamp": 1751937184176,
+      "path": "CG001_Bedrock_Wither_Cage"
     }
   ]
 }
