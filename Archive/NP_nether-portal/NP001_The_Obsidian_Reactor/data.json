@@ -63,21 +63,22 @@
   ],
   "attachments": [
     {
-      "id": "on49if2axb16a6k",
-      "name": "NP001_Obsidian_Reactor_tutorial.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/file/on49if2axb16a6k/Obsidian_Reactor_tutorial.zip/file",
-      "description": "[MediaFire] Sent by scorpio03 at 7/8/2025, 12:57:32 AM",
-      "canDownload": false,
-      "path": "attachments/NP001_Obsidian_Reactor_tutorial.url"
-    },
-    {
       "id": "jvMY-9Zy5x4",
       "name": "NP001_YouTube_Video_jvMY-9Zy5x4.url",
       "contentType": "youtube",
       "url": "https://youtu.be/jvMY-9Zy5x4",
       "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:57:32 AM",
       "canDownload": false,
+      "youtube": {
+        "title": "Obsidian Reactor Tutorial",
+        "author_name": "Eldritch Art",
+        "author_url": "https://www.youtube.com/@eldritchart716",
+        "thumbnail_url": "https://i.ytimg.com/vi/jvMY-9Zy5x4/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
       "path": "attachments/NP001_YouTube_Video_jvMY-9Zy5x4.url"
     },
     {
@@ -87,7 +88,26 @@
       "url": "https://www.youtube.com/watch?v=1p6cuPlq6LI&t=1s",
       "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:57:32 AM",
       "canDownload": false,
+      "youtube": {
+        "title": "THE OBSIDIAN REACTOR - 1.16.2+ safest nether portal obsidian farm [3k/hour]",
+        "author_name": "Eldritch Art",
+        "author_url": "https://www.youtube.com/@eldritchart716",
+        "thumbnail_url": "https://i.ytimg.com/vi/1p6cuPlq6LI/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
       "path": "attachments/NP001_YouTube_Video_1p6cuPlq6LI.url"
+    },
+    {
+      "id": "on49if2axb16a6k",
+      "name": "NP001_Obsidian_Reactor_tutorial.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/on49if2axb16a6k/Obsidian_Reactor_tutorial.zip/file",
+      "description": "[MediaFire] Sent by scorpio03 at 7/8/2025, 12:57:32 AM",
+      "canDownload": false,
+      "path": "attachments/NP001_Obsidian_Reactor_tutorial.url"
     }
   ],
   "description": "Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.\n### Credits\n- A lot of the understanding of the mechanics came from ilmango's portal farm here: https://www.youtube.com/watch?v=bQEeNcoU17Y\n### Rates\n- 2.2k/h",
@@ -98,7 +118,7 @@
   ],
   "considerations": [],
   "notes": "- I didn't try to make it faster, it might be possible to speed it up slightly, but it should be nearly optimal for farming only one dimension's nether portals and could be modified easily to become optimal I suspect if you take the time to research what is possible. Requires no portals in the area.\n- I haven't looked at it in a year and a half, but it's possible that the glass is too tight and the wither skulls sometimes hit something. I remember doing several long tick warps without issue, but it has been a long time. I don't think it works well with carpet mod players.\n - Probably better to build a lava bucket farm because it is less of a headache, to be honest.",
-  "timestamp": 1751950860974,
+  "timestamp": 1751954100741,
   "post": {
     "threadId": "1392007547438764182",
     "forumId": "1391837205319778367",
