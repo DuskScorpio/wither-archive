@@ -58,13 +58,13 @@
     }
   ],
   "attachments": [],
-  "description": "A wither cage with bedrock\n- Attached are some 1-wide suffocation damager wirings you can try out:\n```1. [1.12+] Designed by gpw\n2. [1.16+] Designed by Myterri\n3. & 4. & 5. [1.14+] Designed by multiple people independently```",
+  "description": "A wither cage with bedrock\n### Versions\n- 1.4.2+",
   "features": [
     "Wither can destroy a 3x4x3 region with the lowest layer centered at its tail."
   ],
   "considerations": [],
   "notes": "- In versions before 1.8, a block instead of a wall is needed since the wither is taller, and the sideways summoning setup doesn't work.\n- In versions 1.14 and below, predamage the wither before starting the clock.\n- In versions 1.14~1.16, you can no longer push blocks into the wither's tail unless 0-ticked in place.\n- In versions 1.17 and above, blocks can be pushed into the wither's tail if the bedrock is 5x5.\n### Build\n- There is a 2 blocks gap between the 3x3 bedrock and the wall/fence.\n- The obsidian is to block the summon explosion from the wither, it will be destroyed after the wither is summoned.\n- Needs a layer of blocks around the wither's head to prevent wither targeting nearby mobs.",
-  "timestamp": 1751939370273,
+  "timestamp": 1751940744962,
   "post": {
     "threadId": "1391959353690423428",
     "forumId": "1391843089361928272",
