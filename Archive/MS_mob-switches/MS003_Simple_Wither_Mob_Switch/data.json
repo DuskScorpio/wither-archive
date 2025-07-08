@@ -35,8 +35,6 @@
       "url": "https://cdn.discordapp.com/attachments/913079238289129543/914731100968984596/2021-11-29_12.01.45.png?ex=686d43f9&is=686bf279&hm=7cc519f503d53f8b53903d4fc0409eec598dea7cb0a623b11f2d686ace7edec7&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:21:17 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 450,
       "path": "images/2021-11-29_12.01.45.png"
     },
     {
@@ -83,7 +81,7 @@
   ],
   "considerations": [],
   "notes": "- For holding down right click, requires 3 diamond armors with Protection 4, Regeneration + Resistance 1 Beacon\n- For `/player 'name' use interval 20`, does not require armor.\n- Click on the piston to place soul sand.",
-  "timestamp": 1751945224809,
+  "timestamp": 1751952098181,
   "post": {
     "threadId": "1391983907385118791",
     "forumId": "1391843180944560261",
