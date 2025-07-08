@@ -1,6 +1,6 @@
 {
   "id": "1391979456444371115",
-  "name": "Wither Mob Switch for Overworld / Nether",
+  "name": "Wither Mob Switch",
   "code": "MS002",
   "authors": [
     {
@@ -78,7 +78,7 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751944579900,
+  "timestamp": 1751947353727,
   "post": {
     "threadId": "1391981206177845268",
     "forumId": "1391843180944560261",

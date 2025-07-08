@@ -1,4 +1,4 @@
-# Wither Mob Switch for Overworld / Nether
+# Wither Mob Switch
 <img alt="2022-02-12_23.42.24.png" src="images/2022-02-12_23.42.24.png?raw=1" height="300px">
 
 **Authors:** *squirl*
