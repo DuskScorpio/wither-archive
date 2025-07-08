@@ -5,7 +5,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391950183146852352)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391958950852694117)
 
 A wither cage with bedrock
 - Attached are some 1-wide suffocation damager wirings you can try out:
