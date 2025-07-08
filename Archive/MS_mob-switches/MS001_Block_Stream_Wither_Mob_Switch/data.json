@@ -40,15 +40,6 @@
   ],
   "attachments": [
     {
-      "id": "1391977811509514280",
-      "name": "MS001_wither_mob_switch_1.15_.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1391977676616634438/1391977811509514280/wither_mob_switch_1.15_.zip?ex=686ddbdb&is=686c8a5b&hm=b0a1eeb039172563b1cca10c87ce1f9020cef50c150666227aefe7b50b35995d&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:02:51 PM",
-      "canDownload": true,
-      "path": "attachments/MS001_wither_mob_switch_1.15_.zip"
-    },
-    {
       "id": "UUfZbZn7ETw",
       "name": "MS001_YouTube_Video_UUfZbZn7ETw.url",
       "contentType": "youtube",
@@ -56,6 +47,18 @@
       "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:02:19 PM",
       "canDownload": false,
       "path": "attachments/MS001_YouTube_Video_UUfZbZn7ETw.url"
+    },
+    {
+      "id": "1391977811509514280",
+      "name": "MS001_wither_mob_switch_1.15_.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391977676616634438/1391977811509514280/wither_mob_switch_1.15_.zip?ex=686ddbdb&is=686c8a5b&hm=b0a1eeb039172563b1cca10c87ce1f9020cef50c150666227aefe7b50b35995d&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:02:51 PM",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.15"
+      },
+      "path": "attachments/MS001_wither_mob_switch_1.15_.zip"
     }
   ],
   "description": "Wither mob switch in Overworld / Nether by Fallen_Breath.\n### Versions\n- 1.15+",
@@ -66,7 +69,7 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751947396762,
+  "timestamp": 1751951801420,
   "post": {
     "threadId": "1391978562713550998",
     "forumId": "1391843180944560261",
