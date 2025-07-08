@@ -1,5 +1,5 @@
 # Simple Wither Mob Switch
-<img alt="2021-11-29_12.01.45.png" src="images/2021-11-29_12.01.45.png?raw=1" height="300px">
+<img alt="2021-11-29_12.01.45.png" src="images/2021-11-29_12.01.45.png?raw=1">
 
 **Authors:** *trizz*
 
