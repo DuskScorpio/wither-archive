@@ -1,4 +1,4 @@
-# Wither Mob Switch
+# Block Stream Wither Mob Switch
 <img alt="2021-11-28_21.17.54.png" src="images/2021-11-28_21.17.54.png?raw=1" height="300px">
 
 **Authors:** *fallen_breath*
