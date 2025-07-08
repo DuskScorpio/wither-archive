@@ -11,17 +11,16 @@
 
 World's first bedrockless wither mob switch
 ### Versions
-- 1.15+
+- 1.16+
 ### Video Links
 - [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)
 
 ## Features
 - World's first bedrockless wither mob switch
-- Tested on 1.15, 1.16 and 1.18
 - Taking reference from <@649037432309353600> and Fallen_Breath's wither mob switch wirings
 
 ## Resources
-- [MS004_WitherMobSwitch1.16BlockStre.zip](attachments/MS004_WitherMobSwitch1.16BlockStre.zip): application/zip
-- [MS004_WitherMobSwitch1.16.zip](attachments/MS004_WitherMobSwitch1.16.zip): application/zip
-- [MS004_WitherMobSwitch1.19BlockStre.zip](attachments/MS004_WitherMobSwitch1.19BlockStre.zip): application/zip
-- [MS004_WitherMobSwitch1.19.zip](attachments/MS004_WitherMobSwitch1.19.zip): application/zip
+- [MS004_WitherMobSwitch1.16BlockStre.zip](attachments/MS004_WitherMobSwitch1.16BlockStre.zip): MC 1.16.5
+- [MS004_WitherMobSwitch1.16.zip](attachments/MS004_WitherMobSwitch1.16.zip): MC 1.16.5
+- [MS004_WitherMobSwitch1.19BlockStre.zip](attachments/MS004_WitherMobSwitch1.19BlockStre.zip): MC 1.19.2
+- [MS004_WitherMobSwitch1.19.zip](attachments/MS004_WitherMobSwitch1.19.zip): MC 1.21.1
