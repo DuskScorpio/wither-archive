@@ -25,7 +25,19 @@
       "name": "Tested & Functional"
     }
   ],
-  "images": [],
+  "images": [
+    {
+      "id": "1391976886988701836",
+      "name": "cage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391964026585747537/1391976886988701836/cage.png?ex=686ddaff&is=686c897f&hm=f05a2ca6e20a018f61918358c79accc66c056de54481f662b19557020e058ddf&",
+      "description": "Sent by scorpio03 at 7/7/2025, 10:59:11 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/cage.png"
+    }
+  ],
   "attachments": [],
   "description": "Snow golem scaffolding cage\n### Versions\n- 1.14+\n### Video Links\n- [Showcase](https://www.youtube.com/watch?v=WpmBVGz2Qx8)",
   "features": [
@@ -38,14 +50,14 @@
     "When reloaded, there is a small chance that the wither can shoot a skull before the snow golem shoots the wither, which may break the cage"
   ],
   "notes": "",
-  "timestamp": 1751943559266,
+  "timestamp": 1751943584241,
   "post": {
-    "threadId": "1391976921377800192",
+    "threadId": "1391977025962770492",
     "forumId": "1391843089361928272",
     "continuingMessageIds": [
-      "1391976922854068344"
+      "1391977028437147689"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391976921377800192",
+    "threadURL": "https://discord.com/channels/913065809096638494/1391977025962770492",
     "uploadMessageId": "1391976687344029787"
   }
 }

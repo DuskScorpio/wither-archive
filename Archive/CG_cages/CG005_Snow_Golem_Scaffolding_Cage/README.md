@@ -1,11 +1,13 @@
 # Snow Golem Scaffolding Cage
+<img alt="cage.png" src="images/cage.png?raw=1" height="300px">
+
 **Authors:** *labichefurtive*
 
 **Endorsed by:** *Scorpio*
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391976921377800192)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391977025962770492)
 
 Snow golem scaffolding cage
 ### Versions
