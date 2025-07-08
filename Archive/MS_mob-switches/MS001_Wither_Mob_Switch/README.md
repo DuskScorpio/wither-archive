@@ -1,4 +1,4 @@
-# Wither Based Mob Switch
+# Wither Mob Switch
 <img alt="2021-11-28_21.17.54.png" src="images/2021-11-28_21.17.54.png?raw=1" height="300px">
 
 **Authors:** *fallen_breath*
@@ -9,7 +9,9 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391978562713550998)
 
-Wither Based Mob Switch in Overworld / Nether by Fallen_Breath.
+Wither mob switch in Overworld / Nether by Fallen_Breath.
+### Versions
+- 1.15+
 
 ## Features
 - Fast summoning of withers.
