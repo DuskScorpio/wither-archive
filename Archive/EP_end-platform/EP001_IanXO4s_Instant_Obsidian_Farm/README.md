@@ -28,3 +28,13 @@ A very simple obsidian farm that produces a stack of obsidian every 7 seconds. T
 - [EP001_IanXO4s_Obsidian_Farm_End.litematic](attachments/EP001_IanXO4s_Obsidian_Farm_End.litematic): MC 1.20.1, Size 18x10x5 blocks
 - [EP001_IanXO4_Obsidian_Farm.url](https://www.mediafire.com/file/ljxsii81yaxh7ev/IanXO4_Obsidian_Farm.zip/file): Mediafire link
 - [Minecraft Elegance: Instant Obsidian Farm (32k/hr, Java 1.16.5, 1.17+)](https://youtu.be/m7L_odfKJlc): by [ianxofour](https://www.youtube.com/@ianxofour)
+
+## Comments
+
+### Andrews54757 (7/8/2025)
+# Figures
+- *Figure 1.* https://cdn.discordapp.com/attachments/1160764661612949554/1160764661751369849/image.png
+
+**Other attachments:**
+- [image.png](comments_attachments/1160764661751369849-image.png): discord
+
