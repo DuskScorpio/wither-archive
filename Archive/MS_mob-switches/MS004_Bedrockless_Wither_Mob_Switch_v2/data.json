@@ -51,6 +51,9 @@
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777476612107/WitherMobSwitch1.16BlockStre.zip?ex=686de8dd&is=686c975d&hm=bcdb631f23bf79e6970feb44cbb5c98c791b9ed69e09176cc4248e2994417577&",
       "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
       "canDownload": true,
+      "wdl": {
+        "version": "1.16.5"
+      },
       "path": "attachments/MS004_WitherMobSwitch1.16BlockStre.zip"
     },
     {
@@ -60,6 +63,9 @@
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777862619136/WitherMobSwitch1.16.zip?ex=686de8dd&is=686c975d&hm=ee137e9a3542f047d69515600c013683f1ebb2b0630c684e9d7bc94110ad7bbc&",
       "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
       "canDownload": true,
+      "wdl": {
+        "version": "1.16.5"
+      },
       "path": "attachments/MS004_WitherMobSwitch1.16.zip"
     },
     {
@@ -69,6 +75,9 @@
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778244034600/WitherMobSwitch1.19BlockStre.zip?ex=686de8dd&is=686c975d&hm=a639321eeaf2d31217eedd18276ac0d664280f70ecd58facf6d6736310fca55f&",
       "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
       "canDownload": true,
+      "wdl": {
+        "version": "1.19.2"
+      },
       "path": "attachments/MS004_WitherMobSwitch1.19BlockStre.zip"
     },
     {
@@ -78,18 +87,20 @@
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778571321415/WitherMobSwitch1.19.zip?ex=686de8dd&is=686c975d&hm=02aaa55747b011ef22b53f6fcb7cada14d8d3f5aca7298789f4c57ebd1f4e70c&",
       "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
       "canDownload": true,
+      "wdl": {
+        "version": "1.21.1"
+      },
       "path": "attachments/MS004_WitherMobSwitch1.19.zip"
     }
   ],
-  "description": "World's first bedrockless wither mob switch\n### Versions\n- 1.15+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)",
+  "description": "World's first bedrockless wither mob switch\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)",
   "features": [
     "World's first bedrockless wither mob switch",
-    "Tested on 1.15, 1.16 and 1.18",
     "Taking reference from <@649037432309353600> and Fallen_Breath's wither mob switch wirings"
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751947189461,
+  "timestamp": 1751951858571,
   "post": {
     "threadId": "1391992148739625140",
     "forumId": "1391843180944560261",
