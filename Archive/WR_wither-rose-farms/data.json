@@ -3,7 +3,7 @@
   "name": "wither-rose-farms",
   "code": "WR",
   "description": "Wither rose farms",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1392035783728173076",
@@ -11,6 +11,13 @@
       "code": "WR001",
       "timestamp": 1751957814042,
       "path": "WR001_Wither_Rose_Farm_Cage"
+    },
+    {
+      "id": "1392037095635288236",
+      "name": "Armadillo Wither Rose Farms",
+      "code": "WR002",
+      "timestamp": 1751958249976,
+      "path": "WR002_Armadillo_Wither_Rose_Farms"
     }
   ]
 }
