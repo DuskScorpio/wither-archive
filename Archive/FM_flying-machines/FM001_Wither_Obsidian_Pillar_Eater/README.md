@@ -50,4 +50,12 @@ And for providing a 1.18 testing server and helping with pathfinding debugging.
 Check video link for user guide and more info. DM for questions. Recommended to make backups before starting the machine.
 
 ## Resources
+- [FM001_5wide1.16.litematic](attachments/FM001_5wide1.16.litematic): MC 1.16.5, Size 7x23x33 blocks
+- [FM001_5wide1.18.litematic](attachments/FM001_5wide1.18.litematic): MC 1.16.5, Size 7x23x33 blocks
+- [FM001_7wide1.16.litematic](attachments/FM001_7wide1.16.litematic): MC 1.16.5, Size 9x23x35 blocks
 - [FM001_Pillar_Eaters.zip](attachments/FM001_Pillar_Eaters.zip): discord
+- [FM001_9wide1.18.litematic](attachments/FM001_9wide1.18.litematic): MC 1.16.5, Size 9x23x37 blocks
+- [FM001_7wide1.18.litematic](attachments/FM001_7wide1.18.litematic): MC 1.16.5, Size 9x23x35 blocks
+- [FM001_9wide1.16.litematic](attachments/FM001_9wide1.16.litematic): MC 1.16.5, Size 9x23x37 blocks
+- [FM001_11wide1.16.litematic](attachments/FM001_11wide1.16.litematic): MC 1.16.5, Size 11x23x39 blocks
+- [FM001_11wide1.18.litematic](attachments/FM001_11wide1.18.litematic): MC 1.16.5, Size 11x23x39 blocks
