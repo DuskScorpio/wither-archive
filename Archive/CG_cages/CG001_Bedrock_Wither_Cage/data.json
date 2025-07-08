@@ -30,8 +30,6 @@
       "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847333796380915/unknown-2.png?ex=686d6257&is=686c10d7&hm=a158b3074b1baafb6a3a904261b937af0a58f887dc710c2da933d0f72faeb1ba&",
       "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 450,
       "path": "images/unknown-2.png"
     },
     {
@@ -41,20 +39,7 @@
       "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847334115020840/unknown-3.png?ex=686d6257&is=686c10d7&hm=f006fdbee694dfc5933243ab31bb3c0f2184f9abce9112320c8a3bea68e6868a&",
       "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 450,
       "path": "images/unknown-3.png"
-    },
-    {
-      "id": "1391847334471532625",
-      "name": "unknown-4.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847334471532625/unknown-4.png?ex=686d6257&is=686c10d7&hm=fa981d0886c5921912d3416fe0900ccd260d3e6943c91f2eb1c4e244821fb6a0&",
-      "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
-      "canDownload": true,
-      "width": 800,
-      "height": 450,
-      "path": "images/unknown-4.png"
     }
   ],
   "attachments": [],
@@ -64,14 +49,14 @@
   ],
   "considerations": [],
   "notes": "- In versions before 1.8, a block instead of a wall is needed since the wither is taller, and the sideways summoning setup doesn't work.\n- In versions 1.14 and below, predamage the wither before starting the clock.\n- In versions 1.14~1.16, you can no longer push blocks into the wither's tail unless 0-ticked in place.\n- In versions 1.17 and above, blocks can be pushed into the wither's tail if the bedrock is 5x5.\n### Build\n- There is a 2 blocks gap between the 3x3 bedrock and the wall/fence.\n- The obsidian is to block the summon explosion from the wither, it will be destroyed after the wither is summoned.\n- Needs a layer of blocks around the wither's head to prevent wither targeting nearby mobs.",
-  "timestamp": 1751940744962,
+  "timestamp": 1751942120434,
   "post": {
-    "threadId": "1391959353690423428",
+    "threadId": "1391970887409995806",
     "forumId": "1391843089361928272",
     "continuingMessageIds": [
-      "1391959356810985583"
+      "1391970893366038558"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391959353690423428",
+    "threadURL": "https://discord.com/channels/913065809096638494/1391970887409995806",
     "uploadMessageId": "1391950181221535886"
   }
 }
