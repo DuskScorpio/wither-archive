@@ -54,3 +54,12 @@ Sends tnt through a portal to both generate obsidian and damage two withers.
 - [NP002_Portal_Obsidian_Farm_WDL.zip](attachments/NP002_Portal_Obsidian_Farm_WDL.zip): MC 1.21.4
 - [NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic](attachments/NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic): MC 1.21.4, Size 6x5x7 blocks
 - [Simple chunkloading detector](https://youtu.be/Ho_aJ1Lw0Zw): by [Savva](https://www.youtube.com/@savva4424)
+
+## Comments
+
+### Andrews54757 (7/8/2025)
+How to summon withers:
+
+**Other attachments:**
+- [Wither_Summoning.mp4](comments_attachments/1392029846506311711-wither_summoning.mp4): video/mp4
+
