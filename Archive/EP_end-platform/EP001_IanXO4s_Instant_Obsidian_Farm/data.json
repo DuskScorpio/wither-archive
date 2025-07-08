@@ -89,11 +89,11 @@
       "path": "attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic"
     }
   ],
-  "description": "### Versions\n- 1.16.5+\n### Rates\n- Obsidian: 32k/h\n### Video Links\n- [Explanation and Block by Block Tutorial](<https://www.youtube.com/watch?v=m7L_odfKJlc>)",
+  "description": "A very simple obsidian farm that produces a stack of obsidian every 7 seconds. This farm may not work on modified servers, and changes to the design would be expected in order to make the farm work.\n### Versions\n- 1.16.5+\n### Rates\n- Obsidian: 32k/h\n### Video Links\n- [Explanation and Block by Block Tutorial](<https://www.youtube.com/watch?v=m7L_odfKJlc>)",
   "features": [],
   "considerations": [],
   "notes": "- Watch the video and read the description for further instructions.\n### Build\n- (1.20.2+) See Figure 1 for modifications for higher version compatibility.\n- (1.21.1+) Make the blocking wall that stops black wither skulls 4 blocks taller.",
-  "timestamp": 1751951247304,
+  "timestamp": 1751951312681,
   "post": {
     "threadId": "1392009168126218251",
     "forumId": "1391835780820762794",
