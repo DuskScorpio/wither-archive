@@ -3,6 +3,14 @@
   "name": "nether-portal",
   "code": "NP",
   "description": "Nether portal-based obsidian farms",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1392006670233632778",
+      "name": "The Obsidian Reactor",
+      "code": "NP001",
+      "timestamp": 1751950860974,
+      "path": "NP001_The_Obsidian_Reactor"
+    }
+  ]
 }
