@@ -59,13 +59,16 @@
   ],
   "attachments": [
     {
-      "id": "rZFl9sjoluw",
-      "name": "PR001_YouTube_Video_rZFl9sjoluw.url",
-      "contentType": "youtube",
-      "url": "https://youtu.be/rZFl9sjoluw",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
-      "canDownload": false,
-      "path": "attachments/PR001_YouTube_Video_rZFl9sjoluw.url"
+      "id": "915273651635494972",
+      "name": "PR001_Obsidian_Farm_Massive.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273651635494972/Obsidian_Farm_Massive.zip?ex=686debc3&is=686c9a43&hm=d5b9fa35e5d6e5456f6a34c07194c2d019c951139113f23095979ea5ae3422b9&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.17.1"
+      },
+      "path": "attachments/PR001_Obsidian_Farm_Massive.zip"
     },
     {
       "id": "915273653023817768",
@@ -80,16 +83,23 @@
       "path": "attachments/PR001_Obsidian_Farm_Small.zip"
     },
     {
-      "id": "915273651635494972",
-      "name": "PR001_Obsidian_Farm_Massive.zip",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273651635494972/Obsidian_Farm_Massive.zip?ex=686debc3&is=686c9a43&hm=d5b9fa35e5d6e5456f6a34c07194c2d019c951139113f23095979ea5ae3422b9&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
-      "canDownload": true,
-      "wdl": {
-        "version": "1.17.1"
+      "id": "rZFl9sjoluw",
+      "name": "PR001_YouTube_Video_rZFl9sjoluw.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/rZFl9sjoluw",
+      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "canDownload": false,
+      "youtube": {
+        "title": "240,000/h Obsidian End Pillar Farm",
+        "author_name": "cubicmetre",
+        "author_url": "https://www.youtube.com/@cubicmetre",
+        "thumbnail_url": "https://i.ytimg.com/vi/rZFl9sjoluw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
       },
-      "path": "attachments/PR001_Obsidian_Farm_Massive.zip"
+      "path": "attachments/PR001_YouTube_Video_rZFl9sjoluw.url"
     }
   ],
   "description": "A 240k/h Obsidian End Pillar Farm by m³.\n### Rates\n- 24k~240k/h\n- Cycle: 143gt",
@@ -99,7 +109,7 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751951991125,
+  "timestamp": 1751954207055,
   "post": {
     "threadId": "1392004766711939093",
     "forumId": "1391837148445147257",
