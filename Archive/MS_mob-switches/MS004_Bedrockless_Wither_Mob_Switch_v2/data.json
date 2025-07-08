@@ -1,0 +1,102 @@
+{
+  "id": "1391985170495570021",
+  "name": "Bedrockless Wither Mob Switch v2",
+  "code": "MS004",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "SunnySlopes"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846579325108251",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "973043196131176468",
+      "name": "2022-05-07_17.48.32.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079238289129543/973043196131176468/2022-05-07_17.48.32.png?ex=686dce98&is=686c7d18&hm=4f147136f2a131eec7cd04d8d8c5a39e0d37cd5990ad543b1c0540b1e473963f&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:32:06 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2022-05-07_17.48.32.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1391991777476612107",
+      "name": "MS004_WitherMobSwitch1.16BlockStre.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777476612107/WitherMobSwitch1.16BlockStre.zip?ex=686de8dd&is=686c975d&hm=bcdb631f23bf79e6970feb44cbb5c98c791b9ed69e09176cc4248e2994417577&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.16BlockStre.zip"
+    },
+    {
+      "id": "1391991777862619136",
+      "name": "MS004_WitherMobSwitch1.16.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777862619136/WitherMobSwitch1.16.zip?ex=686de8dd&is=686c975d&hm=ee137e9a3542f047d69515600c013683f1ebb2b0630c684e9d7bc94110ad7bbc&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.16.zip"
+    },
+    {
+      "id": "1391991778244034600",
+      "name": "MS004_WitherMobSwitch1.19BlockStre.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778244034600/WitherMobSwitch1.19BlockStre.zip?ex=686de8dd&is=686c975d&hm=a639321eeaf2d31217eedd18276ac0d664280f70ecd58facf6d6736310fca55f&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.19BlockStre.zip"
+    },
+    {
+      "id": "1391991778571321415",
+      "name": "MS004_WitherMobSwitch1.19.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778571321415/WitherMobSwitch1.19.zip?ex=686de8dd&is=686c975d&hm=02aaa55747b011ef22b53f6fcb7cada14d8d3f5aca7298789f4c57ebd1f4e70c&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.19.zip"
+    }
+  ],
+  "description": "World's first bedrockless wither mob switch\n### Versions\n- 1.15+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)",
+  "features": [
+    "World's first bedrockless wither mob switch",
+    "Tested on 1.15, 1.16 and 1.18",
+    "Taking reference from <@649037432309353600> and Fallen_Breath's wither mob switch wirings"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1751947189461,
+  "post": {
+    "threadId": "1391992148739625140",
+    "forumId": "1391843180944560261",
+    "continuingMessageIds": [
+      "1391992150916595803"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391992148739625140",
+    "uploadMessageId": "1391992147242258432"
+  }
+}
