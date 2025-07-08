@@ -1,0 +1,49 @@
+{
+  "id": "1391964026585747537",
+  "name": "1-wide Suffocation Damager",
+  "code": "CG005",
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391964027068088340",
+      "name": "unknown-4.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391964026585747537/1391964027068088340/unknown-4.png?ex=686dcf05&is=686c7d85&hm=75a24d53e2a733e2b654c390850c03bf33bed47d7a5569304e4847c9309cd3db&",
+      "description": "Sent by scorpio03 at 7/7/2025, 10:08:05 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/unknown-4.png"
+    }
+  ],
+  "attachments": [],
+  "description": "1-wide suffocation damagers\n1. [1.12+] Designed by gpw\n2. [1.16+] Designed by Myterri\n3. & 4. & 5. [1.14+] Designed by multiple people independently",
+  "features": [],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1751940688167,
+  "post": {
+    "threadId": "1391964879266775151",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1391964882315771964"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391964879266775151",
+    "uploadMessageId": "1391964878021070849"
+  }
+}
