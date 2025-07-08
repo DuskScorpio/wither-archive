@@ -31,6 +31,6 @@ Farms obsidian by generating nether portals in the overworld, with a bedrockless
 <img src="images/2022-02-12_23.23.56.png?raw=1" height="300px">
 
 ## Resources
+- [Obsidian Reactor Tutorial](https://youtu.be/jvMY-9Zy5x4): by [Eldritch Art](https://www.youtube.com/@eldritchart716)
+- [THE OBSIDIAN REACTOR - 1.16.2+ safest nether portal obsidian farm [3k/hour]](https://www.youtube.com/watch?v=1p6cuPlq6LI&t=1s): by [Eldritch Art](https://www.youtube.com/@eldritchart716)
 - [NP001_Obsidian_Reactor_tutorial.url](https://www.mediafire.com/file/on49if2axb16a6k/Obsidian_Reactor_tutorial.zip/file): Mediafire link
-- https://youtu.be/jvMY-9Zy5x4: YouTube video
-- https://www.youtube.com/watch?v=1p6cuPlq6LI&t=1s: YouTube video
