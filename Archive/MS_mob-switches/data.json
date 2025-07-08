@@ -3,7 +3,7 @@
   "name": "mob-switches",
   "code": "MS",
   "description": "Wither mob switches",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1391977676616634438",
@@ -18,6 +18,13 @@
       "code": "MS002",
       "timestamp": 1751944579900,
       "path": "MS002_Wither_Mob_Switch_for_Overworld__Nether"
+    },
+    {
+      "id": "1391982075770306621",
+      "name": "Simple Wither Mob Switch",
+      "code": "MS003",
+      "timestamp": 1751945224809,
+      "path": "MS003_Simple_Wither_Mob_Switch"
     }
   ]
 }
