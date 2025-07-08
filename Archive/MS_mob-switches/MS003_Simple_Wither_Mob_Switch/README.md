@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391983907385118791)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392013311884923022)
 
 A compact 5x5 and 7 tall wither mob switch for the Overworld and Nether.
 ### Versions
