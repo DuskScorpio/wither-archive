@@ -62,10 +62,3 @@ A simple and advanced armadillo-based wither rose farm.
 **Other attachments:**
 - [image.png](comments_attachments/1373708254353555486-image.png): discord
 
-
-### Andrews54757 (7/8/2025)
-- *Figure 2.* https://cdn.discordapp.com/attachments/1361116442149392587/1361116443621593116/load_dillo.mp4
-
-**Other attachments:**
-- [load_dillo.mp4](comments_attachments/1361116443621593116-load_dillo.mp4): discord
-
