@@ -28,5 +28,5 @@ This lava converter produces 18k obsidian per hour, designed to be lossless, los
 
 ## Resources
 - [LV001_LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic](attachments/LV001_LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic): MC 1.17.1, Size 16x30x37 blocks
-- https://youtu.be/JI2waCPOJag: YouTube video
-- https://youtu.be/UA2HytjAqYo: YouTube video
+- [18k/hr Overworld Obsidian Farm | UPDATED farm in Description\!](https://youtu.be/JI2waCPOJag): by [Redstone Warper](https://www.youtube.com/@RedstoneWarper)
+- [UPDATED 18k Obsidian p/h | Single Dimension | V2](https://youtu.be/UA2HytjAqYo): by [Redstone Warper](https://www.youtube.com/@RedstoneWarper)
