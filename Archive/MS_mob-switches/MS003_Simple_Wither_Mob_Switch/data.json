@@ -70,6 +70,16 @@
       "url": "https://youtu.be/bGYSgBKUO8c",
       "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:19:48 PM",
       "canDownload": false,
+      "youtube": {
+        "title": "Wither Mob Switch Design [Minecraft 1.16.5]",
+        "author_name": "trizz",
+        "author_url": "https://www.youtube.com/@trizz9496",
+        "thumbnail_url": "https://i.ytimg.com/vi/bGYSgBKUO8c/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
       "path": "attachments/MS003_YouTube_Video_bGYSgBKUO8c.url"
     }
   ],
@@ -81,7 +91,7 @@
   ],
   "considerations": [],
   "notes": "- For holding down right click, requires 3 diamond armors with Protection 4, Regeneration + Resistance 1 Beacon\n- For `/player 'name' use interval 20`, does not require armor.\n- Click on the piston to place soul sand.",
-  "timestamp": 1751952235060,
+  "timestamp": 1751953891139,
   "post": {
     "threadId": "1392013311884923022",
     "forumId": "1391843180944560261",

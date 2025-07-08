@@ -28,4 +28,4 @@ A compact 5x5 and 7 tall wither mob switch for the Overworld and Nether.
 
 ## Resources
 - [MS003_Trizz_Wither_Mob_Switch.litematic](attachments/MS003_Trizz_Wither_Mob_Switch.litematic): MC 1.16.5, Size 5x7x5 blocks
-- https://youtu.be/bGYSgBKUO8c: YouTube video
+- [Wither Mob Switch Design [Minecraft 1.16.5]](https://youtu.be/bGYSgBKUO8c): by [trizz](https://www.youtube.com/@trizz9496)
