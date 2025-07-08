@@ -32,6 +32,13 @@
       "code": "CG004",
       "timestamp": 1751942520560,
       "path": "CG004_1-wide_Suffocation_Damager"
+    },
+    {
+      "id": "1391964026585747537",
+      "name": "Snow Golem Scaffolding Cage",
+      "code": "CG005",
+      "timestamp": 1751943503807,
+      "path": "CG005_Snow_Golem_Scaffolding_Cage"
     }
   ]
 }
