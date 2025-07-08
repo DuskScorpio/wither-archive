@@ -24,6 +24,6 @@ A 240k/h Obsidian End Pillar Farm by m³.
 <img src="images/2021-12-01_00.09.26.png?raw=1" height="300px">
 
 ## Resources
-- [PR001_Obsidian_Farm_Massive.zip](attachments/PR001_Obsidian_Farm_Massive.zip): discord
-- [PR001_Obsidian_Farm_Small.zip](attachments/PR001_Obsidian_Farm_Small.zip): discord
 - https://youtu.be/rZFl9sjoluw: YouTube video
+- [PR001_Obsidian_Farm_Small.zip](attachments/PR001_Obsidian_Farm_Small.zip): MC 1.17.1
+- [PR001_Obsidian_Farm_Massive.zip](attachments/PR001_Obsidian_Farm_Massive.zip): MC 1.17.1
