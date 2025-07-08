@@ -23,3 +23,6 @@ Snow golem scaffolding cage
 
 ## Considerations
 - When reloaded, there is a small chance that the wither can shoot a skull before the snow golem shoots the wither, which may break the cage
+
+## Resources
+- https://www.youtube.com/watch?v=WpmBVGz2Qx8: YouTube video
