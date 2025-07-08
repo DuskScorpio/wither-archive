@@ -3,6 +3,14 @@
   "name": "end-pillar",
   "code": "PR",
   "description": "End pillar-based obsidian farms",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1392004243686293614",
+      "name": "240k Obsidian End Pillar Farm",
+      "code": "PR001",
+      "timestamp": 1751950196640,
+      "path": "PR001_240k_Obsidian_End_Pillar_Farm"
+    }
+  ]
 }
