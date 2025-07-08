@@ -19,5 +19,5 @@ Wither mob switch in Overworld / Nether by Fallen_Breath.
 - Click under the trapdoor to place soul sand.
 
 ## Resources
-- [MS001_wither_mob_switch_1.15_.zip](attachments/MS001_wither_mob_switch_1.15_.zip): application/zip
 - https://youtu.be/UUfZbZn7ETw: YouTube video
+- [MS001_wither_mob_switch_1.15_.zip](attachments/MS001_wither_mob_switch_1.15_.zip): MC 1.15
