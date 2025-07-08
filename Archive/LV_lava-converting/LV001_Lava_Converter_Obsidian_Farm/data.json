@@ -1,0 +1,100 @@
+{
+  "id": "1392005328773709876",
+  "name": "Lava Converter Obsidian Farm",
+  "code": "LV001",
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Redstone Warper"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391839679124340912",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "917308665101418526",
+      "name": "2021-12-06_14.51.34.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913065925622763561/917308665101418526/2021-12-06_14.51.34.png?ex=686d6a04&is=686c1884&hm=953408ae3e772fc849330293f585a17b2d2104335bf55cdde3537d30587919df&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:52:15 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2021-12-06_14.51.34.png"
+    },
+    {
+      "id": "917308665416015882",
+      "name": "2021-12-06_14.55.27.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913065925622763561/917308665416015882/2021-12-06_14.55.27.png?ex=686d6a04&is=686c1884&hm=0212395d7f10d87136ffec48b19668b19360af4d4a9e9e92c57d4a07eff6723f&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:52:15 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2021-12-06_14.55.27.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1000312703979638855",
+      "name": "LV001_LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/917309208339288104/1000312703979638855/LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic?ex=686d7a0d&is=686c288d&hm=be931e99edf20b8cc22214e37176405dface4ea110ce9538f4205fe8a4066ea8&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:52:15 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "16x30x37",
+        "version": "1.17.1"
+      },
+      "path": "attachments/LV001_LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic"
+    },
+    {
+      "id": "JI2waCPOJag",
+      "name": "LV001_YouTube_Video_JI2waCPOJag.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/JI2waCPOJag",
+      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:52:12 AM",
+      "canDownload": false,
+      "path": "attachments/LV001_YouTube_Video_JI2waCPOJag.url"
+    },
+    {
+      "id": "UA2HytjAqYo",
+      "name": "LV001_YouTube_Video_UA2HytjAqYo.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/UA2HytjAqYo",
+      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:52:12 AM",
+      "canDownload": false,
+      "path": "attachments/LV001_YouTube_Video_UA2HytjAqYo.url"
+    }
+  ],
+  "description": "This lava converter produces 18k obsidian per hour, designed to be lossless, losing no obsidian or buckets.\n### Rates\n- 18k/h\n### Video Links\n- Original Video: https://youtu.be/JI2waCPOJag\n- Updated Video: https://youtu.be/UA2HytjAqYo",
+  "features": [
+    "This lava converter produces 18k obsidian per hour, designed to be lossless, losing no obsidian or buckets. This farm works by keeping a wither trapped, and using 8 dispensers to place lava, around the base of the wither, which is instantly converted by a water source in the center, and waterlogged stairs. Item filters are placed under the dispensers to filter out the empty buckets and load them into shulker boxes.",
+    "The main idea for this farm is to place this farm next to a lava farm, where lava buckets can be fed into the farm, and the empty buckets returned to the lava farm to form a closed loop."
+  ],
+  "considerations": [],
+  "notes": "- This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava.",
+  "timestamp": 1751950547990,
+  "post": {
+    "threadId": "1392006235183648818",
+    "forumId": "1391837246843260938",
+    "continuingMessageIds": [
+      "1392006238098821202"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392006235183648818",
+    "uploadMessageId": "1392006233455595623"
+  }
+}
