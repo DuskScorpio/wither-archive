@@ -54,7 +54,7 @@
       "path": "attachments/CG003_Emmys_3x3x3_bedrock_cage_spawning_setup.litematic"
     }
   ],
-  "description": "3x3x3 Bedrock Wither Cage & Damager",
+  "description": "3x3x3 Bedrock Wither Cage & Damager\n### Versions\n- 1.17+",
   "features": [
     "By placing wither on top of boat, wither can break 3x3x3 volume of blocks",
     "Cannot push blocks in from where anvil is positioned",
@@ -62,7 +62,7 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751939807476,
+  "timestamp": 1751940298663,
   "post": {
     "threadId": "1391961185125142550",
     "forumId": "1391843089361928272",
@@ -70,6 +70,6 @@
       "1391961188035854416"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1391961185125142550",
-    "uploadMessageId": "1391961184101466122"
+    "uploadMessageId": "1391963247380267190"
   }
 }

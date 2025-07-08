@@ -10,6 +10,8 @@
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391961185125142550)
 
 3x3x3 Bedrock Wither Cage & Damager
+### Versions
+- 1.17+
 
 ## Features
 - By placing wither on top of boat, wither can break 3x3x3 volume of blocks
