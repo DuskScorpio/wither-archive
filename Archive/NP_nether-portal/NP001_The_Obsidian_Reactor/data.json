@@ -1,0 +1,111 @@
+{
+  "id": "1392006670233632778",
+  "name": "The Obsidian Reactor",
+  "code": "NP001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "806926931093094452",
+      "displayName": "eldritchart",
+      "username": "eldritchart",
+      "iconURL": "https://cdn.discordapp.com/avatars/806926931093094452/39699dc748ed3c09cc1e55fcd2ac028c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391839677165605024",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "942079951006474240",
+      "name": "2022-02-12_23.21.40.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913065993771831356/942079951006474240/2022-02-12_23.21.40.png?ex=686de213&is=686c9093&hm=e91a6e4dd087222e7392ff21d02fa65a94aee1b324d135676f894d0e8b6c82dc&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:57:51 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2022-02-12_23.21.40.png"
+    },
+    {
+      "id": "942079951904059443",
+      "name": "2022-02-12_23.23.42.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913065993771831356/942079951904059443/2022-02-12_23.23.42.png?ex=686de213&is=686c9093&hm=2a09e0a4624880b80a3f239597e25c291d6bfc338562ac6d63ba0b71125fbdcc&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:57:51 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2022-02-12_23.23.42.png"
+    },
+    {
+      "id": "942079952378028142",
+      "name": "2022-02-12_23.23.56.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913065993771831356/942079952378028142/2022-02-12_23.23.56.png?ex=686de213&is=686c9093&hm=eb56720f2b3a417018ac20d9b24d5405c0ea4ecc3ecf77e3f664c25dfa9361ea&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:57:51 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2022-02-12_23.23.56.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "on49if2axb16a6k",
+      "name": "NP001_Obsidian_Reactor_tutorial.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/on49if2axb16a6k/Obsidian_Reactor_tutorial.zip/file",
+      "description": "[MediaFire] Sent by scorpio03 at 7/8/2025, 12:57:32 AM",
+      "canDownload": false,
+      "path": "attachments/NP001_Obsidian_Reactor_tutorial.url"
+    },
+    {
+      "id": "jvMY-9Zy5x4",
+      "name": "NP001_YouTube_Video_jvMY-9Zy5x4.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/jvMY-9Zy5x4",
+      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:57:32 AM",
+      "canDownload": false,
+      "path": "attachments/NP001_YouTube_Video_jvMY-9Zy5x4.url"
+    },
+    {
+      "id": "1p6cuPlq6LI",
+      "name": "NP001_YouTube_Video_1p6cuPlq6LI.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=1p6cuPlq6LI&t=1s",
+      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:57:32 AM",
+      "canDownload": false,
+      "path": "attachments/NP001_YouTube_Video_1p6cuPlq6LI.url"
+    }
+  ],
+  "description": "Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.\n### Credits\n- A lot of the understanding of the mechanics came from ilmango's portal farm here: https://www.youtube.com/watch?v=bQEeNcoU17Y\n### Rates\n- 2.2k/h",
+  "features": [
+    "Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.",
+    "Requires one player to run the farm and one player to load the withers.",
+    "Consumes flint and steels, but can generate its own snowballs"
+  ],
+  "considerations": [],
+  "notes": "- I didn't try to make it faster, it might be possible to speed it up slightly, but it should be nearly optimal for farming only one dimension's nether portals and could be modified easily to become optimal I suspect if you take the time to research what is possible. Requires no portals in the area.\n- I haven't looked at it in a year and a half, but it's possible that the glass is too tight and the wither skulls sometimes hit something. I remember doing several long tick warps without issue, but it has been a long time. I don't think it works well with carpet mod players.\n - Probably better to build a lava bucket farm because it is less of a headache, to be honest.",
+  "timestamp": 1751950860974,
+  "post": {
+    "threadId": "1392007547438764182",
+    "forumId": "1391837205319778367",
+    "continuingMessageIds": [
+      "1392007552320929812"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392007547438764182",
+    "uploadMessageId": "1392007545417240679"
+  }
+}
