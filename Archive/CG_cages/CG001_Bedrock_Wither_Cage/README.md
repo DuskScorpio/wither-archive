@@ -1,11 +1,11 @@
 # Bedrock Wither Cage
-<img alt="unknown-2.png" src="images/unknown-2.png?raw=1" height="300px">
+<img alt="unknown-2.png" src="images/unknown-2.png?raw=1">
 
 **Endorsed by:** *Scorpio*
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391959353690423428)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391970887409995806)
 
 A wither cage with bedrock
 ### Versions
@@ -25,6 +25,4 @@ A wither cage with bedrock
 - Needs a layer of blocks around the wither's head to prevent wither targeting nearby mobs.
 
 ## Other Images
-<img src="images/unknown-3.png?raw=1" height="300px">
-
-<img src="images/unknown-4.png?raw=1" height="300px">
+<img src="images/unknown-3.png?raw=1">
