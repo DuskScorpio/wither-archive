@@ -22,5 +22,5 @@ A wither mob switch for Minecraft 1.15+, using withers trapped in a 3x3 bedrock 
 <img src="images/2022-02-12_23.42.35.png?raw=1" height="300px">
 
 ## Resources
-- https://youtu.be/2qL3erHQgvE: YouTube video
-- [MS002_wither_mob_switch_1.15_.zip](attachments/MS002_wither_mob_switch_1.15_.zip): discord
+- [MS002_wither_mob_switch_1.15_.zip](attachments/MS002_wither_mob_switch_1.15_.zip): MC 1.15
+- [Wither Mob Switch | Minecraft 1.15-1.18+](https://youtu.be/2qL3erHQgvE): by [vktec](https://www.youtube.com/@vktec)

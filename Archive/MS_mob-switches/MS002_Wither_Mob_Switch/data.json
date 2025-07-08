@@ -52,22 +52,35 @@
   ],
   "attachments": [
     {
-      "id": "2qL3erHQgvE",
-      "name": "MS002_YouTube_Video_2qL3erHQgvE.url",
-      "contentType": "youtube",
-      "url": "https://youtu.be/2qL3erHQgvE",
-      "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:09:24 PM",
-      "canDownload": false,
-      "path": "attachments/MS002_YouTube_Video_2qL3erHQgvE.url"
-    },
-    {
       "id": "1391979600464314418",
       "name": "MS002_wither_mob_switch_1.15_.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1391979456444371115/1391979600464314418/wither_mob_switch_1.15_.zip?ex=686ddd86&is=686c8c06&hm=8b89e5221c054b1d8edc01ad00c2910f5cffe4b73e2e40bf7d34b1f15b3e1f6d&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:14:04 PM",
       "canDownload": true,
+      "wdl": {
+        "version": "1.15"
+      },
       "path": "attachments/MS002_wither_mob_switch_1.15_.zip"
+    },
+    {
+      "id": "2qL3erHQgvE",
+      "name": "MS002_YouTube_Video_2qL3erHQgvE.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/2qL3erHQgvE",
+      "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:09:24 PM",
+      "canDownload": false,
+      "youtube": {
+        "title": "Wither Mob Switch | Minecraft 1.15-1.18+",
+        "author_name": "vktec",
+        "author_url": "https://www.youtube.com/@vktec",
+        "thumbnail_url": "https://i.ytimg.com/vi/2qL3erHQgvE/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MS002_YouTube_Video_2qL3erHQgvE.url"
     }
   ],
   "description": "A wither mob switch for Minecraft 1.15+, using withers trapped in a 3x3 bedrock formation.\n### Versions\n- 1.15+",
@@ -78,7 +91,7 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751947353727,
+  "timestamp": 1751954566157,
   "post": {
     "threadId": "1391981206177845268",
     "forumId": "1391843180944560261",
