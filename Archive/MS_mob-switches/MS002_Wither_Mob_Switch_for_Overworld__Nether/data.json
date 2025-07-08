@@ -1,0 +1,91 @@
+{
+  "id": "1391979456444371115",
+  "name": "Wither Mob Switch for Overworld / Nether",
+  "code": "MS002",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "378955593236480000",
+      "displayName": "squirl",
+      "username": "silversquirl",
+      "iconURL": "https://cdn.discordapp.com/avatars/378955593236480000/1ddade5bc069938d0031cd232be7c5d1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846579325108251",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391979546882080839",
+      "name": "2022-02-12_23.42.24.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1391979456444371115/1391979546882080839/2022-02-12_23.42.24.png?ex=686ddd79&is=686c8bf9&hm=3cff91d41329bbf39ebb07a6a92e74818116383d4ae547e110076d8ab14155da&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:13:15 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2022-02-12_23.42.24.png"
+    },
+    {
+      "id": "1391979547527876659",
+      "name": "2022-02-12_23.42.35.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1391979456444371115/1391979547527876659/2022-02-12_23.42.35.png?ex=686ddd79&is=686c8bf9&hm=982e7de16730f5675556d1c6e59392fd446fe0292b661b45b44844577f6719bb&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:13:15 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2022-02-12_23.42.35.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "2qL3erHQgvE",
+      "name": "MS002_YouTube_Video_2qL3erHQgvE.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/2qL3erHQgvE",
+      "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:09:24 PM",
+      "canDownload": false,
+      "path": "attachments/MS002_YouTube_Video_2qL3erHQgvE.url"
+    },
+    {
+      "id": "1391979600464314418",
+      "name": "MS002_wither_mob_switch_1.15_.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1391979456444371115/1391979600464314418/wither_mob_switch_1.15_.zip?ex=686ddd86&is=686c8c06&hm=8b89e5221c054b1d8edc01ad00c2910f5cffe4b73e2e40bf7d34b1f15b3e1f6d&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:14:04 PM",
+      "canDownload": true,
+      "path": "attachments/MS002_wither_mob_switch_1.15_.zip"
+    }
+  ],
+  "description": "A wither mob switch for Minecraft 1.15+, using withers trapped in a 3x3 bedrock formation.\n### Versions\n- 1.15+",
+  "features": [
+    "A hostile mob switch",
+    "For Overworld and Nether",
+    "1.15+ compatibility"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1751944579900,
+  "post": {
+    "threadId": "1391981206177845268",
+    "forumId": "1391843180944560261",
+    "continuingMessageIds": [
+      "1391981209298665532"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391981206177845268",
+    "uploadMessageId": "1391981203963379765"
+  }
+}
