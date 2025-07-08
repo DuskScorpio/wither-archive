@@ -21,28 +21,5 @@
       }
     ],
     "timestamp": 1751956178977
-  },
-  {
-    "id": "1392205314321027193",
-    "sender": {
-      "type": "discord-in-guild",
-      "id": "239078039831445504",
-      "username": "andrews54757",
-      "displayName": "Andrews54757",
-      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-    },
-    "content": "How to summon withers:\nhttps://cdn.discordapp.com/attachments/1377853076978794526/1380382064460828772/Wither_Summoning.mp4?ex=686ddc7a&is=686c8afa&hm=419b7f94bc68c0356379e34b7a51bf371ac161526bf635fc46ca837ee67452fb&",
-    "attachments": [
-      {
-        "id": "1380382064460828772",
-        "name": "Wither_Summoning.mp4",
-        "contentType": "discord",
-        "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380382064460828772/Wither_Summoning.mp4?ex=686ddc7a&is=686c8afa&hm=419b7f94bc68c0356379e34b7a51bf371ac161526bf635fc46ca837ee67452fb&",
-        "description": "[DiscordCDN] Sent by andrews54757 at 7/8/2025, 2:06:20 PM",
-        "canDownload": true,
-        "path": "comments_attachments/1380382064460828772-wither_summoning.mp4"
-      }
-    ],
-    "timestamp": 1751997981480
   }
 ]
