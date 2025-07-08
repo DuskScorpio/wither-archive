@@ -52,3 +52,13 @@ A simple and advanced armadillo-based wither rose farm.
 ## Resources
 - [WR002_Armadillo_wrose_advanced.litematic](attachments/WR002_Armadillo_wrose_advanced.litematic): MC 1.21.4, Size 7x13x20 blocks
 - [WR002_Armadillo-Infesting_Wrose_Simple.litematic](attachments/WR002_Armadillo-Infesting_Wrose_Simple.litematic): MC 1.21.4, Size 6x9x13 blocks
+
+## Comments
+
+### Andrews54757 (7/8/2025)
+## Figures
+- *Figure 1.* https://cdn.discordapp.com/attachments/1315522702492172300/1373708254353555486/image.png
+
+**Other attachments:**
+- [image.png](comments_attachments/1373708254353555486-image.png): discord
+
