@@ -1,0 +1,83 @@
+{
+  "id": "1392035783728173076",
+  "name": "Wither Rose Farm Cage",
+  "code": "WR001",
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "静默之光"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838292692963396",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "914490755769303040",
+      "name": "2021-11-28_20.07.02.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913290253425582140/914490755769303040/2021-11-28_20.07.02.png?ex=686db5a2&is=686c6422&hm=a29417ae34bafa99f883b335b218959347768831ecbb829db46417516fdbae72&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:53:13 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2021-11-28_20.07.02.png"
+    },
+    {
+      "id": "914490756037754910",
+      "name": "2021-11-28_20.09.14.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913290253425582140/914490756037754910/2021-11-28_20.09.14.png?ex=686db5a2&is=686c6422&hm=0be6b3627bc1dd6673536a4a2e4d4dfdd1782b1fa9376b5a4469e67a457da10d&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:53:13 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2021-11-28_20.09.14.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "914491013328936990",
+      "name": "WR001_3031ba23efcb5260.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913290253425582140/914491013328936990/3031ba23efcb5260.zip?ex=686db5df&is=686c645f&hm=14a16418f739368528c7112fd4d96ebc4ee4ae69ecb09b4384217ab70bce295e&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:53:13 AM",
+      "canDownload": true,
+      "path": "attachments/WR001_3031ba23efcb5260.zip",
+      "wdl": {
+        "version": "1.16.3"
+      }
+    }
+  ],
+  "description": "Wither Rose Farm Cage\n### Versions\n- 1.14+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1x5411j7GY/)",
+  "features": [
+    "Works in all dimensions, no bedrock used",
+    "Rate depends on the mob farm used",
+    "Wither targets the iron golem, main head skulls hit on cobblestone, which will be regenerated",
+    "Side head skulls explode in solid blocks, damaging nearby mobs"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1751957814042,
+  "post": {
+    "threadId": "1392036712212992032",
+    "forumId": "1391832537399038022",
+    "continuingMessageIds": [
+      "1392036716164153385"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392036712212992032",
+    "uploadMessageId": "1392036711269404724"
+  }
+}
