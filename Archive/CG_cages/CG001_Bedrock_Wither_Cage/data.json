@@ -1,0 +1,83 @@
+{
+  "id": "1391847020557242509",
+  "name": "Bedrock Wither Cage",
+  "code": "CG001",
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391846575193591956",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391847333796380915",
+      "name": "unknown-2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847333796380915/unknown-2.png?ex=686d6257&is=686c10d7&hm=a158b3074b1baafb6a3a904261b937af0a58f887dc710c2da933d0f72faeb1ba&",
+      "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 607,
+      "path": "images/unknown-2.png"
+    },
+    {
+      "id": "1391847334115020840",
+      "name": "unknown-3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847334115020840/unknown-3.png?ex=686d6257&is=686c10d7&hm=f006fdbee694dfc5933243ab31bb3c0f2184f9abce9112320c8a3bea68e6868a&",
+      "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 484,
+      "path": "images/unknown-3.png"
+    },
+    {
+      "id": "1391847334471532625",
+      "name": "unknown-4.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847334471532625/unknown-4.png?ex=686d6257&is=686c10d7&hm=fa981d0886c5921912d3416fe0900ccd260d3e6943c91f2eb1c4e244821fb6a0&",
+      "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 448,
+      "path": "images/unknown-4.png"
+    }
+  ],
+  "attachments": [],
+  "description": "A wither cage with bedrock\n- Here are some 1-wide suffocation damager wirings you can try out:\n```1. [1.12+] Designed by gpw\n2. [1.16+] Designed by Myterri\n3. & 4. & 5. [1.14+] Designed by multiple people independently```",
+  "features": [
+    "Wither can destroy a 3x4x3 region with the lowest layer centered at its tail.",
+    "There is a 2 blocks gap between the 3x3 bedrock and the wall/fence.",
+    "Needs a layer of blocks around the wither's head to prevent wither targeting nearby mobs.",
+    "In versions before 1.8, a block instead of a wall is needed since the wither is taller, and the sideways summoning setup doesn't work.",
+    "In versions 1.14 and below, predamage the wither before starting the clock.",
+    "In versions 1.14~1.16, you can no longer push blocks into the wither's tail unless 0-ticked in place.",
+    "In versions 1.17 and above, blocks can be pushed into the wither's tail if the bedrock is 5x5."
+  ],
+  "considerations": [],
+  "notes": "- The obsidian is to block the summon explosion from the wither, it will be destroyed after the wither is summoned.",
+  "timestamp": 1751937184176,
+  "post": {
+    "threadId": "1391950183146852352",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1391950192722444379"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391950183146852352",
+    "uploadMessageId": "1391950181221535886"
+  }
+}
