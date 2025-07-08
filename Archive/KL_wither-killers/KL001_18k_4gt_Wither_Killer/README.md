@@ -29,5 +29,5 @@ A wither killer that summons withers every 4gt and requires breaking 10x10 bedro
 <img src="images/2021-11-30_23_1.png?raw=1" height="300px">
 
 ## Resources
-- [KL001_UWK_By_Donoceanu.zip](attachments/KL001_UWK_By_Donoceanu.zip): discord
-- [KL001_UWK_By_Donoceanu11x10u.zip](attachments/KL001_UWK_By_Donoceanu11x10u.zip): discord
+- [KL001_UWK_By_Donoceanu.zip](attachments/KL001_UWK_By_Donoceanu.zip): MC 1.12.2
+- [KL001_UWK_By_Donoceanu11x10u.zip](attachments/KL001_UWK_By_Donoceanu11x10u.zip): MC 1.12.2

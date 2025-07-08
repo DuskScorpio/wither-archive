@@ -55,6 +55,9 @@
       "url": "https://cdn.discordapp.com/attachments/913079212812931152/916175887915970610/UWK_By_Donoceanu.zip?ex=686de849&is=686c96c9&hm=67aa07950313d244a08184a01598d88ce44115d68df94c31c508a787d5518869&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:05:14 AM",
       "canDownload": true,
+      "wdl": {
+        "version": "1.12.2"
+      },
       "path": "attachments/KL001_UWK_By_Donoceanu.zip"
     },
     {
@@ -64,6 +67,9 @@
       "url": "https://cdn.discordapp.com/attachments/913079212812931152/916176011048132668/UWK_By_Donoceanu11x10u.zip?ex=686de866&is=686c96e6&hm=ee2b6374cc5c77bbc5d0cec57c040f577bbf4b932133e7594eb9b1ac0f6c543b&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:05:14 AM",
       "canDownload": true,
+      "wdl": {
+        "version": "1.12.2"
+      },
       "path": "attachments/KL001_UWK_By_Donoceanu11x10u.zip"
     }
   ],
@@ -79,7 +85,7 @@
     "Requires carpet bot use continuous or autoclicker"
   ],
   "notes": "",
-  "timestamp": 1751947669932,
+  "timestamp": 1751951752553,
   "post": {
     "threadId": "1391994164899479613",
     "forumId": "1391843156307345438",
