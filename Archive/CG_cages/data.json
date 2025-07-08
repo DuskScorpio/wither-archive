@@ -3,7 +3,7 @@
   "name": "cages",
   "code": "CG",
   "description": "Wither cage designs",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1391948715228528720",
@@ -32,6 +32,13 @@
       "code": "CG004",
       "timestamp": 1751940368089,
       "path": "CG004_Wither_CageDamager"
+    },
+    {
+      "id": "1391964026585747537",
+      "name": "1-wide Suffocation Damager",
+      "code": "CG005",
+      "timestamp": 1751940688167,
+      "path": "CG005_1-wide_Suffocation_Damager"
     }
   ]
 }
