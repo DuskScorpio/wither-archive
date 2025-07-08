@@ -3,7 +3,7 @@
   "name": "cages",
   "code": "CG",
   "description": "Wither cage designs",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1391948715228528720",
@@ -25,6 +25,13 @@
       "code": "CG003",
       "timestamp": 1751940298663,
       "path": "CG003_3x3x3_Bedrock_Wither_Cage__Damager"
+    },
+    {
+      "id": "1391962233176588338",
+      "name": "Wither Cage/Damager",
+      "code": "CG004",
+      "timestamp": 1751940368089,
+      "path": "CG004_Wither_CageDamager"
     }
   ]
 }
