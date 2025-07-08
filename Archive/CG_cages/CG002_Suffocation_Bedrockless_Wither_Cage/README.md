@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391950060563988581)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391959841349832744)
 
 A device that is easy to build, stackable on the sides, and does not consume projectiles or break when going far away.
 
