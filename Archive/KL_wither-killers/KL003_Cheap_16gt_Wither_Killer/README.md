@@ -25,4 +25,4 @@ Withers' eye height is within the bedrock, so the explosion will be blocked, and
 2. Stand at the AFK spot and hold right click against the trapdoor.
 
 ## Resources
-- https://youtu.be/1jFbKOGnais?si=FfejLjfPMW81_rf9: YouTube video
+- [Cheap 16gt wither killer [1.16+]](https://youtu.be/1jFbKOGnais?si=FfejLjfPMW81_rf9): by [carbsna](https://www.youtube.com/@fakestory1753)

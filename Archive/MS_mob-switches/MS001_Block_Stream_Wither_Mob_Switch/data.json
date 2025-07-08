@@ -46,7 +46,17 @@
       "url": "https://youtu.be/UUfZbZn7ETw",
       "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:02:19 PM",
       "canDownload": false,
-      "path": "attachments/MS001_YouTube_Video_UUfZbZn7ETw.url"
+      "path": "attachments/MS001_YouTube_Video_UUfZbZn7ETw.url",
+      "youtube": {
+        "title": "Working 1.15+ Wither Based MobSwitch in Overworld / Nether",
+        "author_name": "Fallen_Breath",
+        "author_url": "https://www.youtube.com/@FallenBreath",
+        "thumbnail_url": "https://i.ytimg.com/vi/UUfZbZn7ETw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
     },
     {
       "id": "1391977811509514280",
