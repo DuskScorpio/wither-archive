@@ -1,6 +1,6 @@
 {
   "id": "1391977676616634438",
-  "name": "Wither Based Mob Switch",
+  "name": "Wither Mob Switch",
   "code": "MS001",
   "authors": [
     {
@@ -58,7 +58,7 @@
       "path": "attachments/MS001_YouTube_Video_UUfZbZn7ETw.url"
     }
   ],
-  "description": "Wither Based Mob Switch in Overworld / Nether by Fallen_Breath.",
+  "description": "Wither mob switch in Overworld / Nether by Fallen_Breath.\n### Versions\n- 1.15+",
   "features": [
     "Fast summoning of withers.",
     "Requires full diamond set Protection 4 armors, Regeneration beacon, Resistance 2 beacon.",
@@ -66,7 +66,7 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1751943949634,
+  "timestamp": 1751944337898,
   "post": {
     "threadId": "1391978562713550998",
     "forumId": "1391843180944560261",
