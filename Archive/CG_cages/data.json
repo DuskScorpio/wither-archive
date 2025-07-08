@@ -3,7 +3,7 @@
   "name": "cages",
   "code": "CG",
   "description": "Wither cage designs",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1391948715228528720",
@@ -39,6 +39,13 @@
       "code": "CG005",
       "timestamp": 1751953979227,
       "path": "CG005_Snow_Golem_Scaffolding_Cage"
+    },
+    {
+      "id": "1392055000779329627",
+      "name": "Suffocation Bedrockless Wither Cage",
+      "code": "CG006",
+      "timestamp": 1751989030661,
+      "path": "CG006_Suffocation_Bedrockless_Wither_Cage"
     }
   ]
 }
