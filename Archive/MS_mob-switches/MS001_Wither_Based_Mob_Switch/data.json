@@ -1,0 +1,79 @@
+{
+  "id": "1391977676616634438",
+  "name": "Wither Based Mob Switch",
+  "code": "MS001",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "457576839087521803",
+      "username": "fallen_breath",
+      "iconURL": "https://cdn.discordapp.com/avatars/457576839087521803/49320d505fba7962f4979195471a8df2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846579325108251",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391977676805505044",
+      "name": "2021-11-28_21.17.54.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391977676616634438/1391977676805505044/2021-11-28_21.17.54.png?ex=686ddbbb&is=686c8a3b&hm=3b9c03ba0985865ca440c671602fa824f3d6f2778463b4823165ccaa4c8bce41&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:02:19 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2021-11-28_21.17.54.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1391977811509514280",
+      "name": "MS001_wither_mob_switch_1.15_.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391977676616634438/1391977811509514280/wither_mob_switch_1.15_.zip?ex=686ddbdb&is=686c8a5b&hm=b0a1eeb039172563b1cca10c87ce1f9020cef50c150666227aefe7b50b35995d&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:02:51 PM",
+      "canDownload": true,
+      "path": "attachments/MS001_wither_mob_switch_1.15_.zip"
+    },
+    {
+      "id": "UUfZbZn7ETw",
+      "name": "MS001_YouTube_Video_UUfZbZn7ETw.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/UUfZbZn7ETw",
+      "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:02:19 PM",
+      "canDownload": false,
+      "path": "attachments/MS001_YouTube_Video_UUfZbZn7ETw.url"
+    }
+  ],
+  "description": "Wither Based Mob Switch in Overworld / Nether by Fallen_Breath.",
+  "features": [
+    "Fast summoning of withers.",
+    "Requires full diamond set Protection 4 armors, Regeneration beacon, Resistance 2 beacon.",
+    "Click under the trapdoor to place soul sand."
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1751943949634,
+  "post": {
+    "threadId": "1391978562713550998",
+    "forumId": "1391843180944560261",
+    "continuingMessageIds": [
+      "1391978565301571584"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391978562713550998",
+    "uploadMessageId": "1391978560826118176"
+  }
+}
