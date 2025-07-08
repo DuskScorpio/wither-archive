@@ -9,6 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392009168126218251)
 
+A very simple obsidian farm that produces a stack of obsidian every 7 seconds. This farm may not work on modified servers, and changes to the design would be expected in order to make the farm work.
 ### Versions
 - 1.16.5+
 ### Rates
