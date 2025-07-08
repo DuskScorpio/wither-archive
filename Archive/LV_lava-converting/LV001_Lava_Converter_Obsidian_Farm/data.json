@@ -68,6 +68,16 @@
       "url": "https://youtu.be/JI2waCPOJag",
       "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:52:12 AM",
       "canDownload": false,
+      "youtube": {
+        "title": "18k/hr Overworld Obsidian Farm | UPDATED farm in Description!",
+        "author_name": "Redstone Warper",
+        "author_url": "https://www.youtube.com/@RedstoneWarper",
+        "thumbnail_url": "https://i.ytimg.com/vi/JI2waCPOJag/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
       "path": "attachments/LV001_YouTube_Video_JI2waCPOJag.url"
     },
     {
@@ -77,6 +87,16 @@
       "url": "https://youtu.be/UA2HytjAqYo",
       "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:52:12 AM",
       "canDownload": false,
+      "youtube": {
+        "title": "UPDATED 18k Obsidian p/h | Single Dimension | V2",
+        "author_name": "Redstone Warper",
+        "author_url": "https://www.youtube.com/@RedstoneWarper",
+        "thumbnail_url": "https://i.ytimg.com/vi/UA2HytjAqYo/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
       "path": "attachments/LV001_YouTube_Video_UA2HytjAqYo.url"
     }
   ],
@@ -87,7 +107,7 @@
   ],
   "considerations": [],
   "notes": "- This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava.",
-  "timestamp": 1751950547990,
+  "timestamp": 1751954041716,
   "post": {
     "threadId": "1392006235183648818",
     "forumId": "1391837246843260938",
