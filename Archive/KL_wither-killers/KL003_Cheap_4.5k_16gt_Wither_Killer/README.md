@@ -1,4 +1,4 @@
-# Cheap 16gt Wither Killer
+# Cheap 4.5k 16gt Wither Killer
 <img alt="area_render_9_.png" src="images/area_render_9_.png?raw=1" height="300px">
 
 **Authors:** *carbsna*
@@ -11,6 +11,8 @@
 
 A wither killer that uses sticky pistons to pull soul sand into a T shape and pull withers upwards into the bedrock.
 Withers' eye height is within the bedrock, so the explosion will be blocked, and wither skulls will also spawn in the bedrocks. Withers die from suffocation and cramming.
+### Versions
+- 1.17+
 ### Files
 - [Schematics](https://www.minemev.com/p/692861fa-25c4-40e7-bede-16f495e1ef38/)
 
@@ -25,4 +27,4 @@ Withers' eye height is within the bedrock, so the explosion will be blocked, and
 2. Stand at the AFK spot and hold right click against the trapdoor.
 
 ## Resources
-- [Cheap 16gt wither killer [1.16+]](https://youtu.be/1jFbKOGnais?si=FfejLjfPMW81_rf9): by [carbsna](https://www.youtube.com/@fakestory1753)
+- https://youtu.be/1jFbKOGnais?si=FfejLjfPMW81_rf9: YouTube video
