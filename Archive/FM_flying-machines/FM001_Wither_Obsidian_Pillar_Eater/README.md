@@ -1,5 +1,5 @@
 # Wither Obsidian Pillar Eater
-<img alt="2022-03-08_17.png" src="images/2022-03-08_17.png?raw=1" height="300px">
+<img alt="FM001_5wide1.18_render.png" src="images/FM001_5wide1.18_render.png?raw=1">
 
 **Authors:** *Vitamin_C*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Untested*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391999632850157659)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392573103007334452)
 
 The world's very first pillar eater that uses Withers instead of players/bots to mine obsidian. Usable in any difficulty. The snow golem at the top is targeted by the Wither's main head, and the iron golem behind the wall is targeted by the side heads.
 ### Credits
@@ -37,6 +37,9 @@ And for providing a 1.18 testing server and helping with pathfinding debugging.
 ## Notes
 - Check video link for user guide and more info. DM for questions. Recommended to make backups before starting the machine.
 - Mojang changed Wither pathfinding in 1.18, so be sure to check the versions before using the machine.
+
+## Other Images
+<img src="images/2022-03-08_17.png?raw=1" height="300px">
 
 ## Resources
 - [FM001_5wide1.16.litematic](attachments/FM001_5wide1.16.litematic): MC 1.16.5, Size 7x23x33 blocks
