@@ -77,25 +77,16 @@
       "path": "attachments/NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url"
     },
     {
-      "id": "1380382064460828772",
-      "name": "NP002_Wither_Summoning.mp4",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380382064460828772/Wither_Summoning.mp4?ex=686ddc7a&is=686c8afa&hm=419b7f94bc68c0356379e34b7a51bf371ac161526bf635fc46ca837ee67452fb&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:35:02 AM",
-      "canDownload": true,
-      "path": "attachments/NP002_Wither_Summoning.mp4"
-    },
-    {
       "id": "1380024314883215490",
       "name": "NP002_Portal_Obsidian_Farm_WDL.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380024314883215490/Portal_Obsidian_Farm_WDL.zip?ex=686de0cc&is=686c8f4c&hm=652a72cfc0acb2582fab5c12b63038a8f98a1bb44a3af0322ba0d8cc2976a9b3&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
       "canDownload": true,
+      "path": "attachments/NP002_Portal_Obsidian_Farm_WDL.zip",
       "wdl": {
         "version": "1.21.4"
-      },
-      "path": "attachments/NP002_Portal_Obsidian_Farm_WDL.zip"
+      }
     },
     {
       "id": "1380262575580647494",
@@ -104,11 +95,11 @@
       "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380262575580647494/Netherside_Portal_Obsidian_-_Scorpio.litematic?ex=686d6d32&is=686c1bb2&hm=d74308a2b5b19d8d7684979faf05d793bb59cd4718ba31546ddf637e8474c6f1&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
       "canDownload": true,
+      "path": "attachments/NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic",
       "litematic": {
         "size": "6x5x7",
         "version": "1.21.4"
-      },
-      "path": "attachments/NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic"
+      }
     },
     {
       "id": "Ho_aJ1Lw0Zw",
@@ -134,7 +125,7 @@
   "features": [],
   "considerations": [],
   "notes": "### Build\n1. Find a location you want to build at and build like a 17x17 platform centered on where you would about want the portal to go as the highest blocks in that location\n  - This platform should be at subchunk level 15\n  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see figure 1)\n2. Go to the equivalent in the nether by doing standard portal math scaling the center of the platform by 8 (y level is not considered for this case)\n3. Build the duper and portal setup, do not go through the portal yourself, there should be no lit portal within a 33x33 area for all y values in the overworld\n4. Light the portal and send one or two tnt through\n4. Go through and the portal should have generated in it's preferred location\n5. Build the overworld collection with that portal as the location where it'll generate but do not build the wither cages and summon the withers yet\n  - The boats and wither should be in the same chunk\n6. When you initially remove the portal you can use a setup with sand and rails as shown in place of the four blocks where the nether portal's base was. Break the rails and place signs on both sides\n7. Send tnt through the duper and verify that the sand is replaced and a portal is generated in that spot\n  - If this succeeds you should build the rest of the overworld side\n9. Summon all other mobs before the wither\n10. Follow figure 2 for summoning\n11. Remove the water as shown in the video\n### How to use\n- You can start the duper by placing a cart on the rails in the nether side.\n- You either need to afk here or build a chunk loader to entity load the duper and tnt.",
-  "timestamp": 1752052234749,
+  "timestamp": 1752052471903,
   "post": {
     "threadId": "1392432741395730432",
     "forumId": "1391837205319778367",
@@ -143,6 +134,6 @@
       "1392432746692874301"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392432741395730432",
-    "uploadMessageId": "1392018574419427389"
+    "uploadMessageId": "1392433735697174529"
   }
 }
