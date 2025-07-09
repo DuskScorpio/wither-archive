@@ -3,7 +3,7 @@
   "name": "wither-killers",
   "code": "KL",
   "description": "Wither killers",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1391993510697111635",
@@ -25,6 +25,13 @@
       "code": "KL003",
       "timestamp": 1752066694235,
       "path": "KL003_Cheap_4.5k_16gt_Wither_Killer"
+    },
+    {
+      "id": "1392514947455385610",
+      "name": "18k 4gt Wither Killer",
+      "code": "KL004",
+      "timestamp": 1752072015606,
+      "path": "KL004_18k_4gt_Wither_Killer"
     }
   ]
 }
