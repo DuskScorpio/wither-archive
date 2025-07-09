@@ -3,7 +3,7 @@
   "name": "cages",
   "code": "CG",
   "description": "Wither cage designs",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1391948715228528720",
@@ -46,6 +46,13 @@
       "code": "CG006",
       "timestamp": 1751989030661,
       "path": "CG006_Suffocation_Bedrockless_Wither_Cage"
+    },
+    {
+      "id": "1392388447075041312",
+      "name": "Bedrockless Boat Wither Cage",
+      "code": "CG007",
+      "timestamp": 1752044499034,
+      "path": "CG007_Bedrockless_Boat_Wither_Cage"
     }
   ]
 }
