@@ -1,7 +1,7 @@
 # Lava Converter Obsidian Farm
 <img alt="2021-12-06_14.51.34.png" src="images/2021-12-06_14.51.34.png?raw=1" height="300px">
 
-**Authors:** *Redstone Warper*
+**Authors:** *warp_man*
 
 **Endorsed by:** *Scorpio*
 
