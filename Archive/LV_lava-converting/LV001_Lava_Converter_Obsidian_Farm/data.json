@@ -4,8 +4,10 @@
   "code": "LV001",
   "authors": [
     {
-      "type": "unknown",
-      "username": "Redstone Warper"
+      "type": "discord-external",
+      "id": "675499174174654484",
+      "username": "warp_man",
+      "iconURL": "https://cdn.discordapp.com/avatars/675499174174654484/e6f698d0fe7e76923a53b3b7c4216e4f.webp"
     }
   ],
   "endorsers": [
@@ -107,7 +109,7 @@
   ],
   "considerations": [],
   "notes": "- This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava.",
-  "timestamp": 1751954041716,
+  "timestamp": 1752074383391,
   "post": {
     "threadId": "1392006235183648818",
     "forumId": "1391837246843260938",
