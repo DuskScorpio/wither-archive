@@ -3,7 +3,7 @@
   "name": "block-farms",
   "code": "BF",
   "description": "Block farms",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1392034753632534669",
@@ -25,6 +25,13 @@
       "code": "BF003",
       "timestamp": 1752072557373,
       "path": "BF003_Bedrock_Cage_Cobblestone_Farm"
+    },
+    {
+      "id": "1392417660163195005",
+      "name": "28.8k Wither Snowball Farm",
+      "code": "BF004",
+      "timestamp": 1752076548943,
+      "path": "BF004_28.8k_Wither_Snowball_Farm"
     }
   ]
 }
