@@ -28,6 +28,15 @@
   ],
   "images": [
     {
+      "id": "1392572944529625098",
+      "name": "FM001_5wide1.18_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392572944529625098/FM001_5wide1.18_render.png?ex=6870061e&is=686eb49e&hm=3bbaf95cd54423245b1548b5d0d47cb9397c17be5bafb0412d3f07415c22fb67&",
+      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 2:27:42 PM",
+      "canDownload": true,
+      "path": "images/FM001_5wide1.18_render.png"
+    },
+    {
       "id": "950701497883181076",
       "name": "2022-03-08_17.png",
       "contentType": "discord",
@@ -161,17 +170,17 @@
     "There's a small chance of black skulls bypassing the wall, if you are building multiple pillar eaters, be sure to consider that."
   ],
   "notes": "- Check video link for user guide and more info. DM for questions. Recommended to make backups before starting the machine.\n- Mojang changed Wither pathfinding in 1.18, so be sure to check the versions before using the machine.",
-  "timestamp": 1752051823164,
+  "timestamp": 1752085699598,
   "post": {
-    "threadId": "1391999632850157659",
+    "threadId": "1392573103007334452",
     "forumId": "1391843267682898010",
     "continuingMessageIds": [
-      "1391999636260126783",
-      "1391999637199523880",
-      "1392022544118186116",
-      "1392022544776695871"
+      "1392573106568036393",
+      "1392573107793035357",
+      "1392573109009252536",
+      "1392573109382680760"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391999632850157659",
+    "threadURL": "https://discord.com/channels/913065809096638494/1392573103007334452",
     "uploadMessageId": "1392022540167417961"
   }
 }
