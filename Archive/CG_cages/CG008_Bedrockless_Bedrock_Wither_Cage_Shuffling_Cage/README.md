@@ -7,7 +7,7 @@
 
 **Tags:** *Untested*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392539296690339911)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392541242201608214)
 
 A bedrock-less wither cage made long ago.
 ## Versions
