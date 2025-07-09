@@ -62,3 +62,10 @@ Sends tnt through a portal to both generate obsidian and damage two withers.
 **Other attachments:**
 - [image.png](comments_attachments/1380250163020431400-image.png): discord
 
+
+### Scorpio (7/9/2025)
+- *Figure 2.* https://cdn.discordapp.com/attachments/1377853076978794526/1380382064460828772/Wither_Summoning.mp4?ex=686f2dfa&is=686ddc7a&hm=a55045e10db28aec7defad81de560d7d68b48d4dcb290facdbc0020c7016906d&
+
+**Other attachments:**
+- [Wither_Summoning.mp4](comments_attachments/1380382064460828772-wither_summoning.mp4): discord
+
