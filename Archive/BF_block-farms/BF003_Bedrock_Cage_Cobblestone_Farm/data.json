@@ -1,7 +1,7 @@
 {
   "id": "1392517165185368237",
   "name": "Bedrock Cage Cobblestone Farm",
-  "code": "ST003",
+  "code": "BF003",
   "authors": [
     {
       "type": "discord-external",
@@ -41,12 +41,12 @@
   "attachments": [
     {
       "id": "913096260116963328",
-      "name": "ST003_cobbleyeeter_64000.litematic",
+      "name": "BF003_cobbleyeeter_64000.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/913096260116963328/cobbleyeeter_64000.litematic?ex=686f3a68&is=686de8e8&hm=51f5db2956de406f3a814406ee465b94e09ef3672fabb4fe0ae4c76064b2701a&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 10:46:03 AM",
       "canDownload": true,
-      "path": "attachments/ST003_cobbleyeeter_64000.litematic",
+      "path": "attachments/BF003_cobbleyeeter_64000.litematic",
       "litematic": {
         "size": "16x19x19",
         "version": "1.15.2"

@@ -1,7 +1,7 @@
 {
   "id": "1392386133849276416",
   "name": "Bedrockless Wither Cobble farm",
-  "code": "ST002",
+  "code": "BF002",
   "authors": [
     {
       "type": "discord-in-guild",
@@ -42,12 +42,12 @@
   "attachments": [
     {
       "id": "1333141828404510720",
-      "name": "ST002_Cobble_farm_1.21_61k.litematic",
+      "name": "BF002_Cobble_farm_1.21_61k.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1333141828404510720/Cobble_farm_1.21_61k.litematic?ex=686eb514&is=686d6394&hm=850afbdd905566fa8567b4af37f4d84f16f650ac7ff8dc64c87ae66539cf2ba5&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 2:06:13 AM",
       "canDownload": true,
-      "path": "attachments/ST002_Cobble_farm_1.21_61k.litematic",
+      "path": "attachments/BF002_Cobble_farm_1.21_61k.litematic",
       "litematic": {
         "size": "17x13x11",
         "version": "1.21"

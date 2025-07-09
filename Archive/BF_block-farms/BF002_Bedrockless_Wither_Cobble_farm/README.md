@@ -24,4 +24,4 @@ A Bedrockless Wither Cobble farm
 - Replace ice block into water
 
 ## Resources
-- [ST002_Cobble_farm_1.21_61k.litematic](attachments/ST002_Cobble_farm_1.21_61k.litematic): MC 1.21, Size 17x13x11 blocks
+- [BF002_Cobble_farm_1.21_61k.litematic](attachments/BF002_Cobble_farm_1.21_61k.litematic): MC 1.21, Size 17x13x11 blocks

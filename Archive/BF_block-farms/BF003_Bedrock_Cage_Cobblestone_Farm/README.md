@@ -28,4 +28,4 @@ A single bedrock y4 cage cobblegen
 - Arrow pre-damager still required in 1.15+ as it sets the block breaking timing
 
 ## Resources
-- [ST003_cobbleyeeter_64000.litematic](attachments/ST003_cobbleyeeter_64000.litematic): MC 1.15.2, Size 16x19x19 blocks
+- [BF003_cobbleyeeter_64000.litematic](attachments/BF003_cobbleyeeter_64000.litematic): MC 1.15.2, Size 16x19x19 blocks
