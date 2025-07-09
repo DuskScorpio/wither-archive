@@ -61,3 +61,11 @@ How to summon withers:
 **Other attachments:**
 - [Wither_Summoning.mp4](comments_attachments/1392029846506311711-wither_summoning.mp4): video/mp4
 
+
+### Scorpio (7/9/2025)
+## Figures
+- *Figure 1.* https://cdn.discordapp.com/attachments/1377853076978794526/1380250163020431400/image.png?ex=686f5be2&is=686e0a62&hm=b471ed648fdf69651deaa506a08159938c19323f31c0084cc6b49ac20199a5be&
+
+**Other attachments:**
+- [image.png](comments_attachments/1380250163020431400-image.png): discord
+
