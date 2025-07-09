@@ -3,7 +3,7 @@
   "name": "wither-rose-farms",
   "code": "WR",
   "description": "Wither rose farms",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1392035783728173076",
@@ -25,6 +25,13 @@
       "code": "WR003",
       "timestamp": 1751995975328,
       "path": "WR003_IanXO4s_2.9k_Wither_Rose_Farm"
+    },
+    {
+      "id": "1392418552652369930",
+      "name": "Armor Stand Wither Rose Farm Cage",
+      "code": "WR004",
+      "timestamp": 1752050889947,
+      "path": "WR004_Armor_Stand_Wither_Rose_Farm_Cage"
     }
   ]
 }
