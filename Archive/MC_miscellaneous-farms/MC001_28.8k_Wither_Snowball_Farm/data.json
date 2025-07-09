@@ -1,0 +1,67 @@
+{
+  "id": "1392417660163195005",
+  "name": "28.8k Wither Snowball Farm",
+  "code": "MC001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838294479736860",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1378493506225438922",
+      "name": "area_render_22_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1378493506225438922/area_render_22_.png",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 4:10:40 AM",
+      "canDownload": true,
+      "width": 325,
+      "height": 465,
+      "path": "images/area_render_22_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "r28ia50aw1he930",
+      "name": "MC001_SimpleWitherSnowFarm.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/r28ia50aw1he930/Simple+Wither+Snow+Farm.zip/file",
+      "description": "[MediaFire] Sent by scorpio03 at 7/9/2025, 4:10:40 AM",
+      "canDownload": false,
+      "path": "attachments/MC001_SimpleWitherSnowFarm.url"
+    }
+  ],
+  "description": "A simple wither snowball farm.\n## Credit\n- <@615152957192798218>: Original design\n## Versions\n- 1.17+\n## Rates\n- Snowball: 28.8k/h\n## Video Links\n- [Showcase](<https://www.bilibili.com/video/BV1oXSGYfELZ>)\n## Positives\n- No TNT duping\n## Design Specifications\n- Uses a wither to break snow layers made by snow golems\n## Instructions\n### Notes\n- Refer to the video for further instructions.\n### How to use\n 1. Flick the lever to toggle the farm.",
+  "features": [],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1752048787001,
+  "post": {
+    "threadId": "1392418277627793490",
+    "forumId": "1391832581481173134",
+    "continuingMessageIds": [
+      "1392418280941162607"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392418277627793490",
+    "uploadMessageId": ""
+  }
+}
