@@ -4,13 +4,5 @@
   "code": "MC",
   "description": "Miscellaneous farms",
   "currentCodeId": 1,
-  "entries": [
-    {
-      "id": "1392417660163195005",
-      "name": "28.8k Wither Snowball Farm",
-      "code": "MC001",
-      "timestamp": 1752048787001,
-      "path": "MC001_28.8k_Wither_Snowball_Farm"
-    }
-  ]
+  "entries": []
 }

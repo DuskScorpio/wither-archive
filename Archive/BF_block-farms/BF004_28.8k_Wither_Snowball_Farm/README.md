@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392418277627793490)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392534721707249735)
 
 A simple wither snowball farm.
 ## Credit
@@ -29,4 +29,4 @@ A simple wither snowball farm.
  1. Flick the lever to toggle the farm.
 
 ## Resources
-- [MC001_SimpleWitherSnowFarm.url](https://www.mediafire.com/file/r28ia50aw1he930/Simple+Wither+Snow+Farm.zip/file): Mediafire link
+- [BF004_SimpleWitherSnowFarm.url](https://www.mediafire.com/file/r28ia50aw1he930/Simple+Wither+Snow+Farm.zip/file): Mediafire link

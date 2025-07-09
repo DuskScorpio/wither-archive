@@ -1,7 +1,7 @@
 {
   "id": "1392417660163195005",
   "name": "28.8k Wither Snowball Farm",
-  "code": "MC001",
+  "code": "BF004",
   "authors": [
     {
       "type": "discord-in-guild",
@@ -22,8 +22,8 @@
   ],
   "tags": [
     {
-      "id": "1391838294479736860",
-      "name": "Tested & Functional"
+      "name": "Tested & Functional",
+      "id": "1391838287383105664"
     }
   ],
   "images": [
@@ -42,26 +42,26 @@
   "attachments": [
     {
       "id": "r28ia50aw1he930",
-      "name": "MC001_SimpleWitherSnowFarm.url",
+      "name": "BF004_SimpleWitherSnowFarm.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/file/r28ia50aw1he930/Simple+Wither+Snow+Farm.zip/file",
       "description": "[MediaFire] Sent by scorpio03 at 7/9/2025, 4:10:40 AM",
       "canDownload": false,
-      "path": "attachments/MC001_SimpleWitherSnowFarm.url"
+      "path": "attachments/BF004_SimpleWitherSnowFarm.url"
     }
   ],
   "description": "A simple wither snowball farm.\n## Credit\n- <@615152957192798218>: Original design\n## Versions\n- 1.17+\n## Rates\n- Snowball: 28.8k/h\n## Video Links\n- [Showcase](<https://www.bilibili.com/video/BV1oXSGYfELZ>)\n## Positives\n- No TNT duping\n## Design Specifications\n- Uses a wither to break snow layers made by snow golems\n## Instructions\n### Notes\n- Refer to the video for further instructions.\n### How to use\n 1. Flick the lever to toggle the farm.",
   "features": [],
   "considerations": [],
   "notes": "",
-  "timestamp": 1752048787001,
+  "timestamp": 1752076548943,
   "post": {
-    "threadId": "1392418277627793490",
-    "forumId": "1391832581481173134",
+    "threadId": "1392534721707249735",
+    "forumId": "1391832229339988110",
     "continuingMessageIds": [
-      "1392418280941162607"
+      "1392534725348036778"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392418277627793490",
+    "threadURL": "https://discord.com/channels/913065809096638494/1392534721707249735",
     "uploadMessageId": ""
   }
 }
