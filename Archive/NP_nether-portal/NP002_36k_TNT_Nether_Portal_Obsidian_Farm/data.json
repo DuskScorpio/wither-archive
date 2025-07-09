@@ -54,17 +54,6 @@
       "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
       "canDownload": true,
       "path": "images/image_1.png"
-    },
-    {
-      "id": "1380250163020431400",
-      "name": "image_2.png",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380250163020431400/image.png?ex=686d61a2&is=686c1022&hm=65f125be0c2ca3da89b17accc931597308d27e21c7955e26b0a47215cfc58c10&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:35:02 AM",
-      "canDownload": true,
-      "width": 800,
-      "height": 282,
-      "path": "images/image_2.png"
     }
   ],
   "attachments": [
@@ -144,16 +133,16 @@
   "description": "Sends tnt through a portal to both generate obsidian and damage two withers.\n### Credits\n- <@247478244960501760> Overworld side cage dev\n- <@513900971219353600> Nether side, cage dev\n- <@523191268294262785> cage dev\n- @savva's Reload detector: https://youtu.be/Ho_aJ1Lw0Zw\n### Versions\n- 1.21+\n### Rates\n- 36k/h\n### Video Links\n- [Cage explanation video](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC)",
   "features": [],
   "considerations": [],
-  "notes": "### Build\n1. Find a location you want to build at and build like a 17x17 platform centered on where you would about want the portal to go as the highest blocks in that location\n  - This platform should be at subchunk level 15\n  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see image)\n2. Go to the equivalent in the nether by doing standard portal math scaling the center of the platform by 8 (y level is not considered for this case)\n3. Build the duper and portal setup, do not go through the portal yourself, there should be no lit portal within a 33x33 area for all y values in the overworld\n4. Light the portal and send one or two tnt through\n4. Go through and the portal should have generated in it's preferred location\n5. Build the overworld collection with that portal as the location where it'll generate but do not build the wither cages and summon the withers yet\n  - The boats and wither should be in the same chunk\n6. When you initially remove the portal you can use a setup with sand and rails as shown in place of the four blocks where the nether portal's base was. Break the rails and place signs on both sides\n7. Send tnt through the duper and verify that the sand is replaced and a portal is generated in that spot\n  - If this succeeds you should build the rest of the overworld side\n9. Summon all other mobs before the wither\n10. Follow the attached video for summoning\n11. Remove the water as shown in the video\n### How to use\n- You can start the duper by placing a cart on the rails in the nether side.\n- You either need to afk here or build a chunk loader to entity load the duper and tnt.",
-  "timestamp": 1751998006881,
+  "notes": "### Build\n1. Find a location you want to build at and build like a 17x17 platform centered on where you would about want the portal to go as the highest blocks in that location\n  - This platform should be at subchunk level 15\n  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see figure 1)\n2. Go to the equivalent in the nether by doing standard portal math scaling the center of the platform by 8 (y level is not considered for this case)\n3. Build the duper and portal setup, do not go through the portal yourself, there should be no lit portal within a 33x33 area for all y values in the overworld\n4. Light the portal and send one or two tnt through\n4. Go through and the portal should have generated in it's preferred location\n5. Build the overworld collection with that portal as the location where it'll generate but do not build the wither cages and summon the withers yet\n  - The boats and wither should be in the same chunk\n6. When you initially remove the portal you can use a setup with sand and rails as shown in place of the four blocks where the nether portal's base was. Break the rails and place signs on both sides\n7. Send tnt through the duper and verify that the sand is replaced and a portal is generated in that spot\n  - If this succeeds you should build the rest of the overworld side\n9. Summon all other mobs before the wither\n10. Follow figure 2 for summoning\n11. Remove the water as shown in the video\n### How to use\n- You can start the duper by placing a cart on the rails in the nether side.\n- You either need to afk here or build a chunk loader to entity load the duper and tnt.",
+  "timestamp": 1752052234749,
   "post": {
-    "threadId": "1392205292732940331",
+    "threadId": "1392432741395730432",
     "forumId": "1391837205319778367",
     "continuingMessageIds": [
-      "1392205300110590022",
-      "1392205300706050198"
+      "1392432745896218684",
+      "1392432746692874301"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392205292732940331",
+    "threadURL": "https://discord.com/channels/913065809096638494/1392432741395730432",
     "uploadMessageId": "1392018574419427389"
   }
 }
