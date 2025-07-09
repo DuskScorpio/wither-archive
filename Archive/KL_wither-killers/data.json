@@ -3,7 +3,7 @@
   "name": "wither-killers",
   "code": "KL",
   "description": "Wither killers",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1391993510697111635",
@@ -32,6 +32,13 @@
       "code": "KL004",
       "timestamp": 1752072015606,
       "path": "KL004_18k_4gt_Wither_Killer"
+    },
+    {
+      "id": "1392515832969691207",
+      "name": "Poor Man's Wither Killer",
+      "code": "KL005",
+      "timestamp": 1752072165060,
+      "path": "KL005_Poor_Mans_Wither_Killer"
     }
   ]
 }
