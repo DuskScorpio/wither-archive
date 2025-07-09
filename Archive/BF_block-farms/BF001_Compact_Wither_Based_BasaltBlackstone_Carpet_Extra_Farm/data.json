@@ -1,7 +1,7 @@
 {
   "id": "1392034753632534669",
   "name": "Compact Wither Based Basalt/Blackstone (Carpet Extra) Farm",
-  "code": "ST001",
+  "code": "BF001",
   "authors": [
     {
       "type": "discord-external",
@@ -48,12 +48,12 @@
   "attachments": [
     {
       "id": "913086501515063357",
-      "name": "ST001_basalt_v2.2.litematic",
+      "name": "BF001_basalt_v2.2.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913077422092595240/913086501515063357/basalt_v2.2.litematic?ex=686ddfd2&is=686c8e52&hm=f4bf1577fcc6017d0f05b1bedddadf9bba902a43bbb515b2b51819f7bb71071f&",
       "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:49:08 AM",
       "canDownload": true,
-      "path": "attachments/ST001_basalt_v2.2.litematic",
+      "path": "attachments/BF001_basalt_v2.2.litematic",
       "litematic": {
         "size": "18x23x15",
         "version": "1.16.1"

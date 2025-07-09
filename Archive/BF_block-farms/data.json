@@ -1,30 +1,30 @@
 {
   "id": "1391832229339988110",
-  "name": "stone-and-basalt",
-  "code": "ST",
-  "description": "Cobblestone and basalt farms",
+  "name": "block-farms",
+  "code": "BF",
+  "description": "Block farms",
   "currentCodeId": 3,
   "entries": [
     {
       "id": "1392034753632534669",
       "name": "Compact Wither Based Basalt/Blackstone (Carpet Extra) Farm",
-      "code": "ST001",
+      "code": "BF001",
       "timestamp": 1751957503951,
-      "path": "ST001_Compact_Wither_Based_BasaltBlackstone_Carpet_Extra_Farm"
+      "path": "BF001_Compact_Wither_Based_BasaltBlackstone_Carpet_Extra_Farm"
     },
     {
       "id": "1392386133849276416",
       "name": "Bedrockless Wither Cobble farm",
-      "code": "ST002",
+      "code": "BF002",
       "timestamp": 1752041306234,
-      "path": "ST002_Bedrockless_Wither_Cobble_farm"
+      "path": "BF002_Bedrockless_Wither_Cobble_farm"
     },
     {
       "id": "1392517165185368237",
       "name": "Bedrock Cage Cobblestone Farm",
-      "code": "ST003",
+      "code": "BF003",
       "timestamp": 1752072557373,
-      "path": "ST003_Bedrock_Cage_Cobblestone_Farm"
+      "path": "BF003_Bedrock_Cage_Cobblestone_Farm"
     }
   ]
 }

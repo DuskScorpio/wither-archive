@@ -22,4 +22,4 @@ A compact wither based basalt/blackstone farm with carpet extra.
 - 3 wide tileable but you will have to rewire clocks to tile wider.
 
 ## Resources
-- [ST001_basalt_v2.2.litematic](attachments/ST001_basalt_v2.2.litematic): MC 1.16.1, Size 18x23x15 blocks
+- [BF001_basalt_v2.2.litematic](attachments/BF001_basalt_v2.2.litematic): MC 1.16.1, Size 18x23x15 blocks
