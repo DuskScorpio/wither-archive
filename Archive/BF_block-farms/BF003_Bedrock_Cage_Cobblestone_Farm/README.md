@@ -1,5 +1,5 @@
 # Bedrock Cage Cobblestone Farm
-<img alt="unknown.png" src="images/unknown.png?raw=1" height="300px">
+<img alt="ST003_cobbleyeeter_64000_render.png" src="images/ST003_cobbleyeeter_64000_render.png?raw=1" height="300px">
 
 **Authors:** *deathsneeze.sys*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392517978515574958)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392569679662284930)
 
 A single bedrock y4 cage cobblegen
 ### Versions
@@ -26,6 +26,9 @@ A single bedrock y4 cage cobblegen
 
 ## Notes
 - Arrow pre-damager still required in 1.15+ as it sets the block breaking timing
+
+## Other Images
+<img src="images/unknown.png?raw=1" height="300px">
 
 ## Resources
 - [BF003_cobbleyeeter_64000.litematic](attachments/BF003_cobbleyeeter_64000.litematic): MC 1.15.2, Size 16x19x19 blocks
