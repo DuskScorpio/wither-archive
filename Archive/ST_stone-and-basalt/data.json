@@ -3,7 +3,7 @@
   "name": "stone-and-basalt",
   "code": "ST",
   "description": "Cobblestone and basalt farms",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1392034753632534669",
@@ -18,6 +18,13 @@
       "code": "ST002",
       "timestamp": 1752041306234,
       "path": "ST002_Bedrockless_Wither_Cobble_farm"
+    },
+    {
+      "id": "1392517165185368237",
+      "name": "Bedrock Cage Cobblestone Farm",
+      "code": "ST003",
+      "timestamp": 1752072557373,
+      "path": "ST003_Bedrock_Cage_Cobblestone_Farm"
     }
   ]
 }
