@@ -2,10 +2,10 @@
   "archiveChannels": [
     {
       "id": "1391832229339988110",
-      "name": "stone-and-basalt",
-      "code": "ST",
-      "path": "Archive/ST_stone-and-basalt",
-      "description": "Cobblestone and basalt farms"
+      "name": "block-farms",
+      "code": "BF",
+      "path": "Archive/BF_block-farms",
+      "description": "Block farms"
     },
     {
       "id": "1391832288668680332",
@@ -51,9 +51,9 @@
     },
     {
       "id": "1391837246843260938",
-      "name": "lava-converting",
+      "name": "lava-converter",
       "code": "LV",
-      "path": "Archive/LV_lava-converting",
+      "path": "Archive/LV_lava-converter",
       "description": "Lava converter-based obsidian farms"
     },
     {
