@@ -3,7 +3,7 @@
   "name": "stone-and-basalt",
   "code": "ST",
   "description": "Cobblestone and basalt farms",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1392034753632534669",
@@ -11,6 +11,13 @@
       "code": "ST001",
       "timestamp": 1751957503951,
       "path": "ST001_Compact_Wither_Based_BasaltBlackstone_Carpet_Extra_Farm"
+    },
+    {
+      "id": "1392386133849276416",
+      "name": "Bedrockless Wither Cobble farm",
+      "code": "ST002",
+      "timestamp": 1752041306234,
+      "path": "ST002_Bedrockless_Wither_Cobble_farm"
     }
   ]
 }
