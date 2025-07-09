@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392205292732940331)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392432741395730432)
 
 Sends tnt through a portal to both generate obsidian and damage two withers.
 ### Credits
@@ -26,7 +26,7 @@ Sends tnt through a portal to both generate obsidian and damage two withers.
 ### Build
 1. Find a location you want to build at and build like a 17x17 platform centered on where you would about want the portal to go as the highest blocks in that location
   - This platform should be at subchunk level 15
-  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see image)
+  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see figure 1)
 2. Go to the equivalent in the nether by doing standard portal math scaling the center of the platform by 8 (y level is not considered for this case)
 3. Build the duper and portal setup, do not go through the portal yourself, there should be no lit portal within a 33x33 area for all y values in the overworld
 4. Light the portal and send one or two tnt through
@@ -37,7 +37,7 @@ Sends tnt through a portal to both generate obsidian and damage two withers.
 7. Send tnt through the duper and verify that the sand is replaced and a portal is generated in that spot
   - If this succeeds you should build the rest of the overworld side
 9. Summon all other mobs before the wither
-10. Follow the attached video for summoning
+10. Follow figure 2 for summoning
 11. Remove the water as shown in the video
 ### How to use
 - You can start the duper by placing a cart on the rails in the nether side.
@@ -45,8 +45,6 @@ Sends tnt through a portal to both generate obsidian and damage two withers.
 
 ## Other Images
 <img src="images/image_1.png?raw=1">
-
-<img src="images/image_2.png?raw=1">
 
 ## Resources
 - [SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC): by [Scorpio](https://www.youtube.com/@Scorpio03)
