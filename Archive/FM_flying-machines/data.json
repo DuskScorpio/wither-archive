@@ -3,7 +3,7 @@
   "name": "flying-machines",
   "code": "FM",
   "description": "Wither flying machines",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1391998368737136701",
@@ -11,6 +11,13 @@
       "code": "FM001",
       "timestamp": 1752051823164,
       "path": "FM001_Wither_Obsidian_Pillar_Eater"
+    },
+    {
+      "id": "1392441988577628271",
+      "name": "Hard Difficulty Wither Tunnel Bore",
+      "code": "FM002",
+      "timestamp": 1752054778303,
+      "path": "FM002_Hard_Difficulty_Wither_Tunnel_Bore"
     }
   ]
 }
