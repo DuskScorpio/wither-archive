@@ -12,6 +12,8 @@
 A simple wither cage without any redstone made by @bigbooty17 and <@513900971219353600>. 
 ### Credits
 - Chunk reload detector and chunk loading explanation by @savva4424.
+### Versions
+- 1.16+
 ### Video Links
 - [Showcase](https://youtu.be/Cf1lBWqwzIo)
 ### Design Specifications
