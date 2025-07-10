@@ -11,8 +11,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
     },
     {
-      "type": "unknown",
-      "username": "SunnySlopes"
+      "type": "discord-in-guild",
+      "id": "866895301221679124",
+      "displayName": "sunny_slopes",
+      "username": "sunny_slopes",
+      "iconURL": "https://cdn.discordapp.com/avatars/866895301221679124/f523448debae2eb47df14626a2cf14b9.webp"
     }
   ],
   "endorsers": [
@@ -44,6 +47,15 @@
     }
   ],
   "attachments": [
+    {
+      "id": "fxfb14fiivogr",
+      "name": "MS004_BedrocklessWitherMobSwitchV2.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2",
+      "description": "[MediaFire] Sent by scorpio03 at 7/10/2025, 4:30:40 AM",
+      "canDownload": false,
+      "path": "attachments/MS004_BedrocklessWitherMobSwitchV2.url"
+    },
     {
       "id": "1391991777476612107",
       "name": "MS004_WitherMobSwitch1.16BlockStre.zip",
@@ -93,13 +105,23 @@
       }
     },
     {
-      "id": "fxfb14fiivogr",
-      "name": "MS004_BedrocklessWitherMobSwitchV2.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2",
-      "description": "[MediaFire] Sent by scorpio03 at 7/10/2025, 4:30:40 AM",
+      "id": "bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp",
+      "name": "MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp",
+      "description": "[YouTube] Sent by scorpio03 at 7/10/2025, 4:48:24 AM",
       "canDownload": false,
-      "path": "attachments/MS004_BedrocklessWitherMobSwitchV2.url"
+      "youtube": {
+        "title": "Wither Mob Switch Design [Minecraft 1.16.5]",
+        "author_name": "trizz",
+        "author_url": "https://www.youtube.com/@trizz9496",
+        "thumbnail_url": "https://i.ytimg.com/vi/bGYSgBKUO8c/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url"
     }
   ],
   "description": "World's first bedrockless wither mob switch\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)",
@@ -109,14 +131,15 @@
   ],
   "considerations": [],
   "notes": "",
-  "timestamp": 1752136254127,
+  "timestamp": 1752151059711,
   "post": {
     "threadId": "1392784664384639058",
     "forumId": "1391843180944560261",
     "continuingMessageIds": [
-      "1392784667526041600"
+      "1392784667526041600",
+      "1392847245241749534"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392784664384639058",
-    "uploadMessageId": "1392785143114108948"
+    "uploadMessageId": "1392847242448207892"
   }
 }
