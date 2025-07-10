@@ -3,7 +3,7 @@
 
 **Endorsed by:** *Scorpio*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Bedrock Cage, Tested & Functional, Recommended, Bedrockless Cage*
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391972564879806474)
 

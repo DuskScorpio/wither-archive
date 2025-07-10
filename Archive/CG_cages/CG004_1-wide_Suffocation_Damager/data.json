@@ -14,12 +14,20 @@
   ],
   "tags": [
     {
+      "id": "1392716179575017584",
+      "name": "Bedrock Cage"
+    },
+    {
       "id": "1391846575193591955",
       "name": "Tested & Functional"
     },
     {
       "id": "1391846575193591956",
       "name": "Recommended"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
     }
   ],
   "images": [
