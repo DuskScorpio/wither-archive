@@ -12,15 +12,12 @@
 A bedrockless wither cage.
 ### Versions
 - 1.21+
-
 ## Features
 - Very easy to build
 - Does not consume projectiles
 - Does not break even if you go far away
-
 ## Considerations
 - Does not work in the nether for this design
-
 ## Notes
 ### Build
 - Replace ice by the water after spawn the wither, and go far away.

@@ -10,6 +10,9 @@
 A withers skull catcher system designed by <@523191268294262785> and <@557984071838597123>
 ### Versions
 - 1.21.4+
+## Features
+
+## Considerations
 
 ## Notes
 1. Flip the lever so that pistons are spamming

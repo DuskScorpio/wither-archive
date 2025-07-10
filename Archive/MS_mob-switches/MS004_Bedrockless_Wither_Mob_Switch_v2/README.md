@@ -17,6 +17,11 @@ World's first bedrockless wither mob switch
 - 1.16+
 ### Video Links
 - [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)
+## Features
+
+## Considerations
+
+## Notes
 
 ## Resources
 - [MS004_BedrocklessWitherMobSwitchV2.url](https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2): Mediafire link

@@ -29,11 +29,11 @@ And for providing a 1.18 testing server and helping with pathfinding debugging.
 - The engine for the duper is a 22 gt/10 gt engine, because Withers destroy blocks once every 20 gt, and if you damage them twice in less than 12 gt, they get angry and start shooting blue skulls randomly.
 - Before pushing down the wall that protects the iron golem, the golem is pushed down, and the withers stop firing for a while, allowing the wall to safely descend.
 - The Wither gets bored if it doesn't fire any skull for least 170 gt, and start firing blue skulls, but the machine works much faster than that.
+## Features
 
 ## Considerations
 - This machine still has a very small chance of breaking, so it is recommended to make backups before starting the machine.
 - There's a small chance of black skulls bypassing the wall, if you are building multiple pillar eaters, be sure to consider that.
-
 ## Notes
 - Check video link for user guide and more info. DM for questions. Recommended to make backups before starting the machine.
 - Mojang changed Wither pathfinding in 1.18, so be sure to check the versions before using the machine.

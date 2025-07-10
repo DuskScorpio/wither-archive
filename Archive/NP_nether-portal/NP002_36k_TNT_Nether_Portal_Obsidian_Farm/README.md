@@ -21,6 +21,9 @@ Sends tnt through a portal to both generate obsidian and damage two withers.
 - 36k/h
 ### Video Links
 - [Cage explanation video](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC)
+## Features
+
+## Considerations
 
 ## Notes
 ### Build
