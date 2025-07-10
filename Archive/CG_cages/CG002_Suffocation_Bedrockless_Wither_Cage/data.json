@@ -58,25 +58,18 @@
       "path": "attachments/CG002_wither_blast_chamber_2_0.litematic"
     }
   ],
-  "description": "A device that is easy to build, stackable on the sides, and does not consume projectiles or break when going far away.\n\n### Rates\n- 80k/hour\n### Versions\n- 1.16.2+",
-  "features": [
-    "Very easy to build",
-    "Stackable module on the sides (up to 3 modules)",
-    "Does not consume projectiles",
-    "Does not break even if you go far away"
-  ],
-  "considerations": [
-    "Doesn't work in the nether"
-  ],
-  "notes": "",
-  "timestamp": 1751939486704,
-  "post": {
-    "threadId": "1391959841349832744",
-    "forumId": "1391843089361928272",
-    "continuingMessageIds": [
-      "1391959844101165156"
+  "records": {
+    "description": "A device that is easy to build, stackable on the sides, and does not consume projectiles or break when going far away.\n\n### Rates\n- 80k/hour\n### Versions\n- 1.16.2+",
+    "features": [
+      "Very easy to build",
+      "Stackable module on the sides (up to 3 modules)",
+      "Does not consume projectiles",
+      "Does not break even if you go far away"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391959841349832744",
-    "uploadMessageId": "1391959840074633327"
-  }
+    "considerations": [
+      "Doesn't work in the nether"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751939486704
 }

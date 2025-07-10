@@ -80,18 +80,11 @@
       }
     }
   ],
-  "description": "A bedrock-less wither cage made long ago.\n## Versions\n- 1.17+ (not sure)\n## Design Specifications\n- Uses a chunk reload detector to block the main head's eyesight to its target to prevent the 1/1000 chance of main head shooting blue skulls\n- The side head black skulls are prevented by shuffling the side head skull blocker\n  1. When the wither is attempting to break blocks, the blockers will be pulled backwards with sticky pistons. \n  2. After the block breaking attack, new blockers from the top will be 0-ticked into place to detonate potential wither skulls that spawned in the previous tick. Because the initial velocity of the wither skulls is very low, the skulls will not have a chance to escape before the new blocker arrived.",
-  "features": [],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1752078103621,
-  "post": {
-    "threadId": "1392541242201608214",
-    "forumId": "1391843089361928272",
-    "continuingMessageIds": [
-      "1392541245414445176"
-    ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392541242201608214",
-    "uploadMessageId": "1392531370646962310"
-  }
+  "records": {
+    "description": "A bedrock-less wither cage made long ago.\n## Versions\n- 1.17+ (not sure)\n## Design Specifications\n- Uses a chunk reload detector to block the main head's eyesight to its target to prevent the 1/1000 chance of main head shooting blue skulls\n- The side head black skulls are prevented by shuffling the side head skull blocker\n  1. When the wither is attempting to break blocks, the blockers will be pulled backwards with sticky pistons. \n  2. After the block breaking attack, new blockers from the top will be 0-ticked into place to detonate potential wither skulls that spawned in the previous tick. Because the initial velocity of the wither skulls is very low, the skulls will not have a chance to escape before the new blocker arrived.",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1752078103621
 }

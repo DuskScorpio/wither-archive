@@ -50,18 +50,11 @@
       "path": "attachments/BF004_SimpleWitherSnowFarm.url"
     }
   ],
-  "description": "A simple wither snowball farm.\n## Credit\n- <@615152957192798218>: Original design\n## Versions\n- 1.17+\n## Rates\n- Snowball: 28.8k/h\n## Video Links\n- [Showcase](<https://www.bilibili.com/video/BV1oXSGYfELZ>)\n## Positives\n- No TNT duping\n## Design Specifications\n- Uses a wither to break snow layers made by snow golems\n## Instructions\n### Notes\n- Refer to the video for further instructions.\n### How to use\n 1. Flick the lever to toggle the farm.",
-  "features": [],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1752076548943,
-  "post": {
-    "threadId": "1392534721707249735",
-    "forumId": "1391832229339988110",
-    "continuingMessageIds": [
-      "1392534725348036778"
-    ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392534721707249735",
-    "uploadMessageId": ""
-  }
+  "records": {
+    "description": "A simple wither snowball farm.\n## Credit\n- <@615152957192798218>: Original design\n## Versions\n- 1.17+\n## Rates\n- Snowball: 28.8k/h\n## Video Links\n- [Showcase](<https://www.bilibili.com/video/BV1oXSGYfELZ>)\n## Positives\n- No TNT duping\n## Design Specifications\n- Uses a wither to break snow layers made by snow golems\n## Instructions\n### Notes\n- Refer to the video for further instructions.\n### How to use\n 1. Flick the lever to toggle the farm.",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1752076548943
 }

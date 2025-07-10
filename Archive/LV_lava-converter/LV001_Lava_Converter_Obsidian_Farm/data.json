@@ -102,21 +102,14 @@
       "path": "attachments/LV001_YouTube_Video_UA2HytjAqYo.url"
     }
   ],
-  "description": "This lava converter produces 18k obsidian per hour, designed to be lossless, losing no obsidian or buckets.\n### Rates\n- 18k/h\n### Video Links\n- Original Video: https://youtu.be/JI2waCPOJag\n- Updated Video: https://youtu.be/UA2HytjAqYo",
-  "features": [
-    "This lava converter produces 18k obsidian per hour, designed to be lossless, losing no obsidian or buckets. This farm works by keeping a wither trapped, and using 8 dispensers to place lava, around the base of the wither, which is instantly converted by a water source in the center, and waterlogged stairs. Item filters are placed under the dispensers to filter out the empty buckets and load them into shulker boxes.",
-    "The main idea for this farm is to place this farm next to a lava farm, where lava buckets can be fed into the farm, and the empty buckets returned to the lava farm to form a closed loop."
-  ],
-  "considerations": [],
-  "notes": "- This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava.",
-  "timestamp": 1752074383391,
-  "post": {
-    "threadId": "1392006235183648818",
-    "forumId": "1391837246843260938",
-    "continuingMessageIds": [
-      "1392006238098821202"
+  "records": {
+    "description": "This lava converter produces 18k obsidian per hour, designed to be lossless, losing no obsidian or buckets.\n### Rates\n- 18k/h\n### Video Links\n- Original Video: https://youtu.be/JI2waCPOJag\n- Updated Video: https://youtu.be/UA2HytjAqYo",
+    "features": [
+      "This lava converter produces 18k obsidian per hour, designed to be lossless, losing no obsidian or buckets. This farm works by keeping a wither trapped, and using 8 dispensers to place lava, around the base of the wither, which is instantly converted by a water source in the center, and waterlogged stairs. Item filters are placed under the dispensers to filter out the empty buckets and load them into shulker boxes.",
+      "The main idea for this farm is to place this farm next to a lava farm, where lava buckets can be fed into the farm, and the empty buckets returned to the lava farm to form a closed loop."
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392006235183648818",
-    "uploadMessageId": "1392006233455595623"
-  }
+    "considerations": [],
+    "notes": "- This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava."
+  },
+  "timestamp": 1752074383391
 }

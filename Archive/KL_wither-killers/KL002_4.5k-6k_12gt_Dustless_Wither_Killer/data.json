@@ -132,26 +132,18 @@
       "path": "attachments/KL002_YouTube_Video_ji4Vz4lVSiQ.url"
     }
   ],
-  "description": "12gt Dustless Wither Killer by Markus.\n### Versions\n- 1.17+\n### Rates\n-  6k/hour (3gt player placing speed)\n- 4.5k/hour (4gt player placing speed)",
-  "features": [
-    "Dustless",
-    "The actual killer is 5 x 10 x 6, uses bedrock cage. Works in Nether, and in End (no bedrock breaking in the End)",
-    "The survival friendly schematic is 18 x 10 x 9 (has skull detection, and block placer).",
-    "Single hopper cart. The cart is aligned towards the north on a wall, towards the east against an open trapdoor.",
-    "Directional **DO NOT ROTATE**, nondirectional version (uses dust)",
-    "Layout is originally by Nasm: https://www.youtube.com/watch?v=ji4Vz4lVSiQ"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751954533258,
-  "post": {
-    "threadId": "1391996527257456751",
-    "forumId": "1391843156307345438",
-    "continuingMessageIds": [
-      "1391996530491261100",
-      "1391996531502088242"
+  "records": {
+    "description": "12gt Dustless Wither Killer by Markus.\n### Versions\n- 1.17+\n### Rates\n-  6k/hour (3gt player placing speed)\n- 4.5k/hour (4gt player placing speed)",
+    "features": [
+      "Dustless",
+      "The actual killer is 5 x 10 x 6, uses bedrock cage. Works in Nether, and in End (no bedrock breaking in the End)",
+      "The survival friendly schematic is 18 x 10 x 9 (has skull detection, and block placer).",
+      "Single hopper cart. The cart is aligned towards the north on a wall, towards the east against an open trapdoor.",
+      "Directional **DO NOT ROTATE**, nondirectional version (uses dust)",
+      "Layout is originally by Nasm: https://www.youtube.com/watch?v=ji4Vz4lVSiQ"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391996527257456751",
-    "uploadMessageId": "1391996525462159442"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751954533258
 }

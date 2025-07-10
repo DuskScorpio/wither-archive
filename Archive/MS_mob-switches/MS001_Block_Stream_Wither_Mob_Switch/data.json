@@ -71,22 +71,15 @@
       "path": "attachments/MS001_wither_mob_switch_1.15_.zip"
     }
   ],
-  "description": "Wither mob switch in Overworld / Nether by Fallen_Breath.\n### Versions\n- 1.15+",
-  "features": [
-    "Fast summoning of withers.",
-    "Requires full diamond set Protection 4 armors, Regeneration beacon, Resistance 2 beacon.",
-    "Click under the trapdoor to place soul sand."
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751951801420,
-  "post": {
-    "threadId": "1391978562713550998",
-    "forumId": "1391843180944560261",
-    "continuingMessageIds": [
-      "1391978565301571584"
+  "records": {
+    "description": "Wither mob switch in Overworld / Nether by Fallen_Breath.\n### Versions\n- 1.15+",
+    "features": [
+      "Fast summoning of withers.",
+      "Requires full diamond set Protection 4 armors, Regeneration beacon, Resistance 2 beacon.",
+      "Click under the trapdoor to place soul sand."
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391978562713550998",
-    "uploadMessageId": "1391978560826118176"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751951801420
 }

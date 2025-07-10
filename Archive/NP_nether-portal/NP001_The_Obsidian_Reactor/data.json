@@ -114,22 +114,15 @@
       "path": "attachments/NP001_Obsidian_Reactor_tutorial.url"
     }
   ],
-  "description": "Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.\n### Credits\n- A lot of the understanding of the mechanics came from ilmango's portal farm here: https://www.youtube.com/watch?v=bQEeNcoU17Y\n### Rates\n- 2.2k/h",
-  "features": [
-    "Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.",
-    "Requires one player to run the farm and one player to load the withers.",
-    "Consumes flint and steels, but can generate its own snowballs"
-  ],
-  "considerations": [],
-  "notes": "- I didn't try to make it faster, it might be possible to speed it up slightly, but it should be nearly optimal for farming only one dimension's nether portals and could be modified easily to become optimal I suspect if you take the time to research what is possible. Requires no portals in the area.\n- I haven't looked at it in a year and a half, but it's possible that the glass is too tight and the wither skulls sometimes hit something. I remember doing several long tick warps without issue, but it has been a long time. I don't think it works well with carpet mod players.\n - Probably better to build a lava bucket farm because it is less of a headache, to be honest.",
-  "timestamp": 1751954100741,
-  "post": {
-    "threadId": "1392007547438764182",
-    "forumId": "1391837205319778367",
-    "continuingMessageIds": [
-      "1392007552320929812"
+  "records": {
+    "description": "Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.\n### Credits\n- A lot of the understanding of the mechanics came from ilmango's portal farm here: https://www.youtube.com/watch?v=bQEeNcoU17Y\n### Rates\n- 2.2k/h",
+    "features": [
+      "Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.",
+      "Requires one player to run the farm and one player to load the withers.",
+      "Consumes flint and steels, but can generate its own snowballs"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392007547438764182",
-    "uploadMessageId": "1392027836885504051"
-  }
+    "considerations": [],
+    "notes": "- I didn't try to make it faster, it might be possible to speed it up slightly, but it should be nearly optimal for farming only one dimension's nether portals and could be modified easily to become optimal I suspect if you take the time to research what is possible. Requires no portals in the area.\n- I haven't looked at it in a year and a half, but it's possible that the glass is too tight and the wither skulls sometimes hit something. I remember doing several long tick warps without issue, but it has been a long time. I don't think it works well with carpet mod players.\n - Probably better to build a lava bucket farm because it is less of a headache, to be honest."
+  },
+  "timestamp": 1751954100741
 }

@@ -83,22 +83,15 @@
       "path": "attachments/MS002_YouTube_Video_2qL3erHQgvE.url"
     }
   ],
-  "description": "A wither mob switch for Minecraft 1.15+, using withers trapped in a 3x3 bedrock formation.\n### Versions\n- 1.15+",
-  "features": [
-    "A hostile mob switch",
-    "For Overworld and Nether",
-    "1.15+ compatibility"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751954566157,
-  "post": {
-    "threadId": "1391981206177845268",
-    "forumId": "1391843180944560261",
-    "continuingMessageIds": [
-      "1391981209298665532"
+  "records": {
+    "description": "A wither mob switch for Minecraft 1.15+, using withers trapped in a 3x3 bedrock formation.\n### Versions\n- 1.15+",
+    "features": [
+      "A hostile mob switch",
+      "For Overworld and Nether",
+      "1.15+ compatibility"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391981206177845268",
-    "uploadMessageId": "1391981203963379765"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751954566157
 }

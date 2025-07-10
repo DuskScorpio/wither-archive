@@ -73,26 +73,19 @@
       "path": "attachments/KL001_UWK_By_Donoceanu11x10u.zip"
     }
   ],
-  "description": "A wither killer that summons withers every 4gt and requires breaking 10x10 bedrock.\n### Versions\n- 1.12+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1Jq4y1n7rF/)",
-  "features": [
-    "Summons wither every 4gt",
-    "Only need to break 10x10 bedrock",
-    "Uses the mechanic where withers can't break moving blocks",
-    "Uses dustful 0t gens"
-  ],
-  "considerations": [
-    "Does not work reliably with vanilla client",
-    "Requires carpet bot use continuous or autoclicker"
-  ],
-  "notes": "",
-  "timestamp": 1751954489312,
-  "post": {
-    "threadId": "1391994164899479613",
-    "forumId": "1391843156307345438",
-    "continuingMessageIds": [
-      "1391994169010028564"
+  "records": {
+    "description": "A wither killer that summons withers every 4gt and requires breaking 10x10 bedrock.\n### Versions\n- 1.12+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1Jq4y1n7rF/)",
+    "features": [
+      "Summons wither every 4gt",
+      "Only need to break 10x10 bedrock",
+      "Uses the mechanic where withers can't break moving blocks",
+      "Uses dustful 0t gens"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391994164899479613",
-    "uploadMessageId": "1391994162626428968"
-  }
+    "considerations": [
+      "Does not work reliably with vanilla client",
+      "Requires carpet bot use continuous or autoclicker"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751954489312
 }
