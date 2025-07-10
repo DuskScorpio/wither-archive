@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Scorpio*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Tested & Functional, Recommended, Entity Generate*
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392432741395730432)
 
