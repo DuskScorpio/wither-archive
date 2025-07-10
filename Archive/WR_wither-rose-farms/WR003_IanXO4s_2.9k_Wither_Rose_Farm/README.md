@@ -7,20 +7,17 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392196771211382826)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392948914952601711)
 
 Instant wither rose farm by killing and recycling snow from snow golems
 ### Versions
 - 1.16-1.21.5
 ### Rates
 - 2.9k/h
-
 ## Features
 - Simple and easy to build
-
 ## Considerations
 - Manual
-
 ## Notes
 - Watch the video and read the description for further instructions.
 - Requires Normal difficulty or higher to function.
