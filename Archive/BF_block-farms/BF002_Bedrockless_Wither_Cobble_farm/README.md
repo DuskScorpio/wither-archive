@@ -7,17 +7,17 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392386903516512286)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392949100902748193)
 
 A Bedrockless Wither Cobble farm
 ### Rates
 - 61k/h
-
 ## Features
 - Bedrockless
 - Does not consume projectiles
 - Does not break even if you go far away
 - Chunkload friendly
+## Considerations
 
 ## Notes
 - Build wither and Iron golem in the same chunk
