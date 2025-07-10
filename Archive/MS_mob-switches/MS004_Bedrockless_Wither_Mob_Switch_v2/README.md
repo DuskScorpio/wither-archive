@@ -10,14 +10,13 @@
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392784664384639058)
 
 World's first bedrockless wither mob switch
+### Credits
+- [trizz's mob switch reference](<https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp>)
+- [Fallen_Breath's Mob Switch reference](<https://www.bilibili.com/video/BV1op4y1U7Y8?p=9&spm_id_from=333.788.videopod.episodes>)
 ### Versions
 - 1.16+
 ### Video Links
 - [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)
-
-## Features
-- World's first bedrockless wither mob switch
-- Taking reference from <@649037432309353600> and Fallen_Breath's wither mob switch wirings
 
 ## Resources
 - [MS004_BedrocklessWitherMobSwitchV2.url](https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2): Mediafire link
