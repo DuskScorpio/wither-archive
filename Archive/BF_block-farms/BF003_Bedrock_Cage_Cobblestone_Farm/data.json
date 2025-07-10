@@ -77,5 +77,14 @@
     ],
     "notes": "- Arrow pre-damager still required in 1.15+ as it sets the block breaking timing"
   },
-  "timestamp": 1752084883492
+  "timestamp": 1752175318487,
+  "post": {
+    "threadId": "1392948991745855508",
+    "forumId": "1391832229339988110",
+    "continuingMessageIds": [
+      "1392948995772387369"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948991745855508",
+    "uploadMessageId": "1392948989208559769"
+  }
 }
