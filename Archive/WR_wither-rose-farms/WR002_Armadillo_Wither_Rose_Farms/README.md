@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Scorpio*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Tested & Functional, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392038539851731005)
 
