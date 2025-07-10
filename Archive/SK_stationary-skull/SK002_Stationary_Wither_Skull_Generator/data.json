@@ -57,18 +57,11 @@
       "path": "attachments/SK002_witherskullcatcher_thingy.zip"
     }
   ],
-  "description": "A withers skull catcher system designed by <@523191268294262785> and <@557984071838597123>\n### Versions\n- 1.21.4+",
-  "features": [],
-  "considerations": [],
-  "notes": "1. Flip the lever so that pistons are spamming\n2. Press the button on command block to spawn withers\n3. Quickly show the withers the chicken and immidiately hide it again",
-  "timestamp": 1751951948775,
-  "post": {
-    "threadId": "1392003325381312584",
-    "forumId": "1391843399950401686",
-    "continuingMessageIds": [
-      "1392003333325324399"
-    ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392003325381312584",
-    "uploadMessageId": "1392003323577761983"
-  }
+  "records": {
+    "description": "A withers skull catcher system designed by <@523191268294262785> and <@557984071838597123>\n### Versions\n- 1.21.4+",
+    "features": [],
+    "considerations": [],
+    "notes": "1. Flip the lever so that pistons are spamming\n2. Press the button on command block to spawn withers\n3. Quickly show the withers the chicken and immidiately hide it again"
+  },
+  "timestamp": 1751951948775
 }

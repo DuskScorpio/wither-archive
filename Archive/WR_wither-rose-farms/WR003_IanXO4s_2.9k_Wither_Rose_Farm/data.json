@@ -73,22 +73,15 @@
       "path": "attachments/WR003_YouTube_Video_qtXjPaBMMP8.url"
     }
   ],
-  "description": "Instant wither rose farm by killing and recycling snow from snow golems\n### Versions\n- 1.16-1.21.5\n### Rates\n- 2.9k/h",
-  "features": [
-    "Simple and easy to build"
-  ],
-  "considerations": [
-    "Manual"
-  ],
-  "notes": "- Watch the video and read the description for further instructions.\n- Requires Normal difficulty or higher to function.",
-  "timestamp": 1751995975328,
-  "post": {
-    "threadId": "1392196771211382826",
-    "forumId": "1391832537399038022",
-    "continuingMessageIds": [
-      "1392196775191777303"
+  "records": {
+    "description": "Instant wither rose farm by killing and recycling snow from snow golems\n### Versions\n- 1.16-1.21.5\n### Rates\n- 2.9k/h",
+    "features": [
+      "Simple and easy to build"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392196771211382826",
-    "uploadMessageId": "1392196769877590106"
-  }
+    "considerations": [
+      "Manual"
+    ],
+    "notes": "- Watch the video and read the description for further instructions.\n- Requires Normal difficulty or higher to function."
+  },
+  "timestamp": 1751995975328
 }

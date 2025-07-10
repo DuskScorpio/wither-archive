@@ -69,23 +69,16 @@
       }
     }
   ],
-  "description": "A compact wither based basalt/blackstone farm with carpet extra.\n### Versions\n1.16+\n### Rates\n- 193k/h",
-  "features": [
-    "Lag friendly and requires breaking less than a chunk of bedrock.",
-    "0 hoppers under the wither cage, and 0 carts,  0 blinking dust.",
-    "Uses 3 withers. Item loss is around 0.32%",
-    "3 wide tileable but you will have to rewire clocks to tile wider."
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1752084633512,
-  "post": {
-    "threadId": "1392568631807705090",
-    "forumId": "1391832229339988110",
-    "continuingMessageIds": [
-      "1392568635561607258"
+  "records": {
+    "description": "A compact wither based basalt/blackstone farm with carpet extra.\n### Versions\n1.16+\n### Rates\n- 193k/h",
+    "features": [
+      "Lag friendly and requires breaking less than a chunk of bedrock.",
+      "0 hoppers under the wither cage, and 0 carts,  0 blinking dust.",
+      "Uses 3 withers. Item loss is around 0.32%",
+      "3 wide tileable but you will have to rewire clocks to tile wider."
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392568631807705090",
-    "uploadMessageId": "1392035408325509201"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1752084633512
 }

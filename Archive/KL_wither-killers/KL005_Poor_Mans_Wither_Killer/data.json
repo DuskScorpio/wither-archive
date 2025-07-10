@@ -54,20 +54,13 @@
       }
     }
   ],
-  "description": "\"Poor\" refers to the bedrock breaking area and item costs.\n### Versions\n- 1.14+",
-  "features": [
-    "Dispensers running out of wither skeleton skulls will cut off soul sand supply."
-  ],
-  "considerations": [],
-  "notes": "- The bedrock needs two layers of 3x3, the main area that requires bedrock breaking is 5x4, and a few other locations depending on the situation.\n- The green carpet is the safe area outside the wither blast range, and the red is the dangerous area.\n- Some areas have not been spawn proofed, they should be below bedrock.",
-  "timestamp": 1752072165060,
-  "post": {
-    "threadId": "1392516333454884938",
-    "forumId": "1391843156307345438",
-    "continuingMessageIds": [
-      "1392516337506586686"
+  "records": {
+    "description": "\"Poor\" refers to the bedrock breaking area and item costs.\n### Versions\n- 1.14+",
+    "features": [
+      "Dispensers running out of wither skeleton skulls will cut off soul sand supply."
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392516333454884938",
-    "uploadMessageId": "1392516332246925394"
-  }
+    "considerations": [],
+    "notes": "- The bedrock needs two layers of 3x3, the main area that requires bedrock breaking is 5x4, and a few other locations depending on the situation.\n- The green carpet is the safe area outside the wither blast range, and the red is the dangerous area.\n- Some areas have not been spawn proofed, they should be below bedrock."
+  },
+  "timestamp": 1752072165060
 }

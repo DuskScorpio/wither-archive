@@ -84,29 +84,22 @@
       "path": "attachments/CV001_YouTube_Video_IayHBn_AEWA.url"
     }
   ],
-  "description": "A tiny dustless concrete converter for Minecraft 1.15 and above.\n### Credits\n- Water layout originally by Aqua42\n### Versions\n- 1.15+\n### Rates\n- 18k/h (4gt player placing speed)",
-  "features": [
-    "Works in version 1.15 and above (has not been tested in 1.16 or 1.19 but should still work)",
-    "Uses Y4 overworld bedrock formation",
-    "Very small footprint, only 9x10x11 for entire device.",
-    "100% spawnproof",
-    "Lossless water based collection system with item stacking waterstream",
-    "100% dustless",
-    "Minimal bedrock breaking"
-  ],
-  "considerations": [
-    "Simple collection system and item distribution, add your own shulker box handling if needed.",
-    "Directional wiring, this farm does not work if rotated or mirrored."
-  ],
-  "notes": "- When spawning wither, place obsidian block at head position and spawn wither sideways like normal.\n### How to use\n- Place powder in input chest, flip lever, climb down ladder, aim at slab, hold right click.",
-  "timestamp": 1751957533199,
-  "post": {
-    "threadId": "1392034577828286565",
-    "forumId": "1391832288668680332",
-    "continuingMessageIds": [
-      "1392034580365840445"
+  "records": {
+    "description": "A tiny dustless concrete converter for Minecraft 1.15 and above.\n### Credits\n- Water layout originally by Aqua42\n### Versions\n- 1.15+\n### Rates\n- 18k/h (4gt player placing speed)",
+    "features": [
+      "Works in version 1.15 and above (has not been tested in 1.16 or 1.19 but should still work)",
+      "Uses Y4 overworld bedrock formation",
+      "Very small footprint, only 9x10x11 for entire device.",
+      "100% spawnproof",
+      "Lossless water based collection system with item stacking waterstream",
+      "100% dustless",
+      "Minimal bedrock breaking"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392034577828286565",
-    "uploadMessageId": "1392034576108486880"
-  }
+    "considerations": [
+      "Simple collection system and item distribution, add your own shulker box handling if needed.",
+      "Directional wiring, this farm does not work if rotated or mirrored."
+    ],
+    "notes": "- When spawning wither, place obsidian block at head position and spawn wither sideways like normal.\n### How to use\n- Place powder in input chest, flip lever, climb down ladder, aim at slab, hold right click."
+  },
+  "timestamp": 1751957533199
 }

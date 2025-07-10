@@ -124,19 +124,11 @@
       "path": "attachments/MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url"
     }
   ],
-  "description": "World's first bedrockless wither mob switch\n### Credits\n- [trizz's mob switch reference](<https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp>)\n- [Fallen_Breath's Mob Switch reference](<https://www.bilibili.com/video/BV1op4y1U7Y8?p=9&spm_id_from=333.788.videopod.episodes>)\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)",
-  "features": [],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1752151601913,
-  "post": {
-    "threadId": "1392784664384639058",
-    "forumId": "1391843180944560261",
-    "continuingMessageIds": [
-      "1392784667526041600",
-      "1392847245241749534"
-    ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392784664384639058",
-    "uploadMessageId": "1392847242448207892"
-  }
+  "records": {
+    "description": "World's first bedrockless wither mob switch\n### Credits\n- [trizz's mob switch reference](<https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp>)\n- [Fallen_Breath's Mob Switch reference](<https://www.bilibili.com/video/BV1op4y1U7Y8?p=9&spm_id_from=333.788.videopod.episodes>)\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1752151601913
 }

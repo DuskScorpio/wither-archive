@@ -61,23 +61,16 @@
       }
     }
   ],
-  "description": "Wither Rose Farm Cage\n### Versions\n- 1.14+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1x5411j7GY/)",
-  "features": [
-    "Works in all dimensions, no bedrock used",
-    "Rate depends on the mob farm used",
-    "Wither targets the iron golem, main head skulls hit on cobblestone, which will be regenerated",
-    "Side head skulls explode in solid blocks, damaging nearby mobs"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751957814042,
-  "post": {
-    "threadId": "1392036712212992032",
-    "forumId": "1391832537399038022",
-    "continuingMessageIds": [
-      "1392036716164153385"
+  "records": {
+    "description": "Wither Rose Farm Cage\n### Versions\n- 1.14+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1x5411j7GY/)",
+    "features": [
+      "Works in all dimensions, no bedrock used",
+      "Rate depends on the mob farm used",
+      "Wither targets the iron golem, main head skulls hit on cobblestone, which will be regenerated",
+      "Side head skulls explode in solid blocks, damaging nearby mobs"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392036712212992032",
-    "uploadMessageId": "1392036711269404724"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751957814042
 }

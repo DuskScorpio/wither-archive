@@ -83,22 +83,15 @@
       "path": "attachments/MS003_YouTube_Video_bGYSgBKUO8c.url"
     }
   ],
-  "description": "A compact 5x5 and 7 tall wither mob switch for the Overworld and Nether.\n### Versions\n- 1.15+",
-  "features": [
-    "Compact 5x5 layout and 7 tall",
-    "Easy to use",
-    "Material list in picture"
-  ],
-  "considerations": [],
-  "notes": "- For holding down right click, requires 3 diamond armors with Protection 4, Regeneration + Resistance 1 Beacon\n- For `/player 'name' use interval 20`, does not require armor.\n- Click on the piston to place soul sand.",
-  "timestamp": 1751953891139,
-  "post": {
-    "threadId": "1392013311884923022",
-    "forumId": "1391843180944560261",
-    "continuingMessageIds": [
-      "1392013314716074025"
+  "records": {
+    "description": "A compact 5x5 and 7 tall wither mob switch for the Overworld and Nether.\n### Versions\n- 1.15+",
+    "features": [
+      "Compact 5x5 layout and 7 tall",
+      "Easy to use",
+      "Material list in picture"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392013311884923022",
-    "uploadMessageId": "1391983906039005255"
-  }
+    "considerations": [],
+    "notes": "- For holding down right click, requires 3 diamond armors with Protection 4, Regeneration + Resistance 1 Beacon\n- For `/player 'name' use interval 20`, does not require armor.\n- Click on the piston to place soul sand."
+  },
+  "timestamp": 1751953891139
 }

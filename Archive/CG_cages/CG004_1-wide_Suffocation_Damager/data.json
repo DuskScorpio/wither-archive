@@ -44,16 +44,11 @@
     }
   ],
   "attachments": [],
-  "description": "1. [1.12+] Designed by gpw\n2. [1.16+] Designed by Myterri\n3. & 4. & 5. [1.14+] Designed by multiple people independently",
-  "features": [],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751942520560,
-  "post": {
-    "threadId": "1391972564879806474",
-    "forumId": "1391843089361928272",
-    "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/913065809096638494/1391972564879806474",
-    "uploadMessageId": "1392027916573081724"
-  }
+  "records": {
+    "description": "1. [1.12+] Designed by gpw\n2. [1.16+] Designed by Myterri\n3. & 4. & 5. [1.14+] Designed by multiple people independently",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751942520560
 }

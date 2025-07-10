@@ -66,25 +66,18 @@
       }
     }
   ],
-  "description": "To ensure exactly four soul sands are inputted each time, the input is detection based, which makes it support any greater than or equal to 4gt cycle input. It does not use clocks and all the wirings are detection-based.\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1KC4y1u7si/)",
-  "features": [
-    "Supports any greater than or equal to 4gt cycle input",
-    "Does not use clocks",
-    "All wirings are detection-based"
-  ],
-  "considerations": [
-    "Only 120min test conducted, which is not considered high-intensity or long time",
-    "Potential hidden issues unknown."
-  ],
-  "notes": "",
-  "timestamp": 1752074024969,
-  "post": {
-    "threadId": "1392524135212650507",
-    "forumId": "1391843156307345438",
-    "continuingMessageIds": [
-      "1392524138488532993"
+  "records": {
+    "description": "To ensure exactly four soul sands are inputted each time, the input is detection based, which makes it support any greater than or equal to 4gt cycle input. It does not use clocks and all the wirings are detection-based.\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1KC4y1u7si/)",
+    "features": [
+      "Supports any greater than or equal to 4gt cycle input",
+      "Does not use clocks",
+      "All wirings are detection-based"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392524135212650507",
-    "uploadMessageId": "1392524133287596043"
-  }
+    "considerations": [
+      "Only 120min test conducted, which is not considered high-intensity or long time",
+      "Potential hidden issues unknown."
+    ],
+    "notes": ""
+  },
+  "timestamp": 1752074024969
 }
