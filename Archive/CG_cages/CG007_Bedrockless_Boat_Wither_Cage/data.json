@@ -127,5 +127,14 @@
     "considerations": [],
     "notes": "- When setting up this cage, you can also place the boat in the adjacent chunk first, and after the wither is summoned in, and then push the boat into the same chunk as the wither. This also ensure the wither is always processed before the boat, instead of relying on sub chunks\n- It doesn’t have to be a chest boat, just a regular boat with two passengers works, since each one gets offset from the boat’s center. Refer to [this design](https://discord.com/channels/913065809096638494/1391992148739625140) for reference"
   },
-  "timestamp": 1752044867381
+  "timestamp": 1752044867381,
+  "post": {
+    "threadId": "1392400293077061763",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1392400295908348044"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392400293077061763",
+    "uploadMessageId": ""
+  }
 }

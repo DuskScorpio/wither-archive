@@ -81,5 +81,14 @@
     ],
     "notes": "### Build\n- Replace ice by the water after spawn the wither, and go far away.\n- After the wither spawning, withdraw the water."
   },
-  "timestamp": 1751989030661
+  "timestamp": 1751989030661,
+  "post": {
+    "threadId": "1392167642651037818",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1392167645817868368"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392167642651037818",
+    "uploadMessageId": "1392167641090621581"
+  }
 }
