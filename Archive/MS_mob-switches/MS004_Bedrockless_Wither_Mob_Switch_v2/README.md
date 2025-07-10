@@ -24,3 +24,4 @@ World's first bedrockless wither mob switch
 - [MS004_WitherMobSwitch1.16.zip](attachments/MS004_WitherMobSwitch1.16.zip): MC 1.16.5
 - [MS004_WitherMobSwitch1.19BlockStre.zip](attachments/MS004_WitherMobSwitch1.19BlockStre.zip): MC 1.19.2
 - [MS004_WitherMobSwitch1.19.zip](attachments/MS004_WitherMobSwitch1.19.zip): MC 1.21.1
+- [MS004_BedrocklessWitherMobSwitchV2.url](https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2): Mediafire link
