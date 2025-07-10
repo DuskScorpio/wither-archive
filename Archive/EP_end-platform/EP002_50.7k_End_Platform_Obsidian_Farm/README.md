@@ -7,11 +7,14 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392014781099278336)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392948858677362919)
 
 An end platform obsidian farm relying on wither blue skulls to break the platform
 ### Rates
 - 50.7k/h (works good with 6x box loader)
+## Features
+
+## Considerations
 
 ## Notes
 - When the wither just spawned, there is few second before before its eye height submerged into obsidian and allows wither to target on mobs, so a closed room on top is needed.
