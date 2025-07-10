@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392034577828286565)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392948965216878603)
 
 A tiny dustless concrete converter for Minecraft 1.15 and above.
 ### Credits
@@ -16,7 +16,6 @@ A tiny dustless concrete converter for Minecraft 1.15 and above.
 - 1.15+
 ### Rates
 - 18k/h (4gt player placing speed)
-
 ## Features
 - Works in version 1.15 and above (has not been tested in 1.16 or 1.19 but should still work)
 - Uses Y4 overworld bedrock formation
@@ -25,11 +24,9 @@ A tiny dustless concrete converter for Minecraft 1.15 and above.
 - Lossless water based collection system with item stacking waterstream
 - 100% dustless
 - Minimal bedrock breaking
-
 ## Considerations
 - Simple collection system and item distribution, add your own shulker box handling if needed.
 - Directional wiring, this farm does not work if rotated or mirrored.
-
 ## Notes
 - When spawning wither, place obsidian block at head position and spawn wither sideways like normal.
 ### How to use
