@@ -3,7 +3,7 @@
   "name": "nether-portal",
   "code": "NP",
   "description": "Nether portal-based obsidian farms",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1392006670233632778",
@@ -18,6 +18,13 @@
       "code": "NP002",
       "timestamp": 1752052471903,
       "path": "NP002_36k_TNT_Nether_Portal_Obsidian_Farm"
+    },
+    {
+      "id": "1392667438432129054",
+      "name": "Single Wither Player-based Nether Portal Obsidian Farm",
+      "code": "NP003",
+      "timestamp": 1752138764570,
+      "path": "NP003_Single_Wither_Player-based_Nether_Portal_Obsidian_Farm"
     }
   ]
 }
