@@ -1,5 +1,5 @@
 # Bedrockless Wither Mob Switch v2
-<img alt="2022-05-07_17.48.32.png" src="images/2022-05-07_17.48.32.png?raw=1" height="300px">
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *Scorpio, SunnySlopes*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1391992148739625140)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392784664384639058)
 
 World's first bedrockless wither mob switch
 ### Versions
