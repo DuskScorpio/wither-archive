@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Scorpio*
 
-**Tags:** *Untested*
+**Tags:** *Untested, Bedrockless Cage*
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392541242201608214)
 
