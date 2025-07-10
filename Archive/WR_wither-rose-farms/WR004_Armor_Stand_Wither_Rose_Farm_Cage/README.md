@@ -7,17 +7,17 @@
 
 **Tags:** *Broken*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392427100421488734)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392948900633247755)
 
 A simple wither rose farm cage with armor stand to block the wither blue skulls
 ### Versions
 - 1.16-1.20.1
-
 ## Features
 - Works in all dimensions, no bedrock used.
 - Rate depends on the mob farm used.
 - Wither's main head skulls (blue and black) hits armor stand
 - Side head skulls explode in solid block to damage mobs around.
+## Considerations
 
 ## Notes
 - The summoning method seems to only work in 1.18 and lower, you need to waterlog the slab and summon the wither directly under the slab instead.
