@@ -69,5 +69,14 @@
     ],
     "notes": "- The Withers must be spawned while the Farm is in the off state by manually placing Soul Sand in horizontal T-shape and the Wither Skeleton Heads from the Dispensers\n- Every additional block placed in the Shulker teleport area centered in the Shulker's position when the Farm is active must be teleportation proof (add Glass Panes, Buttons, Signs etc... on each side)\n- The trajectory of the Wither Skulls must not be disrupted by other blocks\n- If the Farm is used in Survival Mode, the player is supposed to stay far away from the Withers when they are spawned and when the Farm is switched on/off\n- To unload the Withers safely, the system must be \"turned off\", not producing stationary Skulls."
   },
-  "timestamp": 1751954334825
+  "timestamp": 1751954334825,
+  "post": {
+    "threadId": "1392002256362147850",
+    "forumId": "1391843399950401686",
+    "continuingMessageIds": [
+      "1392002257985208320"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392002256362147850",
+    "uploadMessageId": "1392028043068969071"
+  }
 }

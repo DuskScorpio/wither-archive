@@ -111,5 +111,14 @@
     "considerations": [],
     "notes": "- This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava."
   },
-  "timestamp": 1752074383391
+  "timestamp": 1752074383391,
+  "post": {
+    "threadId": "1392006235183648818",
+    "forumId": "1391837246843260938",
+    "continuingMessageIds": [
+      "1392006238098821202"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392006235183648818",
+    "uploadMessageId": "1392006233455595623"
+  }
 }

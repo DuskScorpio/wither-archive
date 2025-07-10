@@ -93,5 +93,14 @@
     "considerations": [],
     "notes": "- For holding down right click, requires 3 diamond armors with Protection 4, Regeneration + Resistance 1 Beacon\n- For `/player 'name' use interval 20`, does not require armor.\n- Click on the piston to place soul sand."
   },
-  "timestamp": 1751953891139
+  "timestamp": 1751953891139,
+  "post": {
+    "threadId": "1392013311884923022",
+    "forumId": "1391843180944560261",
+    "continuingMessageIds": [
+      "1392013314716074025"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392013311884923022",
+    "uploadMessageId": "1391983906039005255"
+  }
 }

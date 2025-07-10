@@ -77,5 +77,15 @@
     ],
     "notes": "- From <@925291210325753907>'s observation, junk item dispenser is unnecessary, as the player loads the dimension upon reentry, but just to be sure i left it in. remove the item dispenser at your own risk \n- Definitely works on SOME paper servers (tested on a few smp's) but it's not guaranteed to tolerate unloads and such\n- Might require less spawnproofing to run down in the caves, the higher you'll place the nether side portal.\n- Original thread:\nhttps://discord.com/channels/913065809096638494/1182688931318345778"
   },
-  "timestamp": 1752149467762
+  "timestamp": 1752149467762,
+  "post": {
+    "threadId": "1392795671081517087",
+    "forumId": "1391837205319778367",
+    "continuingMessageIds": [
+      "1392795674197626951",
+      "1392795674726109184"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392795671081517087",
+    "uploadMessageId": ""
+  }
 }
