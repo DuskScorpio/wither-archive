@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392038539851731005)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392948930366541875)
 
 A simple and advanced armadillo-based wither rose farm.
 ## Designers
@@ -24,11 +24,11 @@ A simple and advanced armadillo-based wither rose farm.
   - Advanced variant: 1.06k/armadillo/h
 ### Consumes
 - Splash Potion of Infesting: 25/h
-
 ## Features
 - Simple variant: Forgoes alignment and then limits the amount of armadillos to 12 to produce 13k wither roses per hour.
 - Advanced variant: Aligns armadillos using slime and grindstone to stack as many as the user desires; includes autobrewer and expandable water stream collection with example box loaders.
 - Uses the infesting potion and damage reduction of armadillos to produce silverfish that are killed by the wither to create wither roses.
+## Considerations
 
 ## Notes
 ## Instructions
