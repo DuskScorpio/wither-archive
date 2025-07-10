@@ -12,11 +12,11 @@
 A compact 5x5 and 7 tall wither mob switch for the Overworld and Nether.
 ### Versions
 - 1.15+
-
 ## Features
 - Compact 5x5 layout and 7 tall
 - Easy to use
 - Material list in picture
+## Considerations
 
 ## Notes
 - For holding down right click, requires 3 diamond armors with Protection 4, Regeneration + Resistance 1 Beacon

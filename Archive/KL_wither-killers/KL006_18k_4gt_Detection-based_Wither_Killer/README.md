@@ -12,15 +12,14 @@
 To ensure exactly four soul sands are inputted each time, the input is detection based, which makes it support any greater than or equal to 4gt cycle input. It does not use clocks and all the wirings are detection-based.
 ### Video Links
 - [Showcase](https://www.bilibili.com/video/BV1KC4y1u7si/)
-
 ## Features
 - Supports any greater than or equal to 4gt cycle input
 - Does not use clocks
 - All wirings are detection-based
-
 ## Considerations
 - Only 120min test conducted, which is not considered high-intensity or long time
 - Potential hidden issues unknown.
+## Notes
 
 ## Resources
 - [KL006_4gt_Wither_Killer_with_Accessories.litematic](attachments/KL006_4gt_Wither_Killer_with_Accessories.litematic): MC 1.20, Size 14x32x20 blocks

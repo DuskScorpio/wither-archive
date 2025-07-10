@@ -12,15 +12,12 @@ This is a very reliable Wither Cage for infinite amount of Withers that are kept
 - Contributed by: <@392852591521955840>  (minimal adjustments)
 ### Versions
 - 1.19-1.20
-
 ## Features
 - A shulker is used as a target for the main head of the Withers and is positioned precisely in the Wither's shooting spot, allowing stationary Wither Skulls to be generated and stored.
 - Stationary blue Wither Skulls are also generated with a 1/1000 chance and automatically separated from the black ones.
-
 ## Considerations
 - The entire system is directional (but works in any direction if mobGriefing is deactivated)
 - Does not work in the Nether
-
 ## Notes
 - The Withers must be spawned while the Farm is in the off state by manually placing Soul Sand in horizontal T-shape and the Wither Skeleton Heads from the Dispensers
 - Every additional block placed in the Shulker teleport area centered in the Shulker's position when the Farm is active must be teleportation proof (add Glass Panes, Buttons, Signs etc... on each side)

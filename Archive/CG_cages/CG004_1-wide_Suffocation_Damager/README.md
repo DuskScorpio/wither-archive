@@ -10,3 +10,8 @@
 1. [1.12+] Designed by gpw
 2. [1.16+] Designed by Myterri
 3. & 4. & 5. [1.14+] Designed by multiple people independently
+## Features
+
+## Considerations
+
+## Notes

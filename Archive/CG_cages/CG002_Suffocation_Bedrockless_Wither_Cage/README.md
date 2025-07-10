@@ -15,15 +15,14 @@ A device that is easy to build, stackable on the sides, and does not consume pro
 - 80k/hour
 ### Versions
 - 1.16.2+
-
 ## Features
 - Very easy to build
 - Stackable module on the sides (up to 3 modules)
 - Does not consume projectiles
 - Does not break even if you go far away
-
 ## Considerations
 - Doesn't work in the nether
+## Notes
 
 ## Resources
 - [CG002_wither_blast_chamber_2_0.litematic](attachments/CG002_wither_blast_chamber_2_0.litematic): MC 1.19, Size 16x23x24 blocks

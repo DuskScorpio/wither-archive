@@ -15,7 +15,6 @@
 ### Rates
 -  6k/hour (3gt player placing speed)
 - 4.5k/hour (4gt player placing speed)
-
 ## Features
 - Dustless
 - The actual killer is 5 x 10 x 6, uses bedrock cage. Works in Nether, and in End (no bedrock breaking in the End)
@@ -23,6 +22,9 @@
 - Single hopper cart. The cart is aligned towards the north on a wall, towards the east against an open trapdoor.
 - Directional **DO NOT ROTATE**, nondirectional version (uses dust)
 - Layout is originally by Nasm: https://www.youtube.com/watch?v=ji4Vz4lVSiQ
+## Considerations
+
+## Notes
 
 ## Resources
 - [KL002_1.17_Wither_Killer_-_Markus__DatNerd.litematic](attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd.litematic): MC 1.18.2, Size 5x10x6 blocks

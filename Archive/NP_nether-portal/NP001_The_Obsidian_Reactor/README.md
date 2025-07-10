@@ -14,11 +14,11 @@ Farms obsidian by generating nether portals in the overworld, with a bedrockless
 - A lot of the understanding of the mechanics came from ilmango's portal farm here: https://www.youtube.com/watch?v=bQEeNcoU17Y
 ### Rates
 - 2.2k/h
-
 ## Features
 - Farms obsidian by generating nether portals in the overworld, with a bedrockless wither cage. Nether side just pushes player back to the overworld with some delay.
 - Requires one player to run the farm and one player to load the withers.
 - Consumes flint and steels, but can generate its own snowballs
+## Considerations
 
 ## Notes
 - I didn't try to make it faster, it might be possible to speed it up slightly, but it should be nearly optimal for farming only one dimension's nether portals and could be modified easily to become optimal I suspect if you take the time to research what is possible. Requires no portals in the area.
