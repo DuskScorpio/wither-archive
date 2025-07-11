@@ -3,7 +3,7 @@
   "name": "end-platform",
   "code": "EP",
   "description": "End platform-based obsidian farms",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1392008193801981952",
@@ -18,6 +18,13 @@
       "code": "EP002",
       "timestamp": 1752175286934,
       "path": "EP002_50.7k_End_Platform_Obsidian_Farm"
+    },
+    {
+      "id": "1393081812334673990",
+      "name": "Simple Obsidian Farm",
+      "code": "EP003",
+      "timestamp": 1752207593039,
+      "path": "EP003_Simple_Obsidian_Farm"
     }
   ]
 }
