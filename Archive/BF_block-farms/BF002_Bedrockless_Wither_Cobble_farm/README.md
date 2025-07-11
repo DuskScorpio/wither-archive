@@ -17,8 +17,6 @@ A Bedrockless Wither Cobble farm
 - Does not consume projectiles
 - Does not break even if you go far away
 - Chunkload friendly
-## Considerations
-
 ## Notes
 - Build wither and Iron golem in the same chunk
 - Replace ice block into water

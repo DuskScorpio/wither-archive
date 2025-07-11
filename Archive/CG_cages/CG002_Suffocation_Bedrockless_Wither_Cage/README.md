@@ -22,7 +22,6 @@ A device that is easy to build, stackable on the sides, and does not consume pro
 - Does not break even if you go far away
 ## Considerations
 - Doesn't work in the nether
-## Notes
 
 ## Resources
 - [CG002_wither_blast_chamber_2_0.litematic](attachments/CG002_wither_blast_chamber_2_0.litematic): MC 1.19, Size 16x23x24 blocks

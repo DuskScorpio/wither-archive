@@ -14,9 +14,6 @@ The wither's main head targets one mob which then has the line of sight blocked.
 - Wither's main head targets one mob with line of sight blocked
 - Side head targets another mob with line of sight remaining
 - Main head doesn't shoot when line of sight is blocked
-## Considerations
-
-## Notes
 
 ## Resources
 - [FM002_Easy_Difficulty_Wither_Bore_v1.0.1.litematic](attachments/FM002_Easy_Difficulty_Wither_Bore_v1.0.1.litematic): MC 1.21, Size 3x5x40 blocks

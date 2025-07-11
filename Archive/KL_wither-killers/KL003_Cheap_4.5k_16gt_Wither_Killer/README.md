@@ -18,8 +18,6 @@ Withers' eye height is within the bedrock, so the explosion will be blocked, and
 ## Features
 - Very cheap compared to other designs
 - Uses only 1 layer of bedrock
-## Considerations
-
 ## Notes
 - Requires 1 layer of 3x3 bedrock and a single air block (or end portal block if built at the exit portal) above it.
 ### How to use

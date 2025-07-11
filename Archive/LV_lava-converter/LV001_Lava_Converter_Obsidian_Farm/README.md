@@ -18,8 +18,6 @@ This lava converter produces 18k obsidian per hour, designed to be lossless, los
 ## Features
 - This lava converter produces 18k obsidian per hour, designed to be lossless, losing no obsidian or buckets. This farm works by keeping a wither trapped, and using 8 dispensers to place lava, around the base of the wither, which is instantly converted by a water source in the center, and waterlogged stairs. Item filters are placed under the dispensers to filter out the empty buckets and load them into shulker boxes.
 - The main idea for this farm is to place this farm next to a lava farm, where lava buckets can be fed into the farm, and the empty buckets returned to the lava farm to form a closed loop.
-## Considerations
-
 ## Notes
 - This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava.
 

@@ -12,10 +12,6 @@
 An 18k 4gt Wither Killer by acaciachan.
 ### Versions
 - 1.14+
-## Features
-
-## Considerations
-
 ## Notes
 - Almost all of the lag caused by this machine comes from the large number of withers and wither skulls. Turning off particles effect can reduce client side FPS lag.
 ### Build

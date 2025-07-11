@@ -16,9 +16,6 @@ A wither mob switch for Minecraft 1.15+, using withers trapped in a 3x3 bedrock 
 - A hostile mob switch
 - For Overworld and Nether
 - 1.15+ compatibility
-## Considerations
-
-## Notes
 
 ## Other Images
 <img src="images/2022-02-12_23.42.35.png?raw=1" height="300px">
