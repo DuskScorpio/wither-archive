@@ -21,7 +21,6 @@ Snow golem scaffolding cage
 - When damaging the wither to break the extra blocks, stand behind a wall to make sure the wither can't see the player, or use dispenser to damage it.
 ## Considerations
 - When reloaded, there is a small chance that the wither can shoot a skull before the snow golem shoots the wither, which may break the cage
-## Notes
 
 ## Resources
 - [1.17 Reliable & Simple Wither Cage](https://www.youtube.com/watch?v=WpmBVGz2Qx8): by [Dark](https://www.youtube.com/@_darkvictor_)

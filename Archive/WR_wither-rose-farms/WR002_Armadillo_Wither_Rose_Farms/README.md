@@ -28,8 +28,6 @@ A simple and advanced armadillo-based wither rose farm.
 - Simple variant: Forgoes alignment and then limits the amount of armadillos to 12 to produce 13k wither roses per hour.
 - Advanced variant: Aligns armadillos using slime and grindstone to stack as many as the user desires; includes autobrewer and expandable water stream collection with example box loaders.
 - Uses the infesting potion and damage reduction of armadillos to produce silverfish that are killed by the wither to create wither roses.
-## Considerations
-
 ## Notes
 ## Instructions
 ### Notes

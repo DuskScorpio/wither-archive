@@ -22,9 +22,6 @@
 - Single hopper cart. The cart is aligned towards the north on a wall, towards the east against an open trapdoor.
 - Directional **DO NOT ROTATE**, nondirectional version (uses dust)
 - Layout is originally by Nasm: https://www.youtube.com/watch?v=ji4Vz4lVSiQ
-## Considerations
-
-## Notes
 
 ## Resources
 - [KL002_1.17_Wither_Killer_-_Markus__DatNerd.litematic](attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd.litematic): MC 1.18.2, Size 5x10x6 blocks

@@ -16,9 +16,6 @@ Wither mob switch in Overworld / Nether by Fallen_Breath.
 - Fast summoning of withers.
 - Requires full diamond set Protection 4 armors, Regeneration beacon, Resistance 2 beacon.
 - Click under the trapdoor to place soul sand.
-## Considerations
-
-## Notes
 
 ## Resources
 - [Working 1.15+ Wither Based MobSwitch in Overworld / Nether](https://youtu.be/UUfZbZn7ETw): by [Fallen\_Breath](https://www.youtube.com/@FallenBreath)

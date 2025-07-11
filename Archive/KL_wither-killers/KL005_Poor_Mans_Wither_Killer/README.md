@@ -14,8 +14,6 @@
 - 1.14+
 ## Features
 - Dispensers running out of wither skeleton skulls will cut off soul sand supply.
-## Considerations
-
 ## Notes
 - The bedrock needs two layers of 3x3, the main area that requires bedrock breaking is 5x4, and a few other locations depending on the situation.
 - The green carpet is the safe area outside the wither blast range, and the red is the dangerous area.

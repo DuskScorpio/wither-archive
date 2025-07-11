@@ -17,8 +17,6 @@ A simple wither rose farm cage with armor stand to block the wither blue skulls
 - Rate depends on the mob farm used.
 - Wither's main head skulls (blue and black) hits armor stand
 - Side head skulls explode in solid block to damage mobs around.
-## Considerations
-
 ## Notes
 - The summoning method seems to only work in 1.18 and lower, you need to waterlog the slab and summon the wither directly under the slab instead.
 - The design is not reload safe in 1.18+. The addition of a block under the feet and behind the head is suggested (as shown in the image attached)

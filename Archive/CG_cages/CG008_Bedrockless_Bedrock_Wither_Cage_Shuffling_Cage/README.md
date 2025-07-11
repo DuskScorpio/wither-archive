@@ -17,11 +17,6 @@ A bedrock-less wither cage made long ago.
 - The side head black skulls are prevented by shuffling the side head skull blocker
   1. When the wither is attempting to break blocks, the blockers will be pulled backwards with sticky pistons. 
   2. After the block breaking attack, new blockers from the top will be 0-ticked into place to detonate potential wither skulls that spawned in the previous tick. Because the initial velocity of the wither skulls is very low, the skulls will not have a chance to escape before the new blocker arrived.
-## Features
-
-## Considerations
-
-## Notes
 
 ## Other Images
 <img src="images/7de80c4ff3d270e087cf161998f26a18.png?raw=1" height="300px">

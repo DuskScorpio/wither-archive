@@ -16,10 +16,6 @@ A very simple obsidian farm that produces a stack of obsidian every 7 seconds. T
 - Obsidian: 32k/h
 ### Video Links
 - [Explanation and Block by Block Tutorial](<https://www.youtube.com/watch?v=m7L_odfKJlc>)
-## Features
-
-## Considerations
-
 ## Notes
 - Watch the video and read the description for further instructions.
 ### Build

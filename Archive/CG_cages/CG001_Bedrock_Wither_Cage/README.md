@@ -12,8 +12,6 @@ A wither cage with bedrock
 - 1.4.2+
 ## Features
 - Wither can destroy a 3x4x3 region with the lowest layer centered at its tail.
-## Considerations
-
 ## Notes
 - In versions before 1.8, a block instead of a wall is needed since the wither is taller, and the sideways summoning setup doesn't work.
 - In versions 1.14 and below, predamage the wither before starting the clock.

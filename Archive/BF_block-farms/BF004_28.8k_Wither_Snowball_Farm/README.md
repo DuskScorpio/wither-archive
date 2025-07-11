@@ -27,11 +27,6 @@ A simple wither snowball farm.
 - Refer to the video for further instructions.
 ### How to use
  1. Flick the lever to toggle the farm.
-## Features
-
-## Considerations
-
-## Notes
 
 ## Resources
 - [BF004_SimpleWitherSnowFarm.url](https://www.mediafire.com/file/r28ia50aw1he930/Simple+Wither+Snow+Farm.zip/file): Mediafire link

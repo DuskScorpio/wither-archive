@@ -22,7 +22,6 @@ A wither killer that summons withers every 4gt and requires breaking 10x10 bedro
 ## Considerations
 - Does not work reliably with vanilla client
 - Requires carpet bot use continuous or autoclicker
-## Notes
 
 ## Other Images
 <img src="images/2021-11-30_23_1.png?raw=1" height="300px">

@@ -19,9 +19,6 @@ A compact wither based basalt/blackstone farm with carpet extra.
 - 0 hoppers under the wither cage, and 0 carts,  0 blinking dust.
 - Uses 3 withers. Item loss is around 0.32%
 - 3 wide tileable but you will have to rewire clocks to tile wider.
-## Considerations
-
-## Notes
 
 ## Other Images
 <img src="images/2020-07-30_12.png?raw=1" height="300px">

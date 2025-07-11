@@ -19,7 +19,6 @@ To ensure exactly four soul sands are inputted each time, the input is detection
 ## Considerations
 - Only 120min test conducted, which is not considered high-intensity or long time
 - Potential hidden issues unknown.
-## Notes
 
 ## Resources
 - [KL006_4gt_Wither_Killer_with_Accessories.litematic](attachments/KL006_4gt_Wither_Killer_with_Accessories.litematic): MC 1.20, Size 14x32x20 blocks
