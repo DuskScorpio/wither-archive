@@ -1,7 +1,7 @@
 # 3x3x3 Bedrock Wither Cage & Damager
 <img alt="unknown-5.png" src="images/unknown-5.png?raw=1" height="300px">
 
-**Authors:** *Emilia*
+**Authors:** *Em*
 
 **Endorsed by:** *Scorpio*
 
