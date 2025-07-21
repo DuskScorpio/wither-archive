@@ -68,3 +68,10 @@ A nether portal obsidian farm using suffocation instead of TNT duping to harm th
 **Other attachments:**
 - [2025-07-19_02.05.33.png](comments_attachments/1396010578807361567-2025-07-19_02.05.33.png): discord
 
+
+### Scorpio (7/21/2025)
+- *Figure 2.* https://cdn.discordapp.com/attachments/1385857890086289540/1396022246258245642/2025-07-19_02.53.29.png?ex=687c9288&is=687b4108&hm=b44b576fb89af073fbeae483ed22d7144958893bc3effb8e5197a086253d9aaf&
+
+**Other attachments:**
+- [2025-07-19_02.53.29.png](comments_attachments/1396022246258245642-2025-07-19_02.53.29.png): discord
+
