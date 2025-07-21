@@ -1,0 +1,120 @@
+{
+  "id": "1396697896778203136",
+  "name": "36k Suffocation Nether Portal Obsidian Farm",
+  "code": "NP004",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "413152252610609153",
+      "displayName": "niicide",
+      "username": "hunterofinfinity",
+      "iconURL": "https://cdn.discordapp.com/avatars/413152252610609153/83d766679764c254e42529c345ee60f5.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391839677165605024",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1396698401713946754",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1396697896778203136/1396698401713946754/area_render_2_.png?ex=687f0840&is=687db6c0&hm=c83a407d6c4cbee2a0fc8f5921072ebd1275b4ea9ff34614c402f735693a641b&",
+      "description": "Sent by hunterofinfinity at 7/20/2025, 11:40:48 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 658,
+      "path": "images/area_render_2_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1396698610476908644",
+      "name": "NP004_36k_suffocation_nether.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1396697896778203136/1396698610476908644/36k_suffocation_nether.litematic?ex=687f0872&is=687db6f2&hm=8d3512835361d54f00c7bb5b49611df35f730601f221134917f5c03ba3c2b548&",
+      "description": "Sent by hunterofinfinity at 7/20/2025, 11:41:38 PM",
+      "canDownload": true,
+      "path": "attachments/NP004_36k_suffocation_nether.litematic",
+      "litematic": {
+        "size": "6x9x4",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1396698610959122483",
+      "name": "NP004_36k_Dupeless_Obi_v1.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1396697896778203136/1396698610959122483/36k_Dupeless_Obi_v1.1.litematic?ex=687f0872&is=687db6f2&hm=f9a36b5a0dc90601335bf4a0efa30f8c7c8798f42a7f27bfa6c6a4042eb966de&",
+      "description": "Sent by hunterofinfinity at 7/20/2025, 11:41:38 PM",
+      "canDownload": true,
+      "path": "attachments/NP004_36k_Dupeless_Obi_v1.1.litematic",
+      "litematic": {
+        "size": "16x24x27",
+        "version": "1.21.5"
+      }
+    }
+  ],
+  "records": {
+    "description": "A nether portal obsidian farm using suffocation instead of TNT duping to harm the withers",
+    "credits": [
+      "<@247478244960501760>, <@513900971219353600>: Wither cage based on savva's reload detector",
+      "<@355889112215060480>: Nether based collection and obsidian recycling system",
+      "<@1003797257797251193>: Original design of a 6-wither cage which inspired this diagonal dual wither setup",
+      "<@1228300218240340030>, <@557984071838597123>: Clock from their wither cage design"
+    ],
+    "versions": [
+      "1.21+"
+    ],
+    "rates": [
+      "Obsidian: 36k/h"
+    ],
+    "lag info": [
+      "Test environment: CPU i7-11370H with Lithium",
+      "Idle: 1.0mspt",
+      "Active: 2.1mspt"
+    ],
+    "files": [
+      "Schematics:\n- Overworld side: https://cdn.discordapp.com/attachments/1385857890086289540/1395965007270772786/36k_Dupeless_Obi_v1.1.litematic?\n- Nether side: https://cdn.discordapp.com/attachments/1385857890086289540/1396692698290983044/36k_suffocation_nether.litematic?",
+      "Images: https://cdn.discordapp.com/attachments/1385857890086289540/1396020116147404870/area_render_2_.png?"
+    ],
+    "positives": [
+      "Uses no duping and is fully playerless",
+      "Uses a dispenser-less and mob-less method of harming the withers, which avoids item consumption by dispensers as well as dealing with unreliable mob AI",
+      "Automatically recycles obsidian from the nether to generate new portals (uses Magplum's design)",
+      "Farm can be started and stopped entirely in the overworld"
+    ],
+    "negatives": [
+      "Requires subchunk alignment for wither cage",
+      "Not unload proof. If the chunks are reloaded while the wither harming mechanism is left running, the design has a small chance of breaking (~10%)."
+    ],
+    "design specifications": [
+      "Uses a piston to repeatedly push a block into the wither to momentarily suffocate it. This is done through aligning the wither's hitbox to partially clip into the blocks behind it with an extended piston based cage setup."
+    ],
+    "instructions": "### Notes\n1. Don't reload the chunks while the wither harming mechanism is running as this has a small chance (~10%) of breaking the design. This can easily be mitigated by making sure the clock is turned off before leaving the farm.\n2. When starting the farm, there is a very small chance (~5%) that the portal creation cycle would be in perfect sync with the wither harming mechanism which would prevent the farm from running. This can be resolved by simply reigniting your side portal, throwing an item through it and pressing the button on the dispenser to break the portal.\n### Build\n1. Use the blue wool to ensure your schematic is subchunk aligned (refer to figure 1 and 2) and the OW portal's y coords is as close as possible to the y coords of your nether side portal. Your main portal (the one broken by your withers) should also be coordinate aligned to and face the same direction as the nether side portal\n2. Test your portal generation to ensure it gets created in the correct place. If this isn't the case, then flood the floor of any caves you find your portal generated in and deactivate that portal. You may have to do this a few times before your portal generates in the farm.\n3. Once you've confirmed your portal generates correctly, you can summon the withers with the placement and steps shown in figure 3. Ensure your chickens and iron golem are at full health, your chickens are **fully grown** and no other mobs are in the vicinity when summoning your wither.\n4. If you see the main head firing no skulls, you have done everything correctly. Simply use a bucket to collect your water and make sure to break the iron trapdoor to enable the piston to harm the wither.\n### How to use\n- Starting the farm\n  1. If you are starting it for the first time, go to the nether side portal and prefill the dropper underneath the glass pillar with 64 dummy items. Feel free to add more dummy items if you feel you need more time to start the farm. Place a minecart on the sloped rail to start the clock. You should see items being fired through the portal at 1 second intervals if everything is setup correctly.\n  2. In the OW, flip the switch to start the pistons that'll hurt your withers. Activate your side portal if it isn't already and throw any dummy item in there. Quickly press the button on the dispenser to deactivate your portal and the farm should be started.\n- Stopping the farm\n  1. Press the button on the dispenser to pick up the placed water and reignite your side portal.\n  2. Flip the switch to turn off the wither hurting mechanism."
+  },
+  "timestamp": 1753071053121,
+  "post": {
+    "threadId": "1396705975595040869",
+    "forumId": "1391837205319778367",
+    "continuingMessageIds": [
+      "1396705978094981150",
+      "1396705978824523886",
+      "1396705979265191978"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1396705975595040869",
+    "uploadMessageId": "1396705972910686240"
+  }
+}
