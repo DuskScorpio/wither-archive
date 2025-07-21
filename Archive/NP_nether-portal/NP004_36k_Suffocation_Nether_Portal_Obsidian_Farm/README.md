@@ -58,3 +58,13 @@ A nether portal obsidian farm using suffocation instead of TNT duping to harm th
 ## Resources
 - [NP004_36k_suffocation_nether.litematic](attachments/NP004_36k_suffocation_nether.litematic): MC 1.21.4, Size 6x9x4 blocks
 - [NP004_36k_Dupeless_Obi_v1.1.litematic](attachments/NP004_36k_Dupeless_Obi_v1.1.litematic): MC 1.21.5, Size 16x24x27 blocks
+
+## Comments
+
+### Scorpio (7/21/2025)
+## Figures
+- *Figure 1.* https://cdn.discordapp.com/attachments/1385857890086289540/1396010578807361567/2025-07-19_02.05.33.png?ex=687c87aa&is=687b362a&hm=4c5c7274ef70acaca0f63bf3896cf76171993718eaaa56deb205d57837527749&
+
+**Other attachments:**
+- [2025-07-19_02.05.33.png](comments_attachments/1396010578807361567-2025-07-19_02.05.33.png): discord
+
