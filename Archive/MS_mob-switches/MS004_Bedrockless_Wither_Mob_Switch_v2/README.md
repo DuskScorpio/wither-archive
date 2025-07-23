@@ -16,12 +16,13 @@ World's first bedrockless wither mob switch
 ### Versions
 - 1.16+
 ### Video Links
-- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)
+- [Showcase](https://youtu.be/A9pQ0pgfo7Q)
 
 ## Resources
+- [Wither Mob Switch Design [Minecraft 1.16.5]](https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp): by [trizz](https://www.youtube.com/@trizz9496)
 - [MS004_BedrocklessWitherMobSwitchV2.url](https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2): Mediafire link
 - [MS004_WitherMobSwitch1.16BlockStre.zip](attachments/MS004_WitherMobSwitch1.16BlockStre.zip): MC 1.16.5
 - [MS004_WitherMobSwitch1.16.zip](attachments/MS004_WitherMobSwitch1.16.zip): MC 1.16.5
 - [MS004_WitherMobSwitch1.19BlockStre.zip](attachments/MS004_WitherMobSwitch1.19BlockStre.zip): MC 1.19.2
 - [MS004_WitherMobSwitch1.19.zip](attachments/MS004_WitherMobSwitch1.19.zip): MC 1.21.1
-- [Wither Mob Switch Design [Minecraft 1.16.5]](https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp): by [trizz](https://www.youtube.com/@trizz9496)
+- [I trapped 1000 Withers in Stone](https://youtu.be/A9pQ0pgfo7Q): by [Scorpio](https://www.youtube.com/@Scorpio03)
