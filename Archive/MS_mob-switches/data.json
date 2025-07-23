@@ -3,7 +3,7 @@
   "name": "mob-switches",
   "code": "MS",
   "description": "Wither mob switches",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1391977676616634438",
@@ -32,6 +32,13 @@
       "code": "MS004",
       "timestamp": 1752151601913,
       "path": "MS004_Bedrockless_Wither_Mob_Switch_v2"
+    },
+    {
+      "id": "1397591730030772295",
+      "name": "OW and Nether Wither Mob Switch",
+      "code": "MS005",
+      "timestamp": 1753287865002,
+      "path": "MS005_OW_and_Nether_Wither_Mob_Switch"
     }
   ]
 }
