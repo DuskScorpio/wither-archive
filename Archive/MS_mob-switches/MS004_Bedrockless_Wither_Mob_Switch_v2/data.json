@@ -48,63 +48,6 @@
   ],
   "attachments": [
     {
-      "id": "fxfb14fiivogr",
-      "name": "MS004_BedrocklessWitherMobSwitchV2.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2",
-      "description": "[MediaFire] Sent by scorpio03 at 7/10/2025, 4:30:40 AM",
-      "canDownload": false,
-      "path": "attachments/MS004_BedrocklessWitherMobSwitchV2.url"
-    },
-    {
-      "id": "1391991777476612107",
-      "name": "MS004_WitherMobSwitch1.16BlockStre.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777476612107/WitherMobSwitch1.16BlockStre.zip?ex=68708bdd&is=686f3a5d&hm=84d344538efef4d235d43f2a0134b5394c357410c43a0133c2b941b4553f8c8d&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
-      "canDownload": true,
-      "path": "attachments/MS004_WitherMobSwitch1.16BlockStre.zip",
-      "wdl": {
-        "version": "1.16.5"
-      }
-    },
-    {
-      "id": "1391991777862619136",
-      "name": "MS004_WitherMobSwitch1.16.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777862619136/WitherMobSwitch1.16.zip?ex=68708bdd&is=686f3a5d&hm=be752c85995721894510c009ecb295aa9cf3146d164efe59115e893fbe66c6d3&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
-      "canDownload": true,
-      "path": "attachments/MS004_WitherMobSwitch1.16.zip",
-      "wdl": {
-        "version": "1.16.5"
-      }
-    },
-    {
-      "id": "1391991778244034600",
-      "name": "MS004_WitherMobSwitch1.19BlockStre.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778244034600/WitherMobSwitch1.19BlockStre.zip?ex=68708bdd&is=686f3a5d&hm=8ed855f760e0a024ff261f992cb9380460c397272225e6a1295aa3cc6278ba2d&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
-      "canDownload": true,
-      "path": "attachments/MS004_WitherMobSwitch1.19BlockStre.zip",
-      "wdl": {
-        "version": "1.19.2"
-      }
-    },
-    {
-      "id": "1391991778571321415",
-      "name": "MS004_WitherMobSwitch1.19.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778571321415/WitherMobSwitch1.19.zip?ex=68708bdd&is=686f3a5d&hm=8069c156fa1bf7a872d62c12d31ec8c36b657831e1aec2debc771d87bde9794b&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
-      "canDownload": true,
-      "path": "attachments/MS004_WitherMobSwitch1.19.zip",
-      "wdl": {
-        "version": "1.21.1"
-      }
-    },
-    {
       "id": "bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp",
       "name": "MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url",
       "contentType": "youtube",
@@ -122,15 +65,88 @@
         "height": 113
       },
       "path": "attachments/MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url"
+    },
+    {
+      "id": "fxfb14fiivogr",
+      "name": "MS004_BedrocklessWitherMobSwitchV2.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2",
+      "description": "[MediaFire] Sent by scorpio03 at 7/10/2025, 4:30:40 AM",
+      "canDownload": false,
+      "path": "attachments/MS004_BedrocklessWitherMobSwitchV2.url"
+    },
+    {
+      "id": "1391991777476612107",
+      "name": "MS004_WitherMobSwitch1.16BlockStre.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777476612107/WitherMobSwitch1.16BlockStre.zip?ex=6882581d&is=6881069d&hm=bf7ffebfe80c57da546757f7cf23f6f15992c573725bcd0f41020273b38c774b&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.16BlockStre.zip",
+      "wdl": {
+        "version": "1.16.5"
+      }
+    },
+    {
+      "id": "1391991777862619136",
+      "name": "MS004_WitherMobSwitch1.16.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777862619136/WitherMobSwitch1.16.zip?ex=6882581d&is=6881069d&hm=a0629fe6fd8987a6ae2ae48a66aed8e1c6c31ca2993f638008857903055d67f3&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.16.zip",
+      "wdl": {
+        "version": "1.16.5"
+      }
+    },
+    {
+      "id": "1391991778244034600",
+      "name": "MS004_WitherMobSwitch1.19BlockStre.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778244034600/WitherMobSwitch1.19BlockStre.zip?ex=6882581d&is=6881069d&hm=a018ce93cdaa8a478cc4fbc5707a9f78d0176699d2af8651ff838ecae9ae7061&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.19BlockStre.zip",
+      "wdl": {
+        "version": "1.19.2"
+      }
+    },
+    {
+      "id": "1391991778571321415",
+      "name": "MS004_WitherMobSwitch1.19.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778571321415/WitherMobSwitch1.19.zip?ex=6882581d&is=6881069d&hm=15f433edb4785f88a83f1726d702992d7791e93305b17c4174880ab3e606a850&",
+      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.19.zip",
+      "wdl": {
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "A9pQ0pgfo7Q",
+      "name": "MS004_YouTube_Video_A9pQ0pgfo7Q.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/A9pQ0pgfo7Q",
+      "description": "[YouTube] Sent by scorpio03 at 7/23/2025, 2:58:45 PM",
+      "canDownload": false,
+      "youtube": {
+        "title": "I trapped 1000 Withers in Stone",
+        "author_name": "Scorpio",
+        "author_url": "https://www.youtube.com/@Scorpio03",
+        "thumbnail_url": "https://i.ytimg.com/vi/A9pQ0pgfo7Q/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MS004_YouTube_Video_A9pQ0pgfo7Q.url"
     }
   ],
   "records": {
-    "description": "World's first bedrockless wither mob switch\n### Credits\n- [trizz's mob switch reference](<https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp>)\n- [Fallen_Breath's Mob Switch reference](<https://www.bilibili.com/video/BV1op4y1U7Y8?p=9&spm_id_from=333.788.videopod.episodes>)\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1ubMbzvEe6/)",
-    "features": [],
-    "considerations": [],
-    "notes": ""
+    "description": "World's first bedrockless wither mob switch\n### Credits\n- [trizz's mob switch reference](<https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp>)\n- [Fallen_Breath's Mob Switch reference](<https://www.bilibili.com/video/BV1op4y1U7Y8?p=9&spm_id_from=333.788.videopod.episodes>)\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://youtu.be/A9pQ0pgfo7Q)"
   },
-  "timestamp": 1752151601913,
+  "timestamp": 1753297167382,
   "post": {
     "threadId": "1392784664384639058",
     "forumId": "1391843180944560261",
@@ -139,6 +155,6 @@
       "1392847245241749534"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392784664384639058",
-    "uploadMessageId": "1392847242448207892"
+    "uploadMessageId": "1397654367510986782"
   }
 }
