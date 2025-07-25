@@ -52,3 +52,10 @@
 **Other attachments:**
 - [2025-07-23_00.21.56.png](comments_attachments/1397591855704838205-2025-07-23_00.21.56.png): discord
 
+
+### Scorpio (7/25/2025)
+- *Figure 2.* https://cdn.discordapp.com/attachments/1397591730030772295/1397591924621312010/2025-07-23_00.23.34.png?ex=6884eb68&is=688399e8&hm=ac528301d124fd8914511017f1c71d5da2696b4973d9ccd5cf07c29f6e680515&
+
+**Other attachments:**
+- [2025-07-23_00.23.34.png](comments_attachments/1397591924621312010-2025-07-23_00.23.34.png): discord
+
