@@ -42,3 +42,13 @@
 - [Wither Mob Switch](https://youtu.be/O7TCNGuFPQQ): by [Alvaro Costa](https://www.youtube.com/@AlvaroRCosta)
 - [MS005_Wither_Mob_Switch_-_Nether_Roof.litematic](attachments/MS005_Wither_Mob_Switch_-_Nether_Roof.litematic): MC 1.21.7, Size 5x8x5 blocks
 - [MS005_Wither_Mob_Switch_-_Overworld.litematic](attachments/MS005_Wither_Mob_Switch_-_Overworld.litematic): MC 1.21.7, Size 5x6x6 blocks
+
+## Comments
+
+### Scorpio (7/25/2025)
+## Figures
+- *Figure 1.* https://cdn.discordapp.com/attachments/1397591730030772295/1397591855704838205/2025-07-23_00.21.56.png?ex=6884eb58&is=688399d8&hm=309c3908df28869e43a0071538beb697e5fb75dda63adf630e9fda0e94009127&
+
+**Other attachments:**
+- [2025-07-23_00.21.56.png](comments_attachments/1397591855704838205-2025-07-23_00.21.56.png): discord
+
