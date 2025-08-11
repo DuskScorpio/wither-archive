@@ -2,7 +2,7 @@
   "id": "1391837205319778367",
   "name": "nether-portal",
   "code": "NP",
-  "description": "Nether portal-based obsidian farms",
+  "description": "Nether portal-based obsidian farms. Entities entering a nether portal that does not link to any portals will generate a new nether portal in the other dimension.",
   "currentCodeId": 4,
   "entries": [
     {
@@ -33,5 +33,6 @@
       "timestamp": 1753071053121,
       "path": "NP004_36k_Suffocation_Nether_Portal_Obsidian_Farm"
     }
-  ]
+  ],
+  "category": "OBSIDIAN FARMS"
 }
