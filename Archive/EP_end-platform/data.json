@@ -10,21 +10,31 @@
       "name": "IanXO4's Instant Obsidian Farm",
       "code": "EP001",
       "timestamp": 1752175290402,
-      "path": "EP001_IanXO4s_Instant_Obsidian_Farm"
+      "path": "EP001_IanXO4s_Instant_Obsidian_Farm",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1392009976930631691",
       "name": "50.7k End Platform Obsidian Farm",
       "code": "EP002",
       "timestamp": 1752175286934,
-      "path": "EP002_50.7k_End_Platform_Obsidian_Farm"
+      "path": "EP002_50.7k_End_Platform_Obsidian_Farm",
+      "tags": [
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1393081812334673990",
       "name": "Simple Obsidian Farm",
       "code": "EP003",
       "timestamp": 1752848450459,
-      "path": "EP003_Simple_Obsidian_Farm"
+      "path": "EP003_Simple_Obsidian_Farm",
+      "tags": [
+        "Broken"
+      ]
     }
   ],
   "category": "OBSIDIAN FARMS"

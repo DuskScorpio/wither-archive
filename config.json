@@ -4,92 +4,187 @@
       "id": "1391832229339988110",
       "name": "block-farms",
       "code": "BF",
+      "category": "OTHER FARMS",
       "path": "Archive/BF_block-farms",
-      "description": "Block farms"
+      "description": "Block farms",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391832288668680332",
       "name": "block-converters",
       "code": "CV",
+      "category": "OTHER FARMS",
       "path": "Archive/CV_block-converters",
-      "description": "Block converters"
+      "description": "Block converters",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391832537399038022",
       "name": "wither-rose-farms",
       "code": "WR",
+      "category": "OTHER FARMS",
       "path": "Archive/WR_wither-rose-farms",
-      "description": "Wither rose farms"
+      "description": "Wither rose farms",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391832581481173134",
       "name": "miscellaneous-farms",
       "code": "MC",
+      "category": "OTHER FARMS",
       "path": "Archive/MC_miscellaneous-farms",
-      "description": "Miscellaneous farms"
+      "description": "Miscellaneous farms",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391835780820762794",
       "name": "end-platform",
       "code": "EP",
+      "category": "OBSIDIAN FARMS",
       "path": "Archive/EP_end-platform",
-      "description": "End platform-based obsidian farms"
+      "description": "End platform-based obsidian farms. Entities entering the end portal will regenerate the end obsidian platform.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391837148445147257",
       "name": "end-pillar",
       "code": "PR",
+      "category": "OBSIDIAN FARMS",
       "path": "Archive/PR_end-pillar",
-      "description": "End pillar-based obsidian farms"
+      "description": "End pillar-based obsidian farms. Ender dragon ritual will regenerate obsidian pillars.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391837205319778367",
       "name": "nether-portal",
       "code": "NP",
+      "category": "OBSIDIAN FARMS",
       "path": "Archive/NP_nether-portal",
-      "description": "Nether portal-based obsidian farms"
+      "description": "Nether portal-based obsidian farms. Entities entering a nether portal that does not link to any portals will generate a new nether portal in the other dimension.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Player Generate",
+        "Entity Generate"
+      ]
     },
     {
       "id": "1391837246843260938",
       "name": "lava-converter",
       "code": "LV",
+      "category": "OBSIDIAN FARMS",
       "path": "Archive/LV_lava-converter",
-      "description": "Lava converter-based obsidian farms"
+      "description": "Lava converter-based obsidian farms. Lava source touching water will form obsidian.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391843089361928272",
       "name": "cages",
       "code": "CG",
+      "category": "MISC",
       "path": "Archive/CG_cages",
-      "description": "Wither cage designs"
+      "description": "Wither cages, damagers, and item collection solutions.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Bedrockless Cage",
+        "Bedrock Cage"
+      ]
     },
     {
       "id": "1391843156307345438",
       "name": "wither-killers",
       "code": "KL",
+      "category": "MISC",
       "path": "Archive/KL_wither-killers",
-      "description": "Wither killers"
+      "description": "Wither killers",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391843180944560261",
       "name": "mob-switches",
       "code": "MS",
+      "category": "MISC",
       "path": "Archive/MS_mob-switches",
-      "description": "Wither mob switches"
+      "description": "Wither mob switches",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391843267682898010",
       "name": "flying-machines",
       "code": "FM",
+      "category": "MISC",
       "path": "Archive/FM_flying-machines",
-      "description": "Wither flying machines"
+      "description": "Wither flying machines",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1391843399950401686",
       "name": "stationary-skull",
       "code": "SK",
+      "category": "MISC",
       "path": "Archive/SK_stationary-skull",
-      "description": "Stationary wither skull designs"
+      "description": "Stationary wither skull generator or applications",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ]
 }
