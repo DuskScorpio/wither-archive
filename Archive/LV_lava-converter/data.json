@@ -2,7 +2,7 @@
   "id": "1391837246843260938",
   "name": "lava-converter",
   "code": "LV",
-  "description": "Lava converter-based obsidian farms",
+  "description": "Lava converter-based obsidian farms. Lava source touching water will form obsidian.",
   "currentCodeId": 1,
   "entries": [
     {
@@ -12,5 +12,6 @@
       "timestamp": 1752074383391,
       "path": "LV001_Lava_Converter_Obsidian_Farm"
     }
-  ]
+  ],
+  "category": "OBSIDIAN FARMS"
 }
