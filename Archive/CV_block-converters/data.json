@@ -10,7 +10,10 @@
       "name": "Tiny Dustless Concrete Converter",
       "code": "CV001",
       "timestamp": 1752175312307,
-      "path": "CV001_Tiny_Dustless_Concrete_Converter"
+      "path": "CV001_Tiny_Dustless_Concrete_Converter",
+      "tags": [
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "OTHER FARMS"

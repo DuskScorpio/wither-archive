@@ -10,7 +10,10 @@
       "name": "240k Obsidian End Pillar Farm",
       "code": "PR001",
       "timestamp": 1752175281066,
-      "path": "PR001_240k_Obsidian_End_Pillar_Farm"
+      "path": "PR001_240k_Obsidian_End_Pillar_Farm",
+      "tags": [
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "OBSIDIAN FARMS"
