@@ -2,7 +2,7 @@
   "id": "1391843399950401686",
   "name": "stationary-skull",
   "code": "SK",
-  "description": "Stationary wither skull designs",
+  "description": "Stationary wither skull generator or applications",
   "currentCodeId": 2,
   "entries": [
     {
@@ -19,5 +19,6 @@
       "timestamp": 1751951948775,
       "path": "SK002_Stationary_Wither_Skull_Generator"
     }
-  ]
+  ],
+  "category": "MISC"
 }
