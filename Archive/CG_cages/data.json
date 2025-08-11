@@ -2,7 +2,7 @@
   "id": "1391843089361928272",
   "name": "cages",
   "code": "CG",
-  "description": "Wither cage designs",
+  "description": "Wither cages, damagers, and item collection solutions.",
   "currentCodeId": 8,
   "entries": [
     {
@@ -61,5 +61,6 @@
       "timestamp": 1752078103621,
       "path": "CG008_Bedrockless_Bedrock_Wither_Cage_Shuffling_Cage"
     }
-  ]
+  ],
+  "category": "MISC"
 }
