@@ -1,7 +1,7 @@
 # Poor Man's Wither Killer
 <img alt="unknown.png" src="images/unknown.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan)*
+**Authors:** *金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Scorpio*
 
