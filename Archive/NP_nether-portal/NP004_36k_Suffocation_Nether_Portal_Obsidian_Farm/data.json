@@ -4,7 +4,7 @@
   "code": "NP004",
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "413152252610609153",
       "displayName": "niicide",
       "username": "hunterofinfinity",
