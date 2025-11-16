@@ -58,12 +58,17 @@
     }
   ],
   "records": {
-    "description": "A withers skull catcher system designed by <@523191268294262785> and <@557984071838597123>\n### Versions\n- 1.21.4+",
-    "features": [],
-    "considerations": [],
-    "notes": "1. Flip the lever so that pistons are spamming\n2. Press the button on command block to spawn withers\n3. Quickly show the withers the chicken and immidiately hide it again"
+    "description": "A withers skull catcher system designed by <@523191268294262785> and <@557984071838597123>",
+    "versions": [
+      "1.21.4-1.21.9"
+    ],
+    "notes": [
+      "Flip the lever so that pistons are spamming",
+      "Press the button on command block to spawn withers",
+      "Quickly show the withers the chicken and immidiately hide it again"
+    ]
   },
-  "timestamp": 1751951948775,
+  "timestamp": 1763259277601,
   "post": {
     "threadId": "1392003325381312584",
     "forumId": "1391843399950401686",
