@@ -3,7 +3,7 @@
   "name": "cages",
   "code": "CG",
   "description": "Wither cages, damagers, and item collection solutions.",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1391948715228528720",
@@ -94,6 +94,17 @@
       "path": "CG008_Bedrockless_Bedrock_Wither_Cage_Shuffling_Cage",
       "tags": [
         "Untested",
+        "Bedrockless Cage"
+      ]
+    },
+    {
+      "id": "1429867220409913406",
+      "name": "Suffocation Bedrockless Creaking Wither Cage",
+      "code": "CG009",
+      "timestamp": 1766129867847,
+      "path": "CG009_Suffocation_Bedrockless_Creaking_Wither_Cage",
+      "tags": [
+        "Tested & Functional",
         "Bedrockless Cage"
       ]
     }

@@ -1,0 +1,94 @@
+{
+  "id": "1429867220409913406",
+  "name": "Suffocation Bedrockless Creaking Wither Cage",
+  "code": "CG009",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1222188029356150847",
+      "displayName": "Seminoso",
+      "username": "seminoso",
+      "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1429867220955168829",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1429867220955168829/image.png?ex=68f7b31f&is=68f6619f&hm=703d95098dd459cecde5e7cd1b37bb9b6033913bc343ef4883def2214ece9eec&",
+      "description": "Sent by seminoso at 10/20/2025, 12:21:50 PM",
+      "canDownload": true,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1429867221584183356",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1429867221584183356/image.png?ex=68f7b31f&is=68f6619f&hm=bdd1ccada086c34848e280ea56650749d8610b39a60629221bcd67a542885432&",
+      "description": "Sent by seminoso at 10/20/2025, 12:21:50 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/image_1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1429867221936640030",
+      "name": "CG009_Creaking_Wither_Cage.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1429867221936640030/Creaking_Wither_Cage.litematic?ex=68f7b31f&is=68f6619f&hm=a9516c2bad690d2112913182861ff2cca9c06c38dd19dadb919ac6d4efcfbe27&",
+      "description": "Sent by seminoso at 10/20/2025, 12:21:50 PM",
+      "canDownload": true,
+      "path": "attachments/CG009_Creaking_Wither_Cage.litematic",
+      "litematic": {
+        "size": "10x6x3",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A simple and compact wither cage that uses the Creaking to stop skulls shot from the main head.",
+    "versions": "1.21.5+",
+    "features": [
+      "Only 3 blocks wide",
+      "Simple suffocation damaging system"
+    ],
+    "considerations": [
+      "Only works in the overworld"
+    ],
+    "notes": [
+      "The creaking in the schematic is from a spawn egg and has resistance 6 ; that's because normal ones get killed when pasting it in creative. In survival you'll need to either have the Creaking's heart close by or have one that has its heart unloaded. Nametag the Creaking or it will despawn or disappear during the day"
+    ]
+  },
+  "timestamp": 1766129867847,
+  "post": {
+    "threadId": "1451478614506737746",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1451478627459006494"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1451478614506737746",
+    "uploadMessageId": "1451478612661243935"
+  }
+}
