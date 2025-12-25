@@ -32,24 +32,15 @@
   ],
   "images": [
     {
-      "id": "1429867220955168829",
-      "name": "image.png",
-      "contentType": "image/webp",
-      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1429867220955168829/image.png?ex=68f7b31f&is=68f6619f&hm=703d95098dd459cecde5e7cd1b37bb9b6033913bc343ef4883def2214ece9eec&",
-      "description": "Sent by seminoso at 10/20/2025, 12:21:50 PM",
-      "canDownload": true,
-      "path": "images/image.png"
-    },
-    {
-      "id": "1429867221584183356",
-      "name": "image_1.png",
+      "id": "1450925017620811858",
+      "name": "area_render_5_.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1429867221584183356/image.png?ex=68f7b31f&is=68f6619f&hm=bdd1ccada086c34848e280ea56650749d8610b39a60629221bcd67a542885432&",
-      "description": "Sent by seminoso at 10/20/2025, 12:21:50 PM",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1450925017620811858/area_render_5_.png?ex=694e31f9&is=694ce079&hm=b436bb8b23fb2d6616ed8662b8f845b527f9c63d344cacfb82247c568962c4b6&",
+      "description": "Sent by seminoso at 12/17/2025, 1:58:01 PM",
       "canDownload": true,
       "width": 800,
-      "height": 450,
-      "path": "images/image_1.png"
+      "height": 444,
+      "path": "images/area_render_5_.png"
     }
   ],
   "attachments": [
@@ -65,6 +56,37 @@
         "size": "10x6x3",
         "version": "1.21.8"
       }
+    },
+    {
+      "id": "1432004624306409534",
+      "name": "CG009_Creaking_Wither_Cage_Summoning.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1432004624306409534/Creaking_Wither_Cage_Summoning.litematic?ex=694deafb&is=694c997b&hm=d0fb49a4b810d1259792fd1aa336ad65021a3372536714c838a7c5b2607297de&",
+      "description": "Sent by seminoso at 10/26/2025, 9:55:07 AM",
+      "canDownload": true,
+      "path": "attachments/CG009_Creaking_Wither_Cage_Summoning.litematic",
+      "litematic": {
+        "size": "11x6x3",
+        "version": "1.21.8"
+      }
+    },
+    {
+      "id": "1432004417619628052",
+      "name": "CG009_8mb.video-wmV-XBu1mCLA.mp4",
+      "contentType": "video/mp4",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1432004417619628052/8mb.video-wmV-XBu1mCLA.mp4?ex=694deaca&is=694c994a&hm=178b19f427bb75dba252379092c9941bfa6830314c1411f3495deaf3c79afd3d&",
+      "description": "Sent by seminoso at 10/26/2025, 9:54:18 AM",
+      "canDownload": true,
+      "path": "attachments/CG009_8mb.video-wmV-XBu1mCLA.mp4"
+    },
+    {
+      "id": "1432004416470515763",
+      "name": "CG009_image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1432004416470515763/image.png?ex=694deaca&is=694c994a&hm=5614fe7dd66caaa57c72eb443d14352a98ceff57e499373aaa297269d195dd06&",
+      "description": "Sent by seminoso at 10/26/2025, 9:54:18 AM",
+      "canDownload": true,
+      "path": "attachments/CG009_image.png"
     }
   ],
   "records": {
@@ -77,18 +99,28 @@
     "considerations": [
       "Only works in the overworld"
     ],
-    "notes": [
-      "The creaking in the schematic is from a spawn egg and has resistance 6 ; that's because normal ones get killed when pasting it in creative. In survival you'll need to either have the Creaking's heart close by or have one that has its heart unloaded. Nametag the Creaking or it will despawn or disappear during the day"
-    ]
+    "build-notes": "- The creaking in the schematic is from a spawn egg and has resistance 6 ; that's because normal ones get killed when pasting it in creative. In survival you'll need to either have the Creaking's heart close by or have one that has its heart unloaded. Nametag the Creaking or it will despawn or disappear during the day",
+    "additional-notes": "- Blocks can be pushed from behind or from the sides\n- Schematic, image and video for wither summoning below"
   },
-  "timestamp": 1766129867847,
+  "styles": {
+    "build-notes": {
+      "depth": 2,
+      "headerText": "Build Notes"
+    },
+    "additional-notes": {
+      "depth": 2,
+      "headerText": "Additional notes"
+    }
+  },
+  "timestamp": 1766672258283,
   "post": {
-    "threadId": "1451478614506737746",
+    "threadId": "1453753591197204564",
     "forumId": "1391843089361928272",
     "continuingMessageIds": [
-      "1451478627459006494"
+      "1453753593659133984",
+      "1453753594330353704"
     ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1451478614506737746",
-    "uploadMessageId": "1451478612661243935"
+    "threadURL": "https://discord.com/channels/913065809096638494/1453753591197204564",
+    "uploadMessageId": "1453753587963265184"
   }
 }
