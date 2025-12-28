@@ -108,7 +108,58 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392948930366541875",
     "uploadMessageId": "1392948928219058267"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "matches": [
+        "<@247478244960501760>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "697092662511272036",
+        "displayName": "Sam.",
+        "username": "sam.8742",
+        "iconURL": "https://cdn.discordapp.com/avatars/697092662511272036/95753a160cdd6ad0094c389d8e53bdaf.webp"
+      },
+      "matches": [
+        "<@697092662511272036>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "756755345421893724",
+        "username": "redstonia_",
+        "iconURL": "https://cdn.discordapp.com/avatars/756755345421893724/fa0db8000cf2a5685ddeb5b682ab18e9.webp"
+      },
+      "matches": [
+        "<@756755345421893724>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1752175303942,
   "updatedAt": 1752175303942

@@ -9,7 +9,7 @@
 
 This is a very reliable Wither Cage for infinite amount of Withers that are kept in a very precise position using boats.
 ### Credits
-- Contributed by: <@392852591521955840>  (minimal adjustments)
+- Contributed by: [@DarkShulkerYT](# "ID: 392852591521955840")  (minimal adjustments)
 ### Versions
 - 1.19-1.20
 ## Features

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392400293077061763)
 
-A simple wither cage without any redstone made by @bigbooty17 and <@513900971219353600>. 
+A simple wither cage without any redstone made by @bigbooty17 and [@Scorpio](# "ID: 513900971219353600"). 
 ### Credits
 - Chunk reload detector and chunk loading explanation by @savva4424.
 ### Versions

@@ -11,9 +11,9 @@
 
 Sends tnt through a portal to both generate obsidian and damage two withers.
 ### Credits
-- <@247478244960501760> Overworld side cage dev
-- <@513900971219353600> Nether side, cage dev
-- <@523191268294262785> cage dev
+- [@bigbooty17](# "ID: 247478244960501760") Overworld side cage dev
+- [@Scorpio](# "ID: 513900971219353600") Nether side, cage dev
+- [@jjl21](# "ID: 523191268294262785") cage dev
 - @savva's Reload detector: https://youtu.be/Ho_aJ1Lw0Zw
 ### Versions
 - 1.21+

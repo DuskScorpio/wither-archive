@@ -143,7 +143,46 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392432741395730432",
     "uploadMessageId": "1392433735697174529"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "matches": [
+        "<@247478244960501760>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "523191268294262785",
+        "displayName": "jjl21",
+        "username": "jjl21",
+        "iconURL": "https://cdn.discordapp.com/avatars/523191268294262785/7e0a701f28beb9c1f06d0628c6819ca9.webp"
+      },
+      "matches": [
+        "<@523191268294262785>"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1752052471903,
   "updatedAt": 1752052471903

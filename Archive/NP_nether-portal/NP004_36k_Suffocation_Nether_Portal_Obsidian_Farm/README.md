@@ -11,10 +11,10 @@
 
 A nether portal obsidian farm using suffocation instead of TNT duping to harm the withers
 ## Credits
-- <@247478244960501760>, <@513900971219353600>: Wither cage based on savva's reload detector
-- <@355889112215060480>: Nether based collection and obsidian recycling system
-- <@1003797257797251193>: Original design of a 6-wither cage which inspired this diagonal dual wither setup
-- <@1228300218240340030>, <@557984071838597123>: Clock from their wither cage design
+- [@bigbooty17](# "ID: 247478244960501760"), [@Scorpio](# "ID: 513900971219353600"): Wither cage based on savva's reload detector
+- [@magplum](# "ID: 355889112215060480"): Nether based collection and obsidian recycling system
+- [@WMC](# "ID: 1003797257797251193"): Original design of a 6-wither cage which inspired this diagonal dual wither setup
+- [@team109](# "ID: 1228300218240340030"), [@applestruck](# "ID: 557984071838597123"): Clock from their wither cage design
 ## Versions
 - 1.21+
 ## Rates
