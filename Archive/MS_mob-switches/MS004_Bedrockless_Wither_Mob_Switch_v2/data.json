@@ -131,7 +131,7 @@
       "description": "[YouTube] Sent by scorpio03 at 7/23/2025, 2:58:45 PM",
       "canDownload": false,
       "youtube": {
-        "title": "I trapped 1000 Withers in Stone",
+        "title": "1000 Withers vs 9 Stone",
         "author_name": "Scorpio",
         "author_url": "https://www.youtube.com/@Scorpio03",
         "thumbnail_url": "https://i.ytimg.com/vi/A9pQ0pgfo7Q/hqdefault.jpg",
@@ -152,9 +152,14 @@
     "forumId": "1391843180944560261",
     "continuingMessageIds": [
       "1392784667526041600",
-      "1392847245241749534"
+      "1392847245241749534",
+      "1454730331864170536"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392784664384639058",
     "uploadMessageId": "1397654367510986782"
-  }
+  },
+  "references": [],
+  "author_references": [],
+  "archivedAt": 1753297167382,
+  "updatedAt": 1753297167382
 }

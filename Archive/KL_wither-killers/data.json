@@ -9,7 +9,8 @@
       "id": "1391993510697111635",
       "name": "18k 4gt Wither Killer",
       "code": "KL001",
-      "timestamp": 1751954489312,
+      "archivedAt": 1751954489312,
+      "updatedAt": 1751954489312,
       "path": "KL001_18k_4gt_Wither_Killer",
       "tags": [
         "Tested & Functional"
@@ -19,7 +20,8 @@
       "id": "1391993289179271282",
       "name": "4.5k-6k 12gt Dustless Wither Killer",
       "code": "KL002",
-      "timestamp": 1751954533258,
+      "archivedAt": 1751954533258,
+      "updatedAt": 1751954533258,
       "path": "KL002_4.5k-6k_12gt_Dustless_Wither_Killer",
       "tags": [
         "Tested & Functional"
@@ -29,7 +31,8 @@
       "id": "1391996711307710504",
       "name": "Cheap 4.5k 16gt Wither Killer",
       "code": "KL003",
-      "timestamp": 1752066694235,
+      "archivedAt": 1752066694235,
+      "updatedAt": 1752066694235,
       "path": "KL003_Cheap_4.5k_16gt_Wither_Killer",
       "tags": [
         "Tested & Functional",
@@ -40,7 +43,8 @@
       "id": "1392514947455385610",
       "name": "18k 4gt Wither Killer",
       "code": "KL004",
-      "timestamp": 1752072015606,
+      "archivedAt": 1752072015606,
+      "updatedAt": 1752072015606,
       "path": "KL004_18k_4gt_Wither_Killer",
       "tags": [
         "Tested & Functional",
@@ -51,7 +55,8 @@
       "id": "1392515832969691207",
       "name": "Poor Man's Wither Killer",
       "code": "KL005",
-      "timestamp": 1752072165060,
+      "archivedAt": 1752072165060,
+      "updatedAt": 1752072165060,
       "path": "KL005_Poor_Mans_Wither_Killer",
       "tags": [
         "Tested & Functional"
@@ -61,7 +66,8 @@
       "id": "1392522652975108137",
       "name": "18k 4gt Detection-based Wither Killer",
       "code": "KL006",
-      "timestamp": 1752074024969,
+      "archivedAt": 1752074024969,
+      "updatedAt": 1752074024969,
       "path": "KL006_18k_4gt_Detection-based_Wither_Killer",
       "tags": [
         "Untested"

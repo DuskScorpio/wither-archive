@@ -68,8 +68,8 @@
       "canDownload": false,
       "youtube": {
         "title": "Wither Mob Switch",
-        "author_name": "Alvaro Costa",
-        "author_url": "https://www.youtube.com/@AlvaroRCosta",
+        "author_name": "AlvaroRC",
+        "author_url": "https://www.youtube.com/@AlvarooRC",
         "thumbnail_url": "https://i.ytimg.com/vi/O7TCNGuFPQQ/hqdefault.jpg",
         "thumbnail_width": 480,
         "thumbnail_height": 360,
@@ -148,9 +148,14 @@
     "threadId": "1397615348978683924",
     "forumId": "1391843180944560261",
     "continuingMessageIds": [
-      "1397615352036458619"
+      "1454730353976803328",
+      "1454730354744099033"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1397615348978683924",
     "uploadMessageId": "1397615347426791574"
-  }
+  },
+  "references": [],
+  "author_references": [],
+  "archivedAt": 1753287865002,
+  "updatedAt": 1753287865002
 }

@@ -11,7 +11,7 @@
 
 ## Credits
 - [Vktec](<https://youtu.be/2qL3erHQgvE>): Previous design
-## Description
+ 
 - A mob switch that uses withers to prevent hostile mobs from spawning.
 ## Versions
 - 1.17+
@@ -39,7 +39,7 @@
 
 ## Resources
 - [Wither Mob Switch | Minecraft 1.15-1.18+](https://youtu.be/2qL3erHQgvE): by [vktec](https://www.youtube.com/@vktec)
-- [Wither Mob Switch](https://youtu.be/O7TCNGuFPQQ): by [Alvaro Costa](https://www.youtube.com/@AlvaroRCosta)
+- [Wither Mob Switch](https://youtu.be/O7TCNGuFPQQ): by [AlvaroRC](https://www.youtube.com/@AlvarooRC)
 - [MS005_Wither_Mob_Switch_-_Nether_Roof.litematic](attachments/MS005_Wither_Mob_Switch_-_Nether_Roof.litematic): MC 1.21.7, Size 5x8x5 blocks
 - [MS005_Wither_Mob_Switch_-_Overworld.litematic](attachments/MS005_Wither_Mob_Switch_-_Overworld.litematic): MC 1.21.7, Size 5x6x6 blocks
 
