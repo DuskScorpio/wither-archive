@@ -14,7 +14,9 @@
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ]
+      ],
+      "archivedAt": 1751939486704,
+      "updatedAt": 1751939486704
     },
     {
       "id": "1391847020557242509",
@@ -26,7 +28,9 @@
         "Bedrock Cage",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "archivedAt": 1751942120434,
+      "updatedAt": 1751942120434
     },
     {
       "id": "1391960282221379615",
@@ -37,7 +41,9 @@
       "tags": [
         "Bedrock Cage",
         "Tested & Functional"
-      ]
+      ],
+      "archivedAt": 1751940298663,
+      "updatedAt": 1751940298663
     },
     {
       "id": "1391962233176588338",
@@ -50,7 +56,9 @@
         "Tested & Functional",
         "Recommended",
         "Bedrockless Cage"
-      ]
+      ],
+      "archivedAt": 1751942520560,
+      "updatedAt": 1751942520560
     },
     {
       "id": "1391964026585747537",
@@ -61,7 +69,9 @@
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ]
+      ],
+      "archivedAt": 1751953979227,
+      "updatedAt": 1751953979227
     },
     {
       "id": "1392055000779329627",
@@ -72,13 +82,16 @@
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ]
+      ],
+      "archivedAt": 1751989030661,
+      "updatedAt": 1751989030661
     },
     {
       "id": "1392388447075041312",
       "name": "Bedrockless Boat Wither Cage",
       "code": "CG007",
-      "timestamp": 1752044867381,
+      "archivedAt": 1752044867381,
+      "updatedAt": 1752044867381,
       "path": "CG007_Bedrockless_Boat_Wither_Cage",
       "tags": [
         "Tested & Functional",
@@ -95,7 +108,9 @@
       "tags": [
         "Untested",
         "Bedrockless Cage"
-      ]
+      ],
+      "archivedAt": 1752078103621,
+      "updatedAt": 1752078103621
     },
     {
       "id": "1429867220409913406",
@@ -106,7 +121,9 @@
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ]
+      ],
+      "archivedAt": 1766728376077,
+      "updatedAt": 1766728376077
     }
   ],
   "category": "MISC"
