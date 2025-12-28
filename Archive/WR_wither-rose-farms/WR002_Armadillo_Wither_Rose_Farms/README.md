@@ -11,11 +11,11 @@
 
 A simple and advanced armadillo-based wither rose farm.
 ## Designers
-- <@247478244960501760>
-- <@697092662511272036>: Storage help, autobrewer
+- [@bigbooty17](# "ID: 247478244960501760")
+- [@Sam.](# "ID: 697092662511272036"): Storage help, autobrewer
 ## Credits
-- <@756755345421893724>: Armadillo alignment
-- <@513900971219353600>: Box loaders
+- [@redstonia_](# "ID: 756755345421893724"): Armadillo alignment
+- [@Scorpio](# "ID: 513900971219353600"): Box loaders
 ## Versions
 - 1.21+
 ## Rates

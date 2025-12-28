@@ -79,7 +79,34 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392003325381312584",
     "uploadMessageId": "1392003323577761983"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "523191268294262785",
+        "displayName": "jjl21",
+        "username": "jjl21",
+        "iconURL": "https://cdn.discordapp.com/avatars/523191268294262785/7e0a701f28beb9c1f06d0628c6819ca9.webp"
+      },
+      "matches": [
+        "<@523191268294262785>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "557984071838597123",
+        "displayName": "applestruck",
+        "username": "applestruck",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "matches": [
+        "<@557984071838597123>"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1763259277601,
   "updatedAt": 1763259277601

@@ -185,7 +185,21 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392573103007334452",
     "uploadMessageId": "1392022540167417961"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1752085699598,
   "updatedAt": 1752085699598

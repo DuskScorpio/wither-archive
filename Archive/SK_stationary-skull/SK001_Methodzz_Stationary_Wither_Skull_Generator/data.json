@@ -80,7 +80,21 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392002256362147850",
     "uploadMessageId": "1392028043068969071"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "392852591521955840",
+        "displayName": "DarkShulkerYT",
+        "username": "darkshulkeryt",
+        "iconURL": "https://cdn.discordapp.com/avatars/392852591521955840/40692b9d70dd108490f5b55ee64c59fd.webp"
+      },
+      "matches": [
+        "<@392852591521955840>"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751954334825,
   "updatedAt": 1751954334825

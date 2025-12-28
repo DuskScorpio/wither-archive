@@ -125,7 +125,84 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1396705975595040869",
     "uploadMessageId": "1396705972910686240"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "matches": [
+        "<@247478244960501760>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "355889112215060480",
+        "username": "magplum",
+        "iconURL": "https://cdn.discordapp.com/avatars/355889112215060480/b9f9e69ea5a43ff091a24acb5234022b.webp"
+      },
+      "matches": [
+        "<@355889112215060480>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1003797257797251193",
+        "displayName": "WMC",
+        "username": "mc_white",
+        "iconURL": "https://cdn.discordapp.com/avatars/1003797257797251193/6e5772df1e3371ebf2a029ead4ae1011.webp"
+      },
+      "matches": [
+        "<@1003797257797251193>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1228300218240340030",
+        "displayName": "team109",
+        "username": "team109__",
+        "iconURL": "https://cdn.discordapp.com/avatars/1228300218240340030/7830b231da3e156416fa45c9aa9459fc.webp"
+      },
+      "matches": [
+        "<@1228300218240340030>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "557984071838597123",
+        "displayName": "applestruck",
+        "username": "applestruck",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "matches": [
+        "<@557984071838597123>"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1753071053121,
   "updatedAt": 1753071053121

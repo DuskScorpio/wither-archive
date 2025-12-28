@@ -66,7 +66,21 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392948975811956768",
     "uploadMessageId": ""
   },
-  "references": [],
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "615152957192798218",
+        "displayName": "Till",
+        "username": "till2911",
+        "iconURL": "https://cdn.discordapp.com/avatars/615152957192798218/6e4644a1197c45f5bff148064dd60798.webp"
+      },
+      "matches": [
+        "<@615152957192798218>"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1752175315429,
   "updatedAt": 1752175315429

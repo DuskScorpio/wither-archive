@@ -140,6 +140,19 @@
   },
   "references": [
     {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/913065809096638494/1391992148739625140",
       "server": "913065809096638494",

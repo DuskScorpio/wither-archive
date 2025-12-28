@@ -36,7 +36,7 @@ Scorpio's idea using cod as a target for the wither
 - Directional due to how portals spawn (requires both sides to be facing the same direction)
 - Tricky wither summoning process
 ## Notes
-- From <@925291210325753907>'s observation, junk item dispenser is unnecessary, as the player loads the dimension upon reentry, but just to be sure i left it in. remove the item dispenser at your own risk 
+- From [@Carrie](# "ID: 925291210325753907")'s observation, junk item dispenser is unnecessary, as the player loads the dimension upon reentry, but just to be sure i left it in. remove the item dispenser at your own risk 
 - Definitely works on SOME paper servers (tested on a few smp's) but it's not guaranteed to tolerate unloads and such
 - Might require less spawnproofing to run down in the caves, the higher you'll place the nether side portal.
 - Original thread:
