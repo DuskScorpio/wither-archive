@@ -9,28 +9,26 @@
       "id": "1392006670233632778",
       "name": "The Obsidian Reactor",
       "code": "NP001",
-      "timestamp": 1751954100741,
+      "archivedAt": 1751954100741,
+      "updatedAt": 1751954100741,
       "path": "NP001_The_Obsidian_Reactor",
       "tags": [
         "Tested & Functional",
         "Player Generate"
-      ],
-      "archivedAt": 1751954100741,
-      "updatedAt": 1751954100741
+      ]
     },
     {
       "id": "1392015750084038677",
       "name": "36k TNT Nether Portal Obsidian Farm",
       "code": "NP002",
-      "timestamp": 1752052471903,
+      "archivedAt": 1752052471903,
+      "updatedAt": 1752052471903,
       "path": "NP002_36k_TNT_Nether_Portal_Obsidian_Farm",
       "tags": [
         "Tested & Functional",
         "Recommended",
         "Entity Generate"
-      ],
-      "archivedAt": 1752052471903,
-      "updatedAt": 1752052471903
+      ]
     },
     {
       "id": "1392667438432129054",
@@ -48,15 +46,14 @@
       "id": "1396697896778203136",
       "name": "36k Suffocation Nether Portal Obsidian Farm",
       "code": "NP004",
-      "timestamp": 1753071053121,
+      "archivedAt": 1753071053121,
+      "updatedAt": 1753071053121,
       "path": "NP004_36k_Suffocation_Nether_Portal_Obsidian_Farm",
       "tags": [
         "Tested & Functional",
         "Recommended",
         "Entity Generate"
-      ],
-      "archivedAt": 1753071053121,
-      "updatedAt": 1753071053121
+      ]
     }
   ],
   "category": "OBSIDIAN FARMS"

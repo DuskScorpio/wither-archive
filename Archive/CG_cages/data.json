@@ -9,82 +9,76 @@
       "id": "1391948715228528720",
       "name": "Suffocation Bedrockless Wither Cage",
       "code": "CG002",
-      "timestamp": 1751939486704,
+      "archivedAt": 1751939486704,
+      "updatedAt": 1751939486704,
       "path": "CG002_Suffocation_Bedrockless_Wither_Cage",
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ],
-      "archivedAt": 1751939486704,
-      "updatedAt": 1751939486704
+      ]
     },
     {
       "id": "1391847020557242509",
       "name": "Bedrock Wither Cage",
       "code": "CG001",
-      "timestamp": 1751942120434,
+      "archivedAt": 1751942120434,
+      "updatedAt": 1751942120434,
       "path": "CG001_Bedrock_Wither_Cage",
       "tags": [
         "Bedrock Cage",
         "Tested & Functional",
         "Recommended"
-      ],
-      "archivedAt": 1751942120434,
-      "updatedAt": 1751942120434
+      ]
     },
     {
       "id": "1391960282221379615",
       "name": "3x3x3 Bedrock Wither Cage & Damager",
       "code": "CG003",
-      "timestamp": 1751940298663,
+      "archivedAt": 1751940298663,
+      "updatedAt": 1751940298663,
       "path": "CG003_3x3x3_Bedrock_Wither_Cage__Damager",
       "tags": [
         "Bedrock Cage",
         "Tested & Functional"
-      ],
-      "archivedAt": 1751940298663,
-      "updatedAt": 1751940298663
+      ]
     },
     {
       "id": "1391962233176588338",
       "name": "1-wide Suffocation Damager",
       "code": "CG004",
-      "timestamp": 1751942520560,
+      "archivedAt": 1751942520560,
+      "updatedAt": 1751942520560,
       "path": "CG004_1-wide_Suffocation_Damager",
       "tags": [
         "Bedrock Cage",
         "Tested & Functional",
         "Recommended",
         "Bedrockless Cage"
-      ],
-      "archivedAt": 1751942520560,
-      "updatedAt": 1751942520560
+      ]
     },
     {
       "id": "1391964026585747537",
       "name": "Snow Golem Scaffolding Cage",
       "code": "CG005",
-      "timestamp": 1751953979227,
+      "archivedAt": 1751953979227,
+      "updatedAt": 1751953979227,
       "path": "CG005_Snow_Golem_Scaffolding_Cage",
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ],
-      "archivedAt": 1751953979227,
-      "updatedAt": 1751953979227
+      ]
     },
     {
       "id": "1392055000779329627",
       "name": "Suffocation Bedrockless Wither Cage",
       "code": "CG006",
-      "timestamp": 1751989030661,
+      "archivedAt": 1751989030661,
+      "updatedAt": 1751989030661,
       "path": "CG006_Suffocation_Bedrockless_Wither_Cage",
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ],
-      "archivedAt": 1751989030661,
-      "updatedAt": 1751989030661
+      ]
     },
     {
       "id": "1392388447075041312",
@@ -103,27 +97,25 @@
       "id": "1392529929916125244",
       "name": "Bedrockless Bedrock Wither Cage (Shuffling Cage)",
       "code": "CG008",
-      "timestamp": 1752078103621,
+      "archivedAt": 1752078103621,
+      "updatedAt": 1752078103621,
       "path": "CG008_Bedrockless_Bedrock_Wither_Cage_Shuffling_Cage",
       "tags": [
         "Untested",
         "Bedrockless Cage"
-      ],
-      "archivedAt": 1752078103621,
-      "updatedAt": 1752078103621
+      ]
     },
     {
       "id": "1429867220409913406",
       "name": "Suffocation Bedrockless Creaking Wither Cage",
       "code": "CG009",
-      "timestamp": 1766728376077,
+      "archivedAt": 1766728376077,
+      "updatedAt": 1766728376077,
       "path": "CG009_Suffocation_Bedrockless_Creaking_Wither_Cage",
       "tags": [
         "Tested & Functional",
         "Bedrockless Cage"
-      ],
-      "archivedAt": 1766728376077,
-      "updatedAt": 1766728376077
+      ]
     }
   ],
   "category": "MISC"

@@ -9,7 +9,8 @@
       "id": "1391999817705717903",
       "name": "Methodzz Stationary Wither Skull Generator",
       "code": "SK001",
-      "timestamp": 1751954334825,
+      "archivedAt": 1751954334825,
+      "updatedAt": 1751954334825,
       "path": "SK001_Methodzz_Stationary_Wither_Skull_Generator",
       "tags": [
         "Untested"
@@ -19,7 +20,8 @@
       "id": "1392002383436972032",
       "name": "Stationary Wither Skull Generator",
       "code": "SK002",
-      "timestamp": 1763259277601,
+      "archivedAt": 1763259277601,
+      "updatedAt": 1763259277601,
       "path": "SK002_Stationary_Wither_Skull_Generator",
       "tags": [
         "Tested & Functional"

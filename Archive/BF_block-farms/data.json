@@ -9,7 +9,8 @@
       "id": "1392034753632534669",
       "name": "Compact Wither Based Basalt/Blackstone (Carpet Extra) Farm",
       "code": "BF001",
-      "timestamp": 1752175324109,
+      "archivedAt": 1752175324109,
+      "updatedAt": 1752175324109,
       "path": "BF001_Compact_Wither_Based_BasaltBlackstone_Carpet_Extra_Farm",
       "tags": [
         "Tested & Functional"
@@ -19,7 +20,8 @@
       "id": "1392386133849276416",
       "name": "Bedrockless Wither Cobble farm",
       "code": "BF002",
-      "timestamp": 1752175344840,
+      "archivedAt": 1752175344840,
+      "updatedAt": 1752175344840,
       "path": "BF002_Bedrockless_Wither_Cobble_farm",
       "tags": [
         "Tested & Functional"
@@ -29,7 +31,8 @@
       "id": "1392517165185368237",
       "name": "Bedrock Cage Cobblestone Farm",
       "code": "BF003",
-      "timestamp": 1752175318487,
+      "archivedAt": 1752175318487,
+      "updatedAt": 1752175318487,
       "path": "BF003_Bedrock_Cage_Cobblestone_Farm",
       "tags": [
         "Tested & Functional"
@@ -39,7 +42,8 @@
       "id": "1392417660163195005",
       "name": "28.8k Wither Snowball Farm",
       "code": "BF004",
-      "timestamp": 1752175315429,
+      "archivedAt": 1752175315429,
+      "updatedAt": 1752175315429,
       "path": "BF004_28.8k_Wither_Snowball_Farm",
       "tags": [
         "Tested & Functional"

@@ -9,7 +9,8 @@
       "id": "1391998368737136701",
       "name": "Wither Obsidian Pillar Eater",
       "code": "FM001",
-      "timestamp": 1752085699598,
+      "archivedAt": 1752085699598,
+      "updatedAt": 1752085699598,
       "path": "FM001_Wither_Obsidian_Pillar_Eater",
       "tags": [
         "Untested"
@@ -19,7 +20,8 @@
       "id": "1392441988577628271",
       "name": "Hard Difficulty Wither Tunnel Bore",
       "code": "FM002",
-      "timestamp": 1752054778303,
+      "archivedAt": 1752054778303,
+      "updatedAt": 1752054778303,
       "path": "FM002_Hard_Difficulty_Wither_Tunnel_Bore",
       "tags": [
         "Broken"
