@@ -132,9 +132,24 @@
     "threadId": "1392400293077061763",
     "forumId": "1391843089361928272",
     "continuingMessageIds": [
-      "1392400295908348044"
+      "1392400295908348044",
+      "1454729278108340304"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392400293077061763",
     "uploadMessageId": ""
-  }
+  },
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/913065809096638494/1391992148739625140",
+      "server": "913065809096638494",
+      "channel": "1391992148739625140",
+      "matches": [
+        "https://discord.com/channels/913065809096638494/1391992148739625140"
+      ]
+    }
+  ],
+  "author_references": [],
+  "archivedAt": 1752044867381,
+  "updatedAt": 1752044867381
 }

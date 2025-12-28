@@ -87,5 +87,19 @@
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392795671081517087",
     "uploadMessageId": ""
-  }
+  },
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/913065809096638494/1182688931318345778",
+      "server": "913065809096638494",
+      "channel": "1182688931318345778",
+      "matches": [
+        "https://discord.com/channels/913065809096638494/1182688931318345778"
+      ]
+    }
+  ],
+  "author_references": [],
+  "archivedAt": 1752149467762,
+  "updatedAt": 1752149467762
 }
