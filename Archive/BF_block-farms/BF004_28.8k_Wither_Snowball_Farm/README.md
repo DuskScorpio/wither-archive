@@ -11,7 +11,7 @@
 
 A simple wither snowball farm.
 ## Credit
-- [@Till](# "ID: 615152957192798218"): Original design
+- Till: Original design
 ## Versions
 - 1.17+
 ## Rates

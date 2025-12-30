@@ -14,7 +14,7 @@ The world's very first pillar eater that uses Withers instead of players/bots to
 - DF_M: For making the prototype and helping me with debugging
 - Youmiel: For dragging me back to a bigger hell just when I thought I escaped (1.18 sucks, man)
 And for providing a 1.18 testing server and helping with pathfinding debugging. 
-- [@Scorpio](# "ID: 513900971219353600") : For helping with withers and stuff
+- Scorpio : For helping with withers and stuff
 - Menggui233: For directionality testing and robustness testing (mostly still done by myself)
 - FAS server: For 1.17 CMP
 - Wither Archive, Nub Tech and OSTC lab: For helping with lots of technical details
