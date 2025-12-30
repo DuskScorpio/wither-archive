@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392003325381312584)
 
-A withers skull catcher system designed by [@jjl21](# "ID: 523191268294262785") and [@applestruck](# "ID: 557984071838597123")
+A withers skull catcher system designed by jjl21 and applestruck
 ## Versions
 - 1.21.4-1.21.9
 ## Notes
