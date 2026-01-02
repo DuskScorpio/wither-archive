@@ -1,7 +1,7 @@
 # Hard Difficulty Wither Tunnel Bore
 <img alt="area_render_125_.png" src="images/area_render_125_.png?raw=1" height="300px">
 
-**Authors:** *Carrie*
+**Authors:** *Caribous*
 
 **Endorsed by:** *Scorpio*
 
