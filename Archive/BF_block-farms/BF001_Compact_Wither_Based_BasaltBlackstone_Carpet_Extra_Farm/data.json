@@ -4,13 +4,13 @@
   "code": "BF001",
   "authors": [
     {
-      "type": "discord-deleted",
+      "type": "discord-external",
       "id": "108956702832852992",
       "username": "deathsneeze.sys",
       "iconURL": "https://cdn.discordapp.com/avatars/108956702832852992/b328176a31b5e2caaa2b696094532c95.webp"
     },
     {
-      "type": "discord-deleted",
+      "type": "discord-in-guild",
       "id": "301919226078298114",
       "displayName": "C5",
       "username": "c5_6459",
@@ -19,7 +19,7 @@
   ],
   "endorsers": [
     {
-      "type": "discord-deleted",
+      "type": "discord-in-guild",
       "id": "513900971219353600",
       "username": "scorpio03",
       "displayName": "Scorpio",
