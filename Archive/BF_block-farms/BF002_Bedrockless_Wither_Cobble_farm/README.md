@@ -1,9 +1,9 @@
 # Bedrockless Wither Cobble farm
 <img alt="2025-01-26_19.27.09.png" src="images/2025-01-26_19.27.09.png?raw=1" height="300px">
 
-**Authors:** *Mattéo*
+**Authors:** *alkalinez*
 
-**Endorsed by:** *Scorpio*
+**Endorsed by:** *scorpio03*
 
 **Tags:** *Tested & Functional*
 
