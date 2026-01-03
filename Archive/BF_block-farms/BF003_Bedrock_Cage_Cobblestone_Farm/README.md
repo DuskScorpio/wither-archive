@@ -3,7 +3,7 @@
 
 **Authors:** *deathsneeze.sys*
 
-**Endorsed by:** *scorpio03*
+**Endorsed by:** *Scorpio*
 
 **Tags:** *Tested & Functional*
 
