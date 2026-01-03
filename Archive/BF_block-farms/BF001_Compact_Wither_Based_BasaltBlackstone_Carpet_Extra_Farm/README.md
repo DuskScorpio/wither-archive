@@ -1,9 +1,9 @@
 # Compact Wither Based Basalt/Blackstone (Carpet Extra) Farm
 <img alt="ST001_basalt_v2.2_render.png" src="images/ST001_basalt_v2.2_render.png?raw=1">
 
-**Authors:** *deathsneeze.sys, C5*
+**Authors:** *deathsneeze.sys, c5_6459*
 
-**Endorsed by:** *Scorpio*
+**Endorsed by:** *scorpio03*
 
 **Tags:** *Tested & Functional*
 

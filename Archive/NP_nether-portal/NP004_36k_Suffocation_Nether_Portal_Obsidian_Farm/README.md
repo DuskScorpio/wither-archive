@@ -1,7 +1,7 @@
 # 36k Suffocation Nether Portal Obsidian Farm
 <img alt="area_render_2_.png" src="images/area_render_2_.png?raw=1" height="300px">
 
-**Authors:** *niicide*
+**Authors:** *soullessjump*
 
 **Endorsed by:** *Scorpio*
 
