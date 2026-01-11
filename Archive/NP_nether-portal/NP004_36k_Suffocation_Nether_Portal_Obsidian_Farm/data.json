@@ -2,6 +2,12 @@
   "id": "1396697896778203136",
   "name": "36k Suffocation Nether Portal Obsidian Farm",
   "code": "NP004",
+  "reservedCodes": [
+    "NP004"
+  ],
+  "pastPostThreadIds": [
+    "1396705975595040869"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -113,18 +119,6 @@
     ],
     "instructions": "### Notes\n1. Don't reload the chunks while the wither harming mechanism is running as this has a small chance (~10%) of breaking the design. This can easily be mitigated by making sure the clock is turned off before leaving the farm.\n2. When starting the farm, there is a very small chance (~5%) that the portal creation cycle would be in perfect sync with the wither harming mechanism which would prevent the farm from running. This can be resolved by simply reigniting your side portal, throwing an item through it and pressing the button on the dispenser to break the portal.\n### Build\n1. Use the blue wool to ensure your schematic is subchunk aligned (refer to figure 1 and 2) and the OW portal's y coords is as close as possible to the y coords of your nether side portal. Your main portal (the one broken by your withers) should also be coordinate aligned to and face the same direction as the nether side portal\n2. Test your portal generation to ensure it gets created in the correct place. If this isn't the case, then flood the floor of any caves you find your portal generated in and deactivate that portal. You may have to do this a few times before your portal generates in the farm.\n3. Once you've confirmed your portal generates correctly, you can summon the withers with the placement and steps shown in figure 3. Ensure your chickens and iron golem are at full health, your chickens are **fully grown** and no other mobs are in the vicinity when summoning your wither.\n4. If you see the main head firing no skulls, you have done everything correctly. Simply use a bucket to collect your water and make sure to break the iron trapdoor to enable the piston to harm the wither.\n### How to use\n- Starting the farm\n  1. If you are starting it for the first time, go to the nether side portal and prefill the dropper underneath the glass pillar with 64 dummy items. Feel free to add more dummy items if you feel you need more time to start the farm. Place a minecart on the sloped rail to start the clock. You should see items being fired through the portal at 1 second intervals if everything is setup correctly.\n  2. In the OW, flip the switch to start the pistons that'll hurt your withers. Activate your side portal if it isn't already and throw any dummy item in there. Quickly press the button on the dispenser to deactivate your portal and the farm should be started.\n- Stopping the farm\n  1. Press the button on the dispenser to pick up the placed water and reignite your side portal.\n  2. Flip the switch to turn off the wither hurting mechanism."
   },
-  "timestamp": 1753071053121,
-  "post": {
-    "threadId": "1396705975595040869",
-    "forumId": "1391837205319778367",
-    "continuingMessageIds": [
-      "1396705978094981150",
-      "1396705978824523886",
-      "1396705979265191978"
-    ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1396705975595040869",
-    "uploadMessageId": "1396705972910686240"
-  },
   "references": [
     {
       "type": "userMention",
@@ -204,12 +198,17 @@
     }
   ],
   "author_references": [],
+  "post": {
+    "threadId": "1396705975595040869",
+    "forumId": "1391837205319778367",
+    "continuingMessageIds": [
+      "1396705978094981150",
+      "1396705978824523886",
+      "1396705979265191978"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1396705975595040869",
+    "uploadMessageId": "1396705972910686240"
+  },
   "archivedAt": 1753071053121,
-  "updatedAt": 1753071053121,
-  "reservedCodes": [
-    "NP004"
-  ],
-  "pastPostThreadIds": [
-    "1396705975595040869"
-  ]
+  "updatedAt": 1753071053121
 }
