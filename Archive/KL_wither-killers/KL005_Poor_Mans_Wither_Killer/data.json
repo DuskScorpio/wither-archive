@@ -2,6 +2,12 @@
   "id": "1392515832969691207",
   "name": "Poor Man's Wither Killer",
   "code": "KL005",
+  "reservedCodes": [
+    "KL005"
+  ],
+  "pastPostThreadIds": [
+    "1392516333454884938"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -62,7 +68,8 @@
     "considerations": [],
     "notes": "- The bedrock needs two layers of 3x3, the main area that requires bedrock breaking is 5x4, and a few other locations depending on the situation.\n- The green carpet is the safe area outside the wither blast range, and the red is the dangerous area.\n- Some areas have not been spawn proofed, they should be below bedrock."
   },
-  "timestamp": 1752072165060,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392516333454884938",
     "forumId": "1391843156307345438",
@@ -72,8 +79,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392516333454884938",
     "uploadMessageId": "1392516332246925394"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752072165060,
   "updatedAt": 1752072165060
 }

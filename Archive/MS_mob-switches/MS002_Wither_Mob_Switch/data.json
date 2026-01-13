@@ -2,6 +2,12 @@
   "id": "1391979456444371115",
   "name": "Wither Mob Switch",
   "code": "MS002",
+  "reservedCodes": [
+    "MS002"
+  ],
+  "pastPostThreadIds": [
+    "1391981206177845268"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -93,7 +99,8 @@
     "considerations": [],
     "notes": ""
   },
-  "timestamp": 1751954566157,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1391981206177845268",
     "forumId": "1391843180944560261",
@@ -104,8 +111,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1391981206177845268",
     "uploadMessageId": "1391981203963379765"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1751954566157,
   "updatedAt": 1751954566157
 }

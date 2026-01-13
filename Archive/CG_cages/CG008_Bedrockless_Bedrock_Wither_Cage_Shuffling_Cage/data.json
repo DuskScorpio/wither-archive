@@ -2,6 +2,12 @@
   "id": "1392529929916125244",
   "name": "Bedrockless Bedrock Wither Cage (Shuffling Cage)",
   "code": "CG008",
+  "reservedCodes": [
+    "CG008"
+  ],
+  "pastPostThreadIds": [
+    "1392541242201608214"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -86,7 +92,8 @@
     "considerations": [],
     "notes": ""
   },
-  "timestamp": 1752078103621,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392541242201608214",
     "forumId": "1391843089361928272",
@@ -96,8 +103,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392541242201608214",
     "uploadMessageId": "1392531370646962310"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752078103621,
   "updatedAt": 1752078103621
 }

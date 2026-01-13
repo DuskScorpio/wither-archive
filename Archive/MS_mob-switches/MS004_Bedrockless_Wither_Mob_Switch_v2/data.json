@@ -2,6 +2,12 @@
   "id": "1391985170495570021",
   "name": "Bedrockless Wither Mob Switch v2",
   "code": "MS004",
+  "reservedCodes": [
+    "MS004"
+  ],
+  "pastPostThreadIds": [
+    "1392784664384639058"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -146,7 +152,8 @@
   "records": {
     "description": "World's first bedrockless wither mob switch\n### Credits\n- [trizz's mob switch reference](<https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp>)\n- [Fallen_Breath's Mob Switch reference](<https://www.bilibili.com/video/BV1op4y1U7Y8?p=9&spm_id_from=333.788.videopod.episodes>)\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://youtu.be/A9pQ0pgfo7Q)"
   },
-  "timestamp": 1753297167382,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392784664384639058",
     "forumId": "1391843180944560261",
@@ -158,8 +165,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392784664384639058",
     "uploadMessageId": "1397654367510986782"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1753297167382,
   "updatedAt": 1753297167382
 }

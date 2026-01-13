@@ -2,6 +2,12 @@
   "id": "1392514947455385610",
   "name": "18k 4gt Wither Killer",
   "code": "KL004",
+  "reservedCodes": [
+    "KL004"
+  ],
+  "pastPostThreadIds": [
+    "1392515706473414656"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -64,7 +70,8 @@
     "considerations": [],
     "notes": "- Almost all of the lag caused by this machine comes from the large number of withers and wither skulls. Turning off particles effect can reduce client side FPS lag.\n### Build\n- Bedrock required: Two layers of 3x3 bedrock (the 4 corner bedrock may not be needed, please test it yourself)\n- Bedrock breaking area: A 7x9 area centered on the center block of the wither cage. Note that the topmost bedrock does not need to be completely broken, just the lower redstone part it accommodates.\n- Soul sand input: Stand on the iron trapdoor and aim at the center of the chiseled stone brick. Works with as fast as 20 blocks/second, also allowing unstable inputs.\n- Wither skeleton skulls: It has its own unloader. When the number of skulls in the dispensers is not greater than the signal of comparator 1, it is forced to stop (about 36 heads remain in the transmitter). The detection of the remaining number depends on two of the dispensers, so please ensure that the items in each unloaders are the same. The first time the unloader places the box, you need to click the noteblock on both sides.\n- Others: Please place the soul sand exactly as shown in the schematic. After building,  you can place a non-pushable block in the position of the purple glass as shown in the schematic, to reduce the soul sands being pushed out if the machine broke. It can be removed if the machine runs normally.\n- Boat (To reset sand position faster): The boat should fall on the flower pot (the height of the top of the boat is 15/16 at this time), and the falling sand can touch the top of the boat."
   },
-  "timestamp": 1752072015606,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392515706473414656",
     "forumId": "1391843156307345438",
@@ -74,8 +81,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392515706473414656",
     "uploadMessageId": "1392515705089560666"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752072015606,
   "updatedAt": 1752072015606
 }

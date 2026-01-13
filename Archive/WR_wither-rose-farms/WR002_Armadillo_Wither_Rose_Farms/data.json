@@ -2,6 +2,12 @@
   "id": "1392037095635288236",
   "name": "Armadillo Wither Rose Farms",
   "code": "WR002",
+  "reservedCodes": [
+    "WR002"
+  ],
+  "pastPostThreadIds": [
+    "1392948930366541875"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -98,16 +104,6 @@
     "considerations": [],
     "notes": "## Instructions\n### Notes\n- Do not build with infestable blocks.\n### Build\n1. Build farm and summon iron golem, then wither first, ensure that the stair is waterlogged.\n  - See Figure 1 for the inventory for the simple version's hopper clock.\n2. Loading armadillos\n  - Simple variant: Remove slab and comparator (if placed) and push armadillos onto campfire, up to 12 armadillos.\n  - Advanced variant: See Figure 2.\n3. Potions\n  - Simple variant: Load farm with infesting potions.\n  - Advanced variant: Preload autobrewer with ingredients.\n### How to use\n 1. Flick the lever to toggle the farm."
   },
-  "timestamp": 1752175303942,
-  "post": {
-    "threadId": "1392948930366541875",
-    "forumId": "1391832537399038022",
-    "continuingMessageIds": [
-      "1392948935072415835"
-    ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392948930366541875",
-    "uploadMessageId": "1392948928219058267"
-  },
   "references": [
     {
       "type": "userMention",
@@ -161,6 +157,15 @@
     }
   ],
   "author_references": [],
+  "post": {
+    "threadId": "1392948930366541875",
+    "forumId": "1391832537399038022",
+    "continuingMessageIds": [
+      "1392948935072415835"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948930366541875",
+    "uploadMessageId": "1392948928219058267"
+  },
   "archivedAt": 1752175303942,
   "updatedAt": 1752175303942
 }

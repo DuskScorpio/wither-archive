@@ -2,6 +2,12 @@
   "id": "1397591730030772295",
   "name": "OW and Nether Wither Mob Switch",
   "code": "MS005",
+  "reservedCodes": [
+    "MS005"
+  ],
+  "pastPostThreadIds": [
+    "1397615348978683924"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -143,7 +149,8 @@
       "Hold right click (Watch the showcase video for demo)."
     ]
   },
-  "timestamp": 1753287865002,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1397615348978683924",
     "forumId": "1391843180944560261",
@@ -154,8 +161,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1397615348978683924",
     "uploadMessageId": "1397615347426791574"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1753287865002,
   "updatedAt": 1753287865002
 }

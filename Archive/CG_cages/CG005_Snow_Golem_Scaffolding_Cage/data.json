@@ -2,6 +2,12 @@
   "id": "1391964026585747537",
   "name": "Snow Golem Scaffolding Cage",
   "code": "CG005",
+  "reservedCodes": [
+    "CG005"
+  ],
+  "pastPostThreadIds": [
+    "1391977025962770492"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -76,7 +82,8 @@
     ],
     "notes": ""
   },
-  "timestamp": 1751953979227,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1391977025962770492",
     "forumId": "1391843089361928272",
@@ -87,8 +94,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1391977025962770492",
     "uploadMessageId": "1392027929709383730"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1751953979227,
   "updatedAt": 1751953979227
 }

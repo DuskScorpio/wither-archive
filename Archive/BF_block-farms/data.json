@@ -2,64 +2,34 @@
   "id": "1391832229339988110",
   "name": "block-farms",
   "code": "BF",
+  "category": "OTHER FARMS",
   "description": "Block farms",
   "currentCodeId": 5,
   "entries": [
     {
       "id": "1392034753632534669",
-      "name": "Compact Wither Based Basalt/Blackstone (Carpet Extra) Farm",
       "code": "BF001",
-      "archivedAt": 1752175324109,
-      "updatedAt": 1752175324109,
-      "path": "BF001_Compact_Wither_Based_BasaltBlackstone_Carpet_Extra_Farm",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "BF001_Compact_Wither_Based_BasaltBlackstone_Carpet_Extra_Farm"
     },
     {
       "id": "1392386133849276416",
-      "name": "Bedrockless Wither Cobble farm",
       "code": "BF002",
-      "archivedAt": 1752175344840,
-      "updatedAt": 1752175344840,
-      "path": "BF002_Bedrockless_Wither_Cobble_farm",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "BF002_Bedrockless_Wither_Cobble_farm"
     },
     {
       "id": "1392517165185368237",
-      "name": "Bedrock Cage Cobblestone Farm",
       "code": "BF003",
-      "archivedAt": 1752175318487,
-      "updatedAt": 1752175318487,
-      "path": "BF003_Bedrock_Cage_Cobblestone_Farm",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "BF003_Bedrock_Cage_Cobblestone_Farm"
     },
     {
       "id": "1392417660163195005",
-      "name": "28.8k Wither Snowball Farm",
       "code": "BF004",
-      "archivedAt": 1752175315429,
-      "updatedAt": 1752175315429,
-      "path": "BF004_28.8k_Wither_Snowball_Farm",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "BF004_28.8k_Wither_Snowball_Farm"
     },
     {
       "id": "1455604438059450519",
-      "name": "Bedrockless Snowball Farm",
       "code": "BF005",
-      "archivedAt": 1767166836022,
-      "updatedAt": 1767167512586,
-      "path": "BF005_Bedrockless_Snowball_Farm",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "BF005_Bedrockless_Snowball_Farm"
     }
-  ],
-  "category": "OTHER FARMS"
+  ]
 }

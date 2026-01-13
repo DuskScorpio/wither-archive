@@ -2,6 +2,12 @@
   "id": "1391948715228528720",
   "name": "Suffocation Bedrockless Wither Cage",
   "code": "CG002",
+  "reservedCodes": [
+    "CG002"
+  ],
+  "pastPostThreadIds": [
+    "1391959841349832744"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -71,7 +77,8 @@
     ],
     "notes": ""
   },
-  "timestamp": 1751939486704,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1391959841349832744",
     "forumId": "1391843089361928272",
@@ -81,8 +88,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1391959841349832744",
     "uploadMessageId": "1391959840074633327"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1751939486704,
   "updatedAt": 1751939486704
 }

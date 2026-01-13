@@ -11,7 +11,7 @@
 
 ## Credits
 - [Vktec](<https://youtu.be/2qL3erHQgvE>): Previous design
- 
+ Description
 - A mob switch that uses withers to prevent hostile mobs from spawning.
 ## Versions
 - 1.17+
