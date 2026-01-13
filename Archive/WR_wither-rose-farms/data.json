@@ -2,54 +2,29 @@
   "id": "1391832537399038022",
   "name": "wither-rose-farms",
   "code": "WR",
+  "category": "OTHER FARMS",
   "description": "Wither rose farms",
   "currentCodeId": 4,
   "entries": [
     {
       "id": "1392035783728173076",
-      "name": "Wither Rose Farm Cage",
       "code": "WR001",
-      "archivedAt": 1752203685576,
-      "updatedAt": 1752203685576,
-      "path": "WR001_Wither_Rose_Farm_Cage",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "WR001_Wither_Rose_Farm_Cage"
     },
     {
       "id": "1392037095635288236",
-      "name": "Armadillo Wither Rose Farms",
       "code": "WR002",
-      "archivedAt": 1752175303942,
-      "updatedAt": 1752175303942,
-      "path": "WR002_Armadillo_Wither_Rose_Farms",
-      "tags": [
-        "Tested & Functional",
-        "Recommended"
-      ]
+      "path": "WR002_Armadillo_Wither_Rose_Farms"
     },
     {
       "id": "1392040918613229591",
-      "name": "IanXO4's 2.9k Wither Rose Farm",
       "code": "WR003",
-      "archivedAt": 1752175300523,
-      "updatedAt": 1752175300523,
-      "path": "WR003_IanXO4s_2.9k_Wither_Rose_Farm",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "WR003_IanXO4s_2.9k_Wither_Rose_Farm"
     },
     {
       "id": "1392418552652369930",
-      "name": "Armor Stand Wither Rose Farm Cage",
       "code": "WR004",
-      "archivedAt": 1752175296180,
-      "updatedAt": 1752175296180,
-      "path": "WR004_Armor_Stand_Wither_Rose_Farm_Cage",
-      "tags": [
-        "Broken"
-      ]
+      "path": "WR004_Armor_Stand_Wither_Rose_Farm_Cage"
     }
-  ],
-  "category": "OTHER FARMS"
+  ]
 }

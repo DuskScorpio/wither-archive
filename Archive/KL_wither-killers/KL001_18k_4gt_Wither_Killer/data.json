@@ -2,6 +2,12 @@
   "id": "1391993510697111635",
   "name": "18k 4gt Wither Killer",
   "code": "KL001",
+  "reservedCodes": [
+    "KL001"
+  ],
+  "pastPostThreadIds": [
+    "1391994164899479613"
+  ],
   "authors": [
     {
       "type": "unknown",
@@ -87,7 +93,8 @@
     ],
     "notes": ""
   },
-  "timestamp": 1751954489312,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1391994164899479613",
     "forumId": "1391843156307345438",
@@ -97,8 +104,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1391994164899479613",
     "uploadMessageId": "1391994162626428968"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1751954489312,
   "updatedAt": 1751954489312
 }

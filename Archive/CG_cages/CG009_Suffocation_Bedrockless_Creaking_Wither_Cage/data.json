@@ -2,6 +2,12 @@
   "id": "1429867220409913406",
   "name": "Suffocation Bedrockless Creaking Wither Cage",
   "code": "CG009",
+  "reservedCodes": [
+    "CG009"
+  ],
+  "pastPostThreadIds": [
+    "1453753591197204564"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -112,7 +118,8 @@
       "headerText": "Additional notes"
     }
   },
-  "timestamp": 1766728376077,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1453753591197204564",
     "forumId": "1391843089361928272",
@@ -123,8 +130,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1453753591197204564",
     "uploadMessageId": "1453753587963265184"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1766728376077,
   "updatedAt": 1766728376077
 }

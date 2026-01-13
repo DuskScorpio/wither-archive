@@ -2,6 +2,12 @@
   "id": "1455604438059450519",
   "name": "Bedrockless Snowball Farm",
   "code": "BF005",
+  "reservedCodes": [
+    "BF005"
+  ],
+  "pastPostThreadIds": [
+    "1455828024636342369"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -153,8 +159,6 @@
     }
   ],
   "author_references": [],
-  "updatedAt": 1767167512586,
-  "archivedAt": 1767166836022,
   "post": {
     "threadId": "1455828024636342369",
     "forumId": "1391832229339988110",
@@ -166,10 +170,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1455828024636342369",
     "uploadMessageId": "1455828020077133998"
   },
-  "reservedCodes": [
-    "BF005"
-  ],
-  "pastPostThreadIds": [
-    "1455828024636342369"
-  ]
+  "archivedAt": 1767166836022,
+  "updatedAt": 1767167512586
 }

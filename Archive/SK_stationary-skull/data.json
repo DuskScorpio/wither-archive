@@ -2,31 +2,19 @@
   "id": "1391843399950401686",
   "name": "stationary-skull",
   "code": "SK",
+  "category": "MISC",
   "description": "Stationary wither skull generator or applications",
   "currentCodeId": 2,
   "entries": [
     {
       "id": "1391999817705717903",
-      "name": "Methodzz Stationary Wither Skull Generator",
       "code": "SK001",
-      "archivedAt": 1751954334825,
-      "updatedAt": 1751954334825,
-      "path": "SK001_Methodzz_Stationary_Wither_Skull_Generator",
-      "tags": [
-        "Untested"
-      ]
+      "path": "SK001_Methodzz_Stationary_Wither_Skull_Generator"
     },
     {
       "id": "1392002383436972032",
-      "name": "Stationary Wither Skull Generator",
       "code": "SK002",
-      "archivedAt": 1763259277601,
-      "updatedAt": 1763259277601,
-      "path": "SK002_Stationary_Wither_Skull_Generator",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "SK002_Stationary_Wither_Skull_Generator"
     }
-  ],
-  "category": "MISC"
+  ]
 }

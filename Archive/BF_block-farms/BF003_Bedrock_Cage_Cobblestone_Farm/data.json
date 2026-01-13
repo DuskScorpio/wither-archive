@@ -2,6 +2,12 @@
   "id": "1392517165185368237",
   "name": "Bedrock Cage Cobblestone Farm",
   "code": "BF003",
+  "reservedCodes": [
+    "BF003"
+  ],
+  "pastPostThreadIds": [
+    "1392948991745855508"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -77,7 +83,8 @@
     ],
     "notes": "- Arrow pre-damager still required in 1.15+ as it sets the block breaking timing"
   },
-  "timestamp": 1752175318487,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392948991745855508",
     "forumId": "1391832229339988110",
@@ -87,8 +94,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392948991745855508",
     "uploadMessageId": "1392948989208559769"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752175318487,
   "updatedAt": 1752175318487
 }

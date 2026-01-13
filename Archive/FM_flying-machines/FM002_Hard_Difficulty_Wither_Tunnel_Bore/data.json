@@ -2,6 +2,12 @@
   "id": "1392441988577628271",
   "name": "Hard Difficulty Wither Tunnel Bore",
   "code": "FM002",
+  "reservedCodes": [
+    "FM002"
+  ],
+  "pastPostThreadIds": [
+    "1392443408815099975"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -64,7 +70,8 @@
     "considerations": [],
     "notes": ""
   },
-  "timestamp": 1752054778303,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392443408815099975",
     "forumId": "1391843267682898010",
@@ -74,8 +81,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392443408815099975",
     "uploadMessageId": "1392443406856355921"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752054778303,
   "updatedAt": 1752054778303
 }

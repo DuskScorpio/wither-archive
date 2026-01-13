@@ -2,20 +2,14 @@
   "id": "1391837148445147257",
   "name": "end-pillar",
   "code": "PR",
+  "category": "OBSIDIAN FARMS",
   "description": "End pillar-based obsidian farms. Ender dragon ritual will regenerate obsidian pillars.",
   "currentCodeId": 1,
   "entries": [
     {
       "id": "1392004243686293614",
-      "name": "240k Obsidian End Pillar Farm",
       "code": "PR001",
-      "archivedAt": 1752175281066,
-      "updatedAt": 1752175281066,
-      "path": "PR001_240k_Obsidian_End_Pillar_Farm",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "PR001_240k_Obsidian_End_Pillar_Farm"
     }
-  ],
-  "category": "OBSIDIAN FARMS"
+  ]
 }

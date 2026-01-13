@@ -2,20 +2,14 @@
   "id": "1391832288668680332",
   "name": "block-converters",
   "code": "CV",
+  "category": "OTHER FARMS",
   "description": "Block converters",
   "currentCodeId": 1,
   "entries": [
     {
       "id": "1392033403674689567",
-      "name": "Tiny Dustless Concrete Converter",
       "code": "CV001",
-      "archivedAt": 1752175312307,
-      "updatedAt": 1752175312307,
-      "path": "CV001_Tiny_Dustless_Concrete_Converter",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "CV001_Tiny_Dustless_Concrete_Converter"
     }
-  ],
-  "category": "OTHER FARMS"
+  ]
 }

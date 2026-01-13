@@ -2,6 +2,12 @@
   "id": "1393081812334673990",
   "name": "Simple Obsidian Farm",
   "code": "EP003",
+  "reservedCodes": [
+    "EP003"
+  ],
+  "pastPostThreadIds": [
+    "1393084358218223757"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -96,7 +102,8 @@
       "Old design available through provided links"
     ]
   },
-  "timestamp": 1752848450459,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1393084358218223757",
     "forumId": "1391835780820762794",
@@ -107,8 +114,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1393084358218223757",
     "uploadMessageId": ""
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752848450459,
   "updatedAt": 1752848450459
 }

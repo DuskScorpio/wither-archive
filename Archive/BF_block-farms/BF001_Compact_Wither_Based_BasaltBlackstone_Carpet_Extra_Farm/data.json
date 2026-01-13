@@ -2,6 +2,12 @@
   "id": "1392034753632534669",
   "name": "Compact Wither Based Basalt/Blackstone (Carpet Extra) Farm",
   "code": "BF001",
+  "reservedCodes": [
+    "BF001"
+  ],
+  "pastPostThreadIds": [
+    "1392949014374252716"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -80,7 +86,8 @@
     "considerations": [],
     "notes": ""
   },
-  "timestamp": 1752175324109,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392949014374252716",
     "forumId": "1391832229339988110",
@@ -90,8 +97,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392949014374252716",
     "uploadMessageId": "1392949012612776017"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752175324109,
   "updatedAt": 1752175324109
 }

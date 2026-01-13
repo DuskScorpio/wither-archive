@@ -2,6 +2,12 @@
   "id": "1392015750084038677",
   "name": "36k TNT Nether Portal Obsidian Farm",
   "code": "NP002",
+  "reservedCodes": [
+    "NP002"
+  ],
+  "pastPostThreadIds": [
+    "1392432741395730432"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -131,18 +137,6 @@
     "considerations": [],
     "notes": "### Build\n1. Find a location you want to build at and build like a 17x17 platform centered on where you would about want the portal to go as the highest blocks in that location\n  - This platform should be at subchunk level 15\n  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see figure 1)\n2. Go to the equivalent in the nether by doing standard portal math scaling the center of the platform by 8 (y level is not considered for this case)\n3. Build the duper and portal setup, do not go through the portal yourself, there should be no lit portal within a 33x33 area for all y values in the overworld\n4. Light the portal and send one or two tnt through\n4. Go through and the portal should have generated in it's preferred location\n5. Build the overworld collection with that portal as the location where it'll generate but do not build the wither cages and summon the withers yet\n  - The boats and wither should be in the same chunk\n6. When you initially remove the portal you can use a setup with sand and rails as shown in place of the four blocks where the nether portal's base was. Break the rails and place signs on both sides\n7. Send tnt through the duper and verify that the sand is replaced and a portal is generated in that spot\n  - If this succeeds you should build the rest of the overworld side\n9. Summon all other mobs before the wither\n10. Follow figure 2 for summoning\n11. Remove the water as shown in the video\n### How to use\n- You can start the duper by placing a cart on the rails in the nether side.\n- You either need to afk here or build a chunk loader to entity load the duper and tnt."
   },
-  "timestamp": 1752052471903,
-  "post": {
-    "threadId": "1392432741395730432",
-    "forumId": "1391837205319778367",
-    "continuingMessageIds": [
-      "1454729965273612353",
-      "1454729966498349170",
-      "1454729967886930082"
-    ],
-    "threadURL": "https://discord.com/channels/913065809096638494/1392432741395730432",
-    "uploadMessageId": "1392433735697174529"
-  },
   "references": [
     {
       "type": "userMention",
@@ -184,6 +178,17 @@
     }
   ],
   "author_references": [],
+  "post": {
+    "threadId": "1392432741395730432",
+    "forumId": "1391837205319778367",
+    "continuingMessageIds": [
+      "1454729965273612353",
+      "1454729966498349170",
+      "1454729967886930082"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392432741395730432",
+    "uploadMessageId": "1392433735697174529"
+  },
   "archivedAt": 1752052471903,
   "updatedAt": 1752052471903
 }

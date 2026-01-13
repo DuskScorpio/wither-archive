@@ -2,6 +2,12 @@
   "id": "1392522652975108137",
   "name": "18k 4gt Detection-based Wither Killer",
   "code": "KL006",
+  "reservedCodes": [
+    "KL006"
+  ],
+  "pastPostThreadIds": [
+    "1392524135212650507"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -79,7 +85,8 @@
     ],
     "notes": ""
   },
-  "timestamp": 1752074024969,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392524135212650507",
     "forumId": "1391843156307345438",
@@ -89,8 +96,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392524135212650507",
     "uploadMessageId": "1392524133287596043"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752074024969,
   "updatedAt": 1752074024969
 }

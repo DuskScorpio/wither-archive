@@ -2,6 +2,12 @@
   "id": "1392005328773709876",
   "name": "Lava Converter Obsidian Farm",
   "code": "LV001",
+  "reservedCodes": [
+    "LV001"
+  ],
+  "pastPostThreadIds": [
+    "1392006235183648818"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -111,7 +117,8 @@
     "considerations": [],
     "notes": "- This farm works even when there is not enough lava to run at full speed, some of the dispensers will not be placing lava, but it will not break the farm. It will simply run at the speed you provide lava."
   },
-  "timestamp": 1752074383391,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392006235183648818",
     "forumId": "1391837246843260938",
@@ -122,8 +129,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392006235183648818",
     "uploadMessageId": "1392006233455595623"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752074383391,
   "updatedAt": 1752074383391
 }

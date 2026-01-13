@@ -2,6 +2,12 @@
   "id": "1392418552652369930",
   "name": "Armor Stand Wither Rose Farm Cage",
   "code": "WR004",
+  "reservedCodes": [
+    "WR004"
+  ],
+  "pastPostThreadIds": [
+    "1392948900633247755"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -83,7 +89,8 @@
     "considerations": [],
     "notes": "- The summoning method seems to only work in 1.18 and lower, you need to waterlog the slab and summon the wither directly under the slab instead.\n- The design is not reload safe in 1.18+. The addition of a block under the feet and behind the head is suggested (as shown in the image attached)"
   },
-  "timestamp": 1752175296180,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392948900633247755",
     "forumId": "1391832537399038022",
@@ -94,8 +101,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392948900633247755",
     "uploadMessageId": "1392948897084604628"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752175296180,
   "updatedAt": 1752175296180
 }

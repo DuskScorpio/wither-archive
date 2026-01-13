@@ -2,6 +2,12 @@
   "id": "1392386133849276416",
   "name": "Bedrockless Wither Cobble farm",
   "code": "BF002",
+  "reservedCodes": [
+    "BF002"
+  ],
+  "pastPostThreadIds": [
+    "1392949100902748193"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -65,7 +71,8 @@
     "considerations": [],
     "notes": "- Build wither and Iron golem in the same chunk\n- Replace ice block into water"
   },
-  "timestamp": 1752175344840,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392949100902748193",
     "forumId": "1391832229339988110",
@@ -75,8 +82,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392949100902748193",
     "uploadMessageId": "1392949099942383637"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752175344840,
   "updatedAt": 1752175344840
 }

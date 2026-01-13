@@ -2,6 +2,12 @@
   "id": "1392055000779329627",
   "name": "Suffocation Bedrockless Wither Cage",
   "code": "CG006",
+  "reservedCodes": [
+    "CG006"
+  ],
+  "pastPostThreadIds": [
+    "1392167642651037818"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -81,7 +87,8 @@
     ],
     "notes": "### Build\n- Replace ice by the water after spawn the wither, and go far away.\n- After the wither spawning, withdraw the water."
   },
-  "timestamp": 1751989030661,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392167642651037818",
     "forumId": "1391843089361928272",
@@ -91,8 +98,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392167642651037818",
     "uploadMessageId": "1392167641090621581"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1751989030661,
   "updatedAt": 1751989030661
 }

@@ -2,6 +2,12 @@
   "id": "1392033403674689567",
   "name": "Tiny Dustless Concrete Converter",
   "code": "CV001",
+  "reservedCodes": [
+    "CV001"
+  ],
+  "pastPostThreadIds": [
+    "1392948965216878603"
+  ],
   "authors": [
     {
       "type": "discord-external",
@@ -101,7 +107,8 @@
     ],
     "notes": "- When spawning wither, place obsidian block at head position and spawn wither sideways like normal.\n### How to use\n- Place powder in input chest, flip lever, climb down ladder, aim at slab, hold right click."
   },
-  "timestamp": 1752175312307,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392948965216878603",
     "forumId": "1391832288668680332",
@@ -112,8 +119,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392948965216878603",
     "uploadMessageId": "1392948963715579905"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752175312307,
   "updatedAt": 1752175312307
 }

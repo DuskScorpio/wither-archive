@@ -2,6 +2,12 @@
   "id": "1391962233176588338",
   "name": "1-wide Suffocation Damager",
   "code": "CG004",
+  "reservedCodes": [
+    "CG004"
+  ],
+  "pastPostThreadIds": [
+    "1391972564879806474"
+  ],
   "authors": [],
   "endorsers": [
     {
@@ -50,7 +56,8 @@
     "considerations": [],
     "notes": ""
   },
-  "timestamp": 1751942520560,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1391972564879806474",
     "forumId": "1391843089361928272",
@@ -58,8 +65,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1391972564879806474",
     "uploadMessageId": "1392027916573081724"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1751942520560,
   "updatedAt": 1751942520560
 }

@@ -2,65 +2,34 @@
   "id": "1391843180944560261",
   "name": "mob-switches",
   "code": "MS",
+  "category": "MISC",
   "description": "Wither mob switches",
   "currentCodeId": 5,
   "entries": [
     {
       "id": "1391977676616634438",
-      "name": "Block Stream Wither Mob Switch",
       "code": "MS001",
-      "archivedAt": 1751951801420,
-      "updatedAt": 1751951801420,
-      "path": "MS001_Block_Stream_Wither_Mob_Switch",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "MS001_Block_Stream_Wither_Mob_Switch"
     },
     {
       "id": "1391979456444371115",
-      "name": "Wither Mob Switch",
       "code": "MS002",
-      "archivedAt": 1751954566157,
-      "updatedAt": 1751954566157,
-      "path": "MS002_Wither_Mob_Switch",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "MS002_Wither_Mob_Switch"
     },
     {
       "id": "1391982075770306621",
-      "name": "Simple Wither Mob Switch",
       "code": "MS003",
-      "archivedAt": 1751953891139,
-      "updatedAt": 1751953891139,
-      "path": "MS003_Simple_Wither_Mob_Switch",
-      "tags": [
-        "Tested & Functional",
-        "Recommended"
-      ]
+      "path": "MS003_Simple_Wither_Mob_Switch"
     },
     {
       "id": "1391985170495570021",
-      "name": "Bedrockless Wither Mob Switch v2",
       "code": "MS004",
-      "archivedAt": 1753297167382,
-      "updatedAt": 1753297167382,
-      "path": "MS004_Bedrockless_Wither_Mob_Switch_v2",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "MS004_Bedrockless_Wither_Mob_Switch_v2"
     },
     {
       "id": "1397591730030772295",
-      "name": "OW and Nether Wither Mob Switch",
       "code": "MS005",
-      "archivedAt": 1753287865002,
-      "updatedAt": 1753287865002,
-      "path": "MS005_OW_and_Nether_Wither_Mob_Switch",
-      "tags": [
-        "Tested & Functional"
-      ]
+      "path": "MS005_OW_and_Nether_Wither_Mob_Switch"
     }
-  ],
-  "category": "MISC"
+  ]
 }

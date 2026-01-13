@@ -2,6 +2,12 @@
   "id": "1392035783728173076",
   "name": "Wither Rose Farm Cage",
   "code": "WR001",
+  "reservedCodes": [
+    "WR001"
+  ],
+  "pastPostThreadIds": [
+    "1392948951162028255"
+  ],
   "authors": [
     {
       "type": "unknown",
@@ -73,7 +79,8 @@
     "considerations": [],
     "notes": ""
   },
-  "timestamp": 1752203685576,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1392948951162028255",
     "forumId": "1391832537399038022",
@@ -83,8 +90,6 @@
     "threadURL": "https://discord.com/channels/913065809096638494/1392948951162028255",
     "uploadMessageId": "1392948950612447353"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1752203685576,
   "updatedAt": 1752203685576
 }
