@@ -42,11 +42,17 @@
       "name": "2023-01-01_16.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391948715228528720/1391948715824250971/2023-01-01_16.png?ex=686dc0c3&is=686c6f43&hm=388dfaf8a7d7369c06df76f23a0b73651fb0d29392e095b7194b2421b7f93dca&",
-      "description": "Sent by scorpio03 at 7/7/2025, 9:07:14 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 440,
-      "path": "images/2023-01-01_16.png"
+      "path": "images/2023-01-01_16.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751936834000
     }
   ],
   "attachments": [
@@ -55,13 +61,19 @@
       "name": "CG002_wither_blast_chamber_2_0.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1391948715228528720/1391948763244794016/wither_blast_chamber_2_0.litematic?ex=686dc0ce&is=686c6f4e&hm=53009386acf9ca0bdc28ea31270b6db313a6804422a1f5254c4881db48a6c85b&",
-      "description": "Sent by scorpio03 at 7/7/2025, 9:07:26 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "16x23x24",
         "version": "1.19"
       },
-      "path": "attachments/CG002_wither_blast_chamber_2_0.litematic"
+      "path": "attachments/CG002_wither_blast_chamber_2_0.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751936846000
     }
   ],
   "records": {
@@ -89,5 +101,6 @@
     "uploadMessageId": "1391959840074633327"
   },
   "archivedAt": 1751939486704,
-  "updatedAt": 1751939486704
+  "updatedAt": 1751939486704,
+  "num_comments": 0
 }

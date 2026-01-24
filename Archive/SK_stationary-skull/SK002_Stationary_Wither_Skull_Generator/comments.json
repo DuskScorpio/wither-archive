@@ -15,9 +15,15 @@
         "name": "SK002_Minecraft_1.21.4_-_Multiplayer_3rd-party_Server_2025-02-23_00-10-09.mp4",
         "contentType": "discord",
         "url": "https://cdn.discordapp.com/attachments/1392002383436972032/1392003323095285903/SK002_Minecraft_1.21.4_-_Multiplayer_3rd-party_Server_2025-02-23_00-10-09.mp4?ex=686df39e&is=686ca21e&hm=8feec09b8ac36058886b87e8b7d2c70e11b474805f9efff9656f72a1ef1f909a&",
-        "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:33:39 AM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1392003323095285903-sk002_minecraft_1.21.4_-_multiplayer_3rd-party_server_2025-02-23_00-10-09.mp4"
+        "path": "comments_attachments/1392003323095285903-sk002_minecraft_1.21.4_-_multiplayer_3rd-party_server_2025-02-23_00-10-09.mp4",
+        "source": "URLInMessage",
+        "author": {
+          "type": "unknown",
+          "username": "scorpio03"
+        },
+        "timestamp": 1751956419000
       }
     ],
     "timestamp": 1751956419553

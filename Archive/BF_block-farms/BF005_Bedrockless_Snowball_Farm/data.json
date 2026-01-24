@@ -38,11 +38,17 @@
       "name": "area_render_2_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604439854481551/area_render_2_.png?ex=695554c6&is=69540346&hm=ed50384086e1a05d4fde6391ac890001541018bca671fb2609cca8c45178447e&",
-      "description": "Sent by seminoso at 12/30/2025, 11:52:21 AM",
+      "description": "",
       "canDownload": true,
       "width": 703,
       "height": 540,
-      "path": "images/area_render_2_.png"
+      "path": "images/area_render_2_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
     }
   ],
   "attachments": [
@@ -51,57 +57,87 @@
       "name": "BF005_Bedrockless_Wither_Snow_Farm.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604439498096803/Bedrockless_Wither_Snow_Farm.litematic?ex=695554c6&is=69540346&hm=b1ddd2366a7675e0b6519e4d94a80cd1e3789bd93f7dc8e7e29aed4b340443a7&",
-      "description": "Sent by seminoso at 12/30/2025, 11:52:21 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/BF005_Bedrockless_Wither_Snow_Farm.litematic",
       "litematic": {
         "size": "13x9x5",
         "version": "1.21.8"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
     },
     {
       "id": "1455604438898053261",
       "name": "BF005_Wither_Summoning_-_Bedrockless_Wither_Snow_Farm.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604438898053261/Wither_Summoning_-_Bedrockless_Wither_Snow_Farm.litematic?ex=695554c6&is=69540346&hm=6172b11c68729a7c63ac1a4057779cffc3866eca538eee68647affc7279c2ea2&",
-      "description": "Sent by seminoso at 12/30/2025, 11:52:21 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/BF005_Wither_Summoning_-_Bedrockless_Wither_Snow_Farm.litematic",
       "litematic": {
         "size": "13x10x6",
         "version": "1.21.8"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
     },
     {
       "id": "1455604440752197632",
       "name": "BF005_Wither_Summoning.mp4",
       "contentType": "video/mp4",
       "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604440752197632/Wither_Summoning.mp4?ex=695554c6&is=69540346&hm=520eaca278bbb84397fae0ae216f28f8f23b64892c5bdd5d7ebb4e0460c42399&",
-      "description": "Sent by seminoso at 12/30/2025, 11:52:21 AM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/BF005_Wither_Summoning.mp4"
+      "path": "attachments/BF005_Wither_Summoning.mp4",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
     },
     {
       "id": "1455604439221010504",
       "name": "BF005_Snow_Golems_alignment_-_Bedrockless_Wither_Snow_Farm.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604439221010504/Snow_Golems_alignment_-_Bedrockless_Wither_Snow_Farm.litematic?ex=695554c6&is=69540346&hm=f333304eb6936227a7cb8a5fc4d195bcc22f105c4f077c5422adc63a9a49bd3f&",
-      "description": "Sent by seminoso at 12/30/2025, 11:52:21 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/BF005_Snow_Golems_alignment_-_Bedrockless_Wither_Snow_Farm.litematic",
       "litematic": {
         "size": "13x9x13",
         "version": "1.21.8"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
     },
     {
       "id": "1455604440286498922",
       "name": "BF005_Snow_Golems_Alignment.mp4",
       "contentType": "video/mp4",
       "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604440286498922/Snow_Golems_Alignment.mp4?ex=695554c6&is=69540346&hm=68b33f944f640681f773cff220f9670d10d766d81a7a7baf9b41381b3387fee2&",
-      "description": "Sent by seminoso at 12/30/2025, 11:52:21 AM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/BF005_Snow_Golems_Alignment.mp4"
+      "path": "attachments/BF005_Snow_Golems_Alignment.mp4",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
     }
   ],
   "records": {
@@ -171,5 +207,6 @@
     "uploadMessageId": "1455828020077133998"
   },
   "archivedAt": 1767166836022,
-  "updatedAt": 1767167512586
+  "updatedAt": 1767167512586,
+  "num_comments": 0
 }

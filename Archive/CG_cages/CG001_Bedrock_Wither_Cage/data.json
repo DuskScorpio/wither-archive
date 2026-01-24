@@ -38,18 +38,30 @@
       "name": "unknown-2.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847333796380915/unknown-2.png?ex=686d6257&is=686c10d7&hm=a158b3074b1baafb6a3a904261b937af0a58f887dc710c2da933d0f72faeb1ba&",
-      "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/unknown-2.png"
+      "path": "images/unknown-2.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751912663000
     },
     {
       "id": "1391847334115020840",
       "name": "unknown-3.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847334115020840/unknown-3.png?ex=686d6257&is=686c10d7&hm=f006fdbee694dfc5933243ab31bb3c0f2184f9abce9112320c8a3bea68e6868a&",
-      "description": "Sent by scorpio03 at 7/7/2025, 2:24:23 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/unknown-3.png"
+      "path": "images/unknown-3.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751912663000
     }
   ],
   "attachments": [],
@@ -71,5 +83,6 @@
     "uploadMessageId": "1392027887762411562"
   },
   "archivedAt": 1751942120434,
-  "updatedAt": 1751942120434
+  "updatedAt": 1751942120434,
+  "num_comments": 0
 }

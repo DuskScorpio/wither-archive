@@ -15,9 +15,15 @@
         "name": "image.png",
         "contentType": "discord",
         "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1373708254353555486/image.png",
-        "description": "[DiscordCDN] Sent by andrews54757 at 7/8/2025, 10:12:38 AM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1373708254353555486-image.png"
+        "path": "comments_attachments/1373708254353555486-image.png",
+        "source": "URLInMessage",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1751983958000
       }
     ],
     "timestamp": 1751983960430
@@ -38,9 +44,15 @@
         "name": "load_dillo.mp4",
         "contentType": "discord",
         "url": "https://cdn.discordapp.com/attachments/1361116442149392587/1361116443621593116/load_dillo.mp4",
-        "description": "[DiscordCDN] Sent by andrews54757 at 7/8/2025, 2:05:43 PM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1361116443621593116-load_dillo.mp4"
+        "path": "comments_attachments/1361116443621593116-load_dillo.mp4",
+        "source": "URLInMessage",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1751997943000
       }
     ],
     "timestamp": 1751997944330

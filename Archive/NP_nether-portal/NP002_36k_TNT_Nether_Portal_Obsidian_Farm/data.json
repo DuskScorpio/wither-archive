@@ -52,18 +52,30 @@
       "name": "image.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380024315243659405/image.png?ex=686de0cc&is=686c8f4c&hm=b04e7596bab87c66bb85862f0fb5a7851d3a515f9073b88fe29d49c020c56712&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751952881000
     },
     {
       "id": "1380262575991685332",
       "name": "image_1.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380262575991685332/image.png?ex=686d6d32&is=686c1bb2&hm=4234820840f53cdb084a48a5879d266a225526c6418a272e1039b58d9504bf33&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/image_1.png"
+      "path": "images/image_1.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751952881000
     }
   ],
   "attachments": [
@@ -72,7 +84,7 @@
       "name": "NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url",
       "contentType": "youtube",
       "url": "https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 1:44:19 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft",
@@ -84,39 +96,57 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url"
+      "path": "attachments/NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751953459000
     },
     {
       "id": "1380024314883215490",
       "name": "NP002_Portal_Obsidian_Farm_WDL.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380024314883215490/Portal_Obsidian_Farm_WDL.zip?ex=686de0cc&is=686c8f4c&hm=652a72cfc0acb2582fab5c12b63038a8f98a1bb44a3af0322ba0d8cc2976a9b3&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NP002_Portal_Obsidian_Farm_WDL.zip",
       "wdl": {
         "version": "1.21.4"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751952881000
     },
     {
       "id": "1380262575580647494",
       "name": "NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380262575580647494/Netherside_Portal_Obsidian_-_Scorpio.litematic?ex=686d6d32&is=686c1bb2&hm=d74308a2b5b19d8d7684979faf05d793bb59cd4718ba31546ddf637e8474c6f1&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:34:41 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic",
       "litematic": {
         "size": "6x5x7",
         "version": "1.21.4"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751952881000
     },
     {
       "id": "Ho_aJ1Lw0Zw",
       "name": "NP002_YouTube_Video_Ho_aJ1Lw0Zw.url",
       "contentType": "youtube",
       "url": "https://youtu.be/Ho_aJ1Lw0Zw",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 1:33:37 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Simple chunkloading detector",
@@ -128,7 +158,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/NP002_YouTube_Video_Ho_aJ1Lw0Zw.url"
+      "path": "attachments/NP002_YouTube_Video_Ho_aJ1Lw0Zw.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751952817000
     }
   ],
   "records": {
@@ -190,5 +226,6 @@
     "uploadMessageId": "1392433735697174529"
   },
   "archivedAt": 1752052471903,
-  "updatedAt": 1752052471903
+  "updatedAt": 1752052471903,
+  "num_comments": 2
 }

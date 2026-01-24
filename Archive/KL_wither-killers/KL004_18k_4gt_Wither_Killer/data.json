@@ -42,11 +42,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1392514947455385610/1392515010479001720/image.png?ex=686fd02a&is=686e7eaa&hm=5c457c8a078a41363ddcb9a999c2287e060e58d18a89e9e21ddade95d42c002a&",
-      "description": "Sent by scorpio03 at 7/9/2025, 10:37:30 AM",
+      "description": "",
       "canDownload": true,
       "width": 341,
       "height": 409,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752071850000
     }
   ],
   "attachments": [
@@ -55,13 +61,19 @@
       "name": "KL004_18k_r2.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913079212812931152/947047021481701396/18k_r2.litematic?ex=686f7945&is=686e27c5&hm=ec1ed9b45e6e2d7804dadbc93b2f99bec68b7e79efa4c3c82845c4b9b5da0a13&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 10:37:15 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/KL004_18k_r2.litematic",
       "litematic": {
         "size": "21x23x11",
         "version": "1.15.2"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752071835000
     }
   ],
   "records": {
@@ -82,5 +94,6 @@
     "uploadMessageId": "1392515705089560666"
   },
   "archivedAt": 1752072015606,
-  "updatedAt": 1752072015606
+  "updatedAt": 1752072015606,
+  "num_comments": 0
 }

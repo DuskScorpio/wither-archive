@@ -36,19 +36,25 @@
       "name": "SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913076940347420762/1146488261611618384/Stationary_Wither_Skull_Generator_Methodzz_1.20.zip?ex=686d4d66&is=686bfbe6&hm=ba82eb787df64f640ed0c84c5bed5845477d7122867580fa98c556c3cbccdd1d&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:30:18 AM",
+      "description": "",
       "canDownload": true,
       "wdl": {
         "version": "1.20.1"
       },
-      "path": "attachments/SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip"
+      "path": "attachments/SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751949018000
     },
     {
       "id": "D5c90vIT1PQ",
       "name": "SK001_YouTube_Video_D5c90vIT1PQ.url",
       "contentType": "youtube",
       "url": "https://youtu.be/D5c90vIT1PQ",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:30:18 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Stationary Witherskull Generator",
@@ -60,7 +66,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/SK001_YouTube_Video_D5c90vIT1PQ.url"
+      "path": "attachments/SK001_YouTube_Video_D5c90vIT1PQ.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751949018000
     }
   ],
   "records": {
@@ -102,5 +114,6 @@
     "uploadMessageId": "1392028043068969071"
   },
   "archivedAt": 1751954334825,
-  "updatedAt": 1751954334825
+  "updatedAt": 1751954334825,
+  "num_comments": 0
 }

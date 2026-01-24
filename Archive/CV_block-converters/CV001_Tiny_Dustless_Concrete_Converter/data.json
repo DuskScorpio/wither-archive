@@ -37,11 +37,17 @@
       "name": "unknown.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1392033403674689567/1392033886975823913/unknown.png?ex=686e1015&is=686cbe95&hm=77fc937c30c0b14f24e3c7ba7b2a7fcaa27df98ba459271287b43ee2711830cf&",
-      "description": "Sent by scorpio03 at 7/8/2025, 2:45:41 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 438,
-      "path": "images/unknown.png"
+      "path": "images/unknown.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957141000
     }
   ],
   "attachments": [
@@ -50,32 +56,44 @@
       "name": "CV001_tiny_concrete_converter.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1001213617544380528/1001213719063318619/tiny_concrete_converter.zip?ex=686d7570&is=686c23f0&hm=7bc1f741de2e54e2e402b79245c9141c41fdf7d5d868f70cff2e33bfa68843cb&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:43:46 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CV001_tiny_concrete_converter.zip",
       "wdl": {
         "version": "1.15.2"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957026000
     },
     {
       "id": "1001213795332538459",
       "name": "CV001_tiny_concrete_converter.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1001213617544380528/1001213795332538459/tiny_concrete_converter.litematic?ex=686d7582&is=686c2402&hm=ddecd38871e66d5e2abd4d22f32d6adec1e8fd1036fd460b58b79ee747a28eef&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:43:46 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CV001_tiny_concrete_converter.litematic",
       "litematic": {
         "size": "9x10x11",
         "version": "1.17.1"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957026000
     },
     {
       "id": "IayHBn_AEWA",
       "name": "CV001_YouTube_Video_IayHBn_AEWA.url",
       "contentType": "youtube",
       "url": "https://youtu.be/IayHBn_AEWA",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 2:43:46 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "1.15+Tiny  Dustless Concrete Converter",
@@ -87,7 +105,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/CV001_YouTube_Video_IayHBn_AEWA.url"
+      "path": "attachments/CV001_YouTube_Video_IayHBn_AEWA.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957026000
     }
   ],
   "records": {
@@ -120,5 +144,6 @@
     "uploadMessageId": "1392948963715579905"
   },
   "archivedAt": 1752175312307,
-  "updatedAt": 1752175312307
+  "updatedAt": 1752175312307,
+  "num_comments": 0
 }

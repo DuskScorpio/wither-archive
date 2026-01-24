@@ -38,11 +38,17 @@
       "name": "2022-03-17_03.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066017490599967/953921594189840494/2022-03-17_03.png?ex=68716977&is=687017f7&hm=a7f0b3a40938305efcf86a2c8d8395eb343d0e6009a863505cac31260cbd03ff&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/11/2025, 12:09:46 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2022-03-17_03.png"
+      "path": "images/2022-03-17_03.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752206986000
     }
   ],
   "attachments": [
@@ -51,7 +57,7 @@
       "name": "EP003_YouTube_Video_j9RaAh4jgIU.url",
       "contentType": "youtube",
       "url": "https://youtu.be/j9RaAh4jgIU",
-      "description": "[YouTube] Sent by scorpio03 at 7/11/2025, 12:09:46 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Simple Obsidian Farm (32k/hour) | Minecraft | Java 1.16.2+",
@@ -63,16 +69,28 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/EP003_YouTube_Video_j9RaAh4jgIU.url"
+      "path": "attachments/EP003_YouTube_Video_j9RaAh4jgIU.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752206986000
     },
     {
       "id": "2aljrzkfp4j0bvq",
       "name": "EP003_Simple_Obsidian_Farm.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/file/2aljrzkfp4j0bvq/Simple_Obsidian_Farm.zip/file",
-      "description": "[MediaFire] Sent by scorpio03 at 7/11/2025, 12:09:46 AM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/EP003_Simple_Obsidian_Farm.url"
+      "path": "attachments/EP003_Simple_Obsidian_Farm.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752206986000
     }
   ],
   "records": {
@@ -115,5 +133,6 @@
     "uploadMessageId": ""
   },
   "archivedAt": 1752848450459,
-  "updatedAt": 1752848450459
+  "updatedAt": 1752848450459,
+  "num_comments": 0
 }

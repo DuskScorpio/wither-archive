@@ -42,11 +42,17 @@
       "name": "area_render_9_.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1268413983174557979/1268413983527014443/area_render_9_.png?ex=66ac5613&is=66ab0493&hm=9704cdbe85e022f3c71ac4b171c313b5d75a8387b415f3e8c60ee010d197ae96&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:17:58 AM",
+      "description": "",
       "canDownload": true,
       "width": 599,
       "height": 800,
-      "path": "images/area_render_9_.png"
+      "path": "images/area_render_9_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948278000
     }
   ],
   "attachments": [
@@ -55,7 +61,7 @@
       "name": "KL003_YouTube_Video_1jFbKOGnaissiFfejLjfPMW81_rf9.url",
       "contentType": "youtube",
       "url": "https://youtu.be/1jFbKOGnais?si=FfejLjfPMW81_rf9",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:17:58 AM",
+      "description": "",
       "canDownload": false,
       "path": "attachments/KL003_YouTube_Video_1jFbKOGnaissiFfejLjfPMW81_rf9.url",
       "youtube": {
@@ -67,7 +73,13 @@
         "thumbnail_height": 360,
         "width": 200,
         "height": 113
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948278000
     }
   ],
   "records": {
@@ -92,5 +104,6 @@
     "uploadMessageId": "1392027967919755334"
   },
   "archivedAt": 1752066694235,
-  "updatedAt": 1752066694235
+  "updatedAt": 1752066694235,
+  "num_comments": 0
 }

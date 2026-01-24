@@ -45,11 +45,17 @@
       "name": "area_render_2_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1396697896778203136/1396698401713946754/area_render_2_.png?ex=687f0840&is=687db6c0&hm=c83a407d6c4cbee2a0fc8f5921072ebd1275b4ea9ff34614c402f735693a641b&",
-      "description": "Sent by hunterofinfinity at 7/20/2025, 11:40:48 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 658,
-      "path": "images/area_render_2_.png"
+      "path": "images/area_render_2_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "hunterofinfinity"
+      },
+      "timestamp": 1753069248000
     }
   ],
   "attachments": [
@@ -58,26 +64,38 @@
       "name": "NP004_36k_suffocation_nether.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1396697896778203136/1396698610476908644/36k_suffocation_nether.litematic?ex=687f0872&is=687db6f2&hm=8d3512835361d54f00c7bb5b49611df35f730601f221134917f5c03ba3c2b548&",
-      "description": "Sent by hunterofinfinity at 7/20/2025, 11:41:38 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NP004_36k_suffocation_nether.litematic",
       "litematic": {
         "size": "6x9x4",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "hunterofinfinity"
+      },
+      "timestamp": 1753069298000
     },
     {
       "id": "1396698610959122483",
       "name": "NP004_36k_Dupeless_Obi_v1.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1396697896778203136/1396698610959122483/36k_Dupeless_Obi_v1.1.litematic?ex=687f0872&is=687db6f2&hm=f9a36b5a0dc90601335bf4a0efa30f8c7c8798f42a7f27bfa6c6a4042eb966de&",
-      "description": "Sent by hunterofinfinity at 7/20/2025, 11:41:38 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NP004_36k_Dupeless_Obi_v1.1.litematic",
       "litematic": {
         "size": "16x24x27",
         "version": "1.21.5"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "hunterofinfinity"
+      },
+      "timestamp": 1753069298000
     }
   ],
   "records": {
@@ -209,5 +227,6 @@
     "uploadMessageId": "1396705972910686240"
   },
   "archivedAt": 1753071053121,
-  "updatedAt": 1753071053121
+  "updatedAt": 1753071053121,
+  "num_comments": 3
 }

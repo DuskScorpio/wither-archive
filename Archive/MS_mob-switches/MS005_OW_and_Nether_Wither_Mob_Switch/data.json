@@ -38,11 +38,17 @@
       "name": "area_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1397591730030772295/1397591731024953425/area_render.png?ex=6882483a&is=6880f6ba&hm=5ca9e70c56579f15cf206a46d063d496881041750624b6d9dd381e47efdc74cd&",
-      "description": "Sent by alvarorc at 7/23/2025, 10:50:34 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 495,
-      "path": "images/area_render.png"
+      "path": "images/area_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
     }
   ],
   "attachments": [
@@ -51,7 +57,7 @@
       "name": "MS005_YouTube_Video_2qL3erHQgvE.url",
       "contentType": "youtube",
       "url": "https://youtu.be/2qL3erHQgvE",
-      "description": "[YouTube] Sent by alvarorc at 7/23/2025, 10:50:34 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Wither Mob Switch | Minecraft 1.15-1.18+",
@@ -63,14 +69,20 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MS005_YouTube_Video_2qL3erHQgvE.url"
+      "path": "attachments/MS005_YouTube_Video_2qL3erHQgvE.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
     },
     {
       "id": "O7TCNGuFPQQ",
       "name": "MS005_YouTube_Video_O7TCNGuFPQQ.url",
       "contentType": "youtube",
       "url": "https://youtu.be/O7TCNGuFPQQ",
-      "description": "[YouTube] Sent by alvarorc at 7/23/2025, 10:50:34 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Wither Mob Switch",
@@ -82,33 +94,51 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MS005_YouTube_Video_O7TCNGuFPQQ.url"
+      "path": "attachments/MS005_YouTube_Video_O7TCNGuFPQQ.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
     },
     {
       "id": "1397409188334014554",
       "name": "MS005_Wither_Mob_Switch_-_Nether_Roof.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/995723671018680340/1397409188334014554/Wither_Mob_Switch_-_Nether_Roof.litematic?ex=68819e39&is=68804cb9&hm=79f89994c7c1226fc75529876aaa5539b7318790dfd641e59cd468a07c935f66&",
-      "description": "[DiscordCDN] Sent by alvarorc at 7/23/2025, 10:50:34 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MS005_Wither_Mob_Switch_-_Nether_Roof.litematic",
       "litematic": {
         "size": "5x8x5",
         "version": "1.21.7"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
     },
     {
       "id": "1397409210450313246",
       "name": "MS005_Wither_Mob_Switch_-_Overworld.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/995723671018680340/1397409210450313246/Wither_Mob_Switch_-_Overworld.litematic?ex=68819e3e&is=68804cbe&hm=bf6b49f021f022f57ea07a85328a83759d7fc134c02ac1bd05ac8d0a2563063d&",
-      "description": "[DiscordCDN] Sent by alvarorc at 7/23/2025, 10:50:34 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MS005_Wither_Mob_Switch_-_Overworld.litematic",
       "litematic": {
         "size": "5x6x6",
         "version": "1.21.7"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
     }
   ],
   "records": {
@@ -162,5 +192,6 @@
     "uploadMessageId": "1397615347426791574"
   },
   "archivedAt": 1753287865002,
-  "updatedAt": 1753287865002
+  "updatedAt": 1753287865002,
+  "num_comments": 2
 }

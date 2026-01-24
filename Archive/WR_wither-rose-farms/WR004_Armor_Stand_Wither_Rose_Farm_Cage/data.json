@@ -38,11 +38,17 @@
       "name": "2023-09-15_14.24.37.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913290253425582140/1152327590229586102/2023-09-15_14.24.37.png?ex=686f6df2&is=686e1c72&hm=5fff37788be01ab698a93ef8cbbffe4dabdb107cc694e1967b54a2e21b171f62&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 4:16:15 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2023-09-15_14.24.37.png"
+      "path": "images/2023-09-15_14.24.37.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048975000
     }
   ],
   "attachments": [
@@ -51,7 +57,7 @@
       "name": "WR004_YouTube_Video_w_S9LR5KLGo.url",
       "contentType": "youtube",
       "url": "https://youtu.be/w_S9LR5KLGo",
-      "description": "[YouTube] Sent by scorpio03 at 7/9/2025, 4:14:12 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Simplest Wither Rose Wither Cage | Minecraft | Java 1.16~1.20.1",
@@ -63,19 +69,31 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/WR004_YouTube_Video_w_S9LR5KLGo.url"
+      "path": "attachments/WR004_YouTube_Video_w_S9LR5KLGo.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048852000
     },
     {
       "id": "1392426800570957845",
       "name": "WR004_Scorpio_Wither_Rose_Cage_WDLLitematic.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1392418552652369930/1392426800570957845/Scorpio_Wither_Rose_Cage_WDLLitematic.zip?ex=686f7e03&is=686e2c83&hm=38109f9ecc04f3446e8e176ffc951531eb70ca7421adc4bfc392763416acbac4&",
-      "description": "Sent by scorpio03 at 7/9/2025, 4:46:59 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/WR004_Scorpio_Wither_Rose_Cage_WDLLitematic.zip",
       "wdl": {
         "version": "1.18.2"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752050819000
     }
   ],
   "records": {
@@ -102,5 +120,6 @@
     "uploadMessageId": "1392948897084604628"
   },
   "archivedAt": 1752175296180,
-  "updatedAt": 1752175296180
+  "updatedAt": 1752175296180,
+  "num_comments": 0
 }

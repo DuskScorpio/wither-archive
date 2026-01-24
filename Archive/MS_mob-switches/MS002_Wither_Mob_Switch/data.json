@@ -38,22 +38,34 @@
       "name": "2022-02-12_23.42.24.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1391979456444371115/1391979546882080839/2022-02-12_23.42.24.png?ex=686ddd79&is=686c8bf9&hm=3cff91d41329bbf39ebb07a6a92e74818116383d4ae547e110076d8ab14155da&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:13:15 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2022-02-12_23.42.24.png"
+      "path": "images/2022-02-12_23.42.24.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944395000
     },
     {
       "id": "1391979547527876659",
       "name": "2022-02-12_23.42.35.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1391979456444371115/1391979547527876659/2022-02-12_23.42.35.png?ex=686ddd79&is=686c8bf9&hm=982e7de16730f5675556d1c6e59392fd446fe0292b661b45b44844577f6719bb&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:13:15 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2022-02-12_23.42.35.png"
+      "path": "images/2022-02-12_23.42.35.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944395000
     }
   ],
   "attachments": [
@@ -62,19 +74,25 @@
       "name": "MS002_wither_mob_switch_1.15_.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1391979456444371115/1391979600464314418/wither_mob_switch_1.15_.zip?ex=686ddd86&is=686c8c06&hm=8b89e5221c054b1d8edc01ad00c2910f5cffe4b73e2e40bf7d34b1f15b3e1f6d&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:14:04 PM",
+      "description": "",
       "canDownload": true,
       "wdl": {
         "version": "1.15"
       },
-      "path": "attachments/MS002_wither_mob_switch_1.15_.zip"
+      "path": "attachments/MS002_wither_mob_switch_1.15_.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944444000
     },
     {
       "id": "2qL3erHQgvE",
       "name": "MS002_YouTube_Video_2qL3erHQgvE.url",
       "contentType": "youtube",
       "url": "https://youtu.be/2qL3erHQgvE",
-      "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:09:24 PM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Wither Mob Switch | Minecraft 1.15-1.18+",
@@ -86,7 +104,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MS002_YouTube_Video_2qL3erHQgvE.url"
+      "path": "attachments/MS002_YouTube_Video_2qL3erHQgvE.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944164000
     }
   ],
   "records": {
@@ -112,5 +136,6 @@
     "uploadMessageId": "1391981203963379765"
   },
   "archivedAt": 1751954566157,
-  "updatedAt": 1751954566157
+  "updatedAt": 1751954566157,
+  "num_comments": 0
 }

@@ -52,11 +52,17 @@
       "name": "Image_59607992550936.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1392388447075041312/1392400247770058762/Image_59607992550936.png?ex=686f6548&is=686e13c8&hm=79580d3b07442ff7c602decdd4f030e4bd226ef782c5e5d11a23e764cca172d8&",
-      "description": "Sent by scorpio03 at 7/9/2025, 3:01:28 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 551,
-      "path": "images/Image_59607992550936.png"
+      "path": "images/Image_59607992550936.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752044488000
     }
   ],
   "attachments": [
@@ -65,16 +71,22 @@
       "name": "CG007_ChestboatWitherCage.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/folder/9mgkxdfyk78ls/Chestboat+Wither+Cage",
-      "description": "[MediaFire] Sent by scorpio03 at 7/9/2025, 2:14:35 AM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/CG007_ChestboatWitherCage.url"
+      "path": "attachments/CG007_ChestboatWitherCage.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
     },
     {
       "id": "Ho_aJ1Lw0Zw",
       "name": "CG007_YouTube_Video_Ho_aJ1Lw0Zw.url",
       "contentType": "youtube",
       "url": "https://www.youtube.com/watch?v=Ho_aJ1Lw0Zw",
-      "description": "[YouTube] Sent by scorpio03 at 7/9/2025, 2:14:35 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Simple chunkloading detector",
@@ -86,14 +98,20 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/CG007_YouTube_Video_Ho_aJ1Lw0Zw.url"
+      "path": "attachments/CG007_YouTube_Video_Ho_aJ1Lw0Zw.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
     },
     {
       "id": "FrQoGXeSezE",
       "name": "CG007_YouTube_Video_FrQoGXeSezE.url",
       "contentType": "youtube",
       "url": "https://www.youtube.com/watch?v=FrQoGXeSezE",
-      "description": "[YouTube] Sent by scorpio03 at 7/9/2025, 2:14:35 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Chunkloading rant pt3 “ticking disorder”",
@@ -105,14 +123,20 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/CG007_YouTube_Video_FrQoGXeSezE.url"
+      "path": "attachments/CG007_YouTube_Video_FrQoGXeSezE.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
     },
     {
       "id": "Cf1lBWqwzIo",
       "name": "CG007_YouTube_Video_Cf1lBWqwzIo.url",
       "contentType": "youtube",
       "url": "https://youtu.be/Cf1lBWqwzIo",
-      "description": "[YouTube] Sent by scorpio03 at 7/9/2025, 2:14:35 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft",
@@ -124,7 +148,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/CG007_YouTube_Video_Cf1lBWqwzIo.url"
+      "path": "attachments/CG007_YouTube_Video_Cf1lBWqwzIo.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
     }
   ],
   "records": {
@@ -169,5 +199,6 @@
     "uploadMessageId": ""
   },
   "archivedAt": 1752044867381,
-  "updatedAt": 1752044867381
+  "updatedAt": 1752044867381,
+  "num_comments": 0
 }

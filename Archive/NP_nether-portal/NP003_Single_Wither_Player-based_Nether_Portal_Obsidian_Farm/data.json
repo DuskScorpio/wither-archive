@@ -42,11 +42,17 @@
       "name": "area_render_2_.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/890667905082073178/1180307736488058921/area_render_2_.png?ex=657cf23d&is=656a7d3d&hm=f34cf98a599b746140d4814ed85c25ec6278066a5ced90c6b48dcfcced0f65b6&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 10:41:24 PM",
+      "description": "",
       "canDownload": true,
       "width": 686,
       "height": 646,
-      "path": "images/area_render_2_.png"
+      "path": "images/area_render_2_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752115284000
     }
   ],
   "attachments": [
@@ -55,12 +61,18 @@
       "name": "NP003_single_wither_obsidian_farm.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1182688930936651826/single_wither_obsidian_farm.zip?ex=687075a6&is=686f2426&hm=c4bb46fe8837625ec767ad303126579c27225b8ce81843555c93ad5bccb90c61&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 10:42:17 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NP003_single_wither_obsidian_farm.zip",
       "wdl": {
         "version": "1.20.1"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752115337000
     }
   ],
   "records": {
@@ -119,5 +131,6 @@
     "uploadMessageId": ""
   },
   "archivedAt": 1752149467762,
-  "updatedAt": 1752149467762
+  "updatedAt": 1752149467762,
+  "num_comments": 0
 }

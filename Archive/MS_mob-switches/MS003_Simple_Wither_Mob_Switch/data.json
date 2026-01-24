@@ -39,20 +39,32 @@
       "name": "2021-11-29_12.01.45.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913079238289129543/914731100968984596/2021-11-29_12.01.45.png?ex=686d43f9&is=686bf279&hm=7cc519f503d53f8b53903d4fc0409eec598dea7cb0a623b11f2d686ace7edec7&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:21:17 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/2021-11-29_12.01.45.png"
+      "path": "images/2021-11-29_12.01.45.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944877000
     },
     {
       "id": "914731101174521866",
       "name": "unknown.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913079238289129543/914731101174521866/unknown.png?ex=686d43f9&is=686bf279&hm=051747b7ef46887f8b3eda075a62ae8fa0780cebedaaf267fe1c88ece7cfd265&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:21:17 PM",
+      "description": "",
       "canDownload": true,
       "width": 316,
       "height": 703,
-      "path": "images/unknown.png"
+      "path": "images/unknown.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944877000
     }
   ],
   "attachments": [
@@ -61,20 +73,26 @@
       "name": "MS003_Trizz_Wither_Mob_Switch.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913079238289129543/914731214173274212/Trizz_Wither_Mob_Switch.litematic?ex=686d4414&is=686bf294&hm=7a2936c2a18c48d47e183c3ae99caeb8d2805f2c13095f0f0bb24b35196c9dfd&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/7/2025, 11:21:17 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "5x7x5",
         "version": "1.16.5"
       },
-      "path": "attachments/MS003_Trizz_Wither_Mob_Switch.litematic"
+      "path": "attachments/MS003_Trizz_Wither_Mob_Switch.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944877000
     },
     {
       "id": "bGYSgBKUO8c",
       "name": "MS003_YouTube_Video_bGYSgBKUO8c.url",
       "contentType": "youtube",
       "url": "https://youtu.be/bGYSgBKUO8c",
-      "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:19:48 PM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Wither Mob Switch Design [Minecraft 1.16.5]",
@@ -86,7 +104,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MS003_YouTube_Video_bGYSgBKUO8c.url"
+      "path": "attachments/MS003_YouTube_Video_bGYSgBKUO8c.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751944788000
     }
   ],
   "records": {
@@ -112,5 +136,6 @@
     "uploadMessageId": "1391983906039005255"
   },
   "archivedAt": 1751953891139,
-  "updatedAt": 1751953891139
+  "updatedAt": 1751953891139,
+  "num_comments": 0
 }

@@ -42,11 +42,17 @@
       "name": "image.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1376589778950295683/image.png?ex=686de863&is=686c96e3&hm=5ec297a33a5f71779f87c046eafccb625633cee5dc2b8706b6f1d5eed39345cd&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:04:28 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 797,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951068000
     }
   ],
   "attachments": [
@@ -55,42 +61,60 @@
       "name": "EP001_IanXO4s_Obsidian_Farm_Overworld.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1392008193801981952/1392008964740350054/IanXO4s_Obsidian_Farm_Overworld.litematic?ex=686df8df&is=686ca75f&hm=3f351bb0d8fe5d77a76430cec32b26a0ece89046c2a222839e569ece3bfc8282&",
-      "description": "Sent by scorpio03 at 7/8/2025, 1:06:39 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "12x6x7",
         "version": "1.20.1"
       },
-      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic"
+      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951199000
     },
     {
       "id": "1392008876098064394",
       "name": "EP001_IanXO4s_Obsidian_Farm_End.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1392008193801981952/1392008876098064394/IanXO4s_Obsidian_Farm_End.litematic?ex=686df8ca&is=686ca74a&hm=5f7498232485e4b2e65862d2c8a17474fc8287fa80c1f0f1fb6b8c458cd30b5e&",
-      "description": "Sent by scorpio03 at 7/8/2025, 1:06:18 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "18x10x5",
         "version": "1.20.1"
       },
-      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_End.litematic"
+      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_End.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951178000
     },
     {
       "id": "ljxsii81yaxh7ev",
       "name": "EP001_IanXO4_Obsidian_Farm.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/file/ljxsii81yaxh7ev/IanXO4_Obsidian_Farm.zip/file",
-      "description": "[MediaFire] Sent by scorpio03 at 7/8/2025, 1:05:47 AM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/EP001_IanXO4_Obsidian_Farm.url"
+      "path": "attachments/EP001_IanXO4_Obsidian_Farm.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951147000
     },
     {
       "id": "m7L_odfKJlc",
       "name": "EP001_YouTube_Video_m7L_odfKJlc.url",
       "contentType": "youtube",
       "url": "https://youtu.be/m7L_odfKJlc",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 1:03:35 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Minecraft Elegance: Instant Obsidian Farm (32k/hr, Java 1.16.5, 1.17+)",
@@ -102,7 +126,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/EP001_YouTube_Video_m7L_odfKJlc.url"
+      "path": "attachments/EP001_YouTube_Video_m7L_odfKJlc.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951015000
     }
   ],
   "records": {
@@ -124,5 +154,6 @@
     "uploadMessageId": "1392948871931494555"
   },
   "archivedAt": 1752175290402,
-  "updatedAt": 1752175290402
+  "updatedAt": 1752175290402,
+  "num_comments": 1
 }

@@ -38,11 +38,17 @@
       "name": "2025-01-26_19.27.09.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1333141827930558505/2025-01-26_19.27.09.png?ex=686eb514&is=686d6394&hm=a4abc639ae952bbeb1db0588c2bb432e4b8e134aa675f169dc45958e21beade8&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 2:06:13 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 439,
-      "path": "images/2025-01-26_19.27.09.png"
+      "path": "images/2025-01-26_19.27.09.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041173000
     }
   ],
   "attachments": [
@@ -51,13 +57,19 @@
       "name": "BF002_Cobble_farm_1.21_61k.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1333141828404510720/Cobble_farm_1.21_61k.litematic?ex=686eb514&is=686d6394&hm=850afbdd905566fa8567b4af37f4d84f16f650ac7ff8dc64c87ae66539cf2ba5&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 2:06:13 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/BF002_Cobble_farm_1.21_61k.litematic",
       "litematic": {
         "size": "17x13x11",
         "version": "1.21"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041173000
     }
   ],
   "records": {
@@ -83,5 +95,6 @@
     "uploadMessageId": "1392949099942383637"
   },
   "archivedAt": 1752175344840,
-  "updatedAt": 1752175344840
+  "updatedAt": 1752175344840,
+  "num_comments": 0
 }

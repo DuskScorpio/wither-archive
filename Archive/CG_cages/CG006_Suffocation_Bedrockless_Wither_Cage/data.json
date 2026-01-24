@@ -42,22 +42,34 @@
       "name": "2025-04-24_11.14.25.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1364894572530110545/2025-04-24_11.14.25.png?ex=686d8c60&is=686c3ae0&hm=3ba8eaebd7aa94c461d9b5c3855d334b7da7f2612ddc953716b619c2ad04b30c&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 4:09:35 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 439,
-      "path": "images/2025-04-24_11.14.25.png"
+      "path": "images/2025-04-24_11.14.25.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751962175000
     },
     {
       "id": "1364894573419040798",
       "name": "2025-04-24_11.21.37.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1364894573419040798/2025-04-24_11.21.37.png?ex=686d8c60&is=686c3ae0&hm=327defd29c5fd800f172cc2442f273ab822326e221445f19d1ec3a985ea09238&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 4:09:35 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 439,
-      "path": "images/2025-04-24_11.21.37.png"
+      "path": "images/2025-04-24_11.21.37.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751962175000
     }
   ],
   "attachments": [
@@ -66,13 +78,19 @@
       "name": "CG006_Wither_cage_1.21.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1364894572869845012/Wither_cage_1.21.litematic?ex=686d8c60&is=686c3ae0&hm=c053677b118b2e000eb98f5e36799a3c38abef946c5b5f75e4088ae16770e401&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 4:09:35 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CG006_Wither_cage_1.21.litematic",
       "litematic": {
         "size": "15x12x5",
         "version": "1.21.4"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751962175000
     }
   ],
   "records": {
@@ -99,5 +117,6 @@
     "uploadMessageId": "1392167641090621581"
   },
   "archivedAt": 1751989030661,
-  "updatedAt": 1751989030661
+  "updatedAt": 1751989030661,
+  "num_comments": 0
 }

@@ -37,11 +37,17 @@
       "name": "2021-11-28_21.17.54.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391977676616634438/1391977676805505044/2021-11-28_21.17.54.png?ex=686ddbbb&is=686c8a3b&hm=3b9c03ba0985865ca440c671602fa824f3d6f2778463b4823165ccaa4c8bce41&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:02:19 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2021-11-28_21.17.54.png"
+      "path": "images/2021-11-28_21.17.54.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751943739000
     }
   ],
   "attachments": [
@@ -50,7 +56,7 @@
       "name": "MS001_YouTube_Video_UUfZbZn7ETw.url",
       "contentType": "youtube",
       "url": "https://youtu.be/UUfZbZn7ETw",
-      "description": "[YouTube] Sent by scorpio03 at 7/7/2025, 11:02:19 PM",
+      "description": "",
       "canDownload": false,
       "path": "attachments/MS001_YouTube_Video_UUfZbZn7ETw.url",
       "youtube": {
@@ -62,19 +68,31 @@
         "thumbnail_height": 360,
         "width": 200,
         "height": 113
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751943739000
     },
     {
       "id": "1391977811509514280",
       "name": "MS001_wither_mob_switch_1.15_.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1391977676616634438/1391977811509514280/wither_mob_switch_1.15_.zip?ex=686ddbdb&is=686c8a5b&hm=b0a1eeb039172563b1cca10c87ce1f9020cef50c150666227aefe7b50b35995d&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:02:51 PM",
+      "description": "",
       "canDownload": true,
       "wdl": {
         "version": "1.15"
       },
-      "path": "attachments/MS001_wither_mob_switch_1.15_.zip"
+      "path": "attachments/MS001_wither_mob_switch_1.15_.zip",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751943771000
     }
   ],
   "records": {
@@ -100,5 +118,6 @@
     "uploadMessageId": "1391978560826118176"
   },
   "archivedAt": 1751951801420,
-  "updatedAt": 1751951801420
+  "updatedAt": 1751951801420,
+  "num_comments": 0
 }

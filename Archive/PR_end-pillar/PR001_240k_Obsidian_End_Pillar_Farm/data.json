@@ -38,29 +38,47 @@
       "name": "2021-11-30_23.58.35.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273563462848562/2021-11-30_23.58.35.png?ex=686debae&is=686c9a2e&hm=dbe212658f7c315b464bfd5d1bbc45c8b079b9d1d7cc9165536b3ccec8e17b17&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/2021-11-30_23.58.35.png"
+      "path": "images/2021-11-30_23.58.35.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
     },
     {
       "id": "915273564658237461",
       "name": "2021-12-01_00.08.26.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273564658237461/2021-12-01_00.08.26.png?ex=686debae&is=686c9a2e&hm=1745d2cfcf1f854354968232ba0a246a378860cfdec9c32a8613ec0725c9adb0&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/2021-12-01_00.08.26.png"
+      "path": "images/2021-12-01_00.08.26.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
     },
     {
       "id": "915273565576769556",
       "name": "2021-12-01_00.09.26.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273565576769556/2021-12-01_00.09.26.png?ex=686debae&is=686c9a2e&hm=6ca0e618149983ecfcedd9d2b65fdf91026db40da0b04c033f92bf969e9bfa60&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2021-12-01_00.09.26.png"
+      "path": "images/2021-12-01_00.09.26.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
     }
   ],
   "attachments": [
@@ -69,31 +87,43 @@
       "name": "PR001_Obsidian_Farm_Massive.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273651635494972/Obsidian_Farm_Massive.zip?ex=686debc3&is=686c9a43&hm=d5b9fa35e5d6e5456f6a34c07194c2d019c951139113f23095979ea5ae3422b9&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "description": "",
       "canDownload": true,
       "wdl": {
         "version": "1.17.1"
       },
-      "path": "attachments/PR001_Obsidian_Farm_Massive.zip"
+      "path": "attachments/PR001_Obsidian_Farm_Massive.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
     },
     {
       "id": "915273653023817768",
       "name": "PR001_Obsidian_Farm_Small.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273653023817768/Obsidian_Farm_Small.zip?ex=686debc3&is=686c9a43&hm=991e10ed35a3bf50a26cf0e25b0bd2aae971c5182637ed22f5477b1ba817ab2c&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "description": "",
       "canDownload": true,
       "wdl": {
         "version": "1.17.1"
       },
-      "path": "attachments/PR001_Obsidian_Farm_Small.zip"
+      "path": "attachments/PR001_Obsidian_Farm_Small.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
     },
     {
       "id": "rZFl9sjoluw",
       "name": "PR001_YouTube_Video_rZFl9sjoluw.url",
       "contentType": "youtube",
       "url": "https://youtu.be/rZFl9sjoluw",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:47:53 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "240,000/h Obsidian End Pillar Farm",
@@ -105,7 +135,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/PR001_YouTube_Video_rZFl9sjoluw.url"
+      "path": "attachments/PR001_YouTube_Video_rZFl9sjoluw.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
     }
   ],
   "records": {
@@ -130,5 +166,6 @@
     "uploadMessageId": "1392948836108075108"
   },
   "archivedAt": 1752175281066,
-  "updatedAt": 1752175281066
+  "updatedAt": 1752175281066,
+  "num_comments": 0
 }

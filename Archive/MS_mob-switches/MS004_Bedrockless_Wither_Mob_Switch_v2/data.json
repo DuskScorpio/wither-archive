@@ -45,11 +45,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1392784597368049765/image.png?ex=6870cb3c&is=686f79bc&hm=0373876976cb9bd7687eb98bafb3f62b28f70bb9853bfcc46c0d890de0bd80b7&",
-      "description": "Sent by scorpio03 at 7/10/2025, 4:28:44 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 436,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752136124000
     }
   ],
   "attachments": [
@@ -58,7 +64,7 @@
       "name": "MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url",
       "contentType": "youtube",
       "url": "https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp",
-      "description": "[YouTube] Sent by scorpio03 at 7/10/2025, 4:48:24 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Wither Mob Switch Design [Minecraft 1.16.5]",
@@ -70,71 +76,107 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url"
+      "path": "attachments/MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752137304000
     },
     {
       "id": "fxfb14fiivogr",
       "name": "MS004_BedrocklessWitherMobSwitchV2.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2",
-      "description": "[MediaFire] Sent by scorpio03 at 7/10/2025, 4:30:40 AM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/MS004_BedrocklessWitherMobSwitchV2.url"
+      "path": "attachments/MS004_BedrocklessWitherMobSwitchV2.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752136240000
     },
     {
       "id": "1391991777476612107",
       "name": "MS004_WitherMobSwitch1.16BlockStre.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777476612107/WitherMobSwitch1.16BlockStre.zip?ex=6882581d&is=6881069d&hm=bf7ffebfe80c57da546757f7cf23f6f15992c573725bcd0f41020273b38c774b&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.16BlockStre.zip",
       "wdl": {
         "version": "1.16.5"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000
     },
     {
       "id": "1391991777862619136",
       "name": "MS004_WitherMobSwitch1.16.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777862619136/WitherMobSwitch1.16.zip?ex=6882581d&is=6881069d&hm=a0629fe6fd8987a6ae2ae48a66aed8e1c6c31ca2993f638008857903055d67f3&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.16.zip",
       "wdl": {
         "version": "1.16.5"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000
     },
     {
       "id": "1391991778244034600",
       "name": "MS004_WitherMobSwitch1.19BlockStre.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778244034600/WitherMobSwitch1.19BlockStre.zip?ex=6882581d&is=6881069d&hm=a018ce93cdaa8a478cc4fbc5707a9f78d0176699d2af8651ff838ecae9ae7061&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.19BlockStre.zip",
       "wdl": {
         "version": "1.19.2"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000
     },
     {
       "id": "1391991778571321415",
       "name": "MS004_WitherMobSwitch1.19.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778571321415/WitherMobSwitch1.19.zip?ex=6882581d&is=6881069d&hm=15f433edb4785f88a83f1726d702992d7791e93305b17c4174880ab3e606a850&",
-      "description": "Sent by scorpio03 at 7/7/2025, 11:58:22 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.19.zip",
       "wdl": {
         "version": "1.21.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000
     },
     {
       "id": "A9pQ0pgfo7Q",
       "name": "MS004_YouTube_Video_A9pQ0pgfo7Q.url",
       "contentType": "youtube",
       "url": "https://youtu.be/A9pQ0pgfo7Q",
-      "description": "[YouTube] Sent by scorpio03 at 7/23/2025, 2:58:45 PM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "1000 Withers vs 9 Stone",
@@ -146,7 +188,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MS004_YouTube_Video_A9pQ0pgfo7Q.url"
+      "path": "attachments/MS004_YouTube_Video_A9pQ0pgfo7Q.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1753297125000
     }
   ],
   "records": {
@@ -166,5 +214,6 @@
     "uploadMessageId": "1397654367510986782"
   },
   "archivedAt": 1753297167382,
-  "updatedAt": 1753297167382
+  "updatedAt": 1753297167382,
+  "num_comments": 0
 }

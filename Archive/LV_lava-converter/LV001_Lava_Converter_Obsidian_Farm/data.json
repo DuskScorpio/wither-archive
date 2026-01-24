@@ -37,22 +37,34 @@
       "name": "2021-12-06_14.51.34.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913065925622763561/917308665101418526/2021-12-06_14.51.34.png?ex=686d6a04&is=686c1884&hm=953408ae3e772fc849330293f585a17b2d2104335bf55cdde3537d30587919df&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:52:15 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2021-12-06_14.51.34.png"
+      "path": "images/2021-12-06_14.51.34.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950335000
     },
     {
       "id": "917308665416015882",
       "name": "2021-12-06_14.55.27.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913065925622763561/917308665416015882/2021-12-06_14.55.27.png?ex=686d6a04&is=686c1884&hm=0212395d7f10d87136ffec48b19668b19360af4d4a9e9e92c57d4a07eff6723f&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:52:15 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2021-12-06_14.55.27.png"
+      "path": "images/2021-12-06_14.55.27.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950335000
     }
   ],
   "attachments": [
@@ -61,20 +73,26 @@
       "name": "LV001_LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/917309208339288104/1000312703979638855/LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic?ex=686d7a0d&is=686c288d&hm=be931e99edf20b8cc22214e37176405dface4ea110ce9538f4205fe8a4066ea8&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 12:52:15 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "16x30x37",
         "version": "1.17.1"
       },
-      "path": "attachments/LV001_LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic"
+      "path": "attachments/LV001_LavaBased_18kObsidianFarmV3_NOWither_RedstoneWarper.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950335000
     },
     {
       "id": "JI2waCPOJag",
       "name": "LV001_YouTube_Video_JI2waCPOJag.url",
       "contentType": "youtube",
       "url": "https://youtu.be/JI2waCPOJag",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:52:12 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "18k/hr Overworld Obsidian Farm | UPDATED farm in Description!",
@@ -86,14 +104,20 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/LV001_YouTube_Video_JI2waCPOJag.url"
+      "path": "attachments/LV001_YouTube_Video_JI2waCPOJag.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950332000
     },
     {
       "id": "UA2HytjAqYo",
       "name": "LV001_YouTube_Video_UA2HytjAqYo.url",
       "contentType": "youtube",
       "url": "https://youtu.be/UA2HytjAqYo",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 12:52:12 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "UPDATED 18k Obsidian p/h | Single Dimension | V2",
@@ -105,7 +129,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/LV001_YouTube_Video_UA2HytjAqYo.url"
+      "path": "attachments/LV001_YouTube_Video_UA2HytjAqYo.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950332000
     }
   ],
   "records": {
@@ -130,5 +160,6 @@
     "uploadMessageId": "1392006233455595623"
   },
   "archivedAt": 1752074383391,
-  "updatedAt": 1752074383391
+  "updatedAt": 1752074383391,
+  "num_comments": 0
 }

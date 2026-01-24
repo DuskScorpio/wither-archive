@@ -15,9 +15,15 @@
         "name": "image.png",
         "contentType": "discord",
         "url": "https://cdn.discordapp.com/attachments/1160764661612949554/1160764661751369849/image.png",
-        "description": "[DiscordCDN] Sent by andrews54757 at 7/8/2025, 10:16:32 AM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1160764661751369849-image.png"
+        "path": "comments_attachments/1160764661751369849-image.png",
+        "source": "URLInMessage",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1751984192000
       }
     ],
     "timestamp": 1751984193358

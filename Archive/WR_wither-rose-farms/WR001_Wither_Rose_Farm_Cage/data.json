@@ -36,22 +36,34 @@
       "name": "2021-11-28_20.07.02.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913290253425582140/914490755769303040/2021-11-28_20.07.02.png?ex=686db5a2&is=686c6422&hm=a29417ae34bafa99f883b335b218959347768831ecbb829db46417516fdbae72&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:53:13 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2021-11-28_20.07.02.png"
+      "path": "images/2021-11-28_20.07.02.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957593000
     },
     {
       "id": "914490756037754910",
       "name": "2021-11-28_20.09.14.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913290253425582140/914490756037754910/2021-11-28_20.09.14.png?ex=686db5a2&is=686c6422&hm=0be6b3627bc1dd6673536a4a2e4d4dfdd1782b1fa9376b5a4469e67a457da10d&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:53:13 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2021-11-28_20.09.14.png"
+      "path": "images/2021-11-28_20.09.14.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957593000
     }
   ],
   "attachments": [
@@ -60,12 +72,18 @@
       "name": "WR001_3031ba23efcb5260.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913290253425582140/914491013328936990/3031ba23efcb5260.zip?ex=686db5df&is=686c645f&hm=14a16418f739368528c7112fd4d96ebc4ee4ae69ecb09b4384217ab70bce295e&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 2:53:13 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/WR001_3031ba23efcb5260.zip",
       "wdl": {
         "version": "1.16.3"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957593000
     }
   ],
   "records": {
@@ -91,5 +109,6 @@
     "uploadMessageId": "1392948950612447353"
   },
   "archivedAt": 1752203685576,
-  "updatedAt": 1752203685576
+  "updatedAt": 1752203685576,
+  "num_comments": 0
 }

@@ -38,22 +38,34 @@
       "name": "area_render_1_.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475538311888956/area_render_1_.png?ex=686da17a&is=686c4ffa&hm=45de1c88e2948e3b9a1315ed415bf7e94a486a0459c983eca8af28ac5c02f38e&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:10:40 AM",
+      "description": "",
       "canDownload": true,
       "width": 608,
       "height": 658,
-      "path": "images/area_render_1_.png"
+      "path": "images/area_render_1_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
     },
     {
       "id": "1176475538731311154",
       "name": "area_render.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475538731311154/area_render.png?ex=686da17a&is=686c4ffa&hm=98dd4cccc749e9857c4df4351bccd6fe967f520e67a36a28fec921d0a1f42adf&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:10:40 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 463,
-      "path": "images/area_render.png"
+      "path": "images/area_render.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
     }
   ],
   "attachments": [
@@ -62,26 +74,38 @@
       "name": "EP002_obsidian_farm_end_platform.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475625331101746/obsidian_farm_end_platform.litematic?ex=686da18e&is=686c500e&hm=d82b292a0d2e6cc5978b015a8e14911f01bc3c7a413e58d7bad1b3fe365fb711&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:10:40 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "9x12x9",
         "version": "1.17.1"
       },
-      "path": "attachments/EP002_obsidian_farm_end_platform.litematic"
+      "path": "attachments/EP002_obsidian_farm_end_platform.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
     },
     {
       "id": "1176475625641496626",
       "name": "EP002_1gt_entity_generator.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475625641496626/1gt_entity_generator.litematic?ex=686da18f&is=686c500f&hm=b57f79f9a6c20caab38a734e8b647176df31b6667a48f5c43a53d391c1cef0b3&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 1:10:40 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "15x7x21",
         "version": "1.17.1"
       },
-      "path": "attachments/EP002_1gt_entity_generator.litematic"
+      "path": "attachments/EP002_1gt_entity_generator.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
     }
   ],
   "records": {
@@ -102,5 +126,6 @@
     "uploadMessageId": "1392948857016553534"
   },
   "archivedAt": 1752175286934,
-  "updatedAt": 1752175286934
+  "updatedAt": 1752175286934,
+  "num_comments": 0
 }

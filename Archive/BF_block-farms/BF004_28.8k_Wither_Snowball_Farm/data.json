@@ -38,11 +38,17 @@
       "name": "area_render_22_.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1378493506225438922/area_render_22_.png",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 4:10:40 AM",
+      "description": "",
       "canDownload": true,
       "width": 325,
       "height": 465,
-      "path": "images/area_render_22_.png"
+      "path": "images/area_render_22_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048640000
     }
   ],
   "attachments": [
@@ -51,9 +57,15 @@
       "name": "BF004_SimpleWitherSnowFarm.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/file/r28ia50aw1he930/Simple+Wither+Snow+Farm.zip/file",
-      "description": "[MediaFire] Sent by scorpio03 at 7/9/2025, 4:10:40 AM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/BF004_SimpleWitherSnowFarm.url"
+      "path": "attachments/BF004_SimpleWitherSnowFarm.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048640000
     }
   ],
   "records": {
@@ -88,5 +100,6 @@
     "uploadMessageId": ""
   },
   "archivedAt": 1752175315429,
-  "updatedAt": 1752175315429
+  "updatedAt": 1752175315429,
+  "num_comments": 0
 }

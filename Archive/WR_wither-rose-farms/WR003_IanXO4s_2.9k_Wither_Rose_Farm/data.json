@@ -38,11 +38,17 @@
       "name": "image.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1358537708909363240/image.png",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/8/2025, 3:13:37 AM",
+      "description": "",
       "canDownload": true,
       "width": 744,
       "height": 800,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958817000
     }
   ],
   "attachments": [
@@ -51,20 +57,26 @@
       "name": "WR003_Ianxofour_Instant_Wither_Rose.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1392040918613229591/1392041132560617472/Ianxofour_Instant_Wither_Rose.litematic?ex=686e16d4&is=686cc554&hm=5586ff6278dd8faca6f39941f418d1ad76df8fb9c6d403dd15eed5caa8803081&",
-      "description": "Sent by scorpio03 at 7/8/2025, 3:14:28 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/WR003_Ianxofour_Instant_Wither_Rose.litematic",
       "litematic": {
         "size": "9x8x10",
         "version": "1.20.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958868000
     },
     {
       "id": "qtXjPaBMMP8",
       "name": "WR003_YouTube_Video_qtXjPaBMMP8.url",
       "contentType": "youtube",
       "url": "https://youtu.be/qtXjPaBMMP8",
-      "description": "[YouTube] Sent by scorpio03 at 7/8/2025, 3:13:37 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Minecraft Elegance: Instant Wither Rose Farm (2900/hr, Java 1.16+)",
@@ -76,7 +88,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/WR003_YouTube_Video_qtXjPaBMMP8.url"
+      "path": "attachments/WR003_YouTube_Video_qtXjPaBMMP8.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958817000
     }
   ],
   "records": {
@@ -102,5 +120,6 @@
     "uploadMessageId": "1392948913539125360"
   },
   "archivedAt": 1752175300523,
-  "updatedAt": 1752175300523
+  "updatedAt": 1752175300523,
+  "num_comments": 0
 }

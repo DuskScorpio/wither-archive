@@ -37,22 +37,34 @@
       "name": "ST003_cobbleyeeter_64000_render.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1392517165185368237/1392566604780277943/ST003_cobbleyeeter_64000_render.png?ex=68700037&is=686eaeb7&hm=3ce0a75c1b2a8d661247738e100ea329af5d2fbeb2fb47e29dcd1d8ec3e993c9&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 2:14:13 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 738,
-      "path": "images/ST003_cobbleyeeter_64000_render.png"
+      "path": "images/ST003_cobbleyeeter_64000_render.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752084853000
     },
     {
       "id": "913095904108638208",
       "name": "unknown.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/913095904108638208/unknown.png?ex=686f3a14&is=686de894&hm=939cf0a8b7ab137095adedac0701683044908b3513d11b0ceb061b47d0a11bb5&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 10:46:03 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 438,
-      "path": "images/unknown.png"
+      "path": "images/unknown.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752072363000
     }
   ],
   "attachments": [
@@ -61,13 +73,19 @@
       "name": "BF003_cobbleyeeter_64000.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/913096260116963328/cobbleyeeter_64000.litematic?ex=686f3a68&is=686de8e8&hm=51f5db2956de406f3a814406ee465b94e09ef3672fabb4fe0ae4c76064b2701a&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/9/2025, 10:46:03 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/BF003_cobbleyeeter_64000.litematic",
       "litematic": {
         "size": "16x19x19",
         "version": "1.15.2"
-      }
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752072363000
     }
   ],
   "records": {
@@ -95,5 +113,6 @@
     "uploadMessageId": "1392948989208559769"
   },
   "archivedAt": 1752175318487,
-  "updatedAt": 1752175318487
+  "updatedAt": 1752175318487,
+  "num_comments": 0
 }
