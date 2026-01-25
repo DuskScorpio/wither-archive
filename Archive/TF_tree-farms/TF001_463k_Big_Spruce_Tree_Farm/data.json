@@ -232,8 +232,21 @@
       "canDownload": true,
       "path": "attachments/TF001_World_Downloads.zip",
       "wdl": {
-        "version": "1.18.2"
-      }
+        "version": "1.21, 1.18.2",
+        "optimized": true
+      },
+      "wdls": [
+        {
+          "path": "Scorpio Big Spruce",
+          "version": "1.18.2",
+          "levelName": "Scorpio Big Spruce"
+        },
+        {
+          "path": "Scorpio Big Spruce 1.21+",
+          "version": "1.21",
+          "levelName": "Scorpio Big Spruce 1.21+"
+        }
+      ]
     }
   ],
   "records": {
@@ -367,7 +380,7 @@
       "1464996089181507715"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1464996079077429392",
-    "uploadMessageId": "1464996072610074861"
+    "uploadMessageId": "1465132076125786134"
   },
   "archivedAt": 1769352678465,
   "updatedAt": 1769352678465,

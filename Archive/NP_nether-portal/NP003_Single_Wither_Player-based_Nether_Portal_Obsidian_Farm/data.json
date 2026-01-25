@@ -65,14 +65,23 @@
       "canDownload": true,
       "path": "attachments/NP003_single_wither_obsidian_farm.zip",
       "wdl": {
-        "version": "1.20.1"
+        "version": "1.20.1",
+        "optimized": true
       },
       "source": "URLInMessage",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1752115337000
+      "timestamp": 1752115337000,
+      "size": 18423056,
+      "wdls": [
+        {
+          "path": "single wither obsidian farm",
+          "version": "1.20.1",
+          "levelName": "Obsidian Farm by Meowphedrone"
+        }
+      ]
     }
   ],
   "records": {
@@ -128,7 +137,7 @@
       "1392795674726109184"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392795671081517087",
-    "uploadMessageId": ""
+    "uploadMessageId": "1465132012644864137"
   },
   "archivedAt": 1752149467762,
   "updatedAt": 1752149467762,

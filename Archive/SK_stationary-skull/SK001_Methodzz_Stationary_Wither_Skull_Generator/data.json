@@ -39,7 +39,8 @@
       "description": "",
       "canDownload": true,
       "wdl": {
-        "version": "1.20.1"
+        "version": "1.20.1",
+        "optimized": true
       },
       "path": "attachments/SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip",
       "source": "URLInMessage",
@@ -47,7 +48,15 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751949018000
+      "timestamp": 1751949018000,
+      "size": 24785646,
+      "wdls": [
+        {
+          "path": "Stationary Wither Skull Generator Methodzz 1.20",
+          "version": "1.20.1",
+          "levelName": "Stationary Wither Skull 1.20"
+        }
+      ]
     },
     {
       "id": "D5c90vIT1PQ",
@@ -111,7 +120,7 @@
       "1454730450747523228"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392002256362147850",
-    "uploadMessageId": "1392028043068969071"
+    "uploadMessageId": ""
   },
   "archivedAt": 1751954334825,
   "updatedAt": 1751954334825,

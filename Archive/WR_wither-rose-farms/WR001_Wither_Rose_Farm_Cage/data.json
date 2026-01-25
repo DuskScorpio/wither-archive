@@ -76,14 +76,23 @@
       "canDownload": true,
       "path": "attachments/WR001_3031ba23efcb5260.zip",
       "wdl": {
-        "version": "1.16.3"
+        "version": "1.16.3",
+        "optimized": true
       },
       "source": "URLInMessage",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751957593000
+      "timestamp": 1751957593000,
+      "size": 6930750,
+      "wdls": [
+        {
+          "path": "凋零玫瑰刷怪笼",
+          "version": "1.16.3",
+          "levelName": "凋零玫瑰刷怪笼"
+        }
+      ]
     }
   ],
   "records": {
@@ -106,7 +115,7 @@
       "1392948954882379937"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392948951162028255",
-    "uploadMessageId": "1392948950612447353"
+    "uploadMessageId": "1465132151774122148"
   },
   "archivedAt": 1752203685576,
   "updatedAt": 1752203685576,

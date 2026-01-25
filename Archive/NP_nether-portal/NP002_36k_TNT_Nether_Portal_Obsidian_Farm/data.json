@@ -113,14 +113,23 @@
       "canDownload": true,
       "path": "attachments/NP002_Portal_Obsidian_Farm_WDL.zip",
       "wdl": {
-        "version": "1.21.4"
+        "version": "1.21.4",
+        "optimized": true
       },
       "source": "URLInMessage",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751952881000
+      "timestamp": 1751952881000,
+      "size": 5165185,
+      "wdls": [
+        {
+          "path": "Portal Obsidian Farm",
+          "version": "1.21.4",
+          "levelName": "Portal Obsidian Farm"
+        }
+      ]
     },
     {
       "id": "1380262575580647494",
@@ -139,7 +148,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751952881000
+      "timestamp": 1751952881000,
+      "size": 1116
     },
     {
       "id": "Ho_aJ1Lw0Zw",
@@ -223,7 +233,7 @@
       "1454729967886930082"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392432741395730432",
-    "uploadMessageId": "1392433735697174529"
+    "uploadMessageId": "1465131951089520844"
   },
   "archivedAt": 1752052471903,
   "updatedAt": 1752052471903,

@@ -74,7 +74,8 @@
       "description": "",
       "canDownload": true,
       "wdl": {
-        "version": "1.12.2"
+        "version": "1.12.2",
+        "optimized": true
       },
       "path": "attachments/KL001_UWK_By_Donoceanu.zip",
       "source": "URLInMessage",
@@ -82,7 +83,15 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751947514000
+      "timestamp": 1751947514000,
+      "size": 308280,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.12.2",
+          "levelName": "沙雕机"
+        }
+      ]
     },
     {
       "id": "916176011048132668",
@@ -92,7 +101,8 @@
       "description": "",
       "canDownload": true,
       "wdl": {
-        "version": "1.12.2"
+        "version": "1.12.2",
+        "optimized": true
       },
       "path": "attachments/KL001_UWK_By_Donoceanu11x10u.zip",
       "source": "URLInMessage",
@@ -100,7 +110,15 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751947514000
+      "timestamp": 1751947514000,
+      "size": 318287,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.12.2",
+          "levelName": "沙雕机"
+        }
+      ]
     }
   ],
   "records": {
@@ -126,7 +144,7 @@
       "1391994169010028564"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1391994164899479613",
-    "uploadMessageId": "1391994162626428968"
+    "uploadMessageId": "1465131878167089267"
   },
   "archivedAt": 1751954489312,
   "updatedAt": 1751954489312,

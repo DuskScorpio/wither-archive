@@ -108,14 +108,23 @@
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.16BlockStre.zip",
       "wdl": {
-        "version": "1.16.5"
+        "version": "1.16.5",
+        "optimized": true
       },
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751947102000
+      "timestamp": 1751947102000,
+      "size": 25975,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.16.5",
+          "levelName": "Wither Mob Switch (Block Stream)"
+        }
+      ]
     },
     {
       "id": "1391991777862619136",
@@ -126,14 +135,23 @@
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.16.zip",
       "wdl": {
-        "version": "1.16.5"
+        "version": "1.16.5",
+        "optimized": true
       },
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751947102000
+      "timestamp": 1751947102000,
+      "size": 19908,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.16.5",
+          "levelName": "Wither Mob Switch"
+        }
+      ]
     },
     {
       "id": "1391991778244034600",
@@ -144,14 +162,23 @@
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.19BlockStre.zip",
       "wdl": {
-        "version": "1.19.2"
+        "version": "1.19.2",
+        "optimized": true
       },
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751947102000
+      "timestamp": 1751947102000,
+      "size": 33055,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.19.2",
+          "levelName": "Wither Mob Switch (Block Stream)"
+        }
+      ]
     },
     {
       "id": "1391991778571321415",
@@ -162,14 +189,23 @@
       "canDownload": true,
       "path": "attachments/MS004_WitherMobSwitch1.19.zip",
       "wdl": {
-        "version": "1.21.1"
+        "version": "1.21.1",
+        "optimized": true
       },
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751947102000
+      "timestamp": 1751947102000,
+      "size": 26131,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.21.1",
+          "levelName": "Wither Mob Switch"
+        }
+      ]
     },
     {
       "id": "A9pQ0pgfo7Q",
@@ -211,7 +247,7 @@
       "1454730331864170536"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392784664384639058",
-    "uploadMessageId": "1397654367510986782"
+    "uploadMessageId": "1465131832629530667"
   },
   "archivedAt": 1753297167382,
   "updatedAt": 1753297167382,

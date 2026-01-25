@@ -84,7 +84,8 @@
       "description": "",
       "canDownload": true,
       "wdl": {
-        "version": "1.15"
+        "version": "1.15",
+        "optimized": true
       },
       "path": "attachments/MS001_wither_mob_switch_1.15_.zip",
       "source": "MessageAttachment",
@@ -92,7 +93,15 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751943771000
+      "timestamp": 1751943771000,
+      "size": 8141562,
+      "wdls": [
+        {
+          "path": "wither mob switch 1.15+",
+          "version": "1.15",
+          "levelName": "wither mob switch 1.15+"
+        }
+      ]
     }
   ],
   "records": {
@@ -115,7 +124,7 @@
       "1454730286410502245"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1391978562713550998",
-    "uploadMessageId": "1391978560826118176"
+    "uploadMessageId": "1465131772307308607"
   },
   "archivedAt": 1751951801420,
   "updatedAt": 1751951801420,

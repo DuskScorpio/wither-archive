@@ -90,7 +90,8 @@
       "description": "",
       "canDownload": true,
       "wdl": {
-        "version": "1.17.1"
+        "version": "1.17.1",
+        "optimized": true
       },
       "path": "attachments/PR001_Obsidian_Farm_Massive.zip",
       "source": "URLInMessage",
@@ -98,7 +99,15 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751950073000
+      "timestamp": 1751950073000,
+      "size": 4839689,
+      "wdls": [
+        {
+          "path": "Massive Obsidian Farm",
+          "version": "1.17.1",
+          "levelName": "Massive Obsidian Farm"
+        }
+      ]
     },
     {
       "id": "915273653023817768",
@@ -108,7 +117,8 @@
       "description": "",
       "canDownload": true,
       "wdl": {
-        "version": "1.17.1"
+        "version": "1.17.1",
+        "optimized": true
       },
       "path": "attachments/PR001_Obsidian_Farm_Small.zip",
       "source": "URLInMessage",
@@ -116,7 +126,15 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751950073000
+      "timestamp": 1751950073000,
+      "size": 4164114,
+      "wdls": [
+        {
+          "path": "Obsidian Farm Small",
+          "version": "1.17.1",
+          "levelName": "Small Obsidian Farm"
+        }
+      ]
     },
     {
       "id": "rZFl9sjoluw",
@@ -163,7 +181,7 @@
       "1454729931547213918"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392948838704091146",
-    "uploadMessageId": "1392948836108075108"
+    "uploadMessageId": "1465132054063874304"
   },
   "archivedAt": 1752175281066,
   "updatedAt": 1752175281066,

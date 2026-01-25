@@ -61,4 +61,4 @@
   - 1.21+
 - [TF001_Scorpio_Big_Spruce_Core.litematic](attachments/TF001_Scorpio_Big_Spruce_Core.litematic): MC 1.18.2, Size 14x35x14 blocks
   - Core
-- [TF001_World_Downloads.zip](attachments/TF001_World_Downloads.zip): MC 1.18.2
+- [TF001_World_Downloads.zip](attachments/TF001_World_Downloads.zip): MC 1.21, 1.18.2

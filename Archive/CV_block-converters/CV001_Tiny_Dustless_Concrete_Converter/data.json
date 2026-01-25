@@ -60,14 +60,23 @@
       "canDownload": true,
       "path": "attachments/CV001_tiny_concrete_converter.zip",
       "wdl": {
-        "version": "1.15.2"
+        "version": "1.15.2",
+        "optimized": true
       },
       "source": "URLInMessage",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751957026000
+      "timestamp": 1751957026000,
+      "size": 243396,
+      "wdls": [
+        {
+          "path": "tiny concrete converter",
+          "version": "1.15.2",
+          "levelName": "tiny concrete converter"
+        }
+      ]
     },
     {
       "id": "1001213795332538459",
@@ -86,7 +95,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751957026000
+      "timestamp": 1751957026000,
+      "size": 2243
     },
     {
       "id": "IayHBn_AEWA",
@@ -141,7 +151,7 @@
       "1454729798235459605"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392948965216878603",
-    "uploadMessageId": "1392948963715579905"
+    "uploadMessageId": "1465132120824348929"
   },
   "archivedAt": 1752175312307,
   "updatedAt": 1752175312307,

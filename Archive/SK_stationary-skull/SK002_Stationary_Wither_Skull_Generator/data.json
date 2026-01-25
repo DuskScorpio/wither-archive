@@ -54,7 +54,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751949734000
+      "timestamp": 1751949734000,
+      "size": 2652140
     },
     {
       "id": "1348686631586234369",
@@ -64,7 +65,8 @@
       "description": "",
       "canDownload": true,
       "wdl": {
-        "version": "1.21.4"
+        "version": "1.21.4",
+        "optimized": true
       },
       "path": "attachments/SK002_witherskullcatcher_thingy.zip",
       "source": "URLInMessage",
@@ -72,7 +74,15 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751949630000
+      "timestamp": 1751949630000,
+      "size": 958030,
+      "wdls": [
+        {
+          "path": "witherskullcatcher thingy",
+          "version": "1.21.4",
+          "levelName": "witherskullcatcher thingy"
+        }
+      ]
     }
   ],
   "records": {
@@ -123,7 +133,7 @@
       "1454730469399597225"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392003325381312584",
-    "uploadMessageId": "1392003323577761983"
+    "uploadMessageId": "1465131923310645453"
   },
   "archivedAt": 1763259277601,
   "updatedAt": 1763259277601,

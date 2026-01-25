@@ -86,14 +86,23 @@
       "canDownload": true,
       "path": "attachments/WR004_Scorpio_Wither_Rose_Cage_WDLLitematic.zip",
       "wdl": {
-        "version": "1.18.2"
+        "version": "1.18.2",
+        "optimized": true
       },
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1752050819000
+      "timestamp": 1752050819000,
+      "size": 1659932,
+      "wdls": [
+        {
+          "path": "Scorpio Wither Rose Cage",
+          "version": "1.18.2",
+          "levelName": "Scorpio Wither Rose Cage"
+        }
+      ]
     }
   ],
   "records": {
@@ -117,7 +126,7 @@
       "1454729863629115492"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392948900633247755",
-    "uploadMessageId": "1392948897084604628"
+    "uploadMessageId": "1465132169784594452"
   },
   "archivedAt": 1752175296180,
   "updatedAt": 1752175296180,
