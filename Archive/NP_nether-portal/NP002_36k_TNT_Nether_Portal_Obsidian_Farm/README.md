@@ -9,48 +9,71 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1466706938317377665)
 
-Sends tnt through a portal to both generate obsidian and damage two withers.
-### Credits
-- booty Overworld side cage dev
-- Scorpio Nether side, cage dev
-- jjl21 cage dev
-- @savva's Reload detector: https://youtu.be/Ho_aJ1Lw0Zw
-### Versions
-- 1.21+
-### Rates
-- 36k/h
-### Video Links
-- [Cage explanation video](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC)
-## Notes
+## Designers
+- booty: Overworld side, cage dev
+- Scorpio: Nether side, cage dev
+## Credits
+- jjl21: Cage dev
+- savwa: [Reload detector](<https://youtu.be/Ho_aJ1Lw0Zw>)
+## Versions
+- 1.21.9+
+## Rates
+- Obsidian: 36k/h
+## Video Links
+- [Cage Explanation](<https://www.youtube.com/watch?v=Cf1lBWqwzIo>)
+## Files
+- Schematics:
+  - Overworld side: 
+    - Chests: https://cdn.discordapp.com/attachments/1315522702492172300/1466632636301578434/Obsidian_OW_Chest_v1.1.4.litematic
+    - Box loading: https://cdn.discordapp.com/attachments/1315522702492172300/1466632635953582123/Obsidian_OW_Boxloader_v1.1.3.litematic
+  - Nether side: https://cdn.discordapp.com/attachments/1315522702492172300/1453461935390720251/obby_nether_v1.0.2.litematic
+- World Download: https://cdn.discordapp.com/attachments/1315522702492172300/1466637082976850102/Portal_Obsidian_Example.zip
+- Images:
+  - Overworld side: https://cdn.discordapp.com/attachments/1315522702492172300/1466637596636610732/image.png
+  - Nether side: https://cdn.discordapp.com/attachments/1315522702492172300/1453461828964192387/image.png
+## Description
+- An intermediate TNT duping nether portal obsidian farm.
+## Positives
+- Lossless
+- Unload proof
+## Negatives
+- Requires hoppercarts for obsidian collection
+## Design Specifications
+- Sends TNT through a portal to generate obsidian and damage two withers.
 ### Build
-1. Find a location you want to build at and build like a 17x17 platform centered on where you would about want the portal to go as the highest blocks in that location
-  - This platform should be at subchunk level 15
-  - Align schematic so your feet when standing where the silverfish boats are at subchunk y level 0 (see figure 1)
-2. Go to the equivalent in the nether by doing standard portal math scaling the center of the platform by 8 (y level is not considered for this case)
-3. Build the duper and portal setup, do not go through the portal yourself, there should be no lit portal within a 33x33 area for all y values in the overworld
-4. Light the portal and send one or two tnt through
-4. Go through and the portal should have generated in it's preferred location
-5. Build the overworld collection with that portal as the location where it'll generate but do not build the wither cages and summon the withers yet
-  - The boats and wither should be in the same chunk
-6. When you initially remove the portal you can use a setup with sand and rails as shown in place of the four blocks where the nether portal's base was. Break the rails and place signs on both sides
-7. Send tnt through the duper and verify that the sand is replaced and a portal is generated in that spot
-  - If this succeeds you should build the rest of the overworld side
-9. Summon all other mobs before the wither
-10. Follow figure 2 for summoning
-11. Remove the water as shown in the video
+1. Find a location you want to build at and load either schematic
+  - There should be NO lit portal within a 128x128 area from this platform, for all Y values in the overworld.
+- The wither and the boats should be within the same chunk
+  - The farm is not directional but these directions and calculator assume that the Iron Golem is on the westmost side, which is default for the schematic. The TNT should also launch to the East.
+2. Use [this calculator](<https://www.desmos.com/calculator/2l1mst96ag>) and input either your nether or overworld coordinates to find the leftmost purple portal block location while facing east or the northern most inner portal block.
+3. Build the overworld side water collection, but DO NOT build the wither cages and summon the withers yet.
+4. Place rails where the base of the obsidian portal will be, then place a hopper minecart on each rail and break the rail. Do not forget the signs on the sides of the sand in the schematic.
+5. Leave blocks above the sand empty and send a tnt to generate the portal
+7. Finish building the farm
+8. Summon all other mobs before the withers.
+9. Refer to Figure 3 for summoning the withers, starting the farm, and stopping the farm. The netherside must be chunkloaded.
+10. Remove the water as shown in the video in Figure 3.
 ### How to use
-- You can start the duper by placing a cart on the rails in the nether side.
-- You either need to afk here or build a chunk loader to entity load the duper and tnt.
+1. Use the lever in Nether side toggle the farm.
+2. To keep it running, you either need to AFK at the Nether side or build a chunk loader to entity load the duper and TNTs.
+  - You can do this easily by building the netherside of the chunkloader about 16 blocks from the farm's nether portal. This will generate a new portal in the overworld you can build a chunkloader with. See https://discord.com/channels/1161803566265143306/1461927518880792721 (in [TMC Catalogue](https://discord.com/invite/tvpccRczWx)) for an easy chunkloader and refer to the world download for an example
 
 ## Other Images
 <img src="images/Nether_side.png?raw=1" height="300px">
 
 ## Resources
+- [NP002_obby_nether_v1.0.2.litematic](attachments/NP002_obby_nether_v1.0.2.litematic): MC 1.21.10, Size 7x5x6 blocks
+  - Nether side
+- [NP002_Obsidian_OW_Boxloader_v1.1.3.litematic](attachments/NP002_Obsidian_OW_Boxloader_v1.1.3.litematic): MC 1.21.10, Size 16x18x10 blocks
+  - Overworld side: Box loading
+- [NP002_Obsidian_OW_Chest_v1.1.4.litematic](attachments/NP002_Obsidian_OW_Chest_v1.1.4.litematic): MC 1.21.10, Size 16x18x10 blocks
+  - Overworld side: Chests
+- [NP002_Portal_Obsidian_Example.zip](attachments/NP002_Portal_Obsidian_Example.zip): MC 1.21.10
 - [Simple chunkloading detector](https://youtu.be/Ho_aJ1Lw0Zw): by [Savva](https://www.youtube.com/@savva4424)
 - [SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC): by [Scorpio](https://www.youtube.com/@Scorpio03)
-- [NP002_Portal_Obsidian_Example.zip](attachments/NP002_Portal_Obsidian_Example.zip): MC 1.21.10
-- [NP002_Obsidian_OW_Chest_v1.1.4.litematic](attachments/NP002_Obsidian_OW_Chest_v1.1.4.litematic): MC 1.21.10, Size 16x18x10 blocks
-- [NP002_Obsidian_OW_Boxloader_v1.1.3.litematic](attachments/NP002_Obsidian_OW_Boxloader_v1.1.3.litematic): MC 1.21.10, Size 16x18x10 blocks
+- [NP002_Figure_1.png](attachments/NP002_Figure_1.png): discord
+- [NP002_Figure_2.png](attachments/NP002_Figure_2.png): discord
+- [NP002_Figure_3.mp4](attachments/NP002_Figure_3.mp4): discord
 
 ## Comments
 
