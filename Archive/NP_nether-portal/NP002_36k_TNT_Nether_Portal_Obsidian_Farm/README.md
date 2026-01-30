@@ -1,17 +1,17 @@
 # 36k TNT Nether Portal Obsidian Farm
-<img alt="image.png" src="images/image.png?raw=1">
+<img alt="Overworld_side.png" src="images/Overworld_side.png?raw=1" height="300px">
 
-**Authors:** *bigbooty17, Scorpio*
+**Authors:** *booty, Scorpio*
 
 **Endorsed by:** *Scorpio*
 
 **Tags:** *Tested & Functional, Recommended, Entity Generate*
 
-**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1392432741395730432)
+**Original post:** [View on Discord](https://discord.com/channels/913065809096638494/1466706938317377665)
 
 Sends tnt through a portal to both generate obsidian and damage two withers.
 ### Credits
-- bigbooty17 Overworld side cage dev
+- booty Overworld side cage dev
 - Scorpio Nether side, cage dev
 - jjl21 cage dev
 - @savva's Reload detector: https://youtu.be/Ho_aJ1Lw0Zw
@@ -43,13 +43,14 @@ Sends tnt through a portal to both generate obsidian and damage two withers.
 - You either need to afk here or build a chunk loader to entity load the duper and tnt.
 
 ## Other Images
-<img src="images/image_1.png?raw=1">
+<img src="images/Nether_side.png?raw=1" height="300px">
 
 ## Resources
-- [SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC): by [Scorpio](https://www.youtube.com/@Scorpio03)
-- [NP002_Portal_Obsidian_Farm_WDL.zip](attachments/NP002_Portal_Obsidian_Farm_WDL.zip): MC 1.21.4
-- [NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic](attachments/NP002_Netherside_Portal_Obsidian_-_Scorpio.litematic): MC 1.21.4, Size 6x5x7 blocks
 - [Simple chunkloading detector](https://youtu.be/Ho_aJ1Lw0Zw): by [Savva](https://www.youtube.com/@savva4424)
+- [SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC): by [Scorpio](https://www.youtube.com/@Scorpio03)
+- [NP002_Portal_Obsidian_Example.zip](attachments/NP002_Portal_Obsidian_Example.zip): MC 1.21.10
+- [NP002_Obsidian_OW_Chest_v1.1.4.litematic](attachments/NP002_Obsidian_OW_Chest_v1.1.4.litematic): MC 1.21.10, Size 16x18x10 blocks
+- [NP002_Obsidian_OW_Boxloader_v1.1.3.litematic](attachments/NP002_Obsidian_OW_Boxloader_v1.1.3.litematic): MC 1.21.10, Size 16x18x10 blocks
 
 ## Comments
 
