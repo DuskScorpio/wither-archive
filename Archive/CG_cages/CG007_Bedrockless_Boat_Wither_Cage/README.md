@@ -1,7 +1,7 @@
 # Bedrockless Boat Wither Cage
 <img alt="Image_59607992550936.png" src="images/Image_59607992550936.png?raw=1" height="300px">
 
-**Authors:** *Scorpio, bigbooty17*
+**Authors:** *Scorpio, booty*
 
 **Endorsed by:** *Scorpio*
 

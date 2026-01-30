@@ -17,9 +17,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "247478244960501760",
       "username": "bigbooty17",
+      "displayName": "booty",
       "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
     }
   ],
