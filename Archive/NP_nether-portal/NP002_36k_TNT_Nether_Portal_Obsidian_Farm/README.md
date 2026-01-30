@@ -62,6 +62,12 @@
 <img src="images/Nether_side.png?raw=1" height="300px">
 
 ## Resources
+- [NP002_Figure_1.png](attachments/NP002_Figure_1.png): discord
+  - Figure 1
+- [NP002_Figure_2.png](attachments/NP002_Figure_2.png): discord
+  - Figure 2
+- [NP002_Figure_3.mp4](attachments/NP002_Figure_3.mp4): discord
+  - Figure 3
 - [NP002_obby_nether_v1.0.2.litematic](attachments/NP002_obby_nether_v1.0.2.litematic): MC 1.21.10, Size 7x5x6 blocks
   - Nether side
 - [NP002_Obsidian_OW_Boxloader_v1.1.3.litematic](attachments/NP002_Obsidian_OW_Boxloader_v1.1.3.litematic): MC 1.21.10, Size 16x18x10 blocks
@@ -69,11 +75,7 @@
 - [NP002_Obsidian_OW_Chest_v1.1.4.litematic](attachments/NP002_Obsidian_OW_Chest_v1.1.4.litematic): MC 1.21.10, Size 16x18x10 blocks
   - Overworld side: Chests
 - [NP002_Portal_Obsidian_Example.zip](attachments/NP002_Portal_Obsidian_Example.zip): MC 1.21.10
-- [Simple chunkloading detector](https://youtu.be/Ho_aJ1Lw0Zw): by [Savva](https://www.youtube.com/@savva4424)
-- [SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft](https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC): by [Scorpio](https://www.youtube.com/@Scorpio03)
-- [NP002_Figure_1.png](attachments/NP002_Figure_1.png): discord
-- [NP002_Figure_2.png](attachments/NP002_Figure_2.png): discord
-- [NP002_Figure_3.mp4](attachments/NP002_Figure_3.mp4): discord
+  - World Download
 
 ## Comments
 

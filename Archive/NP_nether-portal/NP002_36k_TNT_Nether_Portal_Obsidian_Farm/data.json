@@ -94,6 +94,63 @@
   ],
   "attachments": [
     {
+      "id": "1380250163020431400",
+      "name": "NP002_Figure_1.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380250163020431400/image.png?ex=689e2922&is=689cd7a2&hm=3c6b28fd6675800e4772146102f7fe86939e01e8a48dec5d505d0c16fe1adc26&",
+      "timestamp": 1769760950275,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 1",
+      "canDownload": true,
+      "path": "attachments/NP002_Figure_1.png",
+      "size": 326806
+    },
+    {
+      "id": "1377853079176872016",
+      "name": "NP002_Figure_2.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1377853079176872016/image.png?ex=689e026d&is=689cb0ed&hm=474fb366aaa75deb57968b42c2067966293df5c4a14153b7123589ad5f775648&",
+      "timestamp": 1769760950275,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 2",
+      "canDownload": true,
+      "path": "attachments/NP002_Figure_2.png",
+      "size": 111744
+    },
+    {
+      "id": "1466643840172822669",
+      "name": "NP002_Figure_3.mp4",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1466643840172822669/ObsidianUsage.mp4",
+      "timestamp": 1769760950275,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 3",
+      "canDownload": true,
+      "path": "attachments/NP002_Figure_3.mp4",
+      "size": 196441720
+    },
+    {
       "id": "1453461935390720251",
       "name": "NP002_obby_nether_v1.0.2.litematic",
       "contentType": "discord",
@@ -176,7 +233,7 @@
         "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
       },
       "source": "MessageAttachment",
-      "description": "",
+      "description": "World Download",
       "size": 5878913,
       "canDownload": true,
       "path": "attachments/NP002_Portal_Obsidian_Example.zip",
@@ -190,113 +247,6 @@
       "wdl": {
         "version": "1.21.10"
       }
-    },
-    {
-      "id": "Ho_aJ1Lw0Zw",
-      "name": "NP002_YouTube_Video_Ho_aJ1Lw0Zw.url",
-      "contentType": "youtube",
-      "url": "https://youtu.be/Ho_aJ1Lw0Zw",
-      "description": "",
-      "canDownload": false,
-      "youtube": {
-        "title": "Simple chunkloading detector",
-        "author_name": "Savva",
-        "author_url": "https://www.youtube.com/@savva4424",
-        "thumbnail_url": "https://i.ytimg.com/vi/Ho_aJ1Lw0Zw/hqdefault.jpg",
-        "thumbnail_width": 480,
-        "thumbnail_height": 360,
-        "width": 200,
-        "height": 113
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1751952817000,
-      "path": "attachments/NP002_YouTube_Video_Ho_aJ1Lw0Zw.url"
-    },
-    {
-      "id": "Cf1lBWqwzIo?si=9orbF832HY9-pzNC",
-      "name": "NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url",
-      "contentType": "youtube",
-      "url": "https://youtu.be/Cf1lBWqwzIo?si=9orbF832HY9-pzNC",
-      "description": "",
-      "canDownload": false,
-      "youtube": {
-        "title": "SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft",
-        "author_name": "Scorpio",
-        "author_url": "https://www.youtube.com/@Scorpio03",
-        "thumbnail_url": "https://i.ytimg.com/vi/Cf1lBWqwzIo/hqdefault.jpg",
-        "thumbnail_width": 480,
-        "thumbnail_height": 360,
-        "width": 200,
-        "height": 113
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1751953459000,
-      "path": "attachments/NP002_YouTube_Video_Cf1lBWqwzIosi9orbF832HY9-pzNC.url"
-    },
-    {
-      "id": "1377853079176872016",
-      "name": "NP002_Figure_1.png",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1377853079176872016/image.png?ex=689e026d&is=689cb0ed&hm=474fb366aaa75deb57968b42c2067966293df5c4a14153b7123589ad5f775648&",
-      "timestamp": 1769760950275,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "513900971219353600",
-        "username": "scorpio03",
-        "displayName": "Scorpio",
-        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
-      },
-      "source": "URLInMessage",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/NP002_Figure_1.png",
-      "size": 111744
-    },
-    {
-      "id": "1380250163020431400",
-      "name": "NP002_Figure_2.png",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380250163020431400/image.png?ex=689e2922&is=689cd7a2&hm=3c6b28fd6675800e4772146102f7fe86939e01e8a48dec5d505d0c16fe1adc26&",
-      "timestamp": 1769760950275,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "513900971219353600",
-        "username": "scorpio03",
-        "displayName": "Scorpio",
-        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
-      },
-      "source": "URLInMessage",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/NP002_Figure_2.png",
-      "size": 326806
-    },
-    {
-      "id": "1466643840172822669",
-      "name": "NP002_Figure_3.mp4",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1466643840172822669/ObsidianUsage.mp4",
-      "timestamp": 1769760950275,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "513900971219353600",
-        "username": "scorpio03",
-        "displayName": "Scorpio",
-        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
-      },
-      "source": "URLInMessage",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/NP002_Figure_3.mp4",
-      "size": 196441720
     }
   ],
   "records": {
@@ -438,9 +388,9 @@
       "1466709142487171083"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1466706938317377665",
-    "uploadMessageId": "1466709129505673340"
+    "uploadMessageId": "1466812443182239825"
   },
   "archivedAt": 1752052471903,
-  "updatedAt": 1769761102740,
+  "updatedAt": 1769785735653,
   "num_comments": 2
 }
