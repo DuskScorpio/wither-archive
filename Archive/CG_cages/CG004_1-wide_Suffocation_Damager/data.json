@@ -1,0 +1,77 @@
+{
+  "id": "1391962233176588338",
+  "name": "1-wide Suffocation Damager",
+  "code": "CG004",
+  "reservedCodes": [
+    "CG004"
+  ],
+  "pastPostThreadIds": [
+    "1391972564879806474"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1392716179575017584",
+      "name": "Bedrock Cage"
+    },
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391846575193591956",
+      "name": "Recommended"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391972413637656748",
+      "name": "unknown-4.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391962233176588338/1391972413637656748/unknown-4.png?ex=686dd6d5&is=686c8555&hm=3ca7dabe504c7102742c0943441b7ce1ee3927008014d580e2ab96430861a50c&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/unknown-4.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751942485000
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "1. [1.12+] Designed by gpw\n2. [1.16+] Designed by Myterri\n3. & 4. & 5. [1.14+] Designed by multiple people independently",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391972564879806474",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391972564879806474",
+    "uploadMessageId": "1392027916573081724"
+  },
+  "archivedAt": 1751942520560,
+  "updatedAt": 1751942520560,
+  "num_comments": 0
+}

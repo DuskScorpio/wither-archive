@@ -1,0 +1,55 @@
+{
+  "id": "1391843089361928272",
+  "name": "cages",
+  "code": "CG",
+  "category": "MISC",
+  "description": "Wither cages, damagers, and item collection solutions.",
+  "currentCodeId": 9,
+  "entries": [
+    {
+      "id": "1391948715228528720",
+      "code": "CG002",
+      "path": "CG002_Suffocation_Bedrockless_Wither_Cage"
+    },
+    {
+      "id": "1391847020557242509",
+      "code": "CG001",
+      "path": "CG001_Bedrock_Wither_Cage"
+    },
+    {
+      "id": "1391960282221379615",
+      "code": "CG003",
+      "path": "CG003_3x3x3_Bedrock_Wither_Cage__Damager"
+    },
+    {
+      "id": "1391962233176588338",
+      "code": "CG004",
+      "path": "CG004_1-wide_Suffocation_Damager"
+    },
+    {
+      "id": "1391964026585747537",
+      "code": "CG005",
+      "path": "CG005_Snow_Golem_Scaffolding_Cage"
+    },
+    {
+      "id": "1392055000779329627",
+      "code": "CG006",
+      "path": "CG006_Suffocation_Bedrockless_Wither_Cage"
+    },
+    {
+      "id": "1392388447075041312",
+      "code": "CG007",
+      "path": "CG007_Bedrockless_Boat_Wither_Cage"
+    },
+    {
+      "id": "1392529929916125244",
+      "code": "CG008",
+      "path": "CG008_Bedrockless_Bedrock_Wither_Cage_Shuffling_Cage"
+    },
+    {
+      "id": "1429867220409913406",
+      "code": "CG009",
+      "path": "CG009_Suffocation_Bedrockless_Creaking_Wither_Cage"
+    }
+  ]
+}

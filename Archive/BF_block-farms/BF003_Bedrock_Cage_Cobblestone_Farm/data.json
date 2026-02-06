@@ -1,0 +1,118 @@
+{
+  "id": "1392517165185368237",
+  "name": "Bedrock Cage Cobblestone Farm",
+  "code": "BF003",
+  "reservedCodes": [
+    "BF003"
+  ],
+  "pastPostThreadIds": [
+    "1392948991745855508"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "108956702832852992",
+      "username": "deathsneeze.sys",
+      "iconURL": "https://cdn.discordapp.com/avatars/108956702832852992/b328176a31b5e2caaa2b696094532c95.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838287383105664",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392566604780277943",
+      "name": "ST003_cobbleyeeter_64000_render.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1392517165185368237/1392566604780277943/ST003_cobbleyeeter_64000_render.png?ex=68700037&is=686eaeb7&hm=3ce0a75c1b2a8d661247738e100ea329af5d2fbeb2fb47e29dcd1d8ec3e993c9&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 738,
+      "path": "images/ST003_cobbleyeeter_64000_render.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752084853000
+    },
+    {
+      "id": "913095904108638208",
+      "name": "unknown.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066205575798804/913095904108638208/unknown.png?ex=686f3a14&is=686de894&hm=939cf0a8b7ab137095adedac0701683044908b3513d11b0ceb061b47d0a11bb5&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 438,
+      "path": "images/unknown.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752072363000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "913096260116963328",
+      "name": "BF003_cobbleyeeter_64000.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066205575798804/913096260116963328/cobbleyeeter_64000.litematic?ex=686f3a68&is=686de8e8&hm=51f5db2956de406f3a814406ee465b94e09ef3672fabb4fe0ae4c76064b2701a&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF003_cobbleyeeter_64000.litematic",
+      "litematic": {
+        "size": "16x19x19",
+        "version": "1.15.2"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752072363000
+    }
+  ],
+  "records": {
+    "description": "A single bedrock y4 cage cobblegen\n### Versions\n- 1.13+\n### Rates\n- 64k/h (0.05% item loss)",
+    "features": [
+      "Works in all versions 1.13 and above with zero changes",
+      "Requires very little bedrock breaking",
+      "Non-locational",
+      "Zero blinking dust"
+    ],
+    "considerations": [
+      "Directional"
+    ],
+    "notes": "- Arrow pre-damager still required in 1.15+ as it sets the block breaking timing"
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948991745855508",
+    "forumId": "1391832229339988110",
+    "continuingMessageIds": [
+      "1392948995772387369"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948991745855508",
+    "uploadMessageId": "1392948989208559769"
+  },
+  "archivedAt": 1752175318487,
+  "updatedAt": 1752175318487,
+  "num_comments": 0
+}

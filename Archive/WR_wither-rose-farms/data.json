@@ -1,0 +1,30 @@
+{
+  "id": "1391832537399038022",
+  "name": "wither-rose-farms",
+  "code": "WR",
+  "category": "OTHER FARMS",
+  "description": "Wither rose farms",
+  "currentCodeId": 4,
+  "entries": [
+    {
+      "id": "1392035783728173076",
+      "code": "WR001",
+      "path": "WR001_Wither_Rose_Farm_Cage"
+    },
+    {
+      "id": "1392037095635288236",
+      "code": "WR002",
+      "path": "WR002_Armadillo_Wither_Rose_Farms"
+    },
+    {
+      "id": "1392040918613229591",
+      "code": "WR003",
+      "path": "WR003_IanXO4s_2.9k_Wither_Rose_Farm"
+    },
+    {
+      "id": "1392418552652369930",
+      "code": "WR004",
+      "path": "WR004_Armor_Stand_Wither_Rose_Farm_Cage"
+    }
+  ]
+}

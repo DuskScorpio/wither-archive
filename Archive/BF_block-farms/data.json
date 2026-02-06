@@ -1,0 +1,35 @@
+{
+  "id": "1391832229339988110",
+  "name": "block-farms",
+  "code": "BF",
+  "category": "OTHER FARMS",
+  "description": "Block farms",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1392034753632534669",
+      "code": "BF001",
+      "path": "BF001_Compact_Wither_Based_BasaltBlackstone_Carpet_Extra_Farm"
+    },
+    {
+      "id": "1392386133849276416",
+      "code": "BF002",
+      "path": "BF002_Bedrockless_Wither_Cobble_farm"
+    },
+    {
+      "id": "1392517165185368237",
+      "code": "BF003",
+      "path": "BF003_Bedrock_Cage_Cobblestone_Farm"
+    },
+    {
+      "id": "1392417660163195005",
+      "code": "BF004",
+      "path": "BF004_28.8k_Wither_Snowball_Farm"
+    },
+    {
+      "id": "1455604438059450519",
+      "code": "BF005",
+      "path": "BF005_Bedrockless_Snowball_Farm"
+    }
+  ]
+}

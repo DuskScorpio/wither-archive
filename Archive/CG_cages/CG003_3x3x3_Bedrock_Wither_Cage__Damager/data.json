@@ -1,0 +1,103 @@
+{
+  "id": "1391960282221379615",
+  "name": "3x3x3 Bedrock Wither Cage & Damager",
+  "code": "CG003",
+  "reservedCodes": [
+    "CG003"
+  ],
+  "pastPostThreadIds": [
+    "1391961185125142550"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "309678336320208898",
+      "displayName": "Em",
+      "username": "emiliat",
+      "iconURL": "https://cdn.discordapp.com/avatars/309678336320208898/54323b20fe0c7c185b19ac776844fc3f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1392716179575017584",
+      "name": "Bedrock Cage"
+    },
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391960547657781371",
+      "name": "unknown-5.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391960282221379615/1391960547657781371/unknown-5.png?ex=686dcbc7&is=686c7a47&hm=8ed2055907d50812eec6aade6546d9046644ccb096f496e867aa5991cd8f9d58&",
+      "description": "",
+      "canDownload": true,
+      "width": 223,
+      "height": 313,
+      "path": "images/unknown-5.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751939655000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1391960568088494080",
+      "name": "CG003_Emmys_3x3x3_bedrock_cage_spawning_setup.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391960282221379615/1391960568088494080/Emmys_3x3x3_bedrock_cage_spawning_setup.litematic?ex=686dcbcc&is=686c7a4c&hm=741c89a676c6a28d80b849c553168b2b59790e2da7b3cc2704769d0fc31908a7&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x7x4",
+        "version": "1.17.1"
+      },
+      "path": "attachments/CG003_Emmys_3x3x3_bedrock_cage_spawning_setup.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751939660000
+    }
+  ],
+  "records": {
+    "description": "3x3x3 Bedrock Wither Cage & Damager\n### Versions\n- 1.17+",
+    "features": [
+      "By placing wither on top of boat, wither can break 3x3x3 volume of blocks",
+      "Cannot push blocks in from where anvil is positioned",
+      "Hoppers under the boat can pick up items above the boat"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391961185125142550",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1391961188035854416"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391961185125142550",
+    "uploadMessageId": "1391963247380267190"
+  },
+  "archivedAt": 1751940298663,
+  "updatedAt": 1751940298663,
+  "num_comments": 0
+}

@@ -1,0 +1,159 @@
+{
+  "id": "1392008193801981952",
+  "name": "IanXO4's Instant Obsidian Farm",
+  "code": "EP001",
+  "reservedCodes": [
+    "EP001"
+  ],
+  "pastPostThreadIds": [
+    "1392948879548223670"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "791515043422404638",
+      "displayName": "IanXO4",
+      "username": "ianxo4",
+      "iconURL": "https://cdn.discordapp.com/avatars/791515043422404638/56a018c96623493f83f4a291584f7f69.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838296467837095",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391838296467837096",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1376589778950295683",
+      "name": "image.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1376589778950295683/image.png?ex=686de863&is=686c96e3&hm=5ec297a33a5f71779f87c046eafccb625633cee5dc2b8706b6f1d5eed39345cd&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 797,
+      "path": "images/image.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951068000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1392008964740350054",
+      "name": "EP001_IanXO4s_Obsidian_Farm_Overworld.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392008193801981952/1392008964740350054/IanXO4s_Obsidian_Farm_Overworld.litematic?ex=686df8df&is=686ca75f&hm=3f351bb0d8fe5d77a76430cec32b26a0ece89046c2a222839e569ece3bfc8282&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "12x6x7",
+        "version": "1.20.1"
+      },
+      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_Overworld.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951199000
+    },
+    {
+      "id": "1392008876098064394",
+      "name": "EP001_IanXO4s_Obsidian_Farm_End.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392008193801981952/1392008876098064394/IanXO4s_Obsidian_Farm_End.litematic?ex=686df8ca&is=686ca74a&hm=5f7498232485e4b2e65862d2c8a17474fc8287fa80c1f0f1fb6b8c458cd30b5e&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "18x10x5",
+        "version": "1.20.1"
+      },
+      "path": "attachments/EP001_IanXO4s_Obsidian_Farm_End.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951178000
+    },
+    {
+      "id": "ljxsii81yaxh7ev",
+      "name": "EP001_IanXO4_Obsidian_Farm.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/ljxsii81yaxh7ev/IanXO4_Obsidian_Farm.zip/file",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/EP001_IanXO4_Obsidian_Farm.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951147000
+    },
+    {
+      "id": "m7L_odfKJlc",
+      "name": "EP001_YouTube_Video_m7L_odfKJlc.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/m7L_odfKJlc",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Minecraft Elegance: Instant Obsidian Farm (32k/hr, Java 1.16.5, 1.17+)",
+        "author_name": "ianxofour",
+        "author_url": "https://www.youtube.com/@ianxofour",
+        "thumbnail_url": "https://i.ytimg.com/vi/m7L_odfKJlc/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/EP001_YouTube_Video_m7L_odfKJlc.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951015000
+    }
+  ],
+  "records": {
+    "description": "A very simple obsidian farm that produces a stack of obsidian every 7 seconds. This farm may not work on modified servers, and changes to the design would be expected in order to make the farm work.\n### Versions\n- 1.16.5+\n### Rates\n- Obsidian: 32k/h\n### Video Links\n- [Explanation and Block by Block Tutorial](<https://www.youtube.com/watch?v=m7L_odfKJlc>)",
+    "features": [],
+    "considerations": [],
+    "notes": "- Watch the video and read the description for further instructions.\n### Build\n- (1.20.2+) See Figure 1 for modifications for higher version compatibility.\n- (1.21.1+) Make the blocking wall that stops black wither skulls 4 blocks taller."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948879548223670",
+    "forumId": "1391835780820762794",
+    "continuingMessageIds": [
+      "1454729880888676383",
+      "1454729881865682978"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948879548223670",
+    "uploadMessageId": "1392948871931494555"
+  },
+  "archivedAt": 1752175290402,
+  "updatedAt": 1752175290402,
+  "num_comments": 1
+}

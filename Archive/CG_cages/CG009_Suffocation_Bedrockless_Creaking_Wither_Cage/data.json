@@ -1,0 +1,167 @@
+{
+  "id": "1429867220409913406",
+  "name": "Suffocation Bedrockless Creaking Wither Cage",
+  "code": "CG009",
+  "reservedCodes": [
+    "CG009"
+  ],
+  "pastPostThreadIds": [
+    "1453753591197204564"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1222188029356150847",
+      "displayName": "Seminoso",
+      "username": "seminoso",
+      "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1450925017620811858",
+      "name": "area_render_5_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1450925017620811858/area_render_5_.png?ex=694e31f9&is=694ce079&hm=b436bb8b23fb2d6616ed8662b8f845b527f9c63d344cacfb82247c568962c4b6&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 444,
+      "path": "images/area_render_5_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1765997881000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1429867221936640030",
+      "name": "CG009_Creaking_Wither_Cage.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1429867221936640030/Creaking_Wither_Cage.litematic?ex=68f7b31f&is=68f6619f&hm=a9516c2bad690d2112913182861ff2cca9c06c38dd19dadb919ac6d4efcfbe27&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CG009_Creaking_Wither_Cage.litematic",
+      "litematic": {
+        "size": "10x6x3",
+        "version": "1.21.8"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1760977310000
+    },
+    {
+      "id": "1432004624306409534",
+      "name": "CG009_Creaking_Wither_Cage_Summoning.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1432004624306409534/Creaking_Wither_Cage_Summoning.litematic?ex=694deafb&is=694c997b&hm=d0fb49a4b810d1259792fd1aa336ad65021a3372536714c838a7c5b2607297de&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CG009_Creaking_Wither_Cage_Summoning.litematic",
+      "litematic": {
+        "size": "11x6x3",
+        "version": "1.21.8"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1761486907000
+    },
+    {
+      "id": "1432004417619628052",
+      "name": "CG009_8mb.video-wmV-XBu1mCLA.mp4",
+      "contentType": "video/mp4",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1432004417619628052/8mb.video-wmV-XBu1mCLA.mp4?ex=694deaca&is=694c994a&hm=178b19f427bb75dba252379092c9941bfa6830314c1411f3495deaf3c79afd3d&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CG009_8mb.video-wmV-XBu1mCLA.mp4",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1761486858000
+    },
+    {
+      "id": "1432004416470515763",
+      "name": "CG009_image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1429867220409913406/1432004416470515763/image.png?ex=694deaca&is=694c994a&hm=5614fe7dd66caaa57c72eb443d14352a98ceff57e499373aaa297269d195dd06&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CG009_image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1761486858000
+    }
+  ],
+  "records": {
+    "description": "A simple and compact wither cage that uses the Creaking to stop skulls shot from the main head.",
+    "versions": "1.21.5+",
+    "features": [
+      "Only 3 blocks wide",
+      "Simple suffocation damaging system"
+    ],
+    "considerations": [
+      "Only works in the overworld"
+    ],
+    "build-notes": "- The creaking in the schematic is from a spawn egg and has resistance 6 ; that's because normal ones get killed when pasting it in creative. In survival you'll need to either have the Creaking's heart close by or have one that has its heart unloaded. Nametag the Creaking or it will despawn or disappear during the day",
+    "additional-notes": "- Blocks can be pushed from behind or from the sides\n- Schematic, image and video for wither summoning below"
+  },
+  "styles": {
+    "build-notes": {
+      "depth": 2,
+      "headerText": "Build Notes"
+    },
+    "additional-notes": {
+      "depth": 2,
+      "headerText": "Additional notes"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1453753591197204564",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1453753593659133984",
+      "1453753594330353704",
+      "1469146932340461608"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1453753591197204564",
+    "uploadMessageId": "1453753587963265184"
+  },
+  "archivedAt": 1766728376077,
+  "updatedAt": 1766728376077,
+  "num_comments": 0
+}

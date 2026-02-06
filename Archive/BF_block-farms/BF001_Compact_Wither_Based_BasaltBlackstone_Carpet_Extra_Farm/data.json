@@ -1,0 +1,121 @@
+{
+  "id": "1392034753632534669",
+  "name": "Compact Wither Based Basalt/Blackstone (Carpet Extra) Farm",
+  "code": "BF001",
+  "reservedCodes": [
+    "BF001"
+  ],
+  "pastPostThreadIds": [
+    "1392949014374252716"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "108956702832852992",
+      "username": "deathsneeze.sys",
+      "iconURL": "https://cdn.discordapp.com/avatars/108956702832852992/b328176a31b5e2caaa2b696094532c95.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "301919226078298114",
+      "displayName": "C5",
+      "username": "c5_6459",
+      "iconURL": "https://cdn.discordapp.com/avatars/301919226078298114/f5d3d2a996bb479dae94d66940480fea.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838287383105664",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392568090201428028",
+      "name": "ST001_basalt_v2.2_render.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1392034753632534669/1392568090201428028/ST001_basalt_v2.2_render.png?ex=68700199&is=686eb019&hm=de30402b1422879c4195e399001121112eb5dc594b8e40aa467f6b65ec22a4ff&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/ST001_basalt_v2.2_render.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752084587000
+    },
+    {
+      "id": "913086421298995221",
+      "name": "2020-07-30_12.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913077422092595240/913086421298995221/2020-07-30_12.png?ex=686ddfbf&is=686c8e3f&hm=fe74d1daeca174cc35781dfbf9ba0ec134cc0cdc2a5c70bf48cc63a42afb6332&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 442,
+      "path": "images/2020-07-30_12.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957348000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "913086501515063357",
+      "name": "BF001_basalt_v2.2.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913077422092595240/913086501515063357/basalt_v2.2.litematic?ex=686ddfd2&is=686c8e52&hm=f4bf1577fcc6017d0f05b1bedddadf9bba902a43bbb515b2b51819f7bb71071f&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF001_basalt_v2.2.litematic",
+      "litematic": {
+        "size": "18x23x15",
+        "version": "1.16.1"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957348000
+    }
+  ],
+  "records": {
+    "description": "A compact wither based basalt/blackstone farm with carpet extra.\n### Versions\n1.16+\n### Rates\n- 193k/h",
+    "features": [
+      "Lag friendly and requires breaking less than a chunk of bedrock.",
+      "0 hoppers under the wither cage, and 0 carts,  0 blinking dust.",
+      "Uses 3 withers. Item loss is around 0.32%",
+      "3 wide tileable but you will have to rewire clocks to tile wider."
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392949014374252716",
+    "forumId": "1391832229339988110",
+    "continuingMessageIds": [
+      "1392949017629167666"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392949014374252716",
+    "uploadMessageId": "1392949012612776017"
+  },
+  "archivedAt": 1752175324109,
+  "updatedAt": 1752175324109,
+  "num_comments": 0
+}

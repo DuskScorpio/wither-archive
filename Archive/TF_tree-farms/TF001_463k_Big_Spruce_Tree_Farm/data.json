@@ -1,0 +1,388 @@
+{
+  "id": "1464992149723418724",
+  "name": "463k Big Spruce Tree Farm",
+  "code": "TF001",
+  "reservedCodes": [
+    "TF001"
+  ],
+  "pastPostThreadIds": [
+    "1464996079077429392",
+    "1468194797138350215"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1464989772672929828",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1367674067892572210",
+      "name": "area_render_49_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1227912144687730749/1367674067892572210/area_render_49_.png",
+      "timestamp": 1769351746732,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "- Image",
+      "canDownload": true,
+      "width": 533,
+      "height": 800,
+      "size": 1008126,
+      "path": "images/area_render_49_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1464994433207373999",
+      "name": "TF001_World_Downloads.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1464992149723418724/1464994433207373999/World_Downloads.zip?ex=69777de3&is=69762c63&hm=d074563325ebf93bc80ab4c7d0c3b3821142a8e1cd8ea0c43839b3649b90af0c&",
+      "timestamp": 1769352291152,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2906863,
+      "canDownload": true,
+      "path": "attachments/TF001_World_Downloads.zip",
+      "wdl": {
+        "version": "1.21, 1.18.2",
+        "optimized": true
+      },
+      "wdls": [
+        {
+          "path": "Scorpio Big Spruce",
+          "version": "1.18.2",
+          "levelName": "Scorpio Big Spruce"
+        },
+        {
+          "path": "Scorpio Big Spruce 1.21+",
+          "version": "1.21",
+          "levelName": "Scorpio Big Spruce 1.21+"
+        }
+      ]
+    },
+    {
+      "id": "1464773039827714151",
+      "name": "TF001_Scorpio_Big_Spruce_TNT.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1464773039827714151/Scorpio_Big_Spruce_TNT.litematic",
+      "timestamp": 1769351763658,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "1.17-1.20.6",
+      "canDownload": true,
+      "path": "attachments/TF001_Scorpio_Big_Spruce_TNT.litematic",
+      "size": 11561,
+      "litematic": {
+        "size": "26x37x23",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1464773039601488087",
+      "name": "TF001_Scorpio_Big_Spruce_TNT_1.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1464773039601488087/Scorpio_Big_Spruce_TNT_1.21.litematic",
+      "timestamp": 1769351763658,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "1.21+",
+      "canDownload": true,
+      "path": "attachments/TF001_Scorpio_Big_Spruce_TNT_1.litematic",
+      "size": 11942,
+      "litematic": {
+        "size": "26x37x23",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1464773040331296880",
+      "name": "TF001_Scorpio_Big_Spruce_Wither.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1464773040331296880/Scorpio_Big_Spruce_Wither.litematic",
+      "timestamp": 1769351763658,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "1.17-1.20.6",
+      "canDownload": true,
+      "path": "attachments/TF001_Scorpio_Big_Spruce_Wither.litematic",
+      "size": 15348,
+      "litematic": {
+        "size": "18x35x31",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1464773040050016433",
+      "name": "TF001_Scorpio_Big_Spruce_Wither_1.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1464773040050016433/Scorpio_Big_Spruce_Wither_1.21.litematic",
+      "timestamp": 1769351763658,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "1.21+",
+      "canDownload": true,
+      "path": "attachments/TF001_Scorpio_Big_Spruce_Wither_1.litematic",
+      "size": 17286,
+      "litematic": {
+        "size": "18x35x31",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1464773039303430318",
+      "name": "TF001_Scorpio_Big_Spruce_Core.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1464773039303430318/Scorpio_Big_Spruce_Core.litematic",
+      "timestamp": 1769351763658,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Core",
+      "canDownload": true,
+      "path": "attachments/TF001_Scorpio_Big_Spruce_Core.litematic",
+      "size": 8830,
+      "litematic": {
+        "size": "14x35x14",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1320219734926430340",
+      "name": "TF001_image.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1227912144687730749/1320219734926430340/image.png",
+      "timestamp": 1769351772778,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 1",
+      "canDownload": true,
+      "path": "attachments/TF001_image.png",
+      "size": 663733
+    },
+    {
+      "id": "1279671264646139996",
+      "name": "TF001_image_1.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1227912144687730749/1279671264646139996/image.png",
+      "timestamp": 1769351779940,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 2",
+      "canDownload": true,
+      "path": "attachments/TF001_image_1.png",
+      "size": 419984
+    }
+  ],
+  "records": {
+    "credits": "- <@719903397171560559>: Sapling and wither cage collection\n- <@873194717519683594>, [XJH_Jorhai](<https://space.bilibili.com/62062732>), <@961211902392950804>, <@705045499589296150>, [Bright_Observer](<https://space.bilibili.com/1610913397>): [Leaf crusher wiring inspiration, bottom section, TNT blast chamber](<https://m.bilibili.com/video/BV1n24y1r7P3>)\n- <@164989359148367873>: Main pusher wiring, bottom section, wither cage block stream\n- [MineWave](<https://discord.gg/keyy8As>), [LAS](<https://lazyalienserver.top>): Testing",
+    "versions": "- 1.17+",
+    "rates": [
+      "Spruce Log: 463k/h"
+    ],
+    "rates:consumes": "- Bone Meal: 60k/h",
+    "video-links": "- [Showcase](<https://youtu.be/9zXlS67CCOQ>)",
+    "files": "- [Schematics and World Download](<https://duskscorpio.dpdns.org/?path=Files%2FScorpio%20Big%20Spruce>)\n- Image: https://cdn.discordapp.com/attachments/1227912144687730749/1367674067892572210/area_render_49_.png",
+    "description": "- An advanced 12gt big spruce tree farm.",
+    "positives": "- TNT variant: 99.855% efficiency\n- Compact (14x35x14)",
+    "instructions": "",
+    "instructions:notes": "- This design is directional. Do not rotate.\n- See [this video](<https://youtu.be/Mb0VzR_-Mfo>) for further instructions.",
+    "instructions:build": "- (1.20.2+) Use 3 snow layers instead of 4 for llama boat alignment.\n- Add a roof over the farm if building in the Overworld.\n- Ensure the light level of all podzol is lower than 9.",
+    "instructions:how-to-use": "- (1.17-1.20.6) Refer to [this video](<https://youtu.be/Mb0VzR_-Mfo?&t=221>) for instructions on how to use the farm.\n- (1.21+)\n  1. Flick the lever to toggle the farm.\n  2. Use the trapdoor shown in Figure 1 to go into crawl mode and mount the pig.\n  3. Look away from dispenser (refer to Figure 2 for player rotation).\n  4. Use continuously or at a 1gt (0.05 second) interval to plant saplings."
+  },
+  "styles": {
+    "credits": {
+      "depth": 2,
+      "headerText": "Credits"
+    },
+    "rates:consumes": {
+      "depth": 3,
+      "headerText": "Consumes"
+    },
+    "video-links": {
+      "depth": 2,
+      "headerText": "Video Links"
+    },
+    "files": {
+      "depth": 2,
+      "headerText": "Files"
+    },
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    },
+    "positives": {
+      "depth": 2,
+      "headerText": "Positives"
+    },
+    "instructions": {
+      "depth": 2,
+      "headerText": "Instructions"
+    },
+    "instructions:notes": {
+      "depth": 3,
+      "headerText": "Notes"
+    },
+    "instructions:build": {
+      "depth": 3,
+      "headerText": "Build"
+    },
+    "instructions:how-to-use": {
+      "depth": 3,
+      "headerText": "How to use"
+    }
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "719903397171560559",
+        "username": "pyraleftt",
+        "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+      },
+      "matches": [
+        "<@719903397171560559>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "873194717519683594",
+        "username": "dreaminggalaxy",
+        "iconURL": "https://cdn.discordapp.com/avatars/873194717519683594/68133ff073588d5b92212720d775614b.webp",
+        "displayName": "Dreaming Galaxy"
+      },
+      "matches": [
+        "<@873194717519683594>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "961211902392950804",
+        "username": "feng_bl",
+        "iconURL": "https://cdn.discordapp.com/avatars/961211902392950804/c7b879b54440723f2d75e6ea61a24280.webp"
+      },
+      "matches": [
+        "<@961211902392950804>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "705045499589296150",
+        "username": "lintexd",
+        "iconURL": "https://cdn.discordapp.com/avatars/705045499589296150/6ca53037fd63cacfce38fd5d72940aff.webp"
+      },
+      "matches": [
+        "<@705045499589296150>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "164989359148367873",
+        "username": "floppydonkey",
+        "iconURL": "https://cdn.discordapp.com/avatars/164989359148367873/261429ebb25a423b5d475db08e588fce.webp"
+      },
+      "matches": [
+        "<@164989359148367873>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1468194797138350215",
+    "forumId": "1464989071280574660",
+    "continuingMessageIds": [
+      "1468194801617993926",
+      "1468194802548871373",
+      "1468194803362824293",
+      "1468194804025528507",
+      "1468194804545486848",
+      "1468194823788957758"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1468194797138350215",
+    "uploadMessageId": "1468194792868417589"
+  },
+  "archivedAt": 1769352678465,
+  "updatedAt": 1770115314025,
+  "num_comments": 0
+}

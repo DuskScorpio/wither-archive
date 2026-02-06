@@ -1,0 +1,100 @@
+{
+  "id": "1392386133849276416",
+  "name": "Bedrockless Wither Cobble farm",
+  "code": "BF002",
+  "reservedCodes": [
+    "BF002"
+  ],
+  "pastPostThreadIds": [
+    "1392949100902748193"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "691315771015561257",
+      "displayName": "Mattéo",
+      "username": "alkalinez",
+      "iconURL": "https://cdn.discordapp.com/avatars/691315771015561257/6f66fffc22e08f421184e04bc072956e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838287383105664",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1333141827930558505",
+      "name": "2025-01-26_19.27.09.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066205575798804/1333141827930558505/2025-01-26_19.27.09.png?ex=686eb514&is=686d6394&hm=a4abc639ae952bbeb1db0588c2bb432e4b8e134aa675f169dc45958e21beade8&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 439,
+      "path": "images/2025-01-26_19.27.09.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041173000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1333141828404510720",
+      "name": "BF002_Cobble_farm_1.21_61k.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066205575798804/1333141828404510720/Cobble_farm_1.21_61k.litematic?ex=686eb514&is=686d6394&hm=850afbdd905566fa8567b4af37f4d84f16f650ac7ff8dc64c87ae66539cf2ba5&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF002_Cobble_farm_1.21_61k.litematic",
+      "litematic": {
+        "size": "17x13x11",
+        "version": "1.21"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041173000
+    }
+  ],
+  "records": {
+    "description": "A Bedrockless Wither Cobble farm\n### Rates\n- 61k/h",
+    "features": [
+      "Bedrockless",
+      "Does not consume projectiles",
+      "Does not break even if you go far away",
+      "Chunkload friendly"
+    ],
+    "considerations": [],
+    "notes": "- Build wither and Iron golem in the same chunk\n- Replace ice block into water"
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392949100902748193",
+    "forumId": "1391832229339988110",
+    "continuingMessageIds": [
+      "1392949103792750769"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392949100902748193",
+    "uploadMessageId": "1392949099942383637"
+  },
+  "archivedAt": 1752175344840,
+  "updatedAt": 1752175344840,
+  "num_comments": 0
+}

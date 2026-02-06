@@ -1,0 +1,112 @@
+{
+  "id": "1391964026585747537",
+  "name": "Snow Golem Scaffolding Cage",
+  "code": "CG005",
+  "reservedCodes": [
+    "CG005"
+  ],
+  "pastPostThreadIds": [
+    "1391977025962770492"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "145888825942605824",
+      "username": "labichefurtive",
+      "iconURL": "https://cdn.discordapp.com/avatars/145888825942605824/12e83180db79f5434e6fed034e8fb383.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391976886988701836",
+      "name": "cage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391964026585747537/1391976886988701836/cage.png?ex=686ddaff&is=686c897f&hm=f05a2ca6e20a018f61918358c79accc66c056de54481f662b19557020e058ddf&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/cage.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751943551000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "WpmBVGz2Qx8",
+      "name": "CG005_YouTube_Video_WpmBVGz2Qx8.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=WpmBVGz2Qx8",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "1.17 Reliable & Simple Wither Cage",
+        "author_name": "Dark",
+        "author_url": "https://www.youtube.com/@_darkvictor_",
+        "thumbnail_url": "https://i.ytimg.com/vi/WpmBVGz2Qx8/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/CG005_YouTube_Video_WpmBVGz2Qx8.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751942760000
+    }
+  ],
+  "records": {
+    "description": "Snow golem scaffolding cage\n### Versions\n- 1.14+\n### Video Links\n- [Showcase](https://www.youtube.com/watch?v=WpmBVGz2Qx8)",
+    "features": [
+      "No snowball dispenser required.",
+      "When reloaded, snow golem will attack the wither, attracting the wither's main head's attention, main head does not have line of sight to the snow golem, so it won't shoot wither skulls.",
+      "Side heads will target the chicken behind the wall.",
+      "When damaging the wither to break the extra blocks, stand behind a wall to make sure the wither can't see the player, or use dispenser to damage it."
+    ],
+    "considerations": [
+      "When reloaded, there is a small chance that the wither can shoot a skull before the snow golem shoots the wither, which may break the cage"
+    ],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391977025962770492",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1391977028437147689",
+      "1454730128570716192"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391977025962770492",
+    "uploadMessageId": "1392027929709383730"
+  },
+  "archivedAt": 1751953979227,
+  "updatedAt": 1751953979227,
+  "num_comments": 0
+}

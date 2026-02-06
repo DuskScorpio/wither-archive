@@ -1,0 +1,128 @@
+{
+  "id": "1391999817705717903",
+  "name": "Methodzz Stationary Wither Skull Generator",
+  "code": "SK001",
+  "reservedCodes": [
+    "SK001"
+  ],
+  "pastPostThreadIds": [
+    "1392002256362147850"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Methodzz"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846583363965043",
+      "name": "Untested"
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "id": "1146488261611618384",
+      "name": "SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913076940347420762/1146488261611618384/Stationary_Wither_Skull_Generator_Methodzz_1.20.zip?ex=686d4d66&is=686bfbe6&hm=ba82eb787df64f640ed0c84c5bed5845477d7122867580fa98c556c3cbccdd1d&",
+      "description": "",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.20.1",
+        "optimized": true
+      },
+      "path": "attachments/SK001_Stationary_Wither_Skull_Generator_Methodzz_1.20.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751949018000,
+      "size": 22082496,
+      "wdls": [
+        {
+          "path": "Stationary Wither Skull Generator Methodzz 1.20",
+          "version": "1.20.1",
+          "levelName": "Stationary Wither Skull 1.20"
+        }
+      ]
+    },
+    {
+      "id": "D5c90vIT1PQ",
+      "name": "SK001_YouTube_Video_D5c90vIT1PQ.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/D5c90vIT1PQ",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Stationary Witherskull Generator",
+        "author_name": "_MethodZz_",
+        "author_url": "https://www.youtube.com/@MethodZzS",
+        "thumbnail_url": "https://i.ytimg.com/vi/D5c90vIT1PQ/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/SK001_YouTube_Video_D5c90vIT1PQ.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751949018000
+    }
+  ],
+  "records": {
+    "description": "This is a very reliable Wither Cage for infinite amount of Withers that are kept in a very precise position using boats.\n### Credits\n- Contributed by: <@392852591521955840>  (minimal adjustments)\n### Versions\n- 1.19-1.20",
+    "features": [
+      "A shulker is used as a target for the main head of the Withers and is positioned precisely in the Wither's shooting spot, allowing stationary Wither Skulls to be generated and stored.",
+      "Stationary blue Wither Skulls are also generated with a 1/1000 chance and automatically separated from the black ones."
+    ],
+    "considerations": [
+      "The entire system is directional (but works in any direction if mobGriefing is deactivated)",
+      "Does not work in the Nether"
+    ],
+    "notes": "- The Withers must be spawned while the Farm is in the off state by manually placing Soul Sand in horizontal T-shape and the Wither Skeleton Heads from the Dispensers\n- Every additional block placed in the Shulker teleport area centered in the Shulker's position when the Farm is active must be teleportation proof (add Glass Panes, Buttons, Signs etc... on each side)\n- The trajectory of the Wither Skulls must not be disrupted by other blocks\n- If the Farm is used in Survival Mode, the player is supposed to stay far away from the Withers when they are spawned and when the Farm is switched on/off\n- To unload the Withers safely, the system must be \"turned off\", not producing stationary Skulls."
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "392852591521955840",
+        "displayName": "DarkShulkerYT",
+        "username": "darkshulkeryt",
+        "iconURL": "https://cdn.discordapp.com/avatars/392852591521955840/40692b9d70dd108490f5b55ee64c59fd.webp"
+      },
+      "matches": [
+        "<@392852591521955840>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1392002256362147850",
+    "forumId": "1391843399950401686",
+    "continuingMessageIds": [
+      "1392002257985208320",
+      "1454730450747523228"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392002256362147850",
+    "uploadMessageId": "1469147277854642286"
+  },
+  "archivedAt": 1751954334825,
+  "updatedAt": 1751954334825,
+  "num_comments": 0
+}

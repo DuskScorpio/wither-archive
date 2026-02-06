@@ -1,0 +1,138 @@
+{
+  "id": "1393081812334673990",
+  "name": "Simple Obsidian Farm",
+  "code": "EP003",
+  "reservedCodes": [
+    "EP003"
+  ],
+  "pastPostThreadIds": [
+    "1393084358218223757"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838296467837094",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "953921594189840494",
+      "name": "2022-03-17_03.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066017490599967/953921594189840494/2022-03-17_03.png?ex=68716977&is=687017f7&hm=a7f0b3a40938305efcf86a2c8d8395eb343d0e6009a863505cac31260cbd03ff&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2022-03-17_03.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752206986000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "j9RaAh4jgIU",
+      "name": "EP003_YouTube_Video_j9RaAh4jgIU.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/j9RaAh4jgIU",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Simple Obsidian Farm (32k/hour) | Minecraft | Java 1.16.2+",
+        "author_name": "Scorpio",
+        "author_url": "https://www.youtube.com/@Scorpio03",
+        "thumbnail_url": "https://i.ytimg.com/vi/j9RaAh4jgIU/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/EP003_YouTube_Video_j9RaAh4jgIU.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752206986000
+    },
+    {
+      "id": "2aljrzkfp4j0bvq",
+      "name": "EP003_Simple_Obsidian_Farm.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/2aljrzkfp4j0bvq/Simple_Obsidian_Farm.zip/file",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/EP003_Simple_Obsidian_Farm.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752206986000
+    }
+  ],
+  "records": {
+    "description": "A simple and cheap obsidian farm that requires no redstone components, suitable for temporary use. It utilizes a snow golem in the overworld to shoot at a zombie, with snowballs passing through the end portal to regenerate the end platform and damage the wither.",
+    "versions": "1.16.2+",
+    "rates": [
+      "32.4k/hour"
+    ],
+    "features": [
+      "Easy to build",
+      "No redstone components required",
+      "Good for temporary farms",
+      "Snow golem in overworld shoots at zombie",
+      "Snowballs go through end portal",
+      "Regenerates end platform and damages wither"
+    ],
+    "considerations": [
+      "Player gets attacked by wither when entering end dimension"
+    ],
+    "notes": [
+      "Snow golem must face the same direction as the wither",
+      "Iron golem should be placed in the same chunk as the wither",
+      "Turn on chunk loader in overworld, drop item on pressure plate above zombie to summon snow golem and enter end (5 minutes)",
+      "To safely kill wither, stand above cage and hit through the gap",
+      "Remember to turn off overworld side before leaving to avoid server crash",
+      "World download and Litematic available at provided link",
+      "Old design available through provided links"
+    ]
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1393084358218223757",
+    "forumId": "1391835780820762794",
+    "continuingMessageIds": [
+      "1393084361808805950",
+      "1454729915030311044"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1393084358218223757",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1752848450459,
+  "updatedAt": 1752848450459,
+  "num_comments": 0
+}

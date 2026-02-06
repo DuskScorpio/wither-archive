@@ -1,0 +1,152 @@
+{
+  "id": "1391993510697111635",
+  "name": "18k 4gt Wither Killer",
+  "code": "KL001",
+  "reservedCodes": [
+    "KL001"
+  ],
+  "pastPostThreadIds": [
+    "1391994164899479613"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Donocean"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846577483677813",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "916175647460716554",
+      "name": "2021-11-30_23.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/916175647460716554/2021-11-30_23.png?ex=686de810&is=686c9690&hm=05c3a9b3213a04908c125f4fcc0a76d1a57198e394f25ad3daa537a04579e4d2&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 417,
+      "path": "images/2021-11-30_23.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947514000
+    },
+    {
+      "id": "916175647070621726",
+      "name": "2021-11-30_23_1.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/916175647070621726/2021-11-30_23.png?ex=686de80f&is=686c968f&hm=50dfb1e1d2373489f4d8920a90d872b81e14f58edb238b476482f3d92c152442&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 417,
+      "path": "images/2021-11-30_23_1.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947514000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "916175887915970610",
+      "name": "KL001_UWK_By_Donoceanu.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/916175887915970610/UWK_By_Donoceanu.zip?ex=686de849&is=686c96c9&hm=67aa07950313d244a08184a01598d88ce44115d68df94c31c508a787d5518869&",
+      "description": "",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.12.2",
+        "optimized": true
+      },
+      "path": "attachments/KL001_UWK_By_Donoceanu.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947514000,
+      "size": 133786,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.12.2",
+          "levelName": "沙雕机"
+        }
+      ]
+    },
+    {
+      "id": "916176011048132668",
+      "name": "KL001_UWK_By_Donoceanu11x10u.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/916176011048132668/UWK_By_Donoceanu11x10u.zip?ex=686de866&is=686c96e6&hm=ee2b6374cc5c77bbc5d0cec57c040f577bbf4b932133e7594eb9b1ac0f6c543b&",
+      "description": "",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.12.2",
+        "optimized": true
+      },
+      "path": "attachments/KL001_UWK_By_Donoceanu11x10u.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947514000,
+      "size": 142631,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.12.2",
+          "levelName": "沙雕机"
+        }
+      ]
+    }
+  ],
+  "records": {
+    "description": "A wither killer that summons withers every 4gt and requires breaking 10x10 bedrock.\n### Versions\n- 1.12+\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1Jq4y1n7rF/)",
+    "features": [
+      "Summons wither every 4gt",
+      "Only need to break 10x10 bedrock",
+      "Uses the mechanic where withers can't break moving blocks",
+      "Uses dustful 0t gens"
+    ],
+    "considerations": [
+      "Does not work reliably with vanilla client",
+      "Requires carpet bot use continuous or autoclicker"
+    ],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391994164899479613",
+    "forumId": "1391843156307345438",
+    "continuingMessageIds": [
+      "1391994169010028564"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391994164899479613",
+    "uploadMessageId": "1465578763084632196"
+  },
+  "archivedAt": 1751954489312,
+  "updatedAt": 1751954489312,
+  "num_comments": 0
+}

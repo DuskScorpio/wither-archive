@@ -1,0 +1,106 @@
+{
+  "id": "1391948715228528720",
+  "name": "Suffocation Bedrockless Wither Cage",
+  "code": "CG002",
+  "reservedCodes": [
+    "CG002"
+  ],
+  "pastPostThreadIds": [
+    "1391959841349832744"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "691315771015561257",
+      "displayName": "Mattéo",
+      "username": "alkalinez",
+      "iconURL": "https://cdn.discordapp.com/avatars/691315771015561257/6f66fffc22e08f421184e04bc072956e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391948715824250971",
+      "name": "2023-01-01_16.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391948715228528720/1391948715824250971/2023-01-01_16.png?ex=686dc0c3&is=686c6f43&hm=388dfaf8a7d7369c06df76f23a0b73651fb0d29392e095b7194b2421b7f93dca&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 440,
+      "path": "images/2023-01-01_16.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751936834000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1391948763244794016",
+      "name": "CG002_wither_blast_chamber_2_0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391948715228528720/1391948763244794016/wither_blast_chamber_2_0.litematic?ex=686dc0ce&is=686c6f4e&hm=53009386acf9ca0bdc28ea31270b6db313a6804422a1f5254c4881db48a6c85b&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "16x23x24",
+        "version": "1.19"
+      },
+      "path": "attachments/CG002_wither_blast_chamber_2_0.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751936846000
+    }
+  ],
+  "records": {
+    "description": "A device that is easy to build, stackable on the sides, and does not consume projectiles or break when going far away.\n\n### Rates\n- 80k/hour\n### Versions\n- 1.16.2+",
+    "features": [
+      "Very easy to build",
+      "Stackable module on the sides (up to 3 modules)",
+      "Does not consume projectiles",
+      "Does not break even if you go far away"
+    ],
+    "considerations": [
+      "Doesn't work in the nether"
+    ],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391959841349832744",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1391959844101165156"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391959841349832744",
+    "uploadMessageId": "1391959840074633327"
+  },
+  "archivedAt": 1751939486704,
+  "updatedAt": 1751939486704,
+  "num_comments": 0
+}

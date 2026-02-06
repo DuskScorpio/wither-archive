@@ -1,0 +1,35 @@
+{
+  "id": "1391843180944560261",
+  "name": "mob-switches",
+  "code": "MS",
+  "category": "MISC",
+  "description": "Wither mob switches",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1391977676616634438",
+      "code": "MS001",
+      "path": "MS001_Block_Stream_Wither_Mob_Switch"
+    },
+    {
+      "id": "1391979456444371115",
+      "code": "MS002",
+      "path": "MS002_Wither_Mob_Switch"
+    },
+    {
+      "id": "1391982075770306621",
+      "code": "MS003",
+      "path": "MS003_Simple_Wither_Mob_Switch"
+    },
+    {
+      "id": "1391985170495570021",
+      "code": "MS004",
+      "path": "MS004_Bedrockless_Wither_Mob_Switch_v2"
+    },
+    {
+      "id": "1397591730030772295",
+      "code": "MS005",
+      "path": "MS005_OW_and_Nether_Wither_Mob_Switch"
+    }
+  ]
+}

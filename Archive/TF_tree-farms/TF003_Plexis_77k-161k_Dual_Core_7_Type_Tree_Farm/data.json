@@ -1,0 +1,299 @@
+{
+  "id": "1467734260747079871",
+  "name": "Plexi's 77k-161k Dual Core 7 Type Tree Farm",
+  "code": "TF003",
+  "reservedCodes": [
+    "TF003"
+  ],
+  "pastPostThreadIds": [
+    "1467736432948019322"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "413751257258393600",
+      "username": "plexirc",
+      "displayName": "Plexi",
+      "iconURL": "https://cdn.discordapp.com/avatars/413751257258393600/7ede5a6b34abbfbc4b9b9a8aa59dfbd2.webp",
+      "reason": "Final layout, wiring, testing"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1464989772672929828",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1368308124854911016",
+      "name": "area_render_4_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1368308124854911016/area_render_4_.png",
+      "timestamp": 1770005516946,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Image",
+      "canDownload": true,
+      "width": 902,
+      "height": 889,
+      "size": 319301,
+      "path": "images/area_render_4_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1389258186728411378",
+      "name": "TF003_image.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1389258186728411378/image.png",
+      "timestamp": 1770005536412,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 1",
+      "canDownload": true,
+      "path": "attachments/TF003_image.png",
+      "size": 70893
+    },
+    {
+      "id": "1465048728397414533",
+      "name": "TF003_Archive.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1465048728397414533/Archive.zip",
+      "timestamp": 1770005516946,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Wither variant",
+      "canDownload": true,
+      "path": "attachments/TF003_Archive.zip",
+      "size": 50816
+    },
+    {
+      "id": "1389222521122848778",
+      "name": "TF003_Dual_Core_UTF_Plexi_1.20_TNT_v1.0.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1368311631724937316/1389222521122848778/Dual_Core_UTF_Plexi_1.20_TNT_v1.0.litematic",
+      "timestamp": 1770005516946,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "TNT variant",
+      "canDownload": true,
+      "path": "attachments/TF003_Dual_Core_UTF_Plexi_1.20_TNT_v1.0.litematic",
+      "size": 27295,
+      "litematic": {
+        "size": "34x34x27",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1389222520728588390",
+      "name": "TF003_Plexi_Dual_Core_UTF.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1368311631724937316/1389222520728588390/Plexi_Dual_Core_UTF.zip",
+      "timestamp": 1770005516946,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "TNT variant",
+      "canDownload": true,
+      "path": "attachments/TF003_Plexi_Dual_Core_UTF.zip",
+      "size": 151576,
+      "wdls": [
+        {
+          "path": "Plexi Dual Core UTF",
+          "version": "1.20.4",
+          "levelName": "Plexi Dual Core UTF"
+        }
+      ],
+      "wdl": {
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "designer": "- <@413751257258393600>: Final layout, wiring, testing",
+    "credits": "- <@528559320086872064>: Retraction through dirt, early wiring drafts\n- <@689914996351697026>: Early wiring drafts\n- <@705045499589296150>, <@513900971219353600>: TNT variant",
+    "versions": "- 1.17+",
+    "rates": [
+      "See Figure 1 for a table of rates and bone meal consumption."
+    ],
+    "rates:consumes": "- Clickerless mode:\n  - Bone Meal: 68.4k/h\n- Clicker mode:\n  - Bone Meal: 89.6k/h",
+    "lag-info": "- Test environment: CPU R5 3500x with Lithium\n- Active:\n  - Clickerless mode: 8.8mspt\n  - Clicker mode: 9.3mspt",
+    "video-links": "- [Showcase](<https://youtu.be/WR9Q1iTDXN8>)",
+    "description": "- An advanced dual core 4gt mechanical 7 type tree farm with auto clicker and clickerless modes.",
+    "positives": "- Very high rates due to dual core design",
+    "negatives": "- Relatively laggy\n- Uses 25 hopper minecarts",
+    "instructions": "",
+    "instructions:notes": "- Jungle only works in clickerless mode due to low sapling return.\n- Only change clicker mode or tree type when the farm is off.\n- Wait until the farm turns on to start planting. Stop planting before turning off the farm.\n- Leaf drops may get into log output.",
+    "instructions:build": "- Farm is directional. Do not rotate.\n- Do not build farm with the dirt below y0.",
+    "instructions:how-to-use": "1. Select clicker or clickerless mode with the repeater pointing into the iron trapdoor: 2gt for clicker mode, 4gt for clickerless mode.\n2. Select tree type on the selector. \n  - To farm oak trees, place a moss block 9 blocks above both of the rooted dirt blocks. Otherwise, ensure there is no height limiter.\n3. Place a stack of the corresponding sapling type into the player's main hand.\n4. Flick the lever to toggle the farm.\n5. Stand on the stonecutter.\n  - When using a carpet bot, use the following command: `/player name spawn at X+0.8875 Y+0.5625 Z+0.95 facing -45.7 2.36`. (X,Y, and Z denote the respective coordinates of the stonecutter.)\n6. Open the oak trapdoor so that the player is clipped inside it. \n7. Move forward to align against the bottom of the hopper and cake. \n8. Aim at the far dirt using zoom or a spyglass, making sure the player can plant on the dirt.\n7. Plant dirt continuously."
+  },
+  "styles": {
+    "designer": {
+      "depth": 2,
+      "headerText": "Designer"
+    },
+    "credits": {
+      "depth": 2,
+      "headerText": "Credits"
+    },
+    "rates:consumes": {
+      "depth": 3,
+      "headerText": "Consumes"
+    },
+    "lag-info": {
+      "depth": 2,
+      "headerText": "Lag Info"
+    },
+    "video-links": {
+      "depth": 2,
+      "headerText": "Video Links"
+    },
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    },
+    "positives": {
+      "depth": 2,
+      "headerText": "Positives"
+    },
+    "negatives": {
+      "depth": 2,
+      "headerText": "Negatives"
+    },
+    "instructions": {
+      "depth": 2,
+      "headerText": "Instructions"
+    },
+    "instructions:notes": {
+      "depth": 3,
+      "headerText": "Notes"
+    },
+    "instructions:build": {
+      "depth": 3,
+      "headerText": "Build"
+    },
+    "instructions:how-to-use": {
+      "depth": 3,
+      "headerText": "How to use"
+    }
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "413751257258393600",
+        "username": "plexirc",
+        "iconURL": "https://cdn.discordapp.com/avatars/413751257258393600/7ede5a6b34abbfbc4b9b9a8aa59dfbd2.webp",
+        "displayName": "Plexi"
+      },
+      "matches": [
+        "<@413751257258393600>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "528559320086872064",
+        "username": "hampter42_",
+        "iconURL": "https://cdn.discordapp.com/avatars/528559320086872064/83e4a5181f4b2cbfe68b3fdc14b6aeef.webp"
+      },
+      "matches": [
+        "<@528559320086872064>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "689914996351697026",
+        "username": "momo19701",
+        "iconURL": "https://cdn.discordapp.com/avatars/689914996351697026/10724d1e4a69daaa5ce59c5cee7c16e4.webp"
+      },
+      "matches": [
+        "<@689914996351697026>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "705045499589296150",
+        "username": "lintexd",
+        "iconURL": "https://cdn.discordapp.com/avatars/705045499589296150/6ca53037fd63cacfce38fd5d72940aff.webp"
+      },
+      "matches": [
+        "<@705045499589296150>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp",
+        "displayName": "Scorpio"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1467736432948019322",
+    "forumId": "1464989071280574660",
+    "continuingMessageIds": [
+      "1467736436483559457",
+      "1467736437620473926",
+      "1467736438119600435",
+      "1469147987237273695"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1467736432948019322",
+    "uploadMessageId": "1467737527350726874"
+  },
+  "archivedAt": 1770006031657,
+  "updatedAt": 1770006292688,
+  "num_comments": 0
+}

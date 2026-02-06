@@ -1,0 +1,131 @@
+{
+  "id": "1392009976930631691",
+  "name": "50.7k End Platform Obsidian Farm",
+  "code": "EP002",
+  "reservedCodes": [
+    "EP002"
+  ],
+  "pastPostThreadIds": [
+    "1392948858677362919"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "288183610064764928",
+      "displayName": "carbsna",
+      "username": "carbsna",
+      "iconURL": "https://cdn.discordapp.com/avatars/288183610064764928/d968c9b907a112675ddb63b941b495d8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838296467837095",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1176475538311888956",
+      "name": "area_render_1_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475538311888956/area_render_1_.png?ex=686da17a&is=686c4ffa&hm=45de1c88e2948e3b9a1315ed415bf7e94a486a0459c983eca8af28ac5c02f38e&",
+      "description": "",
+      "canDownload": true,
+      "width": 608,
+      "height": 658,
+      "path": "images/area_render_1_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
+    },
+    {
+      "id": "1176475538731311154",
+      "name": "area_render.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475538731311154/area_render.png?ex=686da17a&is=686c4ffa&hm=98dd4cccc749e9857c4df4351bccd6fe967f520e67a36a28fec921d0a1f42adf&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 463,
+      "path": "images/area_render.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1176475625331101746",
+      "name": "EP002_obsidian_farm_end_platform.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475625331101746/obsidian_farm_end_platform.litematic?ex=686da18e&is=686c500e&hm=d82b292a0d2e6cc5978b015a8e14911f01bc3c7a413e58d7bad1b3fe365fb711&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x12x9",
+        "version": "1.17.1"
+      },
+      "path": "attachments/EP002_obsidian_farm_end_platform.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
+    },
+    {
+      "id": "1176475625641496626",
+      "name": "EP002_1gt_entity_generator.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066017490599967/1176475625641496626/1gt_entity_generator.litematic?ex=686da18f&is=686c500f&hm=b57f79f9a6c20caab38a734e8b647176df31b6667a48f5c43a53d391c1cef0b3&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "15x7x21",
+        "version": "1.17.1"
+      },
+      "path": "attachments/EP002_1gt_entity_generator.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751951440000
+    }
+  ],
+  "records": {
+    "description": "An end platform obsidian farm relying on wither blue skulls to break the platform\n### Rates\n- 50.7k/h (works good with 6x box loader)",
+    "features": [],
+    "considerations": [],
+    "notes": "- When the wither just spawned, there is few second before before its eye height submerged into obsidian and allows wither to target on mobs, so a closed room on top is needed.\n- Don't spawn more than 1 wither.\n- Don't punch wither.\n- Don't let entity generated pile up in end dimension, load end dimension within 10 minute whenever machine is running.\n- The boats in entity generator have to be 6 pixel off floor.\n- Snow golem lost 1 health from wither initial spawn explosion, it can only take 3 explosion before it dies.\n### How to use\n- Start farm: \n  1. Turn on entity generator and load it with entity processing chunk\n  2. Go to end dimension, summon wither.\n    1. Place a soul sand one block above gold block\n    2. Place three soul sand on piston, push stone button\n    3. Place three wither skull next to red glass\n  3. Flip lever so that golem attack witch, this will heal wither, flip another lever to turn on droppers, and you can start afk\n- Stop farm: \n  1. Flip lever so golem stop attack witch.\n  2. Wait 5 minute for wither to die of suffocation.\n  3. Go to overworld and stop entity generator."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948858677362919",
+    "forumId": "1391835780820762794",
+    "continuingMessageIds": [
+      "1392948862183800992"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948858677362919",
+    "uploadMessageId": "1392948857016553534"
+  },
+  "archivedAt": 1752175286934,
+  "updatedAt": 1752175286934,
+  "num_comments": 0
+}

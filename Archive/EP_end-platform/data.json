@@ -1,0 +1,25 @@
+{
+  "id": "1391835780820762794",
+  "name": "end-platform",
+  "code": "EP",
+  "category": "OBSIDIAN FARMS",
+  "description": "End platform-based obsidian farms. Entities entering the end portal will regenerate the end obsidian platform.",
+  "currentCodeId": 3,
+  "entries": [
+    {
+      "id": "1392008193801981952",
+      "code": "EP001",
+      "path": "EP001_IanXO4s_Instant_Obsidian_Farm"
+    },
+    {
+      "id": "1392009976930631691",
+      "code": "EP002",
+      "path": "EP002_50.7k_End_Platform_Obsidian_Farm"
+    },
+    {
+      "id": "1393081812334673990",
+      "code": "EP003",
+      "path": "EP003_Simple_Obsidian_Farm"
+    }
+  ]
+}

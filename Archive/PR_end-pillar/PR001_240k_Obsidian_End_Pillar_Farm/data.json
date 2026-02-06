@@ -1,0 +1,189 @@
+{
+  "id": "1392004243686293614",
+  "name": "240k Obsidian End Pillar Farm",
+  "code": "PR001",
+  "reservedCodes": [
+    "PR001"
+  ],
+  "pastPostThreadIds": [
+    "1392948838704091146"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "188187888289054720",
+      "displayName": "m³",
+      "username": "cubicmetre",
+      "iconURL": "https://cdn.discordapp.com/avatars/188187888289054720/1a9575723b78b2207f8008cf0a78ddd3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391839675278295098",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "915273563462848562",
+      "name": "2021-11-30_23.58.35.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273563462848562/2021-11-30_23.58.35.png?ex=686debae&is=686c9a2e&hm=dbe212658f7c315b464bfd5d1bbc45c8b079b9d1d7cc9165536b3ccec8e17b17&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/2021-11-30_23.58.35.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
+    },
+    {
+      "id": "915273564658237461",
+      "name": "2021-12-01_00.08.26.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273564658237461/2021-12-01_00.08.26.png?ex=686debae&is=686c9a2e&hm=1745d2cfcf1f854354968232ba0a246a378860cfdec9c32a8613ec0725c9adb0&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/2021-12-01_00.08.26.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
+    },
+    {
+      "id": "915273565576769556",
+      "name": "2021-12-01_00.09.26.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273565576769556/2021-12-01_00.09.26.png?ex=686debae&is=686c9a2e&hm=6ca0e618149983ecfcedd9d2b65fdf91026db40da0b04c033f92bf969e9bfa60&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2021-12-01_00.09.26.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "915273651635494972",
+      "name": "PR001_Obsidian_Farm_Massive.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273651635494972/Obsidian_Farm_Massive.zip?ex=686debc3&is=686c9a43&hm=d5b9fa35e5d6e5456f6a34c07194c2d019c951139113f23095979ea5ae3422b9&",
+      "description": "",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.17.1",
+        "optimized": true
+      },
+      "path": "attachments/PR001_Obsidian_Farm_Massive.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000,
+      "size": 3465070,
+      "wdls": [
+        {
+          "path": "Massive Obsidian Farm",
+          "version": "1.17.1",
+          "levelName": "Massive Obsidian Farm"
+        }
+      ]
+    },
+    {
+      "id": "915273653023817768",
+      "name": "PR001_Obsidian_Farm_Small.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066041112924161/915273653023817768/Obsidian_Farm_Small.zip?ex=686debc3&is=686c9a43&hm=991e10ed35a3bf50a26cf0e25b0bd2aae971c5182637ed22f5477b1ba817ab2c&",
+      "description": "",
+      "canDownload": true,
+      "wdl": {
+        "version": "1.17.1",
+        "optimized": true
+      },
+      "path": "attachments/PR001_Obsidian_Farm_Small.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000,
+      "size": 3859499,
+      "wdls": [
+        {
+          "path": "Obsidian Farm Small",
+          "version": "1.17.1",
+          "levelName": "Small Obsidian Farm"
+        }
+      ]
+    },
+    {
+      "id": "rZFl9sjoluw",
+      "name": "PR001_YouTube_Video_rZFl9sjoluw.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/rZFl9sjoluw",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "240,000/h Obsidian End Pillar Farm",
+        "author_name": "cubicmetre",
+        "author_url": "https://www.youtube.com/@cubicmetre",
+        "thumbnail_url": "https://i.ytimg.com/vi/rZFl9sjoluw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/PR001_YouTube_Video_rZFl9sjoluw.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751950073000
+    }
+  ],
+  "records": {
+    "description": "A 240k/h Obsidian End Pillar Farm by m³.\n### Rates\n- 24k~240k/h\n- Cycle: 143gt",
+    "features": [
+      "When the east obsidian pillar is regenerated by the ritual, pistons will push away the end crystal placed down by the player and stop the ritual",
+      "System detects obsidian pillar regeneration and triggers dispensers to damaged the withers, destroying parts of the obsidian pillar."
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948838704091146",
+    "forumId": "1391837148445147257",
+    "continuingMessageIds": [
+      "1392948842982539434",
+      "1454729931547213918"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948838704091146",
+    "uploadMessageId": "1465578931364167923"
+  },
+  "archivedAt": 1752175281066,
+  "updatedAt": 1752175281066,
+  "num_comments": 0
+}

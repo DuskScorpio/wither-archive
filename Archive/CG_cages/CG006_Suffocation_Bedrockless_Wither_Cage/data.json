@@ -1,0 +1,122 @@
+{
+  "id": "1392055000779329627",
+  "name": "Suffocation Bedrockless Wither Cage",
+  "code": "CG006",
+  "reservedCodes": [
+    "CG006"
+  ],
+  "pastPostThreadIds": [
+    "1392167642651037818"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "691315771015561257",
+      "displayName": "Mattéo",
+      "username": "alkalinez",
+      "iconURL": "https://cdn.discordapp.com/avatars/691315771015561257/6f66fffc22e08f421184e04bc072956e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1364894572530110545",
+      "name": "2025-04-24_11.14.25.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066205575798804/1364894572530110545/2025-04-24_11.14.25.png?ex=686d8c60&is=686c3ae0&hm=3ba8eaebd7aa94c461d9b5c3855d334b7da7f2612ddc953716b619c2ad04b30c&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 439,
+      "path": "images/2025-04-24_11.14.25.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751962175000
+    },
+    {
+      "id": "1364894573419040798",
+      "name": "2025-04-24_11.21.37.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066205575798804/1364894573419040798/2025-04-24_11.21.37.png?ex=686d8c60&is=686c3ae0&hm=327defd29c5fd800f172cc2442f273ab822326e221445f19d1ec3a985ea09238&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 439,
+      "path": "images/2025-04-24_11.21.37.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751962175000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1364894572869845012",
+      "name": "CG006_Wither_cage_1.21.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913066205575798804/1364894572869845012/Wither_cage_1.21.litematic?ex=686d8c60&is=686c3ae0&hm=c053677b118b2e000eb98f5e36799a3c38abef946c5b5f75e4088ae16770e401&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CG006_Wither_cage_1.21.litematic",
+      "litematic": {
+        "size": "15x12x5",
+        "version": "1.21.4"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751962175000
+    }
+  ],
+  "records": {
+    "description": "A bedrockless wither cage.\n### Versions\n- 1.21+",
+    "features": [
+      "Very easy to build",
+      "Does not consume projectiles",
+      "Does not break even if you go far away"
+    ],
+    "considerations": [
+      "Does not work in the nether for this design"
+    ],
+    "notes": "### Build\n- Replace ice by the water after spawn the wither, and go far away.\n- After the wither spawning, withdraw the water."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392167642651037818",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1392167645817868368"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392167642651037818",
+    "uploadMessageId": "1392167641090621581"
+  },
+  "archivedAt": 1751989030661,
+  "updatedAt": 1751989030661,
+  "num_comments": 0
+}

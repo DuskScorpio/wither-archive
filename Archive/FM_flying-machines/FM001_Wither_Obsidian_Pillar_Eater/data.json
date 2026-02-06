@@ -1,0 +1,278 @@
+{
+  "id": "1391998368737136701",
+  "name": "Wither Obsidian Pillar Eater",
+  "code": "FM001",
+  "reservedCodes": [
+    "FM001"
+  ],
+  "pastPostThreadIds": [
+    "1392573103007334452"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "465549389197344768",
+      "displayName": "Vitamin_C",
+      "username": "vitaminc603",
+      "iconURL": "https://cdn.discordapp.com/avatars/465549389197344768/21e9f8eb2517f88511eb34f4a597699e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846581489373199",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392572944529625098",
+      "name": "FM001_5wide1.18_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392572944529625098/FM001_5wide1.18_render.png?ex=6870061e&is=686eb49e&hm=3bbaf95cd54423245b1548b5d0d47cb9397c17be5bafb0412d3f07415c22fb67&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/FM001_5wide1.18_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "TMC Schematic Renderer"
+      },
+      "timestamp": 1752085662000
+    },
+    {
+      "id": "950701497883181076",
+      "name": "2022-03-08_17.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/947018967166369793/950701497883181076/2022-03-08_17.png?ex=686d9b84&is=686c4a04&hm=ad4b2100aac3e88a4e74a9d3b412224b042cf1376868972ddcea6f97e82d855c&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 499,
+      "path": "images/2022-03-08_17.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948702000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1392022426677674107",
+      "name": "FM001_5wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022426677674107/5wide1.16.litematic?ex=686e0569&is=686cb3e9&hm=9f4ea0c8ef7f2b7fd86c9a4c86f6287c85f3399c89fdbe480d9be542402a2d01&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x23x33",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_5wide1.16.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    },
+    {
+      "id": "1392022426304647239",
+      "name": "FM001_5wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022426304647239/5wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=009e3a50de27687ded9ea831c6ef43e97cd4ef9d9e467b6b6d619d71b053e2e0&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x23x33",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_5wide1.18.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    },
+    {
+      "id": "1392022425998327929",
+      "name": "FM001_7wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022425998327929/7wide1.16.litematic?ex=686e0568&is=686cb3e8&hm=3e06a598b6064f1c7fa9c8b4d4b410ec8add324640159ae5f8139d1833fa08ce&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x35",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_7wide1.16.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    },
+    {
+      "id": "950737733616279622",
+      "name": "FM001_Pillar_Eaters.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/947018967166369793/950737733616279622/Pillar_Eaters.zip?ex=686dbd43&is=686c6bc3&hm=44698b11f416def34d4f372ed7433aa1a7d4482cd15ecc8a365815f3954c2d27&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/FM001_Pillar_Eaters.zip",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948702000
+    },
+    {
+      "id": "1392022425608261662",
+      "name": "FM001_9wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022425608261662/9wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=946d521843506f1ed4418bae5f70c5e0a15995d748125507f305ef31d0e94b02&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x37",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_9wide1.18.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    },
+    {
+      "id": "1392022425193152572",
+      "name": "FM001_7wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022425193152572/7wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=3747652454bca6bc26d60521fd7541e4b211d63b49acdd7acf33dd21faa7f7dd&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x35",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_7wide1.18.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    },
+    {
+      "id": "1392022424853151844",
+      "name": "FM001_9wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022424853151844/9wide1.16.litematic?ex=686e0568&is=686cb3e8&hm=b0e951ac4b65a6024d4637af9d42024cd4d3cac3ebc37e1d9c48c609fad557b9&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x23x37",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_9wide1.16.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    },
+    {
+      "id": "1392022424584720424",
+      "name": "FM001_11wide1.16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022424584720424/11wide1.16.litematic?ex=686e0568&is=686cb3e8&hm=89f05d7c2175d514e580199a90f742ed7434e148d2b8569ab3527055f31f2a13&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "11x23x39",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_11wide1.16.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    },
+    {
+      "id": "1392022424274469006",
+      "name": "FM001_11wide1.18.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391998368737136701/1392022424274469006/11wide1.18.litematic?ex=686e0568&is=686cb3e8&hm=5d2dc04a4d53e00c44ed6be6005e5a5e1d0e84af46aa01818165436ae7fc8b95&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "11x23x39",
+        "version": "1.16.5"
+      },
+      "path": "attachments/FM001_11wide1.18.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751954409000
+    }
+  ],
+  "records": {
+    "description": "The world's very first pillar eater that uses Withers instead of players/bots to mine obsidian. Usable in any difficulty. The snow golem at the top is targeted by the Wither's main head, and the iron golem behind the wall is targeted by the side heads.\n### Credits\n- DF_M: For making the prototype and helping me with debugging\n- Youmiel: For dragging me back to a bigger hell just when I thought I escaped (1.18 sucks, man)\nAnd for providing a 1.18 testing server and helping with pathfinding debugging. \n- <@513900971219353600> : For helping with withers and stuff\n- Menggui233: For directionality testing and robustness testing (mostly still done by myself)\n- FAS server: For 1.17 CMP\n- Wither Archive, Nub Tech and OSTC lab: For helping with lots of technical details\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1FL4y1u7dy/)\n- [User Guide](https://www.bilibili.com/video/BV1FL4y1u7dy?p=2)\n### Files\n- [World Download and Schematics](https://wwd.lanzouf.com/b02ow52wd) (Password: 82j3)\n### Design Specifications\n- Due to a bug that makes tall entities un-pushable at subchunk borders (Video demonstration by @Fallen_Breath#1215: https://www.bilibili.com/video/BV1Gv411t7sb?p=4), the machine needs to 0-tick a stone slab into the Withers before pushing them down. Moving the withers by pistons on x/z axis is not possible due to this bug, a pathfinding related solution is used instead. The machine simply moves the snow golem at the top to attract Withers. \n- A TNT duper is used to damage the Withers. The TNTs explode in waterlogged slabs, and they are primed by the duper as well.\n- The engine for the duper is a 22 gt/10 gt engine, because Withers destroy blocks once every 20 gt, and if you damage them twice in less than 12 gt, they get angry and start shooting blue skulls randomly.\n- Before pushing down the wall that protects the iron golem, the golem is pushed down, and the withers stop firing for a while, allowing the wall to safely descend.\n- The Wither gets bored if it doesn't fire any skull for least 170 gt, and start firing blue skulls, but the machine works much faster than that.",
+    "features": [],
+    "considerations": [
+      "This machine still has a very small chance of breaking, so it is recommended to make backups before starting the machine.",
+      "There's a small chance of black skulls bypassing the wall, if you are building multiple pillar eaters, be sure to consider that."
+    ],
+    "notes": "- Check video link for user guide and more info. DM for questions. Recommended to make backups before starting the machine.\n- Mojang changed Wither pathfinding in 1.18, so be sure to check the versions before using the machine."
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1392573103007334452",
+    "forumId": "1391843267682898010",
+    "continuingMessageIds": [
+      "1392573106568036393",
+      "1392573107793035357",
+      "1392573109009252536",
+      "1392573109382680760"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392573103007334452",
+    "uploadMessageId": "1392022540167417961"
+  },
+  "archivedAt": 1752085699598,
+  "updatedAt": 1752085699598,
+  "num_comments": 0
+}

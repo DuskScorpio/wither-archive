@@ -1,0 +1,134 @@
+{
+  "id": "1392418552652369930",
+  "name": "Armor Stand Wither Rose Farm Cage",
+  "code": "WR004",
+  "reservedCodes": [
+    "WR004"
+  ],
+  "pastPostThreadIds": [
+    "1392948900633247755"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838292692963395",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "1152327590229586102",
+      "name": "2023-09-15_14.24.37.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913290253425582140/1152327590229586102/2023-09-15_14.24.37.png?ex=686f6df2&is=686e1c72&hm=5fff37788be01ab698a93ef8cbbffe4dabdb107cc694e1967b54a2e21b171f62&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2023-09-15_14.24.37.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048975000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "w_S9LR5KLGo",
+      "name": "WR004_YouTube_Video_w_S9LR5KLGo.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/w_S9LR5KLGo",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Simplest Wither Rose Wither Cage | Minecraft | Java 1.16~1.20.1",
+        "author_name": "Scorpio",
+        "author_url": "https://www.youtube.com/@Scorpio03",
+        "thumbnail_url": "https://i.ytimg.com/vi/w_S9LR5KLGo/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/WR004_YouTube_Video_w_S9LR5KLGo.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048852000
+    },
+    {
+      "id": "1392426800570957845",
+      "name": "WR004_Scorpio_Wither_Rose_Cage_WDLLitematic.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1392418552652369930/1392426800570957845/Scorpio_Wither_Rose_Cage_WDLLitematic.zip?ex=686f7e03&is=686e2c83&hm=38109f9ecc04f3446e8e176ffc951531eb70ca7421adc4bfc392763416acbac4&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/WR004_Scorpio_Wither_Rose_Cage_WDLLitematic.zip",
+      "wdl": {
+        "version": "1.18.2",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752050819000,
+      "size": 123555,
+      "wdls": [
+        {
+          "path": "Scorpio Wither Rose Cage",
+          "version": "1.18.2",
+          "levelName": "Scorpio Wither Rose Cage"
+        }
+      ]
+    }
+  ],
+  "records": {
+    "description": "A simple wither rose farm cage with armor stand to block the wither blue skulls\n### Versions\n- 1.16-1.20.1",
+    "features": [
+      "Works in all dimensions, no bedrock used.",
+      "Rate depends on the mob farm used.",
+      "Wither's main head skulls (blue and black) hits armor stand",
+      "Side head skulls explode in solid block to damage mobs around."
+    ],
+    "considerations": [],
+    "notes": "- The summoning method seems to only work in 1.18 and lower, you need to waterlog the slab and summon the wither directly under the slab instead.\n- The design is not reload safe in 1.18+. The addition of a block under the feet and behind the head is suggested (as shown in the image attached)"
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948900633247755",
+    "forumId": "1391832537399038022",
+    "continuingMessageIds": [
+      "1392948904349405254",
+      "1454729863629115492"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948900633247755",
+    "uploadMessageId": "1465579047487672331"
+  },
+  "archivedAt": 1752175296180,
+  "updatedAt": 1752175296180,
+  "num_comments": 0
+}

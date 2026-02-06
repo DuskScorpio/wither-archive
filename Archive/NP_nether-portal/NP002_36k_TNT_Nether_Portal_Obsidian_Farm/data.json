@@ -1,0 +1,398 @@
+{
+  "id": "1392015750084038677",
+  "name": "36k TNT Nether Portal Obsidian Farm",
+  "code": "NP002",
+  "reservedCodes": [
+    "NP002"
+  ],
+  "pastPostThreadIds": [
+    "1392432741395730432",
+    "1466706938317377665"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "247478244960501760",
+      "username": "bigbooty17",
+      "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp",
+      "displayName": "booty"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391839677165605024",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391839677165605025",
+      "name": "Recommended"
+    },
+    {
+      "id": "1392715590644400190",
+      "name": "Entity Generate"
+    }
+  ],
+  "images": [
+    {
+      "id": "1466705066999156796",
+      "name": "Overworld_side.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392015750084038677/1466705066999156796/image.png?ex=697db70a&is=697c658a&hm=220c424d5d43e8c4ccdc15397a244584efbeba7a2eb54d56e4549c565a83e047&",
+      "timestamp": 1769760138285,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "displayName": "booty",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 181207,
+      "canDownload": true,
+      "width": 934,
+      "height": 937,
+      "path": "images/Overworld_side.png"
+    },
+    {
+      "id": "1380262575991685332",
+      "name": "Nether_side.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380262575991685332/image.png?ex=686d6d32&is=686c1bb2&hm=4234820840f53cdb084a48a5879d266a225526c6418a272e1039b58d9504bf33&",
+      "timestamp": 1751952881131,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": true,
+      "width": 920,
+      "height": 938,
+      "size": 115462,
+      "path": "images/Nether_side.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1380250163020431400",
+      "name": "NP002_Figure_1.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1380250163020431400/image.png?ex=689e2922&is=689cd7a2&hm=3c6b28fd6675800e4772146102f7fe86939e01e8a48dec5d505d0c16fe1adc26&",
+      "timestamp": 1769760950275,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 1",
+      "canDownload": true,
+      "path": "attachments/NP002_Figure_1.png",
+      "size": 326806
+    },
+    {
+      "id": "1377853079176872016",
+      "name": "NP002_Figure_2.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1377853076978794526/1377853079176872016/image.png?ex=689e026d&is=689cb0ed&hm=474fb366aaa75deb57968b42c2067966293df5c4a14153b7123589ad5f775648&",
+      "timestamp": 1769760950275,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 2",
+      "canDownload": true,
+      "path": "attachments/NP002_Figure_2.png",
+      "size": 111744
+    },
+    {
+      "id": "1466643840172822669",
+      "name": "NP002_Figure_3.mp4",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1466643840172822669/ObsidianUsage.mp4",
+      "timestamp": 1769760950275,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Figure 3",
+      "canDownload": true,
+      "path": "attachments/NP002_Figure_3.mp4",
+      "size": 196441720
+    },
+    {
+      "id": "1453461935390720251",
+      "name": "NP002_obby_nether_v1.0.2.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1453461935390720251/obby_nether_v1.0.2.litematic?ex=697da829&is=697c56a9&hm=3cbbb9ce9ec10da1748efdabd4ae0ae08e4eb595fe26b999e515d1ea022ac8de&",
+      "timestamp": 1769760682608,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "displayName": "Scorpio",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Nether side",
+      "canDownload": true,
+      "path": "attachments/NP002_obby_nether_v1.0.2.litematic",
+      "size": 1170,
+      "litematic": {
+        "size": "7x5x6",
+        "version": "1.21.10"
+      }
+    },
+    {
+      "id": "1466705067330637945",
+      "name": "NP002_Obsidian_OW_Boxloader_v1.1.3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392015750084038677/1466705067330637945/Obsidian_OW_Boxloader_v1.1.3.litematic?ex=697db70a&is=697c658a&hm=4bcda4a163070802dd5324fe3c94cbfc26cd0fd7a43b83ab0c782d22b4a12fdd&",
+      "timestamp": 1769760138285,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "displayName": "booty",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Overworld side: Box loading",
+      "size": 3171,
+      "canDownload": true,
+      "path": "attachments/NP002_Obsidian_OW_Boxloader_v1.1.3.litematic",
+      "litematic": {
+        "size": "16x18x10",
+        "version": "1.21.10"
+      }
+    },
+    {
+      "id": "1466705067636948992",
+      "name": "NP002_Obsidian_OW_Chest_v1.1.4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392015750084038677/1466705067636948992/Obsidian_OW_Chest_v1.1.4.litematic?ex=697db70a&is=697c658a&hm=e8b597282d1b0e89bf08ad95a6527ba14378ca9f413c763e1d08ca1f5d260d43&",
+      "timestamp": 1769760138285,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "displayName": "booty",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Overworld side: Chests",
+      "size": 3001,
+      "canDownload": true,
+      "path": "attachments/NP002_Obsidian_OW_Chest_v1.1.4.litematic",
+      "litematic": {
+        "size": "16x18x10",
+        "version": "1.21.10"
+      }
+    },
+    {
+      "id": "1466705067934613574",
+      "name": "NP002_Portal_Obsidian_Example.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1392015750084038677/1466705067934613574/Portal_Obsidian_Example.zip?ex=697db70a&is=697c658a&hm=5067e9b1d5363a201d2b2587a0bacb946f23776e95f1c5caed637afdf4b97c23&",
+      "timestamp": 1769760138285,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "displayName": "booty",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "World Download",
+      "size": 5878913,
+      "canDownload": true,
+      "path": "attachments/NP002_Portal_Obsidian_Example.zip",
+      "wdls": [
+        {
+          "path": "Portal Obsidian Example",
+          "version": "1.21.10",
+          "levelName": "Portal Obsidian Example"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.10"
+      }
+    }
+  ],
+  "records": {
+    "designers": "- <@247478244960501760>: Overworld side, cage dev\n- <@513900971219353600>: Nether side, cage dev",
+    "credits": "- <@523191268294262785>: Cage dev\n- <@469817698461679616>: [Reload detector](<https://youtu.be/Ho_aJ1Lw0Zw>)",
+    "versions": "- 1.21.9+",
+    "rates": [
+      "Obsidian: 36k/h"
+    ],
+    "video-links": "- [Cage Explanation](<https://www.youtube.com/watch?v=Cf1lBWqwzIo>)",
+    "files": "- Schematics:\n  - Overworld side: \n    - Chests: https://cdn.discordapp.com/attachments/1315522702492172300/1466632636301578434/Obsidian_OW_Chest_v1.1.4.litematic\n    - Box loading: https://cdn.discordapp.com/attachments/1315522702492172300/1466632635953582123/Obsidian_OW_Boxloader_v1.1.3.litematic\n  - Nether side: https://cdn.discordapp.com/attachments/1315522702492172300/1453461935390720251/obby_nether_v1.0.2.litematic\n- World Download: https://cdn.discordapp.com/attachments/1315522702492172300/1466637082976850102/Portal_Obsidian_Example.zip\n- Images:\n  - Overworld side: https://cdn.discordapp.com/attachments/1315522702492172300/1466637596636610732/image.png\n  - Nether side: https://cdn.discordapp.com/attachments/1315522702492172300/1453461828964192387/image.png",
+    "description": "- An intermediate TNT duping nether portal obsidian farm.",
+    "positives": "- Lossless\n- Unload proof",
+    "negatives": "- Requires hoppercarts for obsidian collection",
+    "design-specifications": "- Sends TNT through a portal to generate obsidian and damage two withers.",
+    "instructions": "",
+    "instructions:build": "1. Find a location you want to build at and load either schematic\n  - There should be NO lit portal within a 128x128 area from this platform, for all Y values in the overworld.\n- The wither and the boats should be within the same chunk\n  - The farm is not directional but these directions and calculator assume that the Iron Golem is on the westmost side, which is default for the schematic. The TNT should also launch to the East.\n2. Use [this calculator](<https://www.desmos.com/calculator/2l1mst96ag>) and input either your nether or overworld coordinates to find the leftmost purple portal block location while facing east or the northern most inner portal block.\n3. Build the overworld side water collection, but DO NOT build the wither cages and summon the withers yet.\n4. Place rails where the base of the obsidian portal will be, then place a hopper minecart on each rail and break the rail. Do not forget the signs on the sides of the sand in the schematic.\n5. Leave blocks above the sand empty and send a tnt to generate the portal\n7. Finish building the farm\n8. Summon all other mobs before the withers.\n9. Refer to Figure 3 for summoning the withers, starting the farm, and stopping the farm. The netherside must be chunkloaded.\n10. Remove the water as shown in the video in Figure 3.",
+    "instructions:how-to-use": "1. Use the lever in Nether side toggle the farm.\n2. To keep it running, you either need to AFK at the Nether side or build a chunk loader to entity load the duper and TNTs.\n  - You can do this easily by building the netherside of the chunkloader about 16 blocks from the farm's nether portal. This will generate a new portal in the overworld you can build a chunkloader with. See https://discord.com/channels/1161803566265143306/1461927518880792721 for an easy chunkloader and refer to the world download for an example"
+  },
+  "styles": {
+    "designers": {
+      "depth": 2,
+      "headerText": "Designers"
+    },
+    "credits": {
+      "depth": 2,
+      "headerText": "Credits"
+    },
+    "video-links": {
+      "depth": 2,
+      "headerText": "Video Links"
+    },
+    "files": {
+      "depth": 2,
+      "headerText": "Files"
+    },
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    },
+    "positives": {
+      "depth": 2,
+      "headerText": "Positives"
+    },
+    "negatives": {
+      "depth": 2,
+      "headerText": "Negatives"
+    },
+    "design-specifications": {
+      "depth": 2,
+      "headerText": "Design Specifications"
+    },
+    "instructions": {
+      "depth": 2,
+      "headerText": "Instructions"
+    },
+    "instructions:build": {
+      "depth": 3,
+      "headerText": "Build"
+    },
+    "instructions:how-to-use": {
+      "depth": 3,
+      "headerText": "How to use"
+    }
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp",
+        "displayName": "booty"
+      },
+      "matches": [
+        "<@247478244960501760>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp",
+        "displayName": "Scorpio"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "523191268294262785",
+        "username": "jjl21",
+        "iconURL": "https://cdn.discordapp.com/avatars/523191268294262785/7e0a701f28beb9c1f06d0628c6819ca9.webp",
+        "displayName": "jjl21"
+      },
+      "matches": [
+        "<@523191268294262785>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "469817698461679616",
+        "username": "savwa",
+        "iconURL": "https://cdn.discordapp.com/avatars/469817698461679616/3cbec0f43411c161bc2220a3e967f5b4.webp"
+      },
+      "matches": [
+        "<@469817698461679616>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1161803566265143306/1461927518880792721",
+      "server": "1161803566265143306",
+      "channel": "1461927518880792721",
+      "matches": [
+        "https://discord.com/channels/1161803566265143306/1461927518880792721"
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1466706938317377665",
+    "forumId": "1391837205319778367",
+    "continuingMessageIds": [
+      "1466709140280836097",
+      "1466709140972769471",
+      "1466709141551583292",
+      "1466709142268805222",
+      "1466709142487171083",
+      "1466815726194000147",
+      "1466815726806503505"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1466706938317377665",
+    "uploadMessageId": "1466815717637754911"
+  },
+  "archivedAt": 1752052471903,
+  "updatedAt": 1769786517360,
+  "num_comments": 0
+}

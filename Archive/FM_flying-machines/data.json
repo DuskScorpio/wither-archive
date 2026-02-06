@@ -1,0 +1,20 @@
+{
+  "id": "1391843267682898010",
+  "name": "flying-machines",
+  "code": "FM",
+  "category": "MISC",
+  "description": "Wither flying machines",
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1391998368737136701",
+      "code": "FM001",
+      "path": "FM001_Wither_Obsidian_Pillar_Eater"
+    },
+    {
+      "id": "1392441988577628271",
+      "code": "FM002",
+      "path": "FM002_Hard_Difficulty_Wither_Tunnel_Bore"
+    }
+  ]
+}

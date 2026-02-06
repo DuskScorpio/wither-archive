@@ -1,0 +1,198 @@
+{
+  "id": "1397591730030772295",
+  "name": "OW and Nether Wither Mob Switch",
+  "code": "MS005",
+  "reservedCodes": [
+    "MS005"
+  ],
+  "pastPostThreadIds": [
+    "1397615348978683924"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "564076850427723776",
+      "displayName": "AlvaroRC",
+      "username": "alvarorc",
+      "iconURL": "https://cdn.discordapp.com/avatars/564076850427723776/3e85b4aabc1288bc123371d1f518dbc4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846579325108251",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1397591731024953425",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1397591730030772295/1397591731024953425/area_render.png?ex=6882483a&is=6880f6ba&hm=5ca9e70c56579f15cf206a46d063d496881041750624b6d9dd381e47efdc74cd&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 495,
+      "path": "images/area_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "2qL3erHQgvE",
+      "name": "MS005_YouTube_Video_2qL3erHQgvE.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/2qL3erHQgvE",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Wither Mob Switch | Minecraft 1.15-1.18+",
+        "author_name": "vktec",
+        "author_url": "https://www.youtube.com/@vktec",
+        "thumbnail_url": "https://i.ytimg.com/vi/2qL3erHQgvE/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MS005_YouTube_Video_2qL3erHQgvE.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
+    },
+    {
+      "id": "O7TCNGuFPQQ",
+      "name": "MS005_YouTube_Video_O7TCNGuFPQQ.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/O7TCNGuFPQQ",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Wither Mob Switch",
+        "author_name": "AlvaroRC",
+        "author_url": "https://www.youtube.com/@AlvarooRC",
+        "thumbnail_url": "https://i.ytimg.com/vi/O7TCNGuFPQQ/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MS005_YouTube_Video_O7TCNGuFPQQ.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
+    },
+    {
+      "id": "1397409188334014554",
+      "name": "MS005_Wither_Mob_Switch_-_Nether_Roof.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/995723671018680340/1397409188334014554/Wither_Mob_Switch_-_Nether_Roof.litematic?ex=68819e39&is=68804cb9&hm=79f89994c7c1226fc75529876aaa5539b7318790dfd641e59cd468a07c935f66&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MS005_Wither_Mob_Switch_-_Nether_Roof.litematic",
+      "litematic": {
+        "size": "5x8x5",
+        "version": "1.21.7"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
+    },
+    {
+      "id": "1397409210450313246",
+      "name": "MS005_Wither_Mob_Switch_-_Overworld.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/995723671018680340/1397409210450313246/Wither_Mob_Switch_-_Overworld.litematic?ex=68819e3e&is=68804cbe&hm=bf6b49f021f022f57ea07a85328a83759d7fc134c02ac1bd05ac8d0a2563063d&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MS005_Wither_Mob_Switch_-_Overworld.litematic",
+      "litematic": {
+        "size": "5x6x6",
+        "version": "1.21.7"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "alvarorc"
+      },
+      "timestamp": 1753282234000
+    }
+  ],
+  "records": {
+    "credits": [
+      "[Vktec](<https://youtu.be/2qL3erHQgvE>): Previous design"
+    ],
+    "description": [
+      "A mob switch that uses withers to prevent hostile mobs from spawning."
+    ],
+    "versions": [
+      "1.17+"
+    ],
+    "video links": [
+      "[Showcase](<https://youtu.be/O7TCNGuFPQQ>)"
+    ],
+    "files": [
+      "Schematics:",
+      "Nether roof version: https://cdn.discordapp.com/attachments/995723671018680340/1397409188334014554/Wither_Mob_Switch_-_Nether_Roof.litematic?ex=68819e39&is=68804cb9&hm=79f89994c7c1226fc75529876aaa5539b7318790dfd641e59cd468a07c935f66&",
+      "Overworld version: https://cdn.discordapp.com/attachments/995723671018680340/1397409210450313246/Wither_Mob_Switch_-_Overworld.litematic?ex=68819e3e&is=68804cbe&hm=bf6b49f021f022f57ea07a85328a83759d7fc134c02ac1bd05ac8d0a2563063d"
+    ],
+    "positives": [
+      "Can be loaded by a player, unlike lazy mob switches.",
+      "Spawns one wither every 24gt (1,2 seconds).",
+      "Nether roof version can be built anywhere."
+    ],
+    "negatives": [
+      "Player takes damage while summoning the withers, requiring armor and beacons.",
+      "Overworld version needs a specific 3x3 bedrock formation to be built (explanation in showcase video).",
+      "Requires some bedrock breaking."
+    ],
+    "design specifications": [
+      "Uses bedrock to contain the withers, and vines to prevent entity cramming."
+    ],
+    "instructions": [
+      "Wear protection armor and have Resistance II and Regeneration beacons ready.",
+      "Hold more than 3 soul sand in your main hand.",
+      "For the Nether roof version, stand as shown in Figure 1. For the Overworld version, stand as shown in Figure 2.",
+      "Hold right click (Watch the showcase video for demo)."
+    ]
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1397615348978683924",
+    "forumId": "1391843180944560261",
+    "continuingMessageIds": [
+      "1469147050821156877",
+      "1469147052255613040",
+      "1469147052918444052"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1397615348978683924",
+    "uploadMessageId": "1397615347426791574"
+  },
+  "archivedAt": 1753287865002,
+  "updatedAt": 1753287865002,
+  "num_comments": 2
+}

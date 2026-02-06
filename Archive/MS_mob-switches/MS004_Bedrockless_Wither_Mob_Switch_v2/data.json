@@ -1,0 +1,256 @@
+{
+  "id": "1391985170495570021",
+  "name": "Bedrockless Wither Mob Switch v2",
+  "code": "MS004",
+  "reservedCodes": [
+    "MS004"
+  ],
+  "pastPostThreadIds": [
+    "1392784664384639058"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "866895301221679124",
+      "displayName": "sunny_slopes",
+      "username": "sunny_slopes",
+      "iconURL": "https://cdn.discordapp.com/avatars/866895301221679124/f523448debae2eb47df14626a2cf14b9.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846579325108251",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392784597368049765",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1392784597368049765/image.png?ex=6870cb3c&is=686f79bc&hm=0373876976cb9bd7687eb98bafb3f62b28f70bb9853bfcc46c0d890de0bd80b7&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 436,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752136124000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp",
+      "name": "MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Wither Mob Switch Design [Minecraft 1.16.5]",
+        "author_name": "trizz",
+        "author_url": "https://www.youtube.com/@trizz9496",
+        "thumbnail_url": "https://i.ytimg.com/vi/bGYSgBKUO8c/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MS004_YouTube_Video_bGYSgBKUO8csibb7VIYC3mJx6Z9wp.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752137304000
+    },
+    {
+      "id": "fxfb14fiivogr",
+      "name": "MS004_BedrocklessWitherMobSwitchV2.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/folder/fxfb14fiivogr/Bedrockless+Wither+Mob+Switch+V2",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/MS004_BedrocklessWitherMobSwitchV2.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752136240000
+    },
+    {
+      "id": "1391991777476612107",
+      "name": "MS004_WitherMobSwitch1.16BlockStre.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777476612107/WitherMobSwitch1.16BlockStre.zip?ex=6882581d&is=6881069d&hm=bf7ffebfe80c57da546757f7cf23f6f15992c573725bcd0f41020273b38c774b&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.16BlockStre.zip",
+      "wdl": {
+        "version": "1.16.5",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000,
+      "size": 24149,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.16.5",
+          "levelName": "Wither Mob Switch (Block Stream)"
+        }
+      ]
+    },
+    {
+      "id": "1391991777862619136",
+      "name": "MS004_WitherMobSwitch1.16.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991777862619136/WitherMobSwitch1.16.zip?ex=6882581d&is=6881069d&hm=a0629fe6fd8987a6ae2ae48a66aed8e1c6c31ca2993f638008857903055d67f3&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.16.zip",
+      "wdl": {
+        "version": "1.16.5",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000,
+      "size": 19415,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.16.5",
+          "levelName": "Wither Mob Switch"
+        }
+      ]
+    },
+    {
+      "id": "1391991778244034600",
+      "name": "MS004_WitherMobSwitch1.19BlockStre.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778244034600/WitherMobSwitch1.19BlockStre.zip?ex=6882581d&is=6881069d&hm=a018ce93cdaa8a478cc4fbc5707a9f78d0176699d2af8651ff838ecae9ae7061&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.19BlockStre.zip",
+      "wdl": {
+        "version": "1.19.2",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000,
+      "size": 32526,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.19.2",
+          "levelName": "Wither Mob Switch (Block Stream)"
+        }
+      ]
+    },
+    {
+      "id": "1391991778571321415",
+      "name": "MS004_WitherMobSwitch1.19.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1391985170495570021/1391991778571321415/WitherMobSwitch1.19.zip?ex=6882581d&is=6881069d&hm=15f433edb4785f88a83f1726d702992d7791e93305b17c4174880ab3e606a850&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MS004_WitherMobSwitch1.19.zip",
+      "wdl": {
+        "version": "1.21.1",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947102000,
+      "size": 25531,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.21.1",
+          "levelName": "Wither Mob Switch"
+        }
+      ]
+    },
+    {
+      "id": "A9pQ0pgfo7Q",
+      "name": "MS004_YouTube_Video_A9pQ0pgfo7Q.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/A9pQ0pgfo7Q",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "1000 Withers vs 9 Stone",
+        "author_name": "Scorpio",
+        "author_url": "https://www.youtube.com/@Scorpio03",
+        "thumbnail_url": "https://i.ytimg.com/vi/A9pQ0pgfo7Q/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MS004_YouTube_Video_A9pQ0pgfo7Q.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1753297125000
+    }
+  ],
+  "records": {
+    "description": "World's first bedrockless wither mob switch\n### Credits\n- [trizz's mob switch reference](<https://youtu.be/bGYSgBKUO8c?si=bb7VIYC3mJx6Z9wp>)\n- [Fallen_Breath's Mob Switch reference](<https://www.bilibili.com/video/BV1op4y1U7Y8?p=9&spm_id_from=333.788.videopod.episodes>)\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://youtu.be/A9pQ0pgfo7Q)"
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392784664384639058",
+    "forumId": "1391843180944560261",
+    "continuingMessageIds": [
+      "1392784667526041600",
+      "1392847245241749534",
+      "1454730331864170536",
+      "1469147004373565523"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392784664384639058",
+    "uploadMessageId": "1465578714711588997"
+  },
+  "archivedAt": 1753297167382,
+  "updatedAt": 1753297167382,
+  "num_comments": 0
+}

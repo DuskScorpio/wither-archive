@@ -1,0 +1,207 @@
+{
+  "id": "1392388447075041312",
+  "name": "Bedrockless Boat Wither Cage",
+  "code": "CG007",
+  "reservedCodes": [
+    "CG007"
+  ],
+  "pastPostThreadIds": [
+    "1392400293077061763"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "247478244960501760",
+      "username": "bigbooty17",
+      "displayName": "booty",
+      "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391846575193591956",
+      "name": "Recommended"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392400247770058762",
+      "name": "Image_59607992550936.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392388447075041312/1392400247770058762/Image_59607992550936.png?ex=686f6548&is=686e13c8&hm=79580d3b07442ff7c602decdd4f030e4bd226ef782c5e5d11a23e764cca172d8&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 551,
+      "path": "images/Image_59607992550936.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752044488000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "9mgkxdfyk78ls",
+      "name": "CG007_ChestboatWitherCage.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/folder/9mgkxdfyk78ls/Chestboat+Wither+Cage",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/CG007_ChestboatWitherCage.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
+    },
+    {
+      "id": "Ho_aJ1Lw0Zw",
+      "name": "CG007_YouTube_Video_Ho_aJ1Lw0Zw.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=Ho_aJ1Lw0Zw",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Simple chunkloading detector",
+        "author_name": "Savva",
+        "author_url": "https://www.youtube.com/@savva4424",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ho_aJ1Lw0Zw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/CG007_YouTube_Video_Ho_aJ1Lw0Zw.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
+    },
+    {
+      "id": "FrQoGXeSezE",
+      "name": "CG007_YouTube_Video_FrQoGXeSezE.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=FrQoGXeSezE",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Chunkloading rant pt3 “ticking disorder”",
+        "author_name": "Savva",
+        "author_url": "https://www.youtube.com/@savva4424",
+        "thumbnail_url": "https://i.ytimg.com/vi/FrQoGXeSezE/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/CG007_YouTube_Video_FrQoGXeSezE.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
+    },
+    {
+      "id": "Cf1lBWqwzIo",
+      "name": "CG007_YouTube_Video_Cf1lBWqwzIo.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/Cf1lBWqwzIo",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "SIMPLE Bedrockless Wither Cage with NO Redstone in Minecraft",
+        "author_name": "Scorpio",
+        "author_url": "https://www.youtube.com/@Scorpio03",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cf1lBWqwzIo/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/CG007_YouTube_Video_Cf1lBWqwzIo.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752041675000
+    }
+  ],
+  "records": {
+    "description": "A simple wither cage without any redstone made by @bigbooty17 and <@513900971219353600>. \n### Credits\n- Chunk reload detector and chunk loading explanation by @savva4424.\n### Versions\n- 1.16+\n### Video Links\n- [Showcase](https://youtu.be/Cf1lBWqwzIo)\n### Design Specifications\n-  Mechanics\n  - This works because on reload, the passenger is momentarily centered on the boat’s exact position instead of being shifted to the front. That causes it to briefly touch the tripwire for a tick before snapping to its proper spot.\n- Entity processing order\n  - Minecraft loads entities within the same sub-chunk from bottom to top. We need the wither to load before the boat, so it can see the chicken before the boat loads and shifts the chicken’s position. To make that happen, we place the wither’s feet in the sub-chunk directly below the boat. This way, the wither is always loaded first.\n  - This gives us an reliable wither cage that’s much more resilient to atypical reloading than ones that rely on redstone.",
+    "features": [],
+    "considerations": [],
+    "notes": "- When setting up this cage, you can also place the boat in the adjacent chunk first, and after the wither is summoned in, and then push the boat into the same chunk as the wither. This also ensure the wither is always processed before the boat, instead of relying on sub chunks\n- It doesn’t have to be a chest boat, just a regular boat with two passengers works, since each one gets offset from the boat’s center. Refer to [this design](https://discord.com/channels/913065809096638494/1391992148739625140) for reference"
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/913065809096638494/1391992148739625140",
+      "server": "913065809096638494",
+      "channel": "1391992148739625140",
+      "matches": [
+        "https://discord.com/channels/913065809096638494/1391992148739625140"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1392400293077061763",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1392400295908348044",
+      "1454729278108340304",
+      "1469146898353885410",
+      "1469146899285151799"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392400293077061763",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1752044867381,
+  "updatedAt": 1752044867381,
+  "num_comments": 0
+}

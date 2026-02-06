@@ -1,0 +1,99 @@
+{
+  "id": "1392441988577628271",
+  "name": "Hard Difficulty Wither Tunnel Bore",
+  "code": "FM002",
+  "reservedCodes": [
+    "FM002"
+  ],
+  "pastPostThreadIds": [
+    "1392443408815099975"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "925291210325753907",
+      "displayName": "Caribous",
+      "username": "sandcaribou",
+      "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/de12cd404b481db55bdb7d31181d4bab.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846581489373200",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392441989076619416",
+      "name": "area_render_125_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392441988577628271/1392441989076619416/area_render_125_.png?ex=686f8c28&is=686e3aa8&hm=f0b4969ca5a51cf36a16dfa8e5755ce28e3a88da3e4f235ca87787ef3fe45e01&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 470,
+      "path": "images/area_render_125_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1752054440000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1392441989424873523",
+      "name": "FM002_Easy_Difficulty_Wither_Bore_v1.0.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392441988577628271/1392441989424873523/Easy_Difficulty_Wither_Bore_v1.0.1.litematic?ex=686f8c28&is=686e3aa8&hm=7168c1febc13c03b90044da71979ef9b298167fa16a010035aa1887e42049f49&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/FM002_Easy_Difficulty_Wither_Bore_v1.0.1.litematic",
+      "litematic": {
+        "size": "3x5x40",
+        "version": "1.21"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1752054440000
+    }
+  ],
+  "records": {
+    "description": "The wither's main head targets one mob which then has the line of sight blocked. The side head targets another mob, with the line of sight remaining. This way the main head doesn't shoot. This is currently broken though, as the main head can gain line of sight to the hidden mob, thereby shooting sometimes. If this issue is fixed it should work.",
+    "features": [
+      "Wither's main head targets one mob with line of sight blocked",
+      "Side head targets another mob with line of sight remaining",
+      "Main head doesn't shoot when line of sight is blocked"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392443408815099975",
+    "forumId": "1391843267682898010",
+    "continuingMessageIds": [
+      "1392443411931336846"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392443408815099975",
+    "uploadMessageId": "1392443406856355921"
+  },
+  "archivedAt": 1752054778303,
+  "updatedAt": 1752054778303,
+  "num_comments": 0
+}

@@ -1,0 +1,156 @@
+{
+  "id": "1468493682734006292",
+  "name": "125.6k Dualcore Jungle Tree Farm",
+  "code": "TF005",
+  "reservedCodes": [
+    "TF005"
+  ],
+  "pastPostThreadIds": [
+    "1468494955420061842"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "164989359148367873",
+      "username": "floppydonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/164989359148367873/261429ebb25a423b5d475db08e588fce.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1464989772672929827",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "953159543968391238",
+      "name": "area_render_25.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/830226260743159808/953159543968391238/area_render_25.png",
+      "timestamp": 1770186577257,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1202027269338697788",
+        "username": "0wucat_73519",
+        "displayName": "0wUCat",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "source": "URLInMessage",
+      "description": "Image",
+      "canDownload": true,
+      "width": 1200,
+      "height": 1003,
+      "size": 513111,
+      "path": "images/area_render_25.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "953159596015501372",
+      "name": "TF005_Dual_Core_Jungle_v2.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/830226260743159808/953159596015501372/Dual_Core_Jungle_v2.litematic",
+      "timestamp": 1770186577257,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1202027269338697788",
+        "username": "0wucat_73519",
+        "displayName": "0wUCat",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "source": "URLInMessage",
+      "description": "Litematic",
+      "canDownload": true,
+      "path": "attachments/TF005_Dual_Core_Jungle_v2.litematic",
+      "size": 13324,
+      "litematic": {
+        "error": "Error processing litematic file"
+      }
+    }
+  ],
+  "records": {
+    "designer(s)": "- <@164989359148367873>",
+    "versions": "- 1.12",
+    "rates": [
+      "Jungle Log: 125.6k/h"
+    ],
+    "files": "- Litematic: https://cdn.discordapp.com/attachments/830226260743159808/953159596015501372/Dual_Core_Jungle_v2.litematic\n- Image: https://cdn.discordapp.com/attachments/830226260743159808/953159543968391238/area_render_25.png",
+    "description": "- A dual core 8gt jungle farm with wither for block destroying\n- Original link: https://discord.com/channels/694965918207311912/830226260743159808/953159544383631390",
+    "positives": "- Hopper minecart-less",
+    "instructions": "",
+    "instructions:notes": "- Bonemeal unloaders and box loaders included"
+  },
+  "styles": {
+    "designer(s)": {
+      "depth": 2,
+      "headerText": "Designer(s)"
+    },
+    "files": {
+      "depth": 2,
+      "headerText": "Files"
+    },
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    },
+    "positives": {
+      "depth": 2,
+      "headerText": "Positives"
+    },
+    "instructions": {
+      "depth": 2,
+      "headerText": "Instructions"
+    },
+    "instructions:notes": {
+      "depth": 3,
+      "headerText": "Notes"
+    }
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "164989359148367873",
+        "username": "floppydonkey",
+        "iconURL": "https://cdn.discordapp.com/avatars/164989359148367873/261429ebb25a423b5d475db08e588fce.webp"
+      },
+      "matches": [
+        "<@164989359148367873>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/694965918207311912/830226260743159808/953159544383631390",
+      "server": "694965918207311912",
+      "channel": "830226260743159808",
+      "message": "953159544383631390",
+      "matches": [
+        "https://discord.com/channels/694965918207311912/830226260743159808/953159544383631390"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1468494955420061842",
+    "forumId": "1464989071280574660",
+    "continuingMessageIds": [
+      "1468494959794585714"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1468494955420061842",
+    "uploadMessageId": "1468494952282722388"
+  },
+  "archivedAt": 1770186879249,
+  "updatedAt": 1770186879249,
+  "num_comments": 0
+}

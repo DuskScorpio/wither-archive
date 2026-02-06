@@ -1,0 +1,105 @@
+{
+  "id": "1392417660163195005",
+  "name": "28.8k Wither Snowball Farm",
+  "code": "BF004",
+  "reservedCodes": [
+    "BF004"
+  ],
+  "pastPostThreadIds": [
+    "1392948975811956768"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1391838287383105664"
+    }
+  ],
+  "images": [
+    {
+      "id": "1378493506225438922",
+      "name": "area_render_22_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1378493506225438922/area_render_22_.png",
+      "description": "",
+      "canDownload": true,
+      "width": 325,
+      "height": 465,
+      "path": "images/area_render_22_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048640000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "r28ia50aw1he930",
+      "name": "BF004_SimpleWitherSnowFarm.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/r28ia50aw1he930/Simple+Wither+Snow+Farm.zip/file",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/BF004_SimpleWitherSnowFarm.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752048640000
+    }
+  ],
+  "records": {
+    "description": "A simple wither snowball farm.\n## Credit\n- <@615152957192798218>: Original design\n## Versions\n- 1.17+\n## Rates\n- Snowball: 28.8k/h\n## Video Links\n- [Showcase](<https://www.bilibili.com/video/BV1oXSGYfELZ>)\n## Positives\n- No TNT duping\n## Design Specifications\n- Uses a wither to break snow layers made by snow golems\n## Instructions\n### Notes\n- Refer to the video for further instructions.\n### How to use\n 1. Flick the lever to toggle the farm.",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "615152957192798218",
+        "displayName": "Till",
+        "username": "till2911",
+        "iconURL": "https://cdn.discordapp.com/avatars/615152957192798218/6e4644a1197c45f5bff148064dd60798.webp"
+      },
+      "matches": [
+        "<@615152957192798218>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948975811956768",
+    "forumId": "1391832229339988110",
+    "continuingMessageIds": [
+      "1392948978425004065"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948975811956768",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1752175315429,
+  "updatedAt": 1752175315429,
+  "num_comments": 0
+}

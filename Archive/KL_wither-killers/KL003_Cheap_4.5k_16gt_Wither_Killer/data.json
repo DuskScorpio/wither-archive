@@ -1,0 +1,109 @@
+{
+  "id": "1391996711307710504",
+  "name": "Cheap 4.5k 16gt Wither Killer",
+  "code": "KL003",
+  "reservedCodes": [
+    "KL003"
+  ],
+  "pastPostThreadIds": [
+    "1391998218941763604"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "288183610064764928",
+      "displayName": "carbsna",
+      "username": "carbsna",
+      "iconURL": "https://cdn.discordapp.com/avatars/288183610064764928/d968c9b907a112675ddb63b941b495d8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846577483677813",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391846577483677814",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1268413983527014443",
+      "name": "area_render_9_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1268413983174557979/1268413983527014443/area_render_9_.png?ex=66ac5613&is=66ab0493&hm=9704cdbe85e022f3c71ac4b171c313b5d75a8387b415f3e8c60ee010d197ae96&",
+      "description": "",
+      "canDownload": true,
+      "width": 599,
+      "height": 800,
+      "path": "images/area_render_9_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948278000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1jFbKOGnais?si=FfejLjfPMW81_rf9",
+      "name": "KL003_YouTube_Video_1jFbKOGnaissiFfejLjfPMW81_rf9.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/1jFbKOGnais?si=FfejLjfPMW81_rf9",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/KL003_YouTube_Video_1jFbKOGnaissiFfejLjfPMW81_rf9.url",
+      "youtube": {
+        "title": "Cheap 16gt wither killer [1.16+]",
+        "author_name": "carbsna",
+        "author_url": "https://www.youtube.com/@fakestory1753",
+        "thumbnail_url": "https://i.ytimg.com/vi/1jFbKOGnais/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948278000
+    }
+  ],
+  "records": {
+    "description": "A wither killer that uses sticky pistons to pull soul sand into a T shape and pull withers upwards into the bedrock.\nWithers' eye height is within the bedrock, so the explosion will be blocked, and wither skulls will also spawn in the bedrocks. Withers die from suffocation and cramming.\n### Versions\n- 1.17+\n### Files\n- [Schematics](https://www.minemev.com/p/692861fa-25c4-40e7-bede-16f495e1ef38/)",
+    "features": [
+      "Very cheap compared to other designs",
+      "Uses only 1 layer of bedrock"
+    ],
+    "considerations": [],
+    "notes": "- Requires 1 layer of 3x3 bedrock and a single air block (or end portal block if built at the exit portal) above it.\n### How to use\n1. Load soul sand and wither skull boxes with the box unloaders.\n2. Stand at the AFK spot and hold right click against the trapdoor."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391998218941763604",
+    "forumId": "1391843156307345438",
+    "continuingMessageIds": [
+      "1391998221621919785",
+      "1454730223160397978"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391998218941763604",
+    "uploadMessageId": "1392027967919755334"
+  },
+  "archivedAt": 1752066694235,
+  "updatedAt": 1752066694235,
+  "num_comments": 0
+}

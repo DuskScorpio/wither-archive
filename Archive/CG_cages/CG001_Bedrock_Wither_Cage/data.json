@@ -1,0 +1,88 @@
+{
+  "id": "1391847020557242509",
+  "name": "Bedrock Wither Cage",
+  "code": "CG001",
+  "reservedCodes": [
+    "CG001"
+  ],
+  "pastPostThreadIds": [
+    "1391970887409995806"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1392716179575017584",
+      "name": "Bedrock Cage"
+    },
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391846575193591956",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391847333796380915",
+      "name": "unknown-2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847333796380915/unknown-2.png?ex=686d6257&is=686c10d7&hm=a158b3074b1baafb6a3a904261b937af0a58f887dc710c2da933d0f72faeb1ba&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/unknown-2.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751912663000
+    },
+    {
+      "id": "1391847334115020840",
+      "name": "unknown-3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391847020557242509/1391847334115020840/unknown-3.png?ex=686d6257&is=686c10d7&hm=f006fdbee694dfc5933243ab31bb3c0f2184f9abce9112320c8a3bea68e6868a&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/unknown-3.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751912663000
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "A wither cage with bedrock\n### Versions\n- 1.4.2+",
+    "features": [
+      "Wither can destroy a 3x4x3 region with the lowest layer centered at its tail."
+    ],
+    "considerations": [],
+    "notes": "- In versions before 1.8, a block instead of a wall is needed since the wither is taller, and the sideways summoning setup doesn't work.\n- In versions 1.14 and below, predamage the wither before starting the clock.\n- In versions 1.14~1.16, you can no longer push blocks into the wither's tail unless 0-ticked in place.\n- In versions 1.17 and above, blocks can be pushed into the wither's tail if the bedrock is 5x5.\n### Build\n- There is a 2 blocks gap between the 3x3 bedrock and the wall/fence.\n- The obsidian is to block the summon explosion from the wither, it will be destroyed after the wither is summoned.\n- Needs a layer of blocks around the wither's head to prevent wither targeting nearby mobs."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391970887409995806",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391970887409995806",
+    "uploadMessageId": "1392027887762411562"
+  },
+  "archivedAt": 1751942120434,
+  "updatedAt": 1751942120434,
+  "num_comments": 0
+}

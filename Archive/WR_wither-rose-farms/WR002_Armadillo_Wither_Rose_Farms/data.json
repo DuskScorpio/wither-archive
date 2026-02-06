@@ -1,0 +1,198 @@
+{
+  "id": "1392037095635288236",
+  "name": "Armadillo Wither Rose Farms",
+  "code": "WR002",
+  "reservedCodes": [
+    "WR002"
+  ],
+  "pastPostThreadIds": [
+    "1392948930366541875"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "247478244960501760",
+      "username": "bigbooty17",
+      "displayName": "booty",
+      "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "697092662511272036",
+      "displayName": "Sam.",
+      "username": "sam.8742",
+      "iconURL": "https://cdn.discordapp.com/avatars/697092662511272036/95753a160cdd6ad0094c389d8e53bdaf.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838292692963396",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391838292692963397",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392037361818271745",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392037095635288236/1392037361818271745/image.png?ex=686e1351&is=686cc1d1&hm=47e34a4ad27d712117b69cde9633fdfe3395c235f22da1e430b2d031f366c4e8&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 691,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957970000
+    },
+    {
+      "id": "1392037362263130153",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392037095635288236/1392037362263130153/image.png?ex=686e1351&is=686cc1d1&hm=bd9c38f5dce9c729e30eb62bced6aa8282b273a0d5aa54a21580e3cfaf706613&",
+      "description": "",
+      "canDownload": true,
+      "width": 720,
+      "height": 800,
+      "path": "images/image_1.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957970000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1392037844784119860",
+      "name": "WR002_Armadillo_wrose_advanced.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392037095635288236/1392037844784119860/Armadillo_wrose_advanced.litematic?ex=686e13c5&is=686cc245&hm=a9d2f69d7280cd3c53e3c0b675f1bf934b3654c590f2ede9c69413e6f984ba1e&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/WR002_Armadillo_wrose_advanced.litematic",
+      "litematic": {
+        "size": "7x13x20",
+        "version": "1.21.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958085000
+    },
+    {
+      "id": "1392037845291634780",
+      "name": "WR002_Armadillo-Infesting_Wrose_Simple.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392037095635288236/1392037845291634780/Armadillo-Infesting_Wrose_Simple.litematic?ex=686e13c5&is=686cc245&hm=c0dd7e484b342422b24724e03fe45aa0f171fd9c46dfc0f65d9339758385d5c4&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/WR002_Armadillo-Infesting_Wrose_Simple.litematic",
+      "litematic": {
+        "size": "6x9x13",
+        "version": "1.21.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958085000
+    }
+  ],
+  "records": {
+    "description": "A simple and advanced armadillo-based wither rose farm.\n## Designers\n- <@247478244960501760>\n- <@697092662511272036>: Storage help, autobrewer\n## Credits\n- <@756755345421893724>: Armadillo alignment\n- <@513900971219353600>: Box loaders\n## Versions\n- 1.21+\n## Rates\n- Wither Rose:\n  - Simple variant: 13k/h\n  - Advanced variant: 1.06k/armadillo/h\n### Consumes\n- Splash Potion of Infesting: 25/h",
+    "features": [
+      "Simple variant: Forgoes alignment and then limits the amount of armadillos to 12 to produce 13k wither roses per hour.",
+      "Advanced variant: Aligns armadillos using slime and grindstone to stack as many as the user desires; includes autobrewer and expandable water stream collection with example box loaders.",
+      "Uses the infesting potion and damage reduction of armadillos to produce silverfish that are killed by the wither to create wither roses."
+    ],
+    "considerations": [],
+    "notes": "## Instructions\n### Notes\n- Do not build with infestable blocks.\n### Build\n1. Build farm and summon iron golem, then wither first, ensure that the stair is waterlogged.\n  - See Figure 1 for the inventory for the simple version's hopper clock.\n2. Loading armadillos\n  - Simple variant: Remove slab and comparator (if placed) and push armadillos onto campfire, up to 12 armadillos.\n  - Advanced variant: See Figure 2.\n3. Potions\n  - Simple variant: Load farm with infesting potions.\n  - Advanced variant: Preload autobrewer with ingredients.\n### How to use\n 1. Flick the lever to toggle the farm."
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "247478244960501760",
+        "username": "bigbooty17",
+        "displayName": "booty",
+        "iconURL": "https://cdn.discordapp.com/avatars/247478244960501760/55d65b5caf79b13aaaa952499f09eb98.webp"
+      },
+      "matches": [
+        "<@247478244960501760>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "697092662511272036",
+        "displayName": "Sam.",
+        "username": "sam.8742",
+        "iconURL": "https://cdn.discordapp.com/avatars/697092662511272036/95753a160cdd6ad0094c389d8e53bdaf.webp"
+      },
+      "matches": [
+        "<@697092662511272036>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "756755345421893724",
+        "username": "redstonia_",
+        "iconURL": "https://cdn.discordapp.com/avatars/756755345421893724/fa0db8000cf2a5685ddeb5b682ab18e9.webp"
+      },
+      "matches": [
+        "<@756755345421893724>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "displayName": "Scorpio",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948930366541875",
+    "forumId": "1391832537399038022",
+    "continuingMessageIds": [
+      "1392948935072415835"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948930366541875",
+    "uploadMessageId": "1392948928219058267"
+  },
+  "archivedAt": 1752175303942,
+  "updatedAt": 1752175303942,
+  "num_comments": 2
+}

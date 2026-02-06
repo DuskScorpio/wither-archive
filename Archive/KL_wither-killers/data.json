@@ -1,0 +1,40 @@
+{
+  "id": "1391843156307345438",
+  "name": "wither-killers",
+  "code": "KL",
+  "category": "MISC",
+  "description": "Wither killers",
+  "currentCodeId": 6,
+  "entries": [
+    {
+      "id": "1391993510697111635",
+      "code": "KL001",
+      "path": "KL001_18k_4gt_Wither_Killer"
+    },
+    {
+      "id": "1391993289179271282",
+      "code": "KL002",
+      "path": "KL002_4.5k-6k_12gt_Dustless_Wither_Killer"
+    },
+    {
+      "id": "1391996711307710504",
+      "code": "KL003",
+      "path": "KL003_Cheap_4.5k_16gt_Wither_Killer"
+    },
+    {
+      "id": "1392514947455385610",
+      "code": "KL004",
+      "path": "KL004_18k_4gt_Wither_Killer"
+    },
+    {
+      "id": "1392515832969691207",
+      "code": "KL005",
+      "path": "KL005_Poor_Mans_Wither_Killer"
+    },
+    {
+      "id": "1392522652975108137",
+      "code": "KL006",
+      "path": "KL006_18k_4gt_Detection-based_Wither_Killer"
+    }
+  ]
+}

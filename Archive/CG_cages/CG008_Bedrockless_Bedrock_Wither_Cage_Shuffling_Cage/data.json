@@ -1,0 +1,133 @@
+{
+  "id": "1392529929916125244",
+  "name": "Bedrockless Bedrock Wither Cage (Shuffling Cage)",
+  "code": "CG008",
+  "reservedCodes": [
+    "CG008"
+  ],
+  "pastPostThreadIds": [
+    "1392541242201608214"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591953",
+      "name": "Untested"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1000972421538517052",
+      "name": "area_render_23.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/915619739798229023/1000972421538517052/area_render_23.png?ex=686f37b6&is=686de636&hm=d7f9dba3c32c5aee4b24e6e08f87159a0776877345d9d09757f16792866f2d3a&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/area_render_23.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752075628000
+    },
+    {
+      "id": "1392529930159525998",
+      "name": "7de80c4ff3d270e087cf161998f26a18.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392529929916125244/1392529930159525998/7de80c4ff3d270e087cf161998f26a18.png?ex=686fde0f&is=686e8c8f&hm=0e765ea935961b64748f91595533963d54a2903232cf05ae1a72df28b6faae99&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/7de80c4ff3d270e087cf161998f26a18.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752075407000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1007675370281115728",
+      "name": "CG008_Bedrockless_Bedrock_Cage_Prepared.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/915619739798229023/1007675370281115728/Bedrockless_Bedrock_Cage_Prepared.litematic?ex=686f3691&is=686de511&hm=2b4eccc898d07f483e7809b4bcde86723f902c6fcadbd7b6f937907662fc9777&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CG008_Bedrockless_Bedrock_Cage_Prepared.litematic",
+      "litematic": {
+        "size": "6x13x3",
+        "version": "1.18.2"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752075615000
+    },
+    {
+      "id": "1007675370557935696",
+      "name": "CG008_Bedrockless_Bedrock_Cage.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/915619739798229023/1007675370557935696/Bedrockless_Bedrock_Cage.litematic?ex=686f3692&is=686de512&hm=8bd454c34c3db3c02b31de02a3b97f3b8d3665f727b0a0ad9ac68b16eefbdbbd&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CG008_Bedrockless_Bedrock_Cage.litematic",
+      "litematic": {
+        "size": "6x12x3",
+        "version": "1.18.2"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752075615000
+    }
+  ],
+  "records": {
+    "description": "A bedrock-less wither cage made long ago.\n## Versions\n- 1.17+ (not sure)\n## Design Specifications\n- Uses a chunk reload detector to block the main head's eyesight to its target to prevent the 1/1000 chance of main head shooting blue skulls\n- The side head black skulls are prevented by shuffling the side head skull blocker\n  1. When the wither is attempting to break blocks, the blockers will be pulled backwards with sticky pistons. \n  2. After the block breaking attack, new blockers from the top will be 0-ticked into place to detonate potential wither skulls that spawned in the previous tick. Because the initial velocity of the wither skulls is very low, the skulls will not have a chance to escape before the new blocker arrived.",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392541242201608214",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1392541245414445176"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392541242201608214",
+    "uploadMessageId": "1392531370646962310"
+  },
+  "archivedAt": 1752078103621,
+  "updatedAt": 1752078103621,
+  "num_comments": 0
+}

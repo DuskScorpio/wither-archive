@@ -1,0 +1,120 @@
+{
+  "id": "1392522652975108137",
+  "name": "18k 4gt Detection-based Wither Killer",
+  "code": "KL006",
+  "reservedCodes": [
+    "KL006"
+  ],
+  "pastPostThreadIds": [
+    "1392524135212650507"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "597018994163056643",
+      "username": "xjh_jorhai",
+      "iconURL": "https://cdn.discordapp.com/avatars/597018994163056643/bb30ce43beffd7f9ebc5ca09c55f04eb.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846577483677811",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392522653214179448",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392522652975108137/1392522653214179448/image.png?ex=686fd748&is=686e85c8&hm=7e9acdf42556987884f8f90c2fe728bfb385dc8050ec9b8d3c42edabd733f11a&",
+      "description": "",
+      "canDownload": true,
+      "width": 626,
+      "height": 800,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752073672000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1392523079355465850",
+      "name": "KL006_4gt_Wither_Killer_with_Accessories.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392522652975108137/1392523079355465850/4gt_Wither_Killer_with_Accessories.litematic?ex=686fd7ad&is=686e862d&hm=e896b802a5f9e9ff5c471f179e6bf085641b982ef984549a24211a9ad79c0de7&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/KL006_4gt_Wither_Killer_with_Accessories.litematic",
+      "litematic": {
+        "size": "14x32x20",
+        "version": "1.20"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752073774000
+    },
+    {
+      "id": "1392523079783026779",
+      "name": "KL006_4gt_Wither_Killer_Core.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392522652975108137/1392523079783026779/4gt_Wither_Killer_Core.litematic?ex=686fd7ae&is=686e862e&hm=ec308bc05513ed9f6f1f70afdc0e0398d31a6606c20c27387f5ceeb492f780ff&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/KL006_4gt_Wither_Killer_Core.litematic",
+      "litematic": {
+        "size": "12x32x19",
+        "version": "1.20"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752073774000
+    }
+  ],
+  "records": {
+    "description": "To ensure exactly four soul sands are inputted each time, the input is detection based, which makes it support any greater than or equal to 4gt cycle input. It does not use clocks and all the wirings are detection-based.\n### Video Links\n- [Showcase](https://www.bilibili.com/video/BV1KC4y1u7si/)",
+    "features": [
+      "Supports any greater than or equal to 4gt cycle input",
+      "Does not use clocks",
+      "All wirings are detection-based"
+    ],
+    "considerations": [
+      "Only 120min test conducted, which is not considered high-intensity or long time",
+      "Potential hidden issues unknown."
+    ],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392524135212650507",
+    "forumId": "1391843156307345438",
+    "continuingMessageIds": [
+      "1392524138488532993"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392524135212650507",
+    "uploadMessageId": "1392524133287596043"
+  },
+  "archivedAt": 1752074024969,
+  "updatedAt": 1752074024969,
+  "num_comments": 0
+}

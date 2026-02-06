@@ -1,0 +1,78 @@
+{
+  "postSchema": {
+    "title": "Submission",
+    "type": "object",
+    "properties": {
+      "description": {
+        "type": "string",
+        "description": "Brief summary of your farm"
+      },
+      "versions": {
+        "type": "string",
+        "description": "Information about version compatibility"
+      },
+      "rates": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Farm drop rates"
+      },
+      "features": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Additional information and features of the design"
+      },
+      "considerations": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Disadvantages of the design"
+      },
+      "notes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Additional notes not included elsewhere"
+      }
+    },
+    "required": [
+      "description",
+      "versions"
+    ]
+  },
+  "postStyle": {
+    "description": {
+      "depth": 0,
+      "headerText": ""
+    },
+    "versions": {
+      "depth": 2,
+      "headerText": "Versions"
+    },
+    "rates": {
+      "depth": 2,
+      "headerText": "Rates",
+      "isOrdered": false
+    },
+    "features": {
+      "depth": 2,
+      "headerText": "Features",
+      "isOrdered": false
+    },
+    "considerations": {
+      "depth": 2,
+      "headerText": "Considerations",
+      "isOrdered": false
+    },
+    "notes": {
+      "depth": 2,
+      "headerText": "Notes",
+      "isOrdered": false
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "1392040918613229591",
+  "name": "IanXO4's 2.9k Wither Rose Farm",
+  "code": "WR003",
+  "reservedCodes": [
+    "WR003"
+  ],
+  "pastPostThreadIds": [
+    "1392948914952601711"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "791515043422404638",
+      "displayName": "IanXO4",
+      "username": "ianxo4",
+      "iconURL": "https://cdn.discordapp.com/avatars/791515043422404638/56a018c96623493f83f4a291584f7f69.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838292692963395",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "1358537708909363240",
+      "name": "image.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1358537708909363240/image.png",
+      "description": "",
+      "canDownload": true,
+      "width": 744,
+      "height": 800,
+      "path": "images/image.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958817000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1392041132560617472",
+      "name": "WR003_Ianxofour_Instant_Wither_Rose.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392040918613229591/1392041132560617472/Ianxofour_Instant_Wither_Rose.litematic?ex=686e16d4&is=686cc554&hm=5586ff6278dd8faca6f39941f418d1ad76df8fb9c6d403dd15eed5caa8803081&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/WR003_Ianxofour_Instant_Wither_Rose.litematic",
+      "litematic": {
+        "size": "9x8x10",
+        "version": "1.20.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958868000
+    },
+    {
+      "id": "qtXjPaBMMP8",
+      "name": "WR003_YouTube_Video_qtXjPaBMMP8.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/qtXjPaBMMP8",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Minecraft Elegance: Instant Wither Rose Farm (2900/hr, Java 1.16+)",
+        "author_name": "ianxofour",
+        "author_url": "https://www.youtube.com/@ianxofour",
+        "thumbnail_url": "https://i.ytimg.com/vi/qtXjPaBMMP8/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/WR003_YouTube_Video_qtXjPaBMMP8.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751958817000
+    }
+  ],
+  "records": {
+    "description": "Instant wither rose farm by killing and recycling snow from snow golems\n### Versions\n- 1.16-1.21.5\n### Rates\n- 2.9k/h",
+    "features": [
+      "Simple and easy to build"
+    ],
+    "considerations": [
+      "Manual"
+    ],
+    "notes": "- Watch the video and read the description for further instructions.\n- Requires Normal difficulty or higher to function."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948914952601711",
+    "forumId": "1391832537399038022",
+    "continuingMessageIds": [
+      "1392948918396125185",
+      "1454729849410158770"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948914952601711",
+    "uploadMessageId": "1392948913539125360"
+  },
+  "archivedAt": 1752175300523,
+  "updatedAt": 1752175300523,
+  "num_comments": 0
+}

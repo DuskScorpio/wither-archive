@@ -1,0 +1,159 @@
+{
+  "id": "1392033403674689567",
+  "name": "Tiny Dustless Concrete Converter",
+  "code": "CV001",
+  "reservedCodes": [
+    "CV001"
+  ],
+  "pastPostThreadIds": [
+    "1392948965216878603"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "108956702832852992",
+      "username": "deathsneeze.sys",
+      "iconURL": "https://cdn.discordapp.com/avatars/108956702832852992/b328176a31b5e2caaa2b696094532c95.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838289685647376",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392033886975823913",
+      "name": "unknown.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392033403674689567/1392033886975823913/unknown.png?ex=686e1015&is=686cbe95&hm=77fc937c30c0b14f24e3c7ba7b2a7fcaa27df98ba459271287b43ee2711830cf&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 438,
+      "path": "images/unknown.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957141000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1001213719063318619",
+      "name": "CV001_tiny_concrete_converter.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1001213617544380528/1001213719063318619/tiny_concrete_converter.zip?ex=686d7570&is=686c23f0&hm=7bc1f741de2e54e2e402b79245c9141c41fdf7d5d868f70cff2e33bfa68843cb&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CV001_tiny_concrete_converter.zip",
+      "wdl": {
+        "version": "1.15.2",
+        "optimized": true
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957026000,
+      "size": 51586,
+      "wdls": [
+        {
+          "path": "tiny concrete converter",
+          "version": "1.15.2",
+          "levelName": "tiny concrete converter"
+        }
+      ]
+    },
+    {
+      "id": "1001213795332538459",
+      "name": "CV001_tiny_concrete_converter.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1001213617544380528/1001213795332538459/tiny_concrete_converter.litematic?ex=686d7582&is=686c2402&hm=ddecd38871e66d5e2abd4d22f32d6adec1e8fd1036fd460b58b79ee747a28eef&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/CV001_tiny_concrete_converter.litematic",
+      "litematic": {
+        "size": "9x10x11",
+        "version": "1.17.1"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957026000,
+      "size": 2243
+    },
+    {
+      "id": "IayHBn_AEWA",
+      "name": "CV001_YouTube_Video_IayHBn_AEWA.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/IayHBn_AEWA",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "1.15+Tiny  Dustless Concrete Converter",
+        "author_name": "Deathsneeze",
+        "author_url": "https://www.youtube.com/@Deathsneeze",
+        "thumbnail_url": "https://i.ytimg.com/vi/IayHBn_AEWA/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/CV001_YouTube_Video_IayHBn_AEWA.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751957026000
+    }
+  ],
+  "records": {
+    "description": "A tiny dustless concrete converter for Minecraft 1.15 and above.\n### Credits\n- Water layout originally by Aqua42\n### Versions\n- 1.15+\n### Rates\n- 18k/h (4gt player placing speed)",
+    "features": [
+      "Works in version 1.15 and above (has not been tested in 1.16 or 1.19 but should still work)",
+      "Uses Y4 overworld bedrock formation",
+      "Very small footprint, only 9x10x11 for entire device.",
+      "100% spawnproof",
+      "Lossless water based collection system with item stacking waterstream",
+      "100% dustless",
+      "Minimal bedrock breaking"
+    ],
+    "considerations": [
+      "Simple collection system and item distribution, add your own shulker box handling if needed.",
+      "Directional wiring, this farm does not work if rotated or mirrored."
+    ],
+    "notes": "- When spawning wither, place obsidian block at head position and spawn wither sideways like normal.\n### How to use\n- Place powder in input chest, flip lever, climb down ladder, aim at slab, hold right click."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392948965216878603",
+    "forumId": "1391832288668680332",
+    "continuingMessageIds": [
+      "1392948967788122274",
+      "1454729798235459605"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392948965216878603",
+    "uploadMessageId": "1465579003048886306"
+  },
+  "archivedAt": 1752175312307,
+  "updatedAt": 1752175312307,
+  "num_comments": 0
+}

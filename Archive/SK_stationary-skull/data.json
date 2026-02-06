@@ -1,0 +1,20 @@
+{
+  "id": "1391843399950401686",
+  "name": "stationary-skull",
+  "code": "SK",
+  "category": "MISC",
+  "description": "Stationary wither skull generator or applications",
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1391999817705717903",
+      "code": "SK001",
+      "path": "SK001_Methodzz_Stationary_Wither_Skull_Generator"
+    },
+    {
+      "id": "1392002383436972032",
+      "code": "SK002",
+      "path": "SK002_Stationary_Wither_Skull_Generator"
+    }
+  ]
+}

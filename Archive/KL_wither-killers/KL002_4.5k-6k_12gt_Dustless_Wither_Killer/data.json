@@ -1,0 +1,212 @@
+{
+  "id": "1391993289179271282",
+  "name": "4.5k-6k 12gt Dustless Wither Killer",
+  "code": "KL002",
+  "reservedCodes": [
+    "KL002"
+  ],
+  "pastPostThreadIds": [
+    "1391996527257456751"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "435001054992531468",
+      "displayName": "Markus",
+      "username": "markus2675",
+      "iconURL": "https://cdn.discordapp.com/avatars/435001054992531468/41736129b59b25cb0cd43834044fab91.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "114896993654013958",
+      "displayName": "DatNerd",
+      "username": "datnerd",
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846577483677813",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1000296766773665852",
+      "name": "unknown.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/1000296766773665852/unknown.png?ex=686d6b35&is=686c19b5&hm=eabb19cba5b908f416743288f0de0840454240222b624c2f48fdffc2f0636902&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/unknown.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948088000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1000299695589036082",
+      "name": "KL002_1.17_Wither_Killer_-_Markus__DatNerd.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/1000299695589036082/1.17_Wither_Killer_-_Markus__DatNerd.litematic?ex=686d6df0&is=686c1c70&hm=af752417a9dec5168ccc81d78ddad27914763446ff36774577e2939c7ed55e94&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "5x10x6",
+        "version": "1.18.2"
+      },
+      "path": "attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948088000
+    },
+    {
+      "id": "1000299695882641428",
+      "name": "KL002_1.17_Wither_Killer_-_Markus__DatNerd_Cart_Alignment.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/1000299695882641428/1.17_Wither_Killer_-_Markus__DatNerd_Cart_Alignment.litematic?ex=686d6df0&is=686c1c70&hm=c70a3fce0b25b40072c8208b6d9dd591bcafed047e62ec5331a0e42753a217bb&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "10x5x3",
+        "version": "1.18.2"
+      },
+      "path": "attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd_Cart_Alignment.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948088000
+    },
+    {
+      "id": "1000299696146886676",
+      "name": "KL002_1.17_Wither_Killer_-_Markus__DatNerd_NON_Directional_But_Dusty.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/1000299696146886676/1.17_Wither_Killer_-_Markus__DatNerd_NON_Directional_But_Dusty.litematic?ex=686d6df0&is=686c1c70&hm=741f7edccac301df9f79621c54a1129c9e4b146d8af4f9270230c7a57e128cdf&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "5x10x6",
+        "version": "1.18.2"
+      },
+      "path": "attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd_NON_Directional_But_Dusty.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948088000
+    },
+    {
+      "id": "1000299696486621225",
+      "name": "KL002_1.17_Wither_Killer_-_Markus__DatNerd_Survival_Setup.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/1000299696486621225/1.17_Wither_Killer_-_Markus__DatNerd_Survival_Setup.litematic?ex=686d6df0&is=686c1c70&hm=e14b6aaf38b2fb0eedf53bfe64bd9ffefc36c22e1dceab92e6ab1526f0b87d0b&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "18x10x9",
+        "version": "1.18.2"
+      },
+      "path": "attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd_Survival_Setup.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948088000
+    },
+    {
+      "id": "1004860652503973968",
+      "name": "KL002_1.17_Wither_Killer_-_Markus__DatNerd_3GT_input.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/1004860652503973968/1.17_Wither_Killer_-_Markus__DatNerd_3GT_input.litematic?ex=686d8ae8&is=686c3968&hm=759b9effaabc3be7ea7e8babe63ae58c605a67c58be22efe753eeb5ec3965027&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "15x10x6",
+        "version": "1.18.2"
+      },
+      "path": "attachments/KL002_1.17_Wither_Killer_-_Markus__DatNerd_3GT_input.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751948088000
+    },
+    {
+      "id": "ji4Vz4lVSiQ",
+      "name": "KL002_YouTube_Video_ji4Vz4lVSiQ.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=ji4Vz4lVSiQ",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Afk wither killing chamber",
+        "author_name": "Nasm Nasmus",
+        "author_url": "https://www.youtube.com/@nasmnasmus866",
+        "thumbnail_url": "https://i.ytimg.com/vi/ji4Vz4lVSiQ/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/KL002_YouTube_Video_ji4Vz4lVSiQ.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751947462000
+    }
+  ],
+  "records": {
+    "description": "12gt Dustless Wither Killer by Markus.\n### Versions\n- 1.17+\n### Rates\n-  6k/hour (3gt player placing speed)\n- 4.5k/hour (4gt player placing speed)",
+    "features": [
+      "Dustless",
+      "The actual killer is 5 x 10 x 6, uses bedrock cage. Works in Nether, and in End (no bedrock breaking in the End)",
+      "The survival friendly schematic is 18 x 10 x 9 (has skull detection, and block placer).",
+      "Single hopper cart. The cart is aligned towards the north on a wall, towards the east against an open trapdoor.",
+      "Directional **DO NOT ROTATE**, nondirectional version (uses dust)",
+      "Layout is originally by Nasm: https://www.youtube.com/watch?v=ji4Vz4lVSiQ"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1391996527257456751",
+    "forumId": "1391843156307345438",
+    "continuingMessageIds": [
+      "1391996530491261100",
+      "1391996531502088242",
+      "1454730207004197039"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1391996527257456751",
+    "uploadMessageId": "1391996525462159442"
+  },
+  "archivedAt": 1751954533258,
+  "updatedAt": 1751954533258,
+  "num_comments": 0
+}

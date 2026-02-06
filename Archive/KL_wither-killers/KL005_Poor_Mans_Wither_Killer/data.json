@@ -1,0 +1,97 @@
+{
+  "id": "1392515832969691207",
+  "name": "Poor Man's Wither Killer",
+  "code": "KL005",
+  "reservedCodes": [
+    "KL005"
+  ],
+  "pastPostThreadIds": [
+    "1392516333454884938"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846577483677813",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "947042970690019358",
+      "name": "unknown.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/947042970690019358/unknown.png?ex=686f757f&is=686e23ff&hm=f20d5ea79a9b35b2cb1f67b35b2e64f8c531f03d30ca12b262456b86fed69f07&",
+      "description": "",
+      "canDownload": true,
+      "width": 472,
+      "height": 402,
+      "path": "images/unknown.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752072046000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "947042999794298940",
+      "name": "KL005_r2.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/947042999794298940/r2.litematic?ex=686f7586&is=686e2406&hm=47e5facaa0a6acd7dbf2dc67b78051f69ccbd271acab91eb3690982b13224d68&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/KL005_r2.litematic",
+      "litematic": {
+        "size": "19x13x6",
+        "version": "1.15.2"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752072046000
+    }
+  ],
+  "records": {
+    "description": "\"Poor\" refers to the bedrock breaking area and item costs.\n### Versions\n- 1.14+",
+    "features": [
+      "Dispensers running out of wither skeleton skulls will cut off soul sand supply."
+    ],
+    "considerations": [],
+    "notes": "- The bedrock needs two layers of 3x3, the main area that requires bedrock breaking is 5x4, and a few other locations depending on the situation.\n- The green carpet is the safe area outside the wither blast range, and the red is the dangerous area.\n- Some areas have not been spawn proofed, they should be below bedrock."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392516333454884938",
+    "forumId": "1391843156307345438",
+    "continuingMessageIds": [
+      "1392516337506586686"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392516333454884938",
+    "uploadMessageId": "1392516332246925394"
+  },
+  "archivedAt": 1752072165060,
+  "updatedAt": 1752072165060,
+  "num_comments": 0
+}

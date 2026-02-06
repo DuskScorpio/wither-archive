@@ -1,0 +1,99 @@
+{
+  "id": "1392514947455385610",
+  "name": "18k 4gt Wither Killer",
+  "code": "KL004",
+  "reservedCodes": [
+    "KL004"
+  ],
+  "pastPostThreadIds": [
+    "1392515706473414656"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846577483677813",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1391846577483677814",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392515010479001720",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1392514947455385610/1392515010479001720/image.png?ex=686fd02a&is=686e7eaa&hm=5c457c8a078a41363ddcb9a999c2287e060e58d18a89e9e21ddade95d42c002a&",
+      "description": "",
+      "canDownload": true,
+      "width": 341,
+      "height": 409,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752071850000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "947047021481701396",
+      "name": "KL004_18k_r2.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/913079212812931152/947047021481701396/18k_r2.litematic?ex=686f7945&is=686e27c5&hm=ec1ed9b45e6e2d7804dadbc93b2f99bec68b7e79efa4c3c82845c4b9b5da0a13&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/KL004_18k_r2.litematic",
+      "litematic": {
+        "size": "21x23x11",
+        "version": "1.15.2"
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1752071835000
+    }
+  ],
+  "records": {
+    "description": "An 18k 4gt Wither Killer by acaciachan.\n### Versions\n- 1.14+",
+    "features": [],
+    "considerations": [],
+    "notes": "- Almost all of the lag caused by this machine comes from the large number of withers and wither skulls. Turning off particles effect can reduce client side FPS lag.\n### Build\n- Bedrock required: Two layers of 3x3 bedrock (the 4 corner bedrock may not be needed, please test it yourself)\n- Bedrock breaking area: A 7x9 area centered on the center block of the wither cage. Note that the topmost bedrock does not need to be completely broken, just the lower redstone part it accommodates.\n- Soul sand input: Stand on the iron trapdoor and aim at the center of the chiseled stone brick. Works with as fast as 20 blocks/second, also allowing unstable inputs.\n- Wither skeleton skulls: It has its own unloader. When the number of skulls in the dispensers is not greater than the signal of comparator 1, it is forced to stop (about 36 heads remain in the transmitter). The detection of the remaining number depends on two of the dispensers, so please ensure that the items in each unloaders are the same. The first time the unloader places the box, you need to click the noteblock on both sides.\n- Others: Please place the soul sand exactly as shown in the schematic. After building,  you can place a non-pushable block in the position of the purple glass as shown in the schematic, to reduce the soul sands being pushed out if the machine broke. It can be removed if the machine runs normally.\n- Boat (To reset sand position faster): The boat should fall on the flower pot (the height of the top of the boat is 15/16 at this time), and the falling sand can touch the top of the boat."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1392515706473414656",
+    "forumId": "1391843156307345438",
+    "continuingMessageIds": [
+      "1392515709820600461"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1392515706473414656",
+    "uploadMessageId": "1392515705089560666"
+  },
+  "archivedAt": 1752072015606,
+  "updatedAt": 1752072015606,
+  "num_comments": 0
+}

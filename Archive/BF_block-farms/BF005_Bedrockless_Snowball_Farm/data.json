@@ -1,0 +1,213 @@
+{
+  "id": "1455604438059450519",
+  "name": "Bedrockless Snowball Farm",
+  "code": "BF005",
+  "reservedCodes": [
+    "BF005"
+  ],
+  "pastPostThreadIds": [
+    "1455828024636342369"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1222188029356150847",
+      "displayName": "Seminoso",
+      "username": "seminoso",
+      "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391838287383105664",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455604439854481551",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604439854481551/area_render_2_.png?ex=695554c6&is=69540346&hm=ed50384086e1a05d4fde6391ac890001541018bca671fb2609cca8c45178447e&",
+      "description": "",
+      "canDownload": true,
+      "width": 703,
+      "height": 540,
+      "path": "images/area_render_2_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455604439498096803",
+      "name": "BF005_Bedrockless_Wither_Snow_Farm.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604439498096803/Bedrockless_Wither_Snow_Farm.litematic?ex=695554c6&is=69540346&hm=b1ddd2366a7675e0b6519e4d94a80cd1e3789bd93f7dc8e7e29aed4b340443a7&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF005_Bedrockless_Wither_Snow_Farm.litematic",
+      "litematic": {
+        "size": "13x9x5",
+        "version": "1.21.8"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
+    },
+    {
+      "id": "1455604438898053261",
+      "name": "BF005_Wither_Summoning_-_Bedrockless_Wither_Snow_Farm.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604438898053261/Wither_Summoning_-_Bedrockless_Wither_Snow_Farm.litematic?ex=695554c6&is=69540346&hm=6172b11c68729a7c63ac1a4057779cffc3866eca538eee68647affc7279c2ea2&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF005_Wither_Summoning_-_Bedrockless_Wither_Snow_Farm.litematic",
+      "litematic": {
+        "size": "13x10x6",
+        "version": "1.21.8"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
+    },
+    {
+      "id": "1455604440752197632",
+      "name": "BF005_Wither_Summoning.mp4",
+      "contentType": "video/mp4",
+      "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604440752197632/Wither_Summoning.mp4?ex=695554c6&is=69540346&hm=520eaca278bbb84397fae0ae216f28f8f23b64892c5bdd5d7ebb4e0460c42399&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF005_Wither_Summoning.mp4",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
+    },
+    {
+      "id": "1455604439221010504",
+      "name": "BF005_Snow_Golems_alignment_-_Bedrockless_Wither_Snow_Farm.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604439221010504/Snow_Golems_alignment_-_Bedrockless_Wither_Snow_Farm.litematic?ex=695554c6&is=69540346&hm=f333304eb6936227a7cb8a5fc4d195bcc22f105c4f077c5422adc63a9a49bd3f&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF005_Snow_Golems_alignment_-_Bedrockless_Wither_Snow_Farm.litematic",
+      "litematic": {
+        "size": "13x9x13",
+        "version": "1.21.8"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
+    },
+    {
+      "id": "1455604440286498922",
+      "name": "BF005_Snow_Golems_Alignment.mp4",
+      "contentType": "video/mp4",
+      "url": "https://cdn.discordapp.com/attachments/1455604438059450519/1455604440286498922/Snow_Golems_Alignment.mp4?ex=695554c6&is=69540346&hm=68b33f944f640681f773cff220f9670d10d766d81a7a7baf9b41381b3387fee2&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/BF005_Snow_Golems_Alignment.mp4",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "seminoso"
+      },
+      "timestamp": 1767113541000
+    }
+  ],
+  "records": {
+    "description": "Credits: <@513900971219353600> Original end gateway design (https://discord.com/channels/913065809096638494/1392948975811956768)\n\nOverworld snow farm that uses a wither to break snow layers",
+    "versions": "1.21.5+",
+    "rates": [
+      "Snowball: 28.8k/h"
+    ],
+    "features": [
+      "Doesn't use bedrock",
+      "No TNT Duping"
+    ],
+    "lag-info": "Test environment: CPU Ryzen 5-7535HS with Lithium\n-  Idle: 1.2mspt\n- Active: 1.4mspt",
+    "build": "- Refer to the videos for wither summoning and snow golems alignment. Schematics for both steps are also provided\n- First build the wither cage (Wither Summoning - Bedrockless Wither Snow Farm) then get the snow golems in their positions (Wither Summoning - Bedrockless Wither Snow Farm)",
+    "notes": [
+      "Do not build in biomes with a base temperature greater than 1.",
+      "Make sure that the snow golems never see the wither.",
+      "Name tag the Creaking or it will vanish during the day"
+    ]
+  },
+  "styles": {
+    "lag-info": {
+      "depth": 2,
+      "headerText": "Lag Info"
+    },
+    "build": {
+      "depth": 2,
+      "headerText": "Build"
+    }
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp",
+        "displayName": "Scorpio"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1392417660163195005",
+      "code": "BF004",
+      "name": "28.8k Wither Snowball Farm",
+      "url": "https://discord.com/channels/913065809096638494/1392948975811956768",
+      "path": "Archive/BF_block-farms/BF004_28.8k_Wither_Snowball_Farm",
+      "matches": [
+        "https://discord.com/channels/913065809096638494/1392948975811956768"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455828024636342369",
+    "forumId": "1391832229339988110",
+    "continuingMessageIds": [
+      "1455828030432743597",
+      "1455828030881665076",
+      "1455828032030769245",
+      "1469147674472218791"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1455828024636342369",
+    "uploadMessageId": "1455828020077133998"
+  },
+  "archivedAt": 1767166836022,
+  "updatedAt": 1767167512586,
+  "num_comments": 0
+}
