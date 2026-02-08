@@ -23,3 +23,6 @@ A Bedrockless Wither Cobble farm
 
 ## Resources
 - [BF002_Cobble_farm_1.21_61k.litematic](attachments/BF002_Cobble_farm_1.21_61k.litematic): MC 1.21, Size 17x13x11 blocks
+  - original file
+- [BF002_Cobble_Farm_1.21_61k.litematic](attachments/BF002_Cobble_Farm_1.21_61k.litematic): MC 1.21.11, Size 17x13x11 blocks
+  - fixed

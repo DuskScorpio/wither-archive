@@ -42,13 +42,13 @@
       "canDownload": true,
       "width": 800,
       "height": 439,
-      "path": "images/2025-01-26_19.27.09.png",
       "source": "URLInMessage",
       "author": {
         "type": "unknown",
-        "username": "scorpio03"
+        "username": "Unknown"
       },
-      "timestamp": 1752041173000
+      "timestamp": 1752041173000,
+      "path": "images/2025-01-26_19.27.09.png"
     }
   ],
   "attachments": [
@@ -57,7 +57,7 @@
       "name": "BF002_Cobble_farm_1.21_61k.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/913066205575798804/1333141828404510720/Cobble_farm_1.21_61k.litematic?ex=686eb514&is=686d6394&hm=850afbdd905566fa8567b4af37f4d84f16f650ac7ff8dc64c87ae66539cf2ba5&",
-      "description": "",
+      "description": "original file",
       "canDownload": true,
       "path": "attachments/BF002_Cobble_farm_1.21_61k.litematic",
       "litematic": {
@@ -67,9 +67,33 @@
       "source": "URLInMessage",
       "author": {
         "type": "unknown",
-        "username": "scorpio03"
+        "username": "Unknown"
       },
-      "timestamp": 1752041173000
+      "timestamp": 1752041173000,
+      "size": 3308
+    },
+    {
+      "id": "1469648993955872859",
+      "name": "BF002_Cobble_Farm_1.21_61k.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392386133849276416/1469648993955872859/Cobble_Farm_1.21_61k.litematic?ex=69891588&is=6987c408&hm=87011616d7b242965b07b4941aa36af588f7c6dfbf966c6bc6d17fb132c19742&",
+      "timestamp": 1770462024914,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1222188029356150847",
+        "username": "seminoso",
+        "displayName": "Seminoso",
+        "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "fixed",
+      "size": 2984,
+      "canDownload": true,
+      "path": "attachments/BF002_Cobble_Farm_1.21_61k.litematic",
+      "litematic": {
+        "size": "17x13x11",
+        "version": "1.21.11"
+      }
     }
   ],
   "records": {
@@ -92,9 +116,9 @@
       "1392949103792750769"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392949100902748193",
-    "uploadMessageId": "1392949099942383637"
+    "uploadMessageId": "1469975425160839212"
   },
   "archivedAt": 1752175344840,
-  "updatedAt": 1752175344840,
+  "updatedAt": 1770539851177,
   "num_comments": 0
 }
