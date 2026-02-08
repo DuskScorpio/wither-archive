@@ -27,8 +27,8 @@ Test environment: CPU Ryzen 5-7535HS with Lithium
 - Refer to the videos for wither summoning and snow golems alignment. Schematics for both steps are also provided
 - First build the wither cage (Wither Summoning - Bedrockless Wither Snow Farm) then get the snow golems in their positions (Wither Summoning - Bedrockless Wither Snow Farm)
 ## Notes
-- Do not build in biomes with a base temperature greater than 1.
-- Make sure that the snow golems never see the wither.
+- Do not build in biomes with a base temperature greater than 1. If built in a biome where it can rain, add a glass roof over the farm.
+- Make sure that the snow golems never see the wither and that it never sees you while it's spawning (by standing lower or placing additional temporary blocks)
 - Name tag the Creaking or it will vanish during the day
 
 ## Resources
