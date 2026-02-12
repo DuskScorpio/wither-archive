@@ -82,7 +82,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1752137304000
+      "timestamp": 1752137304000,
+      "hash": "963209f62c976cda5a07893046d5ac143bef24735c03478cef4663a374709a61"
     },
     {
       "id": "fxfb14fiivogr",
@@ -97,7 +98,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1752136240000
+      "timestamp": 1752136240000,
+      "hash": "2a7fcd4ea1b284f7bd25dcb0a409e2b9fa26b7f10209afd353dfaacd1df6ec29"
     },
     {
       "id": "1391991777476612107",
@@ -124,7 +126,8 @@
           "version": "1.16.5",
           "levelName": "Wither Mob Switch (Block Stream)"
         }
-      ]
+      ],
+      "hash": "b798bc5a76b38c13fff098d169fe23e405256d17491614c7053e4c3f39132f3d"
     },
     {
       "id": "1391991777862619136",
@@ -151,7 +154,8 @@
           "version": "1.16.5",
           "levelName": "Wither Mob Switch"
         }
-      ]
+      ],
+      "hash": "e9bb9c92d477a99843059b99a58fd412676257ade495b3cfc0785c74c0061f2c"
     },
     {
       "id": "1391991778244034600",
@@ -178,7 +182,8 @@
           "version": "1.19.2",
           "levelName": "Wither Mob Switch (Block Stream)"
         }
-      ]
+      ],
+      "hash": "fcda6433ea59b4146daf85fcd3787a78de6b10aba9d3ad7250901595142b9949"
     },
     {
       "id": "1391991778571321415",
@@ -205,7 +210,8 @@
           "version": "1.21.1",
           "levelName": "Wither Mob Switch"
         }
-      ]
+      ],
+      "hash": "dd707b51351c711d4b34ce00652e4ab46398da36c7e78f2c6c148791f5ba5a2b"
     },
     {
       "id": "A9pQ0pgfo7Q",
@@ -230,7 +236,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1753297125000
+      "timestamp": 1753297125000,
+      "hash": "ce148500bc0b37ad4d9a2b772a9d6fce17b9a42ffb3abcbcc80df325d6ec8e76"
     }
   ],
   "records": {

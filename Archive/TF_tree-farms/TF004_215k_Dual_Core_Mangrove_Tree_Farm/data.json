@@ -72,7 +72,8 @@
       "description": "Figure 1",
       "canDownload": true,
       "path": "attachments/TF004_image.png",
-      "size": 668370
+      "size": 668370,
+      "hash": "373d025b6c5e7ce3b9075d881504e67ea876c46b3008e0c709cf06ee10449ecd"
     },
     {
       "id": "1419038586921160804",
@@ -95,7 +96,8 @@
       "litematic": {
         "size": "27x32x32",
         "version": "1.20.4"
-      }
+      },
+      "hash": "14241434f1e39074955e0be84558e0606737adb6d4ca14fd5e6a6f2f57dffbcb"
     },
     {
       "id": "1406962902325264384",
@@ -118,7 +120,8 @@
       "litematic": {
         "size": "31x31x33",
         "version": "1.21"
-      }
+      },
+      "hash": "7628bb5895d99176b5a7a914c89e3ff4f2a6619d9110361787da990a45022066"
     },
     {
       "id": "1405504826661408818",
@@ -147,7 +150,8 @@
       ],
       "wdl": {
         "version": "1.20.2"
-      }
+      },
+      "hash": "95b46866316799adb8510cbf559538da369aee1462370830b43a921764b3e3fb"
     },
     {
       "id": "1405503399117455451",
@@ -166,7 +170,8 @@
       "description": "Figure 2",
       "canDownload": true,
       "path": "attachments/TF004_image_1.png",
-      "size": 283727
+      "size": 283727,
+      "hash": "fbbbabebbe71d12f3f174f522b19ef1014ce7059e1cd1fecdaea7796d7de11a0"
     }
   ],
   "records": {

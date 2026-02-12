@@ -73,7 +73,8 @@
         "type": "unknown",
         "username": "seminoso"
       },
-      "timestamp": 1760977310000
+      "timestamp": 1760977310000,
+      "hash": "adda75855b092ee52c957653ee930426f727868c107de2419663169ce6025779"
     },
     {
       "id": "1432004624306409534",
@@ -92,7 +93,8 @@
         "type": "unknown",
         "username": "seminoso"
       },
-      "timestamp": 1761486907000
+      "timestamp": 1761486907000,
+      "hash": "815b8efc63727f8383ea9f5b95e0f84cb050bc1f64e89164b5f2fd46630db253"
     },
     {
       "id": "1432004417619628052",
@@ -107,7 +109,8 @@
         "type": "unknown",
         "username": "seminoso"
       },
-      "timestamp": 1761486858000
+      "timestamp": 1761486858000,
+      "hash": "24cf0e0f9b6b44e7682d3f6e756038ca416cb237798fa5504440853138206916"
     },
     {
       "id": "1432004416470515763",
@@ -122,7 +125,8 @@
         "type": "unknown",
         "username": "seminoso"
       },
-      "timestamp": 1761486858000
+      "timestamp": 1761486858000,
+      "hash": "285929e1a7d8c4148cfc99f08e18737b610e176009719f31fa27325224956d5b"
     }
   ],
   "records": {

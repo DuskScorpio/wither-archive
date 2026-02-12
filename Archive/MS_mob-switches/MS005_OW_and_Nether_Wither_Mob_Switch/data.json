@@ -75,7 +75,8 @@
         "type": "unknown",
         "username": "alvarorc"
       },
-      "timestamp": 1753282234000
+      "timestamp": 1753282234000,
+      "hash": "ec4de094ea959282f6bd8f6611cc9003eada4f891b8388aba7c19c0e3f0552c8"
     },
     {
       "id": "O7TCNGuFPQQ",
@@ -100,7 +101,8 @@
         "type": "unknown",
         "username": "alvarorc"
       },
-      "timestamp": 1753282234000
+      "timestamp": 1753282234000,
+      "hash": "c82817134af65237fb3fecbfe0f15d94394f86e24458096f6660b56d1686df55"
     },
     {
       "id": "1397409188334014554",
@@ -119,7 +121,8 @@
         "type": "unknown",
         "username": "alvarorc"
       },
-      "timestamp": 1753282234000
+      "timestamp": 1753282234000,
+      "hash": "42d8a14037bc29fc9a795c42076a0628f22ac67e10cd4ef219cfd61cbb024aa4"
     },
     {
       "id": "1397409210450313246",
@@ -138,7 +141,8 @@
         "type": "unknown",
         "username": "alvarorc"
       },
-      "timestamp": 1753282234000
+      "timestamp": 1753282234000,
+      "hash": "8b44a537e684831bf95f00d51a6a0f4036c35e274b0c2f003d94fd8f005a0933"
     }
   ],
   "records": {

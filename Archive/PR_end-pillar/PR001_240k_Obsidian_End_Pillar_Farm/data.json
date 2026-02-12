@@ -107,7 +107,8 @@
           "version": "1.17.1",
           "levelName": "Massive Obsidian Farm"
         }
-      ]
+      ],
+      "hash": "11a480479d4780c762b1e2978217343684349f3702b84fdc6f5354c0aeea3fc5"
     },
     {
       "id": "915273653023817768",
@@ -134,7 +135,8 @@
           "version": "1.17.1",
           "levelName": "Small Obsidian Farm"
         }
-      ]
+      ],
+      "hash": "26f93c5b9b5dd52b58b22133ce0d17866e6b1a50f0448b681df98ab7071a2220"
     },
     {
       "id": "rZFl9sjoluw",
@@ -159,7 +161,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751950073000
+      "timestamp": 1751950073000,
+      "hash": "89868a790f8fc25f7bb17f262c67681055b0bb21cbfc585b1334e20a44fa4ef0"
     }
   ],
   "records": {

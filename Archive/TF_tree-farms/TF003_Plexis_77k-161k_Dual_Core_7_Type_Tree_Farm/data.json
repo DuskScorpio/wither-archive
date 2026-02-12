@@ -74,7 +74,8 @@
       "description": "Figure 1",
       "canDownload": true,
       "path": "attachments/TF003_image.png",
-      "size": 70893
+      "size": 70893,
+      "hash": "de442c43077b86018c0f55f14536dd7c9984a419ac9acdd8ebb7b36e5520d3fa"
     },
     {
       "id": "1465048728397414533",
@@ -93,7 +94,8 @@
       "description": "Wither variant",
       "canDownload": true,
       "path": "attachments/TF003_Archive.zip",
-      "size": 50816
+      "size": 50816,
+      "hash": "e8c89ba216de56cdd7d8df2115d0d965488dde4efbaeeb0c1ab02e48589127e9"
     },
     {
       "id": "1389222521122848778",
@@ -116,7 +118,8 @@
       "litematic": {
         "size": "34x34x27",
         "version": "1.20.4"
-      }
+      },
+      "hash": "e8e148aa44d1598dc9e1684f2a84816464e05f0af191ed6ee5c663c6ed95cdde"
     },
     {
       "id": "1389222520728588390",
@@ -145,7 +148,8 @@
       ],
       "wdl": {
         "version": "1.20.4"
-      }
+      },
+      "hash": "7e6115cce9b97c57618ee360b544e8de25832908a511c3e36101d0917f8c3f4e"
     }
   ],
   "records": {

@@ -76,7 +76,8 @@
           "version": "1.15.2",
           "levelName": "tiny concrete converter"
         }
-      ]
+      ],
+      "hash": "9d152077bf9ddf2d1417114f6fb809a352e11f67d9719f4ad8d113d40829b295"
     },
     {
       "id": "1001213795332538459",
@@ -96,7 +97,8 @@
         "username": "scorpio03"
       },
       "timestamp": 1751957026000,
-      "size": 2243
+      "size": 2243,
+      "hash": "a0fe5610c938a7639c0bb0acf4e295215659e33f92e3900b7501a37be34af946"
     },
     {
       "id": "IayHBn_AEWA",
@@ -121,7 +123,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751957026000
+      "timestamp": 1751957026000,
+      "hash": "86b3564662980bd88ac4f0adcc2763d80df8b98f47353fb63786bf32cef2c968"
     }
   ],
   "records": {

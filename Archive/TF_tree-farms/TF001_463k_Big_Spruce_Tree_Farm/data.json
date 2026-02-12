@@ -90,7 +90,8 @@
           "version": "1.21",
           "levelName": "Scorpio Big Spruce 1.21+"
         }
-      ]
+      ],
+      "hash": "8a21771f74822c1b15c8a5dd2dde4445c0becbb9a26c641e0a31b8f8fd727bf3"
     },
     {
       "id": "1464773039827714151",
@@ -113,7 +114,8 @@
       "litematic": {
         "size": "26x37x23",
         "version": "1.18.2"
-      }
+      },
+      "hash": "59c1e0189999ffa1f41817bf9b5b5cbd1a7f48f5d71326b399d27aba9cf281fa"
     },
     {
       "id": "1464773039601488087",
@@ -136,7 +138,8 @@
       "litematic": {
         "size": "26x37x23",
         "version": "1.21"
-      }
+      },
+      "hash": "09050dc5bd5f880a4ede9192ea66ee8c92c9b4e632c10d0b9eb89fc800d7d50e"
     },
     {
       "id": "1464773040331296880",
@@ -159,7 +162,8 @@
       "litematic": {
         "size": "18x35x31",
         "version": "1.18.2"
-      }
+      },
+      "hash": "6f7facb512646988a5f9877b6748fe9194e54fc97867cc3cfd492088925b104d"
     },
     {
       "id": "1464773040050016433",
@@ -182,7 +186,8 @@
       "litematic": {
         "size": "18x35x31",
         "version": "1.21"
-      }
+      },
+      "hash": "250e819afa1fa76f087008b8c883bb965c32d7e497cd1976fcc3fbaf35c505db"
     },
     {
       "id": "1464773039303430318",
@@ -205,7 +210,8 @@
       "litematic": {
         "size": "14x35x14",
         "version": "1.18.2"
-      }
+      },
+      "hash": "06483c3dd90023bac8a67d087631322b9ad077646613cb254c2e71aabf73ec9a"
     },
     {
       "id": "1320219734926430340",
@@ -224,7 +230,8 @@
       "description": "Figure 1",
       "canDownload": true,
       "path": "attachments/TF001_image.png",
-      "size": 663733
+      "size": 663733,
+      "hash": "f1926031c77d86491508c507a341a920cea74654f6134f53b96018eba4bf76c4"
     },
     {
       "id": "1279671264646139996",
@@ -243,7 +250,8 @@
       "description": "Figure 2",
       "canDownload": true,
       "path": "attachments/TF001_image_1.png",
-      "size": 419984
+      "size": 419984,
+      "hash": "e4e37efd0d8f23fee80bb6b03bdf189aa98a929f991b9e7a5a0e3c96dd022863"
     }
   ],
   "records": {

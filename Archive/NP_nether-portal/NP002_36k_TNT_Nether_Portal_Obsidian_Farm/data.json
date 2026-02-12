@@ -110,7 +110,8 @@
       "description": "Figure 1",
       "canDownload": true,
       "path": "attachments/NP002_Figure_1.png",
-      "size": 326806
+      "size": 326806,
+      "hash": "f480562a744c66a35f1e1a8db10cc0706501694874577a494fc9732388c008b0"
     },
     {
       "id": "1377853079176872016",
@@ -129,7 +130,8 @@
       "description": "Figure 2",
       "canDownload": true,
       "path": "attachments/NP002_Figure_2.png",
-      "size": 111744
+      "size": 111744,
+      "hash": "da2536c87e7bdb2d5fcf7d885bbcb981248aedbe39b69b9f6be3180220d35c0d"
     },
     {
       "id": "1466643840172822669",
@@ -148,7 +150,8 @@
       "description": "Figure 3",
       "canDownload": true,
       "path": "attachments/NP002_Figure_3.mp4",
-      "size": 196441720
+      "size": 196441720,
+      "hash": "565886f5f896740016dda11d0ab056e7b40589e70708462eddee1482f184ec13"
     },
     {
       "id": "1453461935390720251",
@@ -171,7 +174,8 @@
       "litematic": {
         "size": "7x5x6",
         "version": "1.21.10"
-      }
+      },
+      "hash": "fd102acba507d52402d09adbf572e0ff88a61b56cbdb818200a6dfa9e2fda57f"
     },
     {
       "id": "1466705067330637945",
@@ -194,7 +198,8 @@
       "litematic": {
         "size": "16x18x10",
         "version": "1.21.10"
-      }
+      },
+      "hash": "92fd5718c22c9794e248aef4866e78d0673409a5aea245c6fb4aa3b3e3eed273"
     },
     {
       "id": "1466705067636948992",
@@ -217,7 +222,8 @@
       "litematic": {
         "size": "16x18x10",
         "version": "1.21.10"
-      }
+      },
+      "hash": "bb16fca2c3d0b4987344b5144067bbbde3eb7a4b60520f80fadcf0819a749335"
     },
     {
       "id": "1466705067934613574",
@@ -246,7 +252,8 @@
       ],
       "wdl": {
         "version": "1.21.10"
-      }
+      },
+      "hash": "494de1908aaf04b97372b863b1d8db45c1549a233d437c55deee69e131b8448b"
     }
   ],
   "records": {

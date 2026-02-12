@@ -74,7 +74,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751943739000
+      "timestamp": 1751943739000,
+      "hash": "82a241df5371c1410fd6f8fd493bc700ae6964e49e5c053caa6030c7c45bcc24"
     },
     {
       "id": "1391977811509514280",
@@ -101,7 +102,8 @@
           "version": "1.15",
           "levelName": "wither mob switch 1.15+"
         }
-      ]
+      ],
+      "hash": "8a01a0ca8273bf98c443bb591fb7169b1df76c5d18cf65bd9425dc75a79ffe01"
     }
   ],
   "records": {
