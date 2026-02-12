@@ -68,7 +68,8 @@
       "canDownload": true,
       "width": 934,
       "height": 937,
-      "path": "images/Overworld_side.png"
+      "path": "images/Overworld_side.png",
+      "hash": "ad9c3183b2c933360dd439f6cfe6321226c7ad759338391871a763b63c9eea17"
     },
     {
       "id": "1380262575991685332",
@@ -89,7 +90,8 @@
       "width": 920,
       "height": 938,
       "size": 115462,
-      "path": "images/Nether_side.png"
+      "path": "images/Nether_side.png",
+      "hash": "f4be6b9fe06153b38b82b935ac963e39441ea974371d30271375b3837946fdfc"
     }
   ],
   "attachments": [

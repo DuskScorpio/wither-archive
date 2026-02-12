@@ -52,7 +52,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751962175000
+      "timestamp": 1751962175000,
+      "hash": "c926b2ed01290b5aceeccc1ee206163e7980433f3b78d45ec692f1d23ece9d70"
     },
     {
       "id": "1364894573419040798",
@@ -69,7 +70,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751962175000
+      "timestamp": 1751962175000,
+      "hash": "08790cef2245e0a7d21829c4a509da073253c1890ddac3a60ee667961904f24a"
     }
   ],
   "attachments": [

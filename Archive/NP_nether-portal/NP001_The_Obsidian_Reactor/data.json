@@ -52,7 +52,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751950671000
+      "timestamp": 1751950671000,
+      "hash": "ed2126c1c74503a8edb7b78f55539a655c256f59e8629c6c9b82f8e92b150e3d"
     },
     {
       "id": "942079951904059443",
@@ -69,7 +70,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751950671000
+      "timestamp": 1751950671000,
+      "hash": "f8c3710ecd3eb01cd659a484b77945652621e6ca342436867b8633eee78f3e9e"
     },
     {
       "id": "942079952378028142",
@@ -86,7 +88,8 @@
         "type": "unknown",
         "username": "scorpio03"
       },
-      "timestamp": 1751950671000
+      "timestamp": 1751950671000,
+      "hash": "b727ef7be3b2e474c395493e7e458aa2c66c8932213b2adb78ceab88967e6427"
     }
   ],
   "attachments": [
