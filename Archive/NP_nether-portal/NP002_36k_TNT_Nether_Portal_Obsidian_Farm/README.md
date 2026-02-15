@@ -56,7 +56,7 @@
 ### How to use
 1. Use the lever in Nether side toggle the farm.
 2. To keep it running, you either need to AFK at the Nether side or build a chunk loader to entity load the duper and TNTs.
-  - You can do this easily by building the netherside of the chunkloader about 16 blocks from the farm's nether portal. This will generate a new portal in the overworld you can build a chunkloader with. See https://discord.com/channels/1161803566265143306/1461927518880792721 (in [TMC Catalogue](https://discord.com/invite/tvpccRczWx)) for an easy chunkloader and refer to the world download for an example
+  - You can do this easily by building the netherside of the chunkloader about 16 blocks from the farm's nether portal. This will generate a new portal in the overworld you can build a chunkloader with. See https://discord.com/channels/1161803566265143306/1461927518880792721 for an easy chunkloader and refer to the world download for an example
 
 ## Other Images
 <img src="images/Nether_side.png?raw=1" height="300px">
