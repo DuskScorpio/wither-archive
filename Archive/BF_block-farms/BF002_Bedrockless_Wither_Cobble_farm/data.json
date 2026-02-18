@@ -54,31 +54,10 @@
   ],
   "attachments": [
     {
-      "id": "1333141828404510720",
-      "name": "BF002_Cobble_farm_1.21_61k.litematic",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/913066205575798804/1333141828404510720/Cobble_farm_1.21_61k.litematic?ex=686eb514&is=686d6394&hm=850afbdd905566fa8567b4af37f4d84f16f650ac7ff8dc64c87ae66539cf2ba5&",
-      "description": "original file",
-      "canDownload": true,
-      "path": "attachments/BF002_Cobble_farm_1.21_61k.litematic",
-      "litematic": {
-        "size": "17x13x11",
-        "version": "1.21"
-      },
-      "source": "URLInMessage",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1752041173000,
-      "size": 3308,
-      "hash": "5057a11bbba179c0c8f6e6856bc95e74fd05be47d050bd48b8e4ce500f4a8767"
-    },
-    {
       "id": "1469648993955872859",
       "name": "BF002_Cobble_Farm_1.21_61k.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1392386133849276416/1469648993955872859/Cobble_Farm_1.21_61k.litematic?ex=69891588&is=6987c408&hm=87011616d7b242965b07b4941aa36af588f7c6dfbf966c6bc6d17fb132c19742&",
+      "url": "https://cdn.discordapp.com/attachments/1392386133849276416/1469648993955872859/Cobble_Farm_1.21_61k.litematic?ex=6996ed48&is=69959bc8&hm=4f05ec1e587b72d2f074edace0678fe502cbc7fde73ffc6a9aa7e7f81d2f4ee3&",
       "timestamp": 1770462024914,
       "author": {
         "type": "discord-in-guild",
@@ -88,10 +67,35 @@
         "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
       },
       "source": "MessageAttachment",
-      "description": "fixed",
+      "description": "",
       "size": 2984,
       "canDownload": true,
+      "hash": "5057a11bbba179c0c8f6e6856bc95e74fd05be47d050bd48b8e4ce500f4a8767",
       "path": "attachments/BF002_Cobble_Farm_1.21_61k.litematic",
+      "litematic": {
+        "size": "17x13x11",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1473775866562482297",
+      "name": "BF002_Cobble_Farm_1.21_61k_Fixed.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1392386133849276416/1473775866562482297/Cobble_Farm_1.21_61k_Fixed.litematic?ex=6997703c&is=69961ebc&hm=66ee4b4cfc884dde830984698f27ef0e65469280a49462470a8e1bb66a4d84c2&",
+      "timestamp": 1771445948110,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2984,
+      "canDownload": true,
+      "hash": "5057a11bbba179c0c8f6e6856bc95e74fd05be47d050bd48b8e4ce500f4a8767",
+      "path": "attachments/BF002_Cobble_Farm_1.21_61k_Fixed.litematic",
       "litematic": {
         "size": "17x13x11",
         "version": "1.21.11"
@@ -118,9 +122,9 @@
       "1392949103792750769"
     ],
     "threadURL": "https://discord.com/channels/913065809096638494/1392949100902748193",
-    "uploadMessageId": "1469975425160839212"
+    "uploadMessageId": "1473775978260988151"
   },
   "archivedAt": 1752175344840,
-  "updatedAt": 1770539851177,
+  "updatedAt": 1771445973775,
   "num_comments": 0
 }
