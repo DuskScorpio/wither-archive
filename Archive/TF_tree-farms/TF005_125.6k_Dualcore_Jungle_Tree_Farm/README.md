@@ -27,5 +27,5 @@
 - Bonemeal unloaders and box loaders included
 
 ## Resources
-- [TF005_Dual_Core_Jungle_v2.litematic](attachments/TF005_Dual_Core_Jungle_v2.litematic): Error processing litematic file
+- [TF005_Dual_Core_Jungle_v2.litematic](attachments/TF005_Dual_Core_Jungle_v2.litematic): MC 1.12.2, Size 22x30x43 blocks
   - Litematic

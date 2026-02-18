@@ -78,7 +78,8 @@
         "username": "hunterofinfinity"
       },
       "timestamp": 1753069298000,
-      "hash": "b572a06f6e60833dfcae57a0151c39738a55f67f1233436e91af82dca6964206"
+      "hash": "b572a06f6e60833dfcae57a0151c39738a55f67f1233436e91af82dca6964206",
+      "size": 1220
     },
     {
       "id": "1396698610959122483",
@@ -98,7 +99,8 @@
         "username": "hunterofinfinity"
       },
       "timestamp": 1753069298000,
-      "hash": "89243ed22b10d5684c26bf3a6244de9e30d45e8c8b2ec05f72f04013d95ef51d"
+      "hash": "89243ed22b10d5684c26bf3a6244de9e30d45e8c8b2ec05f72f04013d95ef51d",
+      "size": 3356
     }
   ],
   "records": {

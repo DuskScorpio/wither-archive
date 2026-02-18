@@ -75,7 +75,8 @@
         "username": "seminoso"
       },
       "timestamp": 1760977310000,
-      "hash": "adda75855b092ee52c957653ee930426f727868c107de2419663169ce6025779"
+      "hash": "adda75855b092ee52c957653ee930426f727868c107de2419663169ce6025779",
+      "size": 1573
     },
     {
       "id": "1432004624306409534",
@@ -95,7 +96,8 @@
         "username": "seminoso"
       },
       "timestamp": 1761486907000,
-      "hash": "815b8efc63727f8383ea9f5b95e0f84cb050bc1f64e89164b5f2fd46630db253"
+      "hash": "815b8efc63727f8383ea9f5b95e0f84cb050bc1f64e89164b5f2fd46630db253",
+      "size": 1423
     },
     {
       "id": "1432004417619628052",
@@ -111,7 +113,8 @@
         "username": "seminoso"
       },
       "timestamp": 1761486858000,
-      "hash": "6eda8d1cfe77c0eb17b67328cb3fd2e651156d64b03db694b9a23f332e40c5b9"
+      "hash": "6eda8d1cfe77c0eb17b67328cb3fd2e651156d64b03db694b9a23f332e40c5b9",
+      "size": 7357628
     },
     {
       "id": "1432004416470515763",
@@ -127,7 +130,12 @@
         "username": "seminoso"
       },
       "timestamp": 1761486858000,
-      "hash": "285929e1a7d8c4148cfc99f08e18737b610e176009719f31fa27325224956d5b"
+      "hash": "285929e1a7d8c4148cfc99f08e18737b610e176009719f31fa27325224956d5b",
+      "size": 163876,
+      "image": {
+        "width": 1920,
+        "height": 1081
+      }
     }
   ],
   "records": {

@@ -232,7 +232,11 @@
       "canDownload": true,
       "path": "attachments/TF001_image.png",
       "size": 663733,
-      "hash": "f1926031c77d86491508c507a341a920cea74654f6134f53b96018eba4bf76c4"
+      "hash": "f1926031c77d86491508c507a341a920cea74654f6134f53b96018eba4bf76c4",
+      "image": {
+        "width": 1920,
+        "height": 1080
+      }
     },
     {
       "id": "1279671264646139996",
@@ -252,7 +256,11 @@
       "canDownload": true,
       "path": "attachments/TF001_image_1.png",
       "size": 419984,
-      "hash": "e4e37efd0d8f23fee80bb6b03bdf189aa98a929f991b9e7a5a0e3c96dd022863"
+      "hash": "e4e37efd0d8f23fee80bb6b03bdf189aa98a929f991b9e7a5a0e3c96dd022863",
+      "image": {
+        "width": 1920,
+        "height": 1080
+      }
     }
   ],
   "records": {

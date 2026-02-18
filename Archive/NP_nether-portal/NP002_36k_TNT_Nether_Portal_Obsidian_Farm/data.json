@@ -113,7 +113,11 @@
       "canDownload": true,
       "path": "attachments/NP002_Figure_1.png",
       "size": 326806,
-      "hash": "f480562a744c66a35f1e1a8db10cc0706501694874577a494fc9732388c008b0"
+      "hash": "f480562a744c66a35f1e1a8db10cc0706501694874577a494fc9732388c008b0",
+      "image": {
+        "width": 2552,
+        "height": 898
+      }
     },
     {
       "id": "1377853079176872016",
@@ -133,7 +137,11 @@
       "canDownload": true,
       "path": "attachments/NP002_Figure_2.png",
       "size": 111744,
-      "hash": "da2536c87e7bdb2d5fcf7d885bbcb981248aedbe39b69b9f6be3180220d35c0d"
+      "hash": "da2536c87e7bdb2d5fcf7d885bbcb981248aedbe39b69b9f6be3180220d35c0d",
+      "image": {
+        "width": 1000,
+        "height": 1000
+      }
     },
     {
       "id": "1466643840172822669",

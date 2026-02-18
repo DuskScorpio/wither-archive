@@ -71,7 +71,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767113541000,
-      "hash": "bd26afeee02a41bb90fdd6ac81f5ba5eb5adf991a03361b7b54e1c9d75dbaed8"
+      "hash": "bd26afeee02a41bb90fdd6ac81f5ba5eb5adf991a03361b7b54e1c9d75dbaed8",
+      "size": 2693
     },
     {
       "id": "1455604438898053261",
@@ -91,7 +92,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767113541000,
-      "hash": "8f9532e11e23882ff6d5024c519b1950970098f020cf374ceb2ec57b29e70c75"
+      "hash": "8f9532e11e23882ff6d5024c519b1950970098f020cf374ceb2ec57b29e70c75",
+      "size": 1980
     },
     {
       "id": "1455604440752197632",
@@ -107,7 +109,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767113541000,
-      "hash": "1f09a4b15fa92f7bbc905d996a04fd4d7057fc2b9eada9cfd63dc8bb33d4f4ca"
+      "hash": "1f09a4b15fa92f7bbc905d996a04fd4d7057fc2b9eada9cfd63dc8bb33d4f4ca",
+      "size": 7482734
     },
     {
       "id": "1455604439221010504",
@@ -127,7 +130,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767113541000,
-      "hash": "8004c23a28cfa571708c6b4989b6ba5158744bd34e6c5f9cd17565b43699a76e"
+      "hash": "8004c23a28cfa571708c6b4989b6ba5158744bd34e6c5f9cd17565b43699a76e",
+      "size": 2715
     },
     {
       "id": "1455604440286498922",
@@ -143,7 +147,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767113541000,
-      "hash": "3cdd010106701236deaa075cb1dc296e28161b7cd0f6c11775d00d816167ecb6"
+      "hash": "3cdd010106701236deaa075cb1dc296e28161b7cd0f6c11775d00d816167ecb6",
+      "size": 7162946
     }
   ],
   "records": {

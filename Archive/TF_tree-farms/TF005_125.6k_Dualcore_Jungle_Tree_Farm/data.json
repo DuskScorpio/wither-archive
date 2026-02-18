@@ -75,7 +75,8 @@
       "path": "attachments/TF005_Dual_Core_Jungle_v2.litematic",
       "size": 13324,
       "litematic": {
-        "error": "Error processing litematic file"
+        "size": "22x30x43",
+        "version": "1.12.2"
       },
       "hash": "05c5fb0ce1a3f3e2a805b4ef69db00c3289f0c6344a83f9fc8c569ef7c28e2c9"
     }

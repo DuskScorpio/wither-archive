@@ -107,7 +107,11 @@
       "canDownload": true,
       "path": "attachments/TF002_image.png",
       "size": 421444,
-      "hash": "952db579bcc1275598e3dcd5d1093329be89be05b30151d0926e56e09f6db6c0"
+      "hash": "952db579bcc1275598e3dcd5d1093329be89be05b30151d0926e56e09f6db6c0",
+      "image": {
+        "width": 1920,
+        "height": 1080
+      }
     },
     {
       "id": "1333821896621424672",
@@ -127,7 +131,11 @@
       "canDownload": true,
       "path": "attachments/TF002_Screenshot_2025-01-27_043631.png",
       "size": 597833,
-      "hash": "a83f18747661baeacb49bead73c0afc7a2c3a4bd547bb1e78920b016ebaa22a1"
+      "hash": "a83f18747661baeacb49bead73c0afc7a2c3a4bd547bb1e78920b016ebaa22a1",
+      "image": {
+        "width": 1919,
+        "height": 1079
+      }
     },
     {
       "id": "1464770191882715188",
@@ -250,7 +258,11 @@
       "canDownload": true,
       "path": "attachments/TF002_25k-36k_Compact_7_Type_Tree_Farm_PUTF__Figure_1.png",
       "size": 35759,
-      "hash": "3ba2e986d1ed4eb2db3a81ca8cd5113efaaad589c12cc4c9a0e13a14c74170f5"
+      "hash": "3ba2e986d1ed4eb2db3a81ca8cd5113efaaad589c12cc4c9a0e13a14c74170f5",
+      "image": {
+        "width": 1088,
+        "height": 427
+      }
     }
   ],
   "records": {

@@ -70,7 +70,8 @@
         "username": "scorpio03"
       },
       "timestamp": 1752073774000,
-      "hash": "0e7530143360dd038644189393581ba831a530c369623519470ea2ade0fa8e2d"
+      "hash": "0e7530143360dd038644189393581ba831a530c369623519470ea2ade0fa8e2d",
+      "size": 16423
     },
     {
       "id": "1392523079783026779",
@@ -90,7 +91,8 @@
         "username": "scorpio03"
       },
       "timestamp": 1752073774000,
-      "hash": "4ec3ce8c8ee188158c72aeef543e49bc39ef1f941155480562526668e42d55d1"
+      "hash": "4ec3ce8c8ee188158c72aeef543e49bc39ef1f941155480562526668e42d55d1",
+      "size": 2935
     }
   ],
   "records": {

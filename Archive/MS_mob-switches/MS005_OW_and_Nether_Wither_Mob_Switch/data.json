@@ -123,7 +123,8 @@
         "username": "alvarorc"
       },
       "timestamp": 1753282234000,
-      "hash": "42d8a14037bc29fc9a795c42076a0628f22ac67e10cd4ef219cfd61cbb024aa4"
+      "hash": "42d8a14037bc29fc9a795c42076a0628f22ac67e10cd4ef219cfd61cbb024aa4",
+      "size": 1373
     },
     {
       "id": "1397409210450313246",
@@ -143,7 +144,8 @@
         "username": "alvarorc"
       },
       "timestamp": 1753282234000,
-      "hash": "8b44a537e684831bf95f00d51a6a0f4036c35e274b0c2f003d94fd8f005a0933"
+      "hash": "8b44a537e684831bf95f00d51a6a0f4036c35e274b0c2f003d94fd8f005a0933",
+      "size": 1342
     }
   ],
   "records": {
