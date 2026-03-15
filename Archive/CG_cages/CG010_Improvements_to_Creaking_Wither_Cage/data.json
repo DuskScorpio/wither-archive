@@ -1,0 +1,142 @@
+{
+  "id": "1477635155396005992",
+  "name": "Improvements to Creaking Wither Cage",
+  "code": "CG010",
+  "reservedCodes": [
+    "CG010"
+  ],
+  "pastPostThreadIds": [
+    "1482784295868170335"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1222188029356150847",
+      "username": "seminoso",
+      "displayName": "Seminoso",
+      "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1481655138887139443",
+      "name": "area_render_37_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1477635155396005992/1481655138887139443/area_render_37_.png?ex=69b41a60&is=69b2c8e0&hm=6bd2e7c76ea0f7cacce0a57fbd6e0713f3aa33e416c3d8fc58df10ba93755a9f&",
+      "timestamp": 1773324513212,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1222188029356150847",
+        "username": "seminoso",
+        "displayName": "Seminoso",
+        "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 135997,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1015,
+      "path": "images/area_render_37_.png",
+      "hash": "b650e8054e73a729b6327d9a57d9b8dfb8c13cf397a44fc09c2236d0ad6c98e3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1481655543998189670",
+      "name": "CG010_Creaking_Wither_Cage_Summning.mp4",
+      "contentType": "video/mp4",
+      "url": "https://cdn.discordapp.com/attachments/1477635155396005992/1481655543998189670/Creaking_Wither_Cage_Summning.mp4?ex=69b41ac1&is=69b2c941&hm=802c8aaa3f5efd518bd3a733103e0d3ed22fe98580f9598b68e79f75cc2f36ee&",
+      "timestamp": 1773324609693,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1222188029356150847",
+        "username": "seminoso",
+        "displayName": "Seminoso",
+        "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6785601,
+      "canDownload": true,
+      "hash": "abf244463c3dd2d22df87eed5c519db5e8aa1279864565fbad15cedfdd1c80fa",
+      "path": "attachments/CG010_Creaking_Wither_Cage_Summning.mp4"
+    },
+    {
+      "id": "1481655140070068435",
+      "name": "CG010_Creaking_Wither_Cage.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1477635155396005992/1481655140070068435/Creaking_Wither_Cage.litematic?ex=69b41a61&is=69b2c8e1&hm=83237889ff9ad6d262eac4275dbb7acfdcd1e96e522515cfdde3593dd9e13fd5&",
+      "timestamp": 1773324513212,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1222188029356150847",
+        "username": "seminoso",
+        "displayName": "Seminoso",
+        "iconURL": "https://cdn.discordapp.com/avatars/1222188029356150847/736ca94237d040a95f3907f3c71cb16c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1581,
+      "canDownload": true,
+      "hash": "0daaa119532631d891802f14059f4d90d3cd27ac442fe1f65a9b87da7aebcc4d",
+      "path": "attachments/CG010_Creaking_Wither_Cage.litematic",
+      "litematic": {
+        "size": "12x6x3",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "A simple and compact wither cage that uses the Creaking to stop skulls shot from the main head.",
+    "versions": "1.21.5+",
+    "features": [
+      "Simple suffocation damaging system"
+    ],
+    "considerations": [
+      "Only works in the overworld"
+    ],
+    "additional-notes": "- Nametag the creaking\n- Blocks should be pushed in the center only from behind"
+  },
+  "styles": {
+    "additional-notes": {
+      "depth": 2,
+      "headerText": "Additional notes"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1482784295868170335",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1482784308933693620",
+      "1482784311626432674"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1482784295868170335",
+    "uploadMessageId": "1482784290927542414",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1482784295868170335/1482784302897823810/area_render_37_.png?ex=69b835fe&is=69b6e47e&hm=dbfa4f9d3e9701201816cf216f38deb8f7937e9fadac1acdf2de27efd3ee7d91&"
+  },
+  "archivedAt": 1773593721626,
+  "updatedAt": 1773593721626,
+  "num_comments": 0
+}
