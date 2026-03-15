@@ -1,6 +1,6 @@
 {
   "id": "1477635155396005992",
-  "name": "Improvements to Creaking Wither Cage",
+  "name": "Creaking Wither Cage",
   "code": "CG010",
   "reservedCodes": [
     "CG010"
@@ -137,6 +137,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1482784295868170335/1482784302897823810/area_render_37_.png?ex=69b835fe&is=69b6e47e&hm=dbfa4f9d3e9701201816cf216f38deb8f7937e9fadac1acdf2de27efd3ee7d91&"
   },
   "archivedAt": 1773593721626,
-  "updatedAt": 1773593721626,
+  "updatedAt": 1773597122215,
   "num_comments": 0
 }

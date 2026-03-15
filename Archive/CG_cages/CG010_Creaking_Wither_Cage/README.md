@@ -1,4 +1,4 @@
-# Improvements to Creaking Wither Cage
+# Creaking Wither Cage
 <img alt="area_render_37_.png" src="images/area_render_37_.png?raw=1" height="300px">
 
 **Authors:** *Seminoso*
