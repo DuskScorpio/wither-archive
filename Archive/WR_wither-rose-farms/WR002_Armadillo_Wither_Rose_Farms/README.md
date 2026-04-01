@@ -1,7 +1,7 @@
 # Armadillo Wither Rose Farms
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *booty, Sam.*
+**Authors:** *booty, Emdy*
 
 **Endorsed by:** *Scorpio*
 
@@ -12,7 +12,7 @@
 A simple and advanced armadillo-based wither rose farm.
 ## Designers
 - booty
-- Sam.: Storage help, autobrewer
+- Emdy: Storage help, autobrewer
 ## Credits
 - redstonia_: Armadillo alignment
 - Scorpio: Box loaders
