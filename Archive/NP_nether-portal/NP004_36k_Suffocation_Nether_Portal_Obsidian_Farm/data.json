@@ -172,9 +172,10 @@
     {
       "type": "userMention",
       "user": {
-        "type": "discord-external",
+        "type": "discord-in-guild",
         "id": "355889112215060480",
         "username": "magplum",
+        "displayName": "MagPlum",
         "iconURL": "https://cdn.discordapp.com/avatars/355889112215060480/b9f9e69ea5a43ff091a24acb5234022b.webp"
       },
       "matches": [
