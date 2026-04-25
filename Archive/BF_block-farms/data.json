@@ -4,7 +4,7 @@
   "code": "BF",
   "category": "OTHER FARMS",
   "description": "Block farms",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1392034753632534669",
@@ -35,6 +35,11 @@
       "id": "1476968091479965716",
       "code": "BF006",
       "path": "BF006_Cobble_Cage_Compact_Reactive_Wither_Cobble_Farm"
+    },
+    {
+      "id": "1481680952374726727",
+      "code": "BF007",
+      "path": "BF007_Bedrockless_Snow_Block_Farm"
     }
   ]
 }
