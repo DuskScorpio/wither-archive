@@ -14,7 +14,7 @@
 - bfladderbean: Bottom layout
 - Menggui233: TNT explosion point
 - [XJH_Horhai](<https://space.bilibili.com/62062732>): TNT block stream layout
-- Petris: TNT blast chamber help
+- OGURI_CAP: TNT blast chamber help
 ## Versions
 - 1.16+
 ## Rates
