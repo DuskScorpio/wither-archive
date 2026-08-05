@@ -1,0 +1,145 @@
+{
+  "id": "1532219418208108544",
+  "name": "team109's cages (v4)",
+  "code": "CG011",
+  "reservedCodes": [
+    "CG011"
+  ],
+  "pastPostThreadIds": [
+    "1534634732086759586"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1228300218240340030",
+      "username": "team109__",
+      "displayName": "team109",
+      "iconURL": "https://cdn.discordapp.com/avatars/1228300218240340030/7830b231da3e156416fa45c9aa9459fc.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "username": "scorpio03",
+      "displayName": "Scorpio",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1391846575193591955",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1392716156216807477",
+      "name": "Bedrockless Cage"
+    }
+  ],
+  "images": [
+    {
+      "id": "1532572207870382260",
+      "name": "item.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1532219418208108544/1532572207870382260/item.png?ex=6a6d5698&is=6a6c0518&hm=93b40a62a74c333f8bf83af796a555adc7ca2e705430d57dcd7d395e4d272dd1&",
+      "timestamp": 1785464088232,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1228300218240340030",
+        "username": "team109__",
+        "displayName": "team109",
+        "iconURL": "https://cdn.discordapp.com/avatars/1228300218240340030/7830b231da3e156416fa45c9aa9459fc.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 267215,
+      "canDownload": true,
+      "width": 1200,
+      "height": 756,
+      "path": "images/item.png",
+      "hash": "811fb94fe76cdcf83d79b7c834a254168a20d48dce7b8f99167dbf93e5429529",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1532219418208108544/1532574079398183153/1532572207870382260-item.png?ex=6a6d5856&is=6a6c06d6&hm=6fcdcaa109f7774158feba903a702272bfb41db684ad78155e2e9f123b68e967&"
+    },
+    {
+      "id": "1532572207518056448",
+      "name": "xp.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1532219418208108544/1532572207518056448/xp.png?ex=6a6d5698&is=6a6c0518&hm=cfc92c13b3759dbd1c32e2ec0aa247c3c7f7dd19272c929304d8c36004818e2e&",
+      "timestamp": 1785464088232,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1228300218240340030",
+        "username": "team109__",
+        "displayName": "team109",
+        "iconURL": "https://cdn.discordapp.com/avatars/1228300218240340030/7830b231da3e156416fa45c9aa9459fc.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 244206,
+      "canDownload": true,
+      "width": 1200,
+      "height": 728,
+      "path": "images/xp.png",
+      "hash": "64585e48861050a5ecef1bc92237bd3bbc04157d1415b5b6b53f38f7f7714d57",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1532219418208108544/1532574079641583746/1532572207518056448-xp.png?ex=6a6d5856&is=6a6c06d6&hm=e01e91f3982f150a50490e522cb74e60f5a8e1c893b5db69baf3f88556b93647&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1532219418350718986",
+      "name": "CG011_v4.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1532219418208108544/1532219418350718986/v4.zip?ex=6a6cb6c8&is=6a6b6548&hm=a1adde35c1aa1eecef9ddc64a3c3978897f1a0b7ee55f30165f2ddb2a7066d6c&",
+      "timestamp": 1785379976561,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1228300218240340030",
+        "username": "team109__",
+        "displayName": "team109",
+        "iconURL": "https://cdn.discordapp.com/avatars/1228300218240340030/7830b231da3e156416fa45c9aa9459fc.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 24151,
+      "canDownload": true,
+      "hash": "a32216a41ceb45b090384d464c9d9ff1b6a25b98cfb00709779aa7cfffd47325",
+      "path": "attachments/CG011_v4.zip"
+    }
+  ],
+  "records": {
+    "description": "team109's bedrockless creakingless snow-golem-less cages(v4).",
+    "versions": "1.21+. Compatibility unknown for lower versions.\nItem version: can break 27 blocks per wither every 20gt.\nXP version: can break 18 blocks per wither every 20gt.",
+    "rates": [
+      "collection rate: 100% for item, 99.975% for xp orb"
+    ],
+    "features": [
+      "Pressure-plate-based unload detector.",
+      "When the chicken is accidentally exposed, the black skulls from the main head will still be blocked."
+    ],
+    "considerations": [
+      "The schematics may not work in 1.21.3+. Check if the boat is pasted.",
+      "When you rotate the schematics, the direction of the boat may get wrong.",
+      "These are not issues with the design themselves.",
+      "Reload immediately after pasting."
+    ],
+    "notes": [
+      "Each design was tested for 10k+ hours and 10M+ reloads.",
+      "Allays can also be used instead of chickens. In that case, the raft should be placed 4 pixels higher."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1534634732086759586",
+    "forumId": "1391843089361928272",
+    "continuingMessageIds": [
+      "1534634743579148338"
+    ],
+    "threadURL": "https://discord.com/channels/913065809096638494/1534634732086759586",
+    "uploadMessageId": "1534634729163325501"
+  },
+  "archivedAt": 1785955830992,
+  "updatedAt": 1785955830992,
+  "num_comments": 0
+}

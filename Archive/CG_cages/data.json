@@ -4,7 +4,7 @@
   "code": "CG",
   "category": "MISC",
   "description": "Wither cages, damagers, and item collection solutions.",
-  "currentCodeId": 10,
+  "currentCodeId": 11,
   "entries": [
     {
       "id": "1391948715228528720",
@@ -50,6 +50,11 @@
       "id": "1477635155396005992",
       "code": "CG010",
       "path": "CG010_Creaking_Wither_Cage"
+    },
+    {
+      "id": "1532219418208108544",
+      "code": "CG011",
+      "path": "CG011_team109s_cages_v4"
     }
   ]
 }
