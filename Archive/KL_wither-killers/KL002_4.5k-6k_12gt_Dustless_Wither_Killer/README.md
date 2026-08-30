@@ -1,7 +1,7 @@
 # 4.5k-6k 12gt Dustless Wither Killer
 <img alt="unknown.png" src="images/unknown.png?raw=1" height="300px">
 
-**Authors:** *Markus, DatNerd*
+**Authors:** *markus2675, DatNerd*
 
 **Endorsed by:** *Scorpio*
 
