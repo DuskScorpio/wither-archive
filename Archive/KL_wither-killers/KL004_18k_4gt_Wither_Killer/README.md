@@ -1,7 +1,7 @@
 # 18k 4gt Wither Killer
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Scorpio*
 
